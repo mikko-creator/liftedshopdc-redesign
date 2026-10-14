@@ -102,6 +102,13 @@ run are listed in "Checks run" below.
   - Also fixed, found while checking this: on phones the Frequent Flyer card's single grid column grew to the email
     form's min-content (421px on a 298px card), pushing the title and the form off the right edge. This was in the
     first build too. The column is now `minmax(0, 1fr)`, and under 480px the button sits under the input.
+- **D14. The mobile menu's phone button is a normal button again** (revision 4, 2026-10-14, on the operator's
+  request).
+  - The menu's link rule `.mmenu a` out-ranked `.btn`, so the phone button in the menu footer took the nav links'
+    block display, lost its side padding and used the 1.3-1.9rem display face. The number sat left and the icon
+    dropped to a second line. The social icons took the extra padding too.
+  - The rule is now `.mmenu nav a`. At 390px the button is a 358 × 52px pill with the number and icon centred on one
+    line, and the social icons are 44px circles.
 - **Lanes.** Three parallel template lanes ran, each owning its own files (`liftoff.*`, `landing.*` and `archive.*`).
   Each lane checked its built pages for copy against the models and reported 0 missing strings:
   - liftoff: 1,270 strings across 56 pages, with a control;
