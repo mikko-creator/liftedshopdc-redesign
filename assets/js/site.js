@@ -265,14 +265,21 @@
     g.style.setProperty('--lc-drag', (px || 0) + 'px');
     if (!animate && !st.drag) { void g.offsetWidth; g.removeAttribute('data-lc-jump'); }
   }
-  // slide one card (next: -1 -> -2, prev: -1 -> 0), then rotate the order and jump back to rest: the same picture
-  function go(st, dir) {
-    if (st.busy || st.drag || !st.grid.isConnected) return;
-    var n = st.tiles.length;
+  // slide one card (next: -1 -> -2, prev: -1 -> 0), then rotate the order and jump back to rest: the same picture.
+  // A user step that lands mid-slide is queued, not dropped, and it holds autoplay off for a while.
+  function go(st, dir, user) {
+    if (user) st.lastUser = Date.now();
+    if (st.drag || !st.grid.isConnected) return;
+    if (st.busy) { if (user) st.pending = dir; return; }
     st.busy = true;
     shift(st, -1 - dir, 0, true);
+    settle(st, dir);
+  }
+  function settle(st, dir) {
+    var n = st.tiles.length;
     setTimeout(function () {
       st.start = (st.start + dir + n) % n; paint(st); shift(st, -1, 0, false); st.busy = false;
+      if (st.pending) { var p = st.pending; st.pending = 0; go(st, p); }
     }, DUR + 30);
   }
   function layout(st) {
@@ -296,7 +303,7 @@
     var tiles = tilesOf(g);
     if (tiles.length < 3) return null;
     var ac = new AbortController(), on = { signal: ac.signal };
-    var st = { grid: g, tiles: tiles, first: tiles[0], start: 0, vis: 4, busy: false, drag: null, dragged: false, hover: false, focus: false, seen: true, ac: ac };
+    var st = { grid: g, tiles: tiles, first: tiles[0], start: 0, vis: 4, busy: false, pending: 0, lastUser: 0, drag: null, dragged: false, hover: false, focus: false, seen: true, ac: ac };
     g.setAttribute('data-lc-rail', '');
     g.setAttribute('aria-roledescription', 'carousel');
     g.setAttribute('aria-label', 'Shop categories');
@@ -307,13 +314,13 @@
     st.nav.className = 'lc-cats-nav';
     st.nav.innerHTML = '<button class="lc-cats-nav__btn" type="button" data-dir="-1" aria-label="Previous category">' + LEFT + '</button>'
       + '<button class="lc-cats-nav__btn" type="button" data-dir="1" aria-label="Next category">' + RIGHT + '</button>';
-    st.nav.addEventListener('click', function (e) { var b = e.target.closest('button'); if (b) go(st, Number(b.getAttribute('data-dir'))); }, on);
+    st.nav.addEventListener('click', function (e) { var b = e.target.closest('button'); if (b) go(st, Number(b.getAttribute('data-dir')), true); }, on);
     mount.appendChild(st.nav);
     layout(st);
 
     /* drag / swipe: the row follows the pointer and re-seats whenever a whole card has passed, so it never runs out */
     g.addEventListener('pointerdown', function (e) {
-      st.dragged = false;
+      st.dragged = false; st.lastUser = Date.now();
       if (e.button !== 0 || st.busy) return;
       st.drag = { id: e.pointerId, x: e.clientX, y: e.clientY, dx: 0, live: false, tw: st.tiles[0].getBoundingClientRect().width || 1 };
     }, on);
@@ -335,10 +342,10 @@
       st.drag = null; g.removeAttribute('data-lc-dragging');
       if (!D.live) return;
       var dir = D.dx < -D.tw * 0.18 ? 1 : D.dx > D.tw * 0.18 ? -1 : 0;
+      st.lastUser = Date.now();
       if (!dir) { shift(st, -1, 0, true); return; }
-      var n = st.tiles.length;
       st.busy = true; shift(st, -1 - dir, 0, true);
-      setTimeout(function () { st.start = (st.start + dir + n) % n; paint(st); shift(st, -1, 0, false); st.busy = false; }, DUR + 30);
+      settle(st, dir);
     };
     g.addEventListener('pointerup', end, on);
     g.addEventListener('pointercancel', end, on);
@@ -351,7 +358,7 @@
 
     /* keyboard: arrows step; tabbing to a card outside the window brings it in */
     g.addEventListener('keydown', function (e) {
-      if (e.key === 'ArrowRight' || e.key === 'ArrowLeft') { e.preventDefault(); go(st, e.key === 'ArrowRight' ? 1 : -1); }
+      if (e.key === 'ArrowRight' || e.key === 'ArrowLeft') { e.preventDefault(); go(st, e.key === 'ArrowRight' ? 1 : -1, true); }
     }, on);
     g.addEventListener('focusin', function (e) {
       st.focus = true;
@@ -362,13 +369,14 @@
     }, on);
     g.addEventListener('focusout', function (e) { if (!g.contains(e.relatedTarget)) st.focus = false; }, on);
 
-    /* autoplay: pauses on hover, focus, drag, an off-screen grid and a hidden tab; off under reduced motion */
+    /* autoplay: pauses on hover, focus, drag, an off-screen grid and a hidden tab, and for 6s after any tap, swipe or
+       key (a phone has no hover to pause it); off under reduced motion */
     [g, st.nav].forEach(function (el) {
       el.addEventListener('pointerenter', function (e) { if (e.pointerType === 'mouse') st.hover = true; }, on);
       el.addEventListener('pointerleave', function (e) { if (e.pointerType === 'mouse') st.hover = false; }, on);
     });
     if ('IntersectionObserver' in w) { st.io = new IntersectionObserver(function (es) { st.seen = es[0].isIntersecting; }); st.io.observe(g); }
-    if (!reduce) st.timer = setInterval(function () { if (!st.hover && !st.focus && st.seen && !d.hidden) go(st, 1); }, AUTO);
+    if (!reduce) st.timer = setInterval(function () { if (!st.hover && !st.focus && st.seen && !d.hidden && Date.now() - st.lastUser > 6000) go(st, 1); }, AUTO);
 
     var relayout = function () { layout(st); };
     if ('ResizeObserver' in w) { st.ro = new ResizeObserver(relayout); st.ro.observe(g); if (mount.firstElementChild) st.ro.observe(mount.firstElementChild); }
