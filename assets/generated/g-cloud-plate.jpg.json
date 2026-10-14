@@ -1,0 +1,29 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "G-CLOUD-PLATE",
+  "file": "assets/generated/g-cloud-plate.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Lifted Shop (liftedshopdc.com), its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "Isolated soft white volumetric cumulus clouds floating against a pure black background, wispy feathered edges, gentle cool rim light, several cloud puffs spread across the frame, high detail photograph; nothing else in frame, no text, no stars, no ground",
+  "input": {
+    "aspect_ratio": "16:9",
+    "output_format": "jpeg",
+    "num_images": 1,
+    "enable_safety_checker": true,
+    "safety_tolerance": "5"
+  },
+  "seed": 3948141611,
+  "requestId": "01a137f5-6ca0-7c93-986f-410120726e53",
+  "cutout": null,
+  "width": 2752,
+  "height": 1536,
+  "sha256": "6b81a2d7129ed1aebc78873282a83896eced622c21a1e49a3af920d7fa51337b",
+  "raw": "tmp/img/raw/G-CLOUD-PLATE.1791940201485.jpg",
+  "attempt": 1,
+  "generatedAt": "2026-10-14T01:10:03.000Z",
+  "review": {
+    "verdict": "PENDING",
+    "reason": null
+  }
+}

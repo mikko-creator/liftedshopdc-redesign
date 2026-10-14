@@ -1,0 +1,307 @@
+{
+ "path": "/delivery/frederick-md/",
+ "url": "https://www.liftedshopdc.com/delivery/frederick-md/",
+ "kind": "page",
+ "head": {
+  "title": "Weed Delivery Frederick, MD",
+  "description": "Fast, discreet weed delivery in Frederick, MD. Lifted Shop delivers premium flower, edibles, and vapes same day across Frederick County.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://www.liftedshopdc.com/delivery/frederick-md/",
+  "og": {
+   "og:locale": "en_US",
+   "og:type": "article",
+   "og:title": "Weed Delivery Frederick, MD",
+   "og:description": "Fast, discreet weed delivery in Frederick, MD. Lifted Shop delivers premium flower, edibles, and vapes same day across Frederick County.",
+   "og:url": "https://www.liftedshopdc.com/delivery/frederick-md/",
+   "og:site_name": "LIFTED SHOP, DC",
+   "article:modified_time": "2026-05-25T16:20:48+00:00",
+   "twitter:card": "summary_large_image",
+   "twitter:label1": "Est. reading time",
+   "twitter:data1": "2 minutes"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "WebPage",
+      "@id": "https://www.liftedshopdc.com/delivery/frederick-md/",
+      "url": "https://www.liftedshopdc.com/delivery/frederick-md/",
+      "name": "Weed Delivery Frederick, MD",
+      "isPartOf": {
+       "@id": "https://www.liftedshopdc.com/#website"
+      },
+      "datePublished": "2025-11-12T20:36:44+00:00",
+      "dateModified": "2026-05-25T16:20:48+00:00",
+      "description": "Fast, discreet weed delivery in Frederick, MD. Lifted Shop delivers premium flower, edibles, and vapes same day across Frederick County.",
+      "breadcrumb": {
+       "@id": "https://www.liftedshopdc.com/delivery/frederick-md/#breadcrumb"
+      },
+      "inLanguage": "en-US",
+      "potentialAction": [
+       {
+        "@type": "ReadAction",
+        "target": [
+         "https://www.liftedshopdc.com/delivery/frederick-md/"
+        ]
+       }
+      ]
+     },
+     {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.liftedshopdc.com/delivery/frederick-md/#breadcrumb",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.liftedshopdc.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Delivery",
+        "item": "https://www.liftedshopdc.com/delivery/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Frederick, MD"
+       }
+      ]
+     },
+     {
+      "@type": "WebSite",
+      "@id": "https://www.liftedshopdc.com/#website",
+      "url": "https://www.liftedshopdc.com/",
+      "name": "LIFTED SHOP, DC",
+      "description": "",
+      "potentialAction": [
+       {
+        "@type": "SearchAction",
+        "target": {
+         "@type": "EntryPoint",
+         "urlTemplate": "https://www.liftedshopdc.com/?s={search_term_string}"
+        },
+        "query-input": {
+         "@type": "PropertyValueSpecification",
+         "valueRequired": true,
+         "valueName": "search_term_string"
+        }
+       }
+      ],
+      "inLanguage": "en-US"
+     }
+    ]
+   }
+  ]
+ },
+ "h1": "Weed Delivery Frederick, MD",
+ "docId": "4904",
+ "sections": [
+  {
+   "t": "group",
+   "id": "d3314ba",
+   "children": [
+    {
+     "t": "group",
+     "id": "d8d70ea",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h1",
+       "html": "Weed Delivery Frederick, MD",
+       "text": "Weed Delivery Frederick, MD"
+      },
+      {
+       "t": "text",
+       "html": "<p>If you’re looking for reliable weed delivery in Frederick, MD, Lifted Shop is your trusted local source for fast, discreet cannabis delivery. We make it easy to get premium flower, edibles, vapes, and concentrates brought directly to your home, no stress, no hassle, just top-quality cannabis delivered with care.</p>"
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "#orderdelivery"
+      }
+     ]
+    }
+   ],
+   "bg": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/feature-bg-3-1.jpg"
+  },
+  {
+   "t": "group",
+   "id": "57c1f0b",
+   "children": [
+    {
+     "t": "reviews",
+     "provider": "Trustindex (Google reviews)",
+     "summary": {
+      "label": "EXCELLENT",
+      "text": "EXCELLENT Based on 2410 reviews"
+     },
+     "items": [
+      {
+       "name": "Sherrene Donovan",
+       "date": "",
+       "stars": 5,
+       "text": "Great and quick service. Big fan of Burst and Devour gummies. Thank you Nancy for all your help!!!",
+       "source": "Google"
+      },
+      {
+       "name": "Muhammad ihram Pangestu",
+       "date": "",
+       "stars": 5,
+       "text": "Weed shop delivery to Irvine apartments near UCI was quick!",
+       "source": "Google"
+      },
+      {
+       "name": "Zachariah Bailey",
+       "date": "",
+       "stars": 5,
+       "text": "Smooth cannabis delivery to our Anaheim hotel, perfect for the Disney trip 😭",
+       "source": "Google"
+      },
+      {
+       "name": "Saidi Tumwa",
+       "date": "",
+       "stars": 5,
+       "text": "Mari and Mark are great! i appreciate the help they gave me",
+       "source": "Google"
+      },
+      {
+       "name": "Jennifer Turner",
+       "date": "",
+       "stars": 5,
+       "text": "Hiyab was very helpful a great bud tender",
+       "source": "Google"
+      },
+      {
+       "name": "Jamie Coleman",
+       "date": "",
+       "stars": 5,
+       "text": "I travel to DC every month for work and a buddy of mine told me about this shop; I called the shop and found out they only do delivery now (DC only has medical shops now) so I ordered from them a few times and on my most recent order, the delivery driver, JJ, was super friendly and helpful. Got my delivery within an hr of ordering and enjoyed some incredible \"high\" energy products before my flight home. Thanks!!",
+       "source": "Google"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "5d40ba6",
+   "children": [
+    {
+     "t": "store",
+     "provider": "ecwid",
+     "storeId": "125946269"
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "ebbfbc2",
+   "children": [
+    {
+     "t": "group",
+     "id": "ef676b9",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "Why Choose Lifted Shop for Weed Delivery in Frederick?",
+       "text": "Why Choose Lifted Shop for Weed Delivery in Frederick?"
+      },
+      {
+       "t": "text",
+       "html": "<p><strong>1. Fast &amp; Reliable Service: </strong>We know convenience matters. That’s why our local delivery team works 7 days a week to ensure your order arrives quickly and discreetly.</p><p><strong>2. Premium Cannabis Selection: </strong>From exotic flower strains to potent concentrates, Lifted Shop offers a carefully curated menu of cannabis products:</p><ul><li><strong>Flower:</strong> Indica, Sativa, and hybrid strains for any occasion.</li><li><strong>Pre-Rolls &amp; Vapes:</strong> Smooth, easy, and ready-to-enjoy options.</li><li><strong>Edibles &amp; Gummies:</strong> Flavorful, precisely dosed treats.</li><li><strong>Carts &amp; Concentrates:</strong> High-potency products for experienced users.</li></ul><p><strong>3. Trusted Local Experts: </strong>Our knowledgeable staff ensures every product meets Maryland’s safety and quality standards. You can count on transparent service and friendly support from real people who care about your experience.</p>"
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "/shop/"
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "f673334",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "Same-Day Weed Delivery in Frederick, MD",
+       "text": "Same-Day Weed Delivery in Frederick, MD"
+      },
+      {
+       "t": "text",
+       "html": "<p>Lifted Shop proudly serves Frederick and nearby communities with same-day cannabis delivery. Whether you’re winding down after work, getting ready for a weekend get-together, or restocking your favorite products, we bring the dispensary experience straight to your door.</p>"
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "/shop/"
+      },
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "How Weed Delivery Works in Frederick, Maryland",
+       "text": "How Weed Delivery Works in Frederick, Maryland"
+      },
+      {
+       "t": "text",
+       "html": "<ol><li>Browse our online menu to see the latest deals and top-selling products.</li><li>Add your favorite cannabis items to your cart.</li><li>Confirm your order online or call to finalize delivery details.</li><li>Have your valid ID ready when our driver arrives.</li><li>Enjoy premium cannabis, delivered right to your door.</li></ol><p>All customers must be <strong>21 or older</strong> with a valid ID.</p>"
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "/shop/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "c5a8017",
+   "children": [
+    {
+     "t": "heading",
+     "level": "h2",
+     "html": "Experience Frederick’s Most Reliable Weed Delivery",
+     "text": "Experience Frederick’s Most Reliable Weed Delivery"
+    },
+    {
+     "t": "text",
+     "html": "<p>When it comes to quality, speed, and trust, Lifted Shop is Frederick’s go-to source for premium cannabis delivery. We combine convenience with care, offering products that fit your lifestyle and elevate your experience.</p><p>You can order online or call <a href=\"tel:7712161684\">(771) 216-1684</a> to place an order today and discover why Frederick residents choose <a href=\"/\">Lifted Shop</a> for their weed delivery needs.</p>"
+    },
+    {
+     "t": "heading",
+     "level": "h2",
+     "html": "Serving Frederick and Beyond",
+     "text": "Serving Frederick and Beyond"
+    },
+    {
+     "t": "text",
+     "html": "<p>Lifted Shop delivers across Frederick County, including Urbana, Walkersville, and Middletown, with professional, friendly service every time. We’re committed to helping you enjoy safe, convenient cannabis access wherever you are.</p>"
+    },
+    {
+     "t": "button",
+     "text": "ORDER DELIVERY",
+     "href": "/shop/"
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "c9501d3",
+   "children": [
+    {
+     "t": "map",
+     "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d49300.418229273404!2d-77.45297408092179!3d39.44049025248494!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c9c50c8cbdaee3%3A0xda6247bdbd111c99!2sFrederick%2C%20MD!5e0!3m2!1sen!2sus!4v1762979194895!5m2!1sen!2sus",
+     "title": ""
+    }
+   ]
+  }
+ ],
+ "archive": null,
+ "unknownWidgets": []
+}

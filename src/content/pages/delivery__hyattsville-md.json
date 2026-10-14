@@ -1,0 +1,276 @@
+{
+ "path": "/delivery/hyattsville-md/",
+ "url": "https://www.liftedshopdc.com/delivery/hyattsville-md/",
+ "kind": "page",
+ "head": {
+  "title": "Weed Delivery Hyattsville, MD",
+  "description": "Same-day weed delivery in Hyattsville, MD. Lifted Shop brings premium cannabis, edibles, and vapes straight to your door.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://www.liftedshopdc.com/delivery/hyattsville-md/",
+  "og": {
+   "og:locale": "en_US",
+   "og:type": "article",
+   "og:title": "Weed Delivery Hyattsville, MD",
+   "og:description": "Same-day weed delivery in Hyattsville, MD. Lifted Shop brings premium cannabis, edibles, and vapes straight to your door.",
+   "og:url": "https://www.liftedshopdc.com/delivery/hyattsville-md/",
+   "og:site_name": "LIFTED SHOP, DC",
+   "article:modified_time": "2026-05-25T16:20:44+00:00",
+   "twitter:card": "summary_large_image",
+   "twitter:label1": "Est. reading time",
+   "twitter:data1": "2 minutes"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "WebPage",
+      "@id": "https://www.liftedshopdc.com/delivery/hyattsville-md/",
+      "url": "https://www.liftedshopdc.com/delivery/hyattsville-md/",
+      "name": "Weed Delivery Hyattsville, MD",
+      "isPartOf": {
+       "@id": "https://www.liftedshopdc.com/#website"
+      },
+      "datePublished": "2025-11-12T20:07:34+00:00",
+      "dateModified": "2026-05-25T16:20:44+00:00",
+      "description": "Same-day weed delivery in Hyattsville, MD. Lifted Shop brings premium cannabis, edibles, and vapes straight to your door.",
+      "breadcrumb": {
+       "@id": "https://www.liftedshopdc.com/delivery/hyattsville-md/#breadcrumb"
+      },
+      "inLanguage": "en-US",
+      "potentialAction": [
+       {
+        "@type": "ReadAction",
+        "target": [
+         "https://www.liftedshopdc.com/delivery/hyattsville-md/"
+        ]
+       }
+      ]
+     },
+     {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.liftedshopdc.com/delivery/hyattsville-md/#breadcrumb",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.liftedshopdc.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Delivery",
+        "item": "https://www.liftedshopdc.com/delivery/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Hyattsville, MD"
+       }
+      ]
+     },
+     {
+      "@type": "WebSite",
+      "@id": "https://www.liftedshopdc.com/#website",
+      "url": "https://www.liftedshopdc.com/",
+      "name": "LIFTED SHOP, DC",
+      "description": "",
+      "potentialAction": [
+       {
+        "@type": "SearchAction",
+        "target": {
+         "@type": "EntryPoint",
+         "urlTemplate": "https://www.liftedshopdc.com/?s={search_term_string}"
+        },
+        "query-input": {
+         "@type": "PropertyValueSpecification",
+         "valueRequired": true,
+         "valueName": "search_term_string"
+        }
+       }
+      ],
+      "inLanguage": "en-US"
+     }
+    ]
+   }
+  ]
+ },
+ "h1": "Weed Delivery Hyattsville, MD",
+ "docId": "4891",
+ "sections": [
+  {
+   "t": "group",
+   "id": "d3314ba",
+   "children": [
+    {
+     "t": "group",
+     "id": "d8d70ea",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h1",
+       "html": "Weed Delivery Hyattsville, MD",
+       "text": "Weed Delivery Hyattsville, MD"
+      },
+      {
+       "t": "text",
+       "html": "<p>Craving reliable weed delivery in Hyattsville, MD? At Lifted Shop, we make premium cannabis delivery simple, discreet, and fast, all from our base servicing Hyattsville and surrounding neighborhoods. Whether you’re looking for top-shelf flower, potent vape carts, delicious edibles, or concentrates, we wrap it up and bring it straight to your door.</p>"
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "#orderdelivery"
+      }
+     ]
+    }
+   ],
+   "bg": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/feature-bg-3-1.jpg"
+  },
+  {
+   "t": "group",
+   "id": "57c1f0b",
+   "children": [
+    {
+     "t": "reviews",
+     "provider": "Trustindex (Google reviews)",
+     "summary": {
+      "label": "EXCELLENT",
+      "text": "EXCELLENT Based on 2410 reviews"
+     },
+     "items": [
+      {
+       "name": "Sherrene Donovan",
+       "date": "",
+       "stars": 5,
+       "text": "Great and quick service. Big fan of Burst and Devour gummies. Thank you Nancy for all your help!!!",
+       "source": "Google"
+      },
+      {
+       "name": "Muhammad ihram Pangestu",
+       "date": "",
+       "stars": 5,
+       "text": "Weed shop delivery to Irvine apartments near UCI was quick!",
+       "source": "Google"
+      },
+      {
+       "name": "Zachariah Bailey",
+       "date": "",
+       "stars": 5,
+       "text": "Smooth cannabis delivery to our Anaheim hotel, perfect for the Disney trip 😭",
+       "source": "Google"
+      },
+      {
+       "name": "Saidi Tumwa",
+       "date": "",
+       "stars": 5,
+       "text": "Mari and Mark are great! i appreciate the help they gave me",
+       "source": "Google"
+      },
+      {
+       "name": "Jennifer Turner",
+       "date": "",
+       "stars": 5,
+       "text": "Hiyab was very helpful a great bud tender",
+       "source": "Google"
+      },
+      {
+       "name": "Jamie Coleman",
+       "date": "",
+       "stars": 5,
+       "text": "I travel to DC every month for work and a buddy of mine told me about this shop; I called the shop and found out they only do delivery now (DC only has medical shops now) so I ordered from them a few times and on my most recent order, the delivery driver, JJ, was super friendly and helpful. Got my delivery within an hr of ordering and enjoyed some incredible \"high\" energy products before my flight home. Thanks!!",
+       "source": "Google"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "c8f0fc6",
+   "children": [
+    {
+     "t": "store",
+     "provider": "ecwid",
+     "storeId": "125946269"
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "ebbfbc2",
+   "children": [
+    {
+     "t": "group",
+     "id": "ef676b9",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "Why Choose Lifted Shop’s Weed Delivery",
+       "text": "Why Choose Lifted Shop’s Weed Delivery"
+      },
+      {
+       "t": "text",
+       "html": "<p><strong>1. Same-Day Service in Hyattsville: </strong>We run a dedicated delivery route across Hyattsville and nearby zip codes so your order can arrive quickly. We know when you’re ready to relax, you don’t want to wait.</p><p><strong>2. Curated High-Quality Products: </strong>Every product in our menu is lab-tested and picked for consistency, safety, and effect. From smooth indica nights to energetic sativa mornings, we carry options to match your vibe.</p><p><strong>3. Full Range of Cannabis Forms</strong></p><ul><li><strong>Flower</strong>: Single strains, hybrids, exotic crossbreeds</li><li><strong>Pre-rolls &amp; Vapes</strong>: Ideal for convenience and mobility</li><li><strong>Edibles &amp; Gummies</strong>: Flavorful, dose-controlled treats</li><li><strong>Concentrates &amp; Carts</strong>: Potency for seasoned consumers</li></ul><p><strong>4. Transparent, Friendly &amp; Professional: </strong>We treat delivery like a premium service text updates, discreet packaging, and respectful drop-offs. But we also keep it friendly and approachable because you shouldn’t need expert terminology to feel comfortable.</p>"
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "/shop/"
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "f673334",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "How to Order in Hyattsville, Maryland",
+       "text": "How to Order in Hyattsville, Maryland"
+      },
+      {
+       "t": "text",
+       "html": "<ol><li>Browse our online menu and pick your favorites</li><li>Complete checkout or call to finalize</li><li>We dispatch and deliver—often same day within Hyattsville</li><li>Be ready with a valid ID when we arrive (21+ required)</li></ol>"
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "/shop/"
+      },
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "Experience Hyattsville’s Best Weed Delivery",
+       "text": "Experience Hyattsville’s Best Weed Delivery"
+      },
+      {
+       "t": "text",
+       "html": "<p>When you search for weed delivery in Hyattsville, MD, you expect speed, quality, and reliability. At Lifted Shop we deliver on all fronts. Whether it’s your first time or you’re a regular, we’ve engineered the process to be seamless so you get high-grade cannabis without the hassle.</p><p>You can order online or call <a href=\"tel:7712161684\">(771) 216-1684</a> to place an order now and see why Hyattsville residents trust <a href=\"/\">Lifted Shop</a> for their cannabis delivery needs.</p>"
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "/shop/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "c9501d3",
+   "children": [
+    {
+     "t": "map",
+     "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d24817.81046834635!2d-76.97651132409256!3d38.964500181855314!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7c6fc55432d07%3A0x81d25dc8922db6fa!2sHyattsville%2C%20MD!5e0!3m2!1sen!2sus!4v1762977928611!5m2!1sen!2sus",
+     "title": ""
+    }
+   ]
+  }
+ ],
+ "archive": null,
+ "unknownWidgets": []
+}

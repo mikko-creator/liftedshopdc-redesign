@@ -1,0 +1,373 @@
+{
+ "path": "/delivery/leesburg-va/",
+ "url": "https://www.liftedshopdc.com/delivery/leesburg-va/",
+ "kind": "page",
+ "head": {
+  "title": "Best Weed Delivery & Dispensary in Leesburg, VA | Lifted Shop",
+  "description": "Lifted Shop is the #1 Weed Dispensary in Leesburg, VA offering the highest quality and best prices on Cannabis Products. Click to learn more.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://www.liftedshopdc.com/delivery/leesburg-va/",
+  "og": {
+   "og:locale": "en_US",
+   "og:type": "article",
+   "og:title": "Best Weed Delivery & Dispensary in Leesburg, VA | Lifted Shop",
+   "og:description": "Lifted Shop is the #1 Weed Dispensary in Leesburg, VA offering the highest quality and best prices on Cannabis Products. Click to learn more.",
+   "og:url": "https://www.liftedshopdc.com/delivery/leesburg-va/",
+   "og:site_name": "LIFTED SHOP, DC",
+   "article:modified_time": "2026-08-04T13:35:04+00:00",
+   "og:image": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Lifted-Rocket-Logo-1.png",
+   "og:image:width": "1000",
+   "og:image:height": "1000",
+   "og:image:type": "image/png",
+   "twitter:card": "summary_large_image",
+   "twitter:label1": "Est. reading time",
+   "twitter:data1": "6 minutes"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "WebPage",
+      "@id": "https://www.liftedshopdc.com/delivery/leesburg-va/",
+      "url": "https://www.liftedshopdc.com/delivery/leesburg-va/",
+      "name": "Best Weed Delivery & Dispensary in Leesburg, VA | Lifted Shop",
+      "isPartOf": {
+       "@id": "https://www.liftedshopdc.com/#website"
+      },
+      "primaryImageOfPage": {
+       "@id": "https://www.liftedshopdc.com/delivery/leesburg-va/#primaryimage"
+      },
+      "image": {
+       "@id": "https://www.liftedshopdc.com/delivery/leesburg-va/#primaryimage"
+      },
+      "thumbnailUrl": "http://www.liftedshopdc.com/wp-content/uploads/2024/06/Lifted-Rocket-Logo-1-768x768.png",
+      "datePublished": "2024-10-15T18:27:30+00:00",
+      "dateModified": "2026-08-04T13:35:04+00:00",
+      "description": "Lifted Shop is the #1 Weed Dispensary in Leesburg, VA offering the highest quality and best prices on Cannabis Products. Click to learn more.",
+      "breadcrumb": {
+       "@id": "https://www.liftedshopdc.com/delivery/leesburg-va/#breadcrumb"
+      },
+      "inLanguage": "en-US",
+      "potentialAction": [
+       {
+        "@type": "ReadAction",
+        "target": [
+         "https://www.liftedshopdc.com/delivery/leesburg-va/"
+        ]
+       }
+      ]
+     },
+     {
+      "@type": "ImageObject",
+      "inLanguage": "en-US",
+      "@id": "https://www.liftedshopdc.com/delivery/leesburg-va/#primaryimage",
+      "url": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Lifted-Rocket-Logo-1.png",
+      "contentUrl": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Lifted-Rocket-Logo-1.png",
+      "width": 1000,
+      "height": 1000
+     },
+     {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.liftedshopdc.com/delivery/leesburg-va/#breadcrumb",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.liftedshopdc.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Delivery",
+        "item": "https://www.liftedshopdc.com/delivery/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Leesburg, VA"
+       }
+      ]
+     },
+     {
+      "@type": "WebSite",
+      "@id": "https://www.liftedshopdc.com/#website",
+      "url": "https://www.liftedshopdc.com/",
+      "name": "LIFTED SHOP, DC",
+      "description": "",
+      "potentialAction": [
+       {
+        "@type": "SearchAction",
+        "target": {
+         "@type": "EntryPoint",
+         "urlTemplate": "https://www.liftedshopdc.com/?s={search_term_string}"
+        },
+        "query-input": {
+         "@type": "PropertyValueSpecification",
+         "valueRequired": true,
+         "valueName": "search_term_string"
+        }
+       }
+      ],
+      "inLanguage": "en-US"
+     }
+    ]
+   }
+  ]
+ },
+ "h1": "Best Weed Delivery in Leesburg, VA",
+ "docId": "2061",
+ "sections": [
+  {
+   "t": "group",
+   "id": "d3314ba",
+   "children": [
+    {
+     "t": "group",
+     "id": "9c32b41",
+     "children": [
+      {
+       "t": "image",
+       "img": {
+        "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Lifted-Rocket-Logo-1.png",
+        "alt": "",
+        "w": 768,
+        "h": 768
+       },
+       "href": null,
+       "caption": null,
+       "anim": "zoomIn"
+      },
+      {
+       "t": "heading",
+       "level": "h3",
+       "html": "Get ready for liftoff!",
+       "text": "Get ready for liftoff!"
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "9caf400",
+     "children": [
+      {
+       "t": "carousel",
+       "items": [
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Higher-Frequency-Bag-2.png",
+          "alt": "Higher-Frequency-Bag-2",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Casanova-Fly-Bag.png",
+          "alt": "Casanova-Fly-Bag",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/bag-2.png",
+          "alt": "bag-2",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Dust-Mac-Bag-2.png",
+          "alt": "Dust-Mac-Bag-2",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Sugarland-Delight-Bag.png",
+          "alt": "Sugarland-Delight-Bag",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Onyx-Slam-Bag.png",
+          "alt": "Onyx-Slam-Bag",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        }
+       ]
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "#orderdelivery"
+      }
+     ]
+    }
+   ],
+   "bg": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/feature-bg-3-1.jpg"
+  },
+  {
+   "t": "group",
+   "id": "57c1f0b",
+   "children": [
+    {
+     "t": "heading",
+     "level": "h1",
+     "html": "Best Weed Delivery in Leesburg, VA",
+     "text": "Best Weed Delivery in Leesburg, VA"
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "5d00120",
+   "children": [
+    {
+     "t": "store",
+     "provider": "ecwid",
+     "storeId": "125946269"
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "ebbfbc2",
+   "children": [
+    {
+     "t": "group",
+     "id": "609a3e9",
+     "children": [
+      {
+       "t": "text",
+       "html": "<p>Looking for the best weed delivery in Leesburg, VA? You’re in the right place! We offer a wide variety of high-quality cannabis products delivered straight to your door. Whether you prefer flower, edibles, or concentrates, we make it easy for you to enjoy your favorites without leaving home.</p><h2>Weed Dispensary in Leesburg, VA</h2><p>Our delivery service is fast, reliable, and discreet, ensuring that you get your cannabis products safely and conveniently. We’re committed to providing a seamless experience for all our customers.</p>"
+      },
+      {
+       "t": "button",
+       "text": "Order Now!",
+       "href": "/shop/"
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "ef03211",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h3",
+       "html": "Why Choose Us?",
+       "text": "Why Choose Us?"
+      },
+      {
+       "t": "text",
+       "html": "<ul><li>Top-Quality Cannabis: We deliver only the best products to ensure your satisfaction.</li><li>Fast Delivery: Enjoy fast delivery within Leesburg and the surrounding areas.</li><li>Variety of Options: Choose from a wide range of flowers, edibles, concentrates, and more.</li><li>Helpful Support: Our knowledgeable staff is here to assist you in finding the right products for your needs.</li></ul>"
+      },
+      {
+       "t": "group",
+       "id": "bcbad57",
+       "children": [
+        {
+         "t": "heading",
+         "level": "h3",
+         "html": "Weed Delivery Area",
+         "text": "Weed Delivery Area"
+        },
+        {
+         "t": "text",
+         "html": "<p>We proudly serve Leesburg, VA, and the surrounding regions, providing reliable weed delivery when you need it.</p><p>To place your order, simply call us at <a href=\"tel:7712161684\">(771) 216-1684</a>. We’re available Monday through Friday from 10 AM to 8 PM.</p>"
+        }
+       ]
+      },
+      {
+       "t": "button",
+       "text": "Contact Us",
+       "href": "#locationcontact"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "810e949",
+   "children": [
+    {
+     "t": "group",
+     "id": "924e0f4",
+     "children": [
+      {
+       "t": "group",
+       "id": "f67db58",
+       "children": [
+        {
+         "t": "heading",
+         "level": "h3",
+         "html": "Testimonials",
+         "text": "Testimonials"
+        }
+       ]
+      },
+      {
+       "t": "testimonials",
+       "items": [
+        {
+         "text": "I wish I had of found this place before all the other time I wasted with other places. Professional, Friendly, Safe, Patient and On Point. All the way from Seattle and I can honestly say, I wish they had a location back at home.",
+         "name": "T.M.",
+         "title": ""
+        },
+        {
+         "text": "Friendliest shop around! Good selection and weekly specials!",
+         "name": "M.R.",
+         "title": ""
+        },
+        {
+         "text": "I’ve finally found a place where the staff shows its customers love and respect. Thanks Lifted for being my new spot for the ⛽💨💯💪",
+         "name": "B.C.",
+         "title": ""
+        }
+       ]
+      },
+      {
+       "t": "button",
+       "text": "Read More",
+       "href": "/reviews/"
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "b0cefe5",
+     "children": [
+      {
+       "t": "map",
+       "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d397605.4433085397!2d-77.25591044999999!3d38.871548600000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b63db821731777%3A0x8a78f18d658a082f!2sOrbit%20Dispensary!5e0!3m2!1sen!2sin!4v1729016965186!5m2!1sen!2sin",
+       "title": ""
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "archive": null,
+ "unknownWidgets": []
+}

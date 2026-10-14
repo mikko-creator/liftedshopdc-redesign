@@ -1,0 +1,379 @@
+{
+ "path": "/live-resin-dc/",
+ "url": "https://www.liftedshopdc.com/live-resin-dc/",
+ "kind": "page",
+ "head": {
+  "title": "Live Resin, Wax & Concentrates in DC | Lifted Shop",
+  "description": "Shop live resin, wax, shatter, crumble, and premium extracts in DC. We deliver across Washington, D.C., same-day or offers pickup at Georgia Ave NW.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://www.liftedshopdc.com/live-resin-dc/",
+  "og": {
+   "og:locale": "en_US",
+   "og:type": "article",
+   "og:title": "Live Resin, Wax & Concentrates in DC | Lifted Shop",
+   "og:description": "Shop live resin, wax, shatter, crumble, and premium extracts in DC. We deliver across Washington, D.C., same-day or offers pickup at Georgia Ave NW.",
+   "og:url": "https://www.liftedshopdc.com/live-resin-dc/",
+   "og:site_name": "LIFTED SHOP, DC",
+   "article:modified_time": "2026-06-05T16:31:14+00:00",
+   "twitter:card": "summary_large_image",
+   "twitter:label1": "Est. reading time",
+   "twitter:data1": "5 minutes"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "WebPage",
+      "@id": "https://www.liftedshopdc.com/live-resin-dc/",
+      "url": "https://www.liftedshopdc.com/live-resin-dc/",
+      "name": "Live Resin, Wax & Concentrates in DC | Lifted Shop",
+      "isPartOf": {
+       "@id": "https://www.liftedshopdc.com/#website"
+      },
+      "datePublished": "2026-06-05T16:19:35+00:00",
+      "dateModified": "2026-06-05T16:31:14+00:00",
+      "description": "Shop live resin, wax, shatter, crumble, and premium extracts in DC. We deliver across Washington, D.C., same-day or offers pickup at Georgia Ave NW.",
+      "breadcrumb": {
+       "@id": "https://www.liftedshopdc.com/live-resin-dc/#breadcrumb"
+      },
+      "inLanguage": "en-US",
+      "potentialAction": [
+       {
+        "@type": "ReadAction",
+        "target": [
+         "https://www.liftedshopdc.com/live-resin-dc/"
+        ]
+       }
+      ]
+     },
+     {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.liftedshopdc.com/live-resin-dc/#breadcrumb",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.liftedshopdc.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Live Resin, Wax &amp; Premium Concentrates in DC"
+       }
+      ]
+     },
+     {
+      "@type": "WebSite",
+      "@id": "https://www.liftedshopdc.com/#website",
+      "url": "https://www.liftedshopdc.com/",
+      "name": "LIFTED SHOP, DC",
+      "description": "",
+      "potentialAction": [
+       {
+        "@type": "SearchAction",
+        "target": {
+         "@type": "EntryPoint",
+         "urlTemplate": "https://www.liftedshopdc.com/?s={search_term_string}"
+        },
+        "query-input": {
+         "@type": "PropertyValueSpecification",
+         "valueRequired": true,
+         "valueName": "search_term_string"
+        }
+       }
+      ],
+      "inLanguage": "en-US"
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+     {
+      "@type": "Question",
+      "name": "What concentrates do you carry?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Our concentrate menu includes shatter, wax, crumble, RSO, tinctures, and live resin options, including vape carts and disposables. Availability rotates, check the live menu for current stock."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "What is live resin?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Live resin is a cannabis extract made from fresh-frozen plant material rather than dried and cured flower. Freezing the plant immediately after harvest preserves a broader range of terpenes, which gives live resin a more complex flavor and aroma than most other concentrates."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "What is the difference between shatter, wax, and crumble?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "All three are solvent-based cannabis extracts with similar potency. The main difference is texture. Shatter is hard and glass-like. Wax is soft and pliable. Crumble is dry and powdery. The texture affects how easy they are to handle and portion, but the experience is comparable across all three."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Do I need a dab rig to use concentrates?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "For raw concentrates like shatter, wax, and crumble, yes, you&#8217;ll need a dab rig, e-rig, or dab pen to consume them properly. If you don&#8217;t have equipment, a live resin cart or disposable vape is a better starting point. Browse our cartridges and vapes."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Are concentrates available for same-day delivery?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes. All concentrates are available for same-day delivery across DC, 10 am–9 pm daily. Minimum order $100."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Can I pick up concentrates in person?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes. Place your order online and collect from 2622 Georgia Ave NW. All orders must be placed online before collection. We don&#8217;t operate as a walk-in retail store."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "How potent are concentrates compared to flower?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Significantly more potent. While cannabis flower typically ranges from 15–30% THC, concentrates can range from 60–90%+ depending on the product and extraction method. If you&#8217;re new to concentrates, start with a small amount and give it time before taking more.Browse the full extract menu and place your order for delivery or pickup."
+      }
+     }
+    ]
+   }
+  ]
+ },
+ "h1": "Live Resin, Wax & Premium Concentrates in DC",
+ "docId": "5809",
+ "sections": [
+  {
+   "t": "group",
+   "id": "d42aadd",
+   "children": [
+    {
+     "t": "group",
+     "id": "0f00b8b",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h1",
+       "html": "Live Resin, Wax &amp; Premium Concentrates in DC",
+       "text": "Live Resin, Wax & Premium Concentrates in DC"
+      },
+      {
+       "t": "text",
+       "html": "<p>Lifted Shop carries a rotating selection of premium cannabis extracts in Washington, DC, including wax, shatter, crumble, and live resin options in both raw concentrate and vape cart form. Whether you’re dabbing at home or looking for a live resin cart for on-the-go use, order online and get it delivered same-day across DC or pick up at our Georgia Ave NW location.</p>"
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "#orderdelivery"
+      }
+     ]
+    }
+   ],
+   "bg": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/feature-bg-3-1.jpg"
+  },
+  {
+   "t": "group",
+   "id": "4e29435",
+   "children": [
+    {
+     "t": "reviews",
+     "provider": "Trustindex (Google reviews)",
+     "summary": {
+      "label": "EXCELLENT",
+      "text": "EXCELLENT Based on 2410 reviews"
+     },
+     "items": [
+      {
+       "name": "Sherrene Donovan",
+       "date": "",
+       "stars": 5,
+       "text": "Great and quick service. Big fan of Burst and Devour gummies. Thank you Nancy for all your help!!!",
+       "source": "Google"
+      },
+      {
+       "name": "Muhammad ihram Pangestu",
+       "date": "",
+       "stars": 5,
+       "text": "Weed shop delivery to Irvine apartments near UCI was quick!",
+       "source": "Google"
+      },
+      {
+       "name": "Zachariah Bailey",
+       "date": "",
+       "stars": 5,
+       "text": "Smooth cannabis delivery to our Anaheim hotel, perfect for the Disney trip 😭",
+       "source": "Google"
+      },
+      {
+       "name": "Saidi Tumwa",
+       "date": "",
+       "stars": 5,
+       "text": "Mari and Mark are great! i appreciate the help they gave me",
+       "source": "Google"
+      },
+      {
+       "name": "Jennifer Turner",
+       "date": "",
+       "stars": 5,
+       "text": "Hiyab was very helpful a great bud tender",
+       "source": "Google"
+      },
+      {
+       "name": "Jamie Coleman",
+       "date": "",
+       "stars": 5,
+       "text": "I travel to DC every month for work and a buddy of mine told me about this shop; I called the shop and found out they only do delivery now (DC only has medical shops now) so I ordered from them a few times and on my most recent order, the delivery driver, JJ, was super friendly and helpful. Got my delivery within an hr of ordering and enjoyed some incredible \"high\" energy products before my flight home. Thanks!!",
+       "source": "Google"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "ebbfbc2",
+   "children": [
+    {
+     "t": "group",
+     "id": "609a3e9",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "Concentrates and Extracts We Carry",
+       "text": "Concentrates and Extracts We Carry"
+      },
+      {
+       "t": "text",
+       "html": "<p>Our extract menu rotates based on availability. You’ll typically find a range of formats to suit different consumption styles and experience levels.</p><h3>Shatter</h3><p>A glass-like, brittle concentrate with high potency and clean flavor. One of the most widely used extract formats for dabbing. Snaps cleanly for easy portioning.</p><h3>Wax and Crumble</h3><p>Softer and more malleable than shatter, wax, and crumble are popular for their ease of handling. Crumble has a dry, crumbly texture that’s straightforward to work with on a dab tool.</p><h3>Live Resin</h3><p>Made from fresh-frozen cannabis rather than dried and cured flower, live resin preserves a fuller terpene profile. The result is a richer flavor and a more complex effect compared to standard extracts. Available in raw concentrate form and as vape cartridges when in stock.</p><h3>Live Resin Carts and Vapes</h3><p>For buyers who want the flavor and potency of live resin without a dab rig setup. Live resin cartridges and disposable vapes deliver a premium extract experience in a portable, low-maintenance format. Browse our cartridges page for the full vape selection.</p><h3>RSO (Rick Simpson Oil)</h3><p>A full-spectrum, high-potency cannabis oil. Used sublingually, mixed into food, or applied topically. A versatile extract favored by experienced consumers who want a whole-plant product.</p><h3>Tinctures</h3><p>Cannabis tinctures offer precise, easy dosing without any smoke or vapor. Our tincture options are available in higher mg concentrations for buyers who know what they need.</p><p><em>Inventory rotates. Browse the live menu for what’s currently in stock.</em></p>"
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "/shop/"
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "ef03211",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "Raw Concentrates vs. Vape Carts: Which Is Right for You?",
+       "text": "Raw Concentrates vs. Vape Carts: Which Is Right for You?"
+      },
+      {
+       "t": "text",
+       "html": "<p>If you already own a dab rig or a portable dab device, raw concentrates like shatter, wax, and crumble give you the most control over temperature, dosing, and flavor. They’re the preferred format for experienced concentrate users.</p><p>If you want the potency and flavor of a premium extract without any equipment, a live resin cart or disposable vape is the easier option. Load it, use it, done.</p><p>Not sure where to start with concentrates? Read our guide to cannabis concentrates for a breakdown of the basics.</p>"
+      },
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "How to Order Concentrates in DC",
+       "text": "How to Order Concentrates in DC"
+      },
+      {
+       "t": "text",
+       "html": "<p><strong>Same-Day Delivery: </strong>Order online and receive your concentrates anywhere in Washington, DC within 1–2 hours. Available daily 10 am–9 pm. Minimum order $100. Someone 21+ must be present to receive. Full delivery details.</p><p><strong>Pickup: </strong>Place your order online and collect from 2622 Georgia Ave NW, Washington, DC. We don’t operate as a walk-in store. All orders must be placed online ahead of pickup.</p>"
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "/shop/"
+      },
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "Frequently Asked Questions",
+       "text": "Frequently Asked Questions"
+      },
+      {
+       "t": "faq",
+       "items": [
+        {
+         "q": "What concentrates do you carry?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>Our concentrate menu includes shatter, wax, crumble, RSO, tinctures, and live resin options, including vape carts and disposables. Availability rotates, check the live menu for current stock.</p>"
+          }
+         ]
+        },
+        {
+         "q": "What is live resin?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>Live resin is a cannabis extract made from fresh-frozen plant material rather than dried and cured flower. Freezing the plant immediately after harvest preserves a broader range of terpenes, which gives live resin a more complex flavor and aroma than most other concentrates.</p>"
+          }
+         ]
+        },
+        {
+         "q": "What is the difference between shatter, wax, and crumble?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>All three are solvent-based cannabis extracts with similar potency. The main difference is texture. Shatter is hard and glass-like. Wax is soft and pliable. Crumble is dry and powdery. The texture affects how easy they are to handle and portion, but the experience is comparable across all three.</p>"
+          }
+         ]
+        },
+        {
+         "q": "Do I need a dab rig to use concentrates?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>For raw concentrates like shatter, wax, and crumble, yes, you’ll need a dab rig, e-rig, or dab pen to consume them properly. If you don’t have equipment, a live resin cart or disposable vape is a better starting point. Browse our cartridges and vapes.</p>"
+          }
+         ]
+        },
+        {
+         "q": "Are concentrates available for same-day delivery?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>Yes. All concentrates are available for same-day delivery across DC, 10 am–9 pm daily. Minimum order $100.</p>"
+          }
+         ]
+        },
+        {
+         "q": "Can I pick up concentrates in person?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>Yes. Place your order online and collect from 2622 Georgia Ave NW. All orders must be placed online before collection. We don’t operate as a walk-in retail store.</p>"
+          }
+         ]
+        },
+        {
+         "q": "How potent are concentrates compared to flower?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>Significantly more potent. While cannabis flower typically ranges from 15–30% THC, concentrates can range from 60–90%+ depending on the product and extraction method. If you’re new to concentrates, start with a small amount and give it time before taking more.</p><p>Browse the full extract menu and place your order for delivery or pickup.</p>"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "archive": null,
+ "unknownWidgets": []
+}

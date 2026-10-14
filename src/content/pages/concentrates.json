@@ -1,0 +1,559 @@
+{
+ "path": "/concentrates/",
+ "url": "https://www.liftedshopdc.com/concentrates/",
+ "kind": "post",
+ "head": {
+  "title": "Concentrates | LIFTED SHOP, DC",
+  "description": "Lifted Shop is the #1 Cannabis Dispensary in Washington DC offering the highest quality and best prices on Concentrates. Click to learn more.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://www.liftedshopdc.com/concentrates/",
+  "og": {
+   "og:locale": "en_US",
+   "og:type": "article",
+   "og:title": "Concentrates | LIFTED SHOP, DC",
+   "og:description": "Lifted Shop is the #1 Cannabis Dispensary in Washington DC offering the highest quality and best prices on Concentrates. Click to learn more.",
+   "og:url": "https://www.liftedshopdc.com/concentrates/",
+   "og:site_name": "LIFTED SHOP, DC",
+   "article:published_time": "2024-07-16T16:06:17+00:00",
+   "article:modified_time": "2026-08-13T15:55:58+00:00",
+   "og:image": "http://www.liftedshopdc.com/wp-content/uploads/2024/07/shutterstock_490426627-compressed-1024x684.jpg.webp",
+   "og:image:width": "1024",
+   "og:image:height": "684",
+   "og:image:type": "image/webp",
+   "twitter:card": "summary_large_image",
+   "twitter:label1": "Written by",
+   "twitter:data1": "kevin",
+   "twitter:label2": "Est. reading time",
+   "twitter:data2": "13 minutes"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "Article",
+      "@id": "https://www.liftedshopdc.com/concentrates/#article",
+      "isPartOf": {
+       "@id": "https://www.liftedshopdc.com/concentrates/"
+      },
+      "author": {
+       "name": "kevin",
+       "@id": "https://www.liftedshopdc.com/#/schema/person/36b5a51fea0cb8b7f7fb9d9fb2426a49"
+      },
+      "headline": "Concentrates",
+      "datePublished": "2024-07-16T16:06:17+00:00",
+      "dateModified": "2026-08-13T15:55:58+00:00",
+      "mainEntityOfPage": {
+       "@id": "https://www.liftedshopdc.com/concentrates/"
+      },
+      "wordCount": 1686,
+      "image": {
+       "@id": "https://www.liftedshopdc.com/concentrates/#primaryimage"
+      },
+      "thumbnailUrl": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/shutterstock_490426627-compressed-1024x684.jpg.webp",
+      "articleSection": [
+       "Cannabis Guides"
+      ],
+      "inLanguage": "en-US"
+     },
+     {
+      "@type": "WebPage",
+      "@id": "https://www.liftedshopdc.com/concentrates/",
+      "url": "https://www.liftedshopdc.com/concentrates/",
+      "name": "Concentrates | LIFTED SHOP, DC",
+      "isPartOf": {
+       "@id": "https://www.liftedshopdc.com/#website"
+      },
+      "primaryImageOfPage": {
+       "@id": "https://www.liftedshopdc.com/concentrates/#primaryimage"
+      },
+      "image": {
+       "@id": "https://www.liftedshopdc.com/concentrates/#primaryimage"
+      },
+      "thumbnailUrl": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/shutterstock_490426627-compressed-1024x684.jpg.webp",
+      "datePublished": "2024-07-16T16:06:17+00:00",
+      "dateModified": "2026-08-13T15:55:58+00:00",
+      "author": {
+       "@id": "https://www.liftedshopdc.com/#/schema/person/36b5a51fea0cb8b7f7fb9d9fb2426a49"
+      },
+      "description": "Lifted Shop is the #1 Cannabis Dispensary in Washington DC offering the highest quality and best prices on Concentrates. Click to learn more.",
+      "breadcrumb": {
+       "@id": "https://www.liftedshopdc.com/concentrates/#breadcrumb"
+      },
+      "inLanguage": "en-US",
+      "potentialAction": [
+       {
+        "@type": "ReadAction",
+        "target": [
+         "https://www.liftedshopdc.com/concentrates/"
+        ]
+       }
+      ]
+     },
+     {
+      "@type": "ImageObject",
+      "inLanguage": "en-US",
+      "@id": "https://www.liftedshopdc.com/concentrates/#primaryimage",
+      "url": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/shutterstock_490426627-compressed-1024x684.jpg.webp",
+      "contentUrl": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/shutterstock_490426627-compressed-1024x684.jpg.webp",
+      "width": 1024,
+      "height": 684,
+      "caption": "Concentrates"
+     },
+     {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.liftedshopdc.com/concentrates/#breadcrumb",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.liftedshopdc.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Concentrates"
+       }
+      ]
+     },
+     {
+      "@type": "WebSite",
+      "@id": "https://www.liftedshopdc.com/#website",
+      "url": "https://www.liftedshopdc.com/",
+      "name": "LIFTED SHOP, DC",
+      "description": "",
+      "potentialAction": [
+       {
+        "@type": "SearchAction",
+        "target": {
+         "@type": "EntryPoint",
+         "urlTemplate": "https://www.liftedshopdc.com/?s={search_term_string}"
+        },
+        "query-input": {
+         "@type": "PropertyValueSpecification",
+         "valueRequired": true,
+         "valueName": "search_term_string"
+        }
+       }
+      ],
+      "inLanguage": "en-US"
+     },
+     {
+      "@type": "Person",
+      "@id": "https://www.liftedshopdc.com/#/schema/person/36b5a51fea0cb8b7f7fb9d9fb2426a49",
+      "name": "kevin",
+      "image": {
+       "@type": "ImageObject",
+       "inLanguage": "en-US",
+       "@id": "https://secure.gravatar.com/avatar/0ded4728176259dd514cd3df95d945774d6163b0a8a049f1d842c93c4a11560a?s=96&d=mm&r=g",
+       "url": "https://secure.gravatar.com/avatar/0ded4728176259dd514cd3df95d945774d6163b0a8a049f1d842c93c4a11560a?s=96&d=mm&r=g",
+       "contentUrl": "https://secure.gravatar.com/avatar/0ded4728176259dd514cd3df95d945774d6163b0a8a049f1d842c93c4a11560a?s=96&d=mm&r=g",
+       "caption": "kevin"
+      },
+      "url": "https://www.liftedshopdc.com/author/kevin/"
+     }
+    ]
+   }
+  ]
+ },
+ "h1": "Concentrates",
+ "docId": "1617",
+ "sections": [
+  {
+   "t": "group",
+   "id": "3040fde1",
+   "children": [
+    {
+     "t": "group",
+     "id": "2ce6600c",
+     "children": [
+      {
+       "t": "image",
+       "img": {
+        "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Lifted-Rocket-Logo-1.png",
+        "alt": "",
+        "w": 768,
+        "h": 768
+       },
+       "href": null,
+       "caption": null,
+       "anim": "zoomIn"
+      },
+      {
+       "t": "heading",
+       "level": "p",
+       "html": "Get ready for liftoff!",
+       "text": "Get ready for liftoff!"
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "29ab7263",
+     "children": [
+      {
+       "t": "carousel",
+       "items": [
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Higher-Frequency-Bag-2.png",
+          "alt": "Higher-Frequency-Bag-2",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Casanova-Fly-Bag.png",
+          "alt": "Casanova-Fly-Bag",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/bag-2.png",
+          "alt": "bag-2",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Dust-Mac-Bag-2.png",
+          "alt": "Dust-Mac-Bag-2",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Sugarland-Delight-Bag.png",
+          "alt": "Sugarland-Delight-Bag",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Onyx-Slam-Bag.png",
+          "alt": "Onyx-Slam-Bag",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        }
+       ]
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": null
+      }
+     ]
+    }
+   ],
+   "bg": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/feature-bg-3-1.jpg"
+  },
+  {
+   "t": "group",
+   "id": "4212828c",
+   "children": [
+    {
+     "t": "group",
+     "id": "52ebbea9",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h1",
+       "html": "Concentrates",
+       "text": "Concentrates"
+      },
+      {
+       "t": "image",
+       "img": {
+        "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/shutterstock_490426627-compressed-1024x684.jpg.webp",
+        "alt": "Concentrates",
+        "w": 800,
+        "h": 534
+       },
+       "href": null,
+       "caption": null
+      },
+      {
+       "t": "text",
+       "html": "<p>by Lifted Shop</p><p>A concentrate is a powerful and potent form of cannabis. Concentrates have become increasingly popular in recent years because they induce an intense high, with higher levels of THC than traditional flower. They are made by extracting the desirable compounds from the plant material, resulting in a highly potent smokable substance.</p><p>At <a href=\"/\"><strong>Lifted DC</strong></a>, we specialize in providing <strong>high-quality cannabis concentrates</strong> to our clients in Washington DC. Our team of experienced professionals is dedicated to offering safe and effective cannabis products that meet your needs and preferences. From shatter to wax to oil, we offer a wide range of cannabis concentrates to suit your <strong>individual tastes</strong>.</p><p>Residents of DC, Maryland, and Virginia can get premium weed delivered to their door with Lifted DC. If you’re interested in concentrates, <a href=\"/shop/#Premium_Flowers\">flower, vapes, edibles</a>, and other cannabis products, check out our <a href=\"/shop/\">online menu</a> for delivery or pickup or call <a href=\"tel:2023328495\">(202) 332-8495</a> to learn more about our products and services. If you have questions, <a href=\"/contact/\">let us know</a>! Our knowledgeable staff is always available to answer any questions you may have and help you choose the perfect product for your needs.</p><p>Orders are accepted 24 hrs/day. Pick-ups &amp; walk-ins are welcome <strong>10am-8pm daily</strong></p>"
+      },
+      {
+       "t": "group",
+       "id": "1cf8011e",
+       "children": [
+        {
+         "t": "heading",
+         "level": "h2",
+         "html": "ABOUT CONCENTRATES",
+         "text": "ABOUT CONCENTRATES"
+        },
+        {
+         "t": "text",
+         "html": "<p>Cannabis concentrates are a popular and effective way to consume cannabis, as the effects can be felt almost immediately and can last for several hours. They offer a more potent high compared to smoking traditional cannabis flower. (1) This means that you’ll need less product to achieve the desired effect, making it a more cost-effective option in the long run. Additionally, because concentrates are made by extracting THC and other cannabinoids from the plant material, they offer a purer and cleaner experience.</p><p>When choosing a concentrate, it’s important to consider its potency and the method of consumption. There are several types of concentrates available, including shatter, wax, crumble, and live resin. Each type has its own unique texture and consistency, but all provide a concentrated dose of THC.</p>"
+        },
+        {
+         "t": "heading",
+         "level": "h2",
+         "html": "EXTRACTION METHODS",
+         "text": "EXTRACTION METHODS"
+        }
+       ]
+      },
+      {
+       "t": "group",
+       "id": "7a52da3f",
+       "children": [
+        {
+         "t": "text",
+         "html": "<p>There are several methods used to extract cannabinoids and terpenes from cannabis plants, including butane hash oil (BHO), CO2 extraction, and rosin pressing. Each method has its advantages and disadvantages, and the resulting concentrate can vary in quality and purity.</p><p>SOLVENT-BASED CONCENTRATES<br>BHO and propane hash oil (PHO) are examples of solvent-based concentrates. They are produced by using a hydrocarbon such as butane or propane to extract cannabinoids and terpenes from the plant material. The resulting concentrate can be further processed through techniques like winterization and purging to remove any residual solvents and impurities. Solvent-based concentrates include:</p><ul><li>CO2 Oil</li><li>Wax/Budder</li><li>Rick Simpson Oil (RSO)</li><li>Live Resin</li><li>Shatter</li><li>Live Resin</li><li>Distillate</li><li>Caviar</li><li>Crumble</li><li>Sugar/Crystalline</li></ul><h3>SOLVENTLESS CONCENTRATES</h3><p>Solventless concentrates are produced without the use of any chemicals or solvents. Examples include rosin, a concentrate made by using heat and pressure to extract cannabinoids and terpenes from cannabis flower, and dry sift kief, which is produced by sifting trichomes from the plant material. (2) Other types of non-solvent cannabis concentrates include traditional charas and hashish, used in India and Central Asia for medicinal purposes for many hundreds of years.</p><h3>CHOOSING THE RIGHT PRODUCTS</h3><p>At Lifted DC, we offer a wide selection of high-quality concentrates to suit every preference and budget. Our team is dedicated to helping you find the right product for your needs and providing you with the information you need to make an informed decision. Whether you’re a seasoned smoker or new to the world of cannabis, we’re here to help you get lifted!</p>"
+        },
+        {
+         "t": "heading",
+         "level": "h2",
+         "html": "WHY CHOOSE A CONCENTRATE?",
+         "text": "WHY CHOOSE A CONCENTRATE?"
+        },
+        {
+         "t": "text",
+         "html": "<p><strong>Increased potency:</strong> Concentrates contain higher levels of THC and other cannabinoids than traditional cannabis flowers, which means they deliver more potent effects.</p><p><strong>Faster onset:</strong> Because concentrates are so highly concentrated, they provide faster onset times than traditional cannabis products.</p><p><strong>Variety of options:</strong> We offer a variety of cannabis concentrates including shatter, wax, oil, and more, each with unique properties and benefits.<br>Precise dosing: With concentrates, it’s easier to control your dose and achieve your desired effect.</p><p><strong>Health benefits:</strong> Cannabis concentrates have been shown to have numerous health benefits, including pain relief, reduced anxiety, and improved sleep.</p>"
+        },
+        {
+         "t": "heading",
+         "level": "h2",
+         "html": "ADVICE FOR BEGINNERS",
+         "text": "ADVICE FOR BEGINNERS"
+        },
+        {
+         "t": "text",
+         "html": "<p>Some concentrates, such as shatter and wax, are highly potent and are best used by experienced users. Others, such as distillate and CO2 oil, are less potent and can be used by beginners. Before trying cannabis concentrates, there are a few important things to keep in mind to ensure a positive and safe experience.</p>"
+        },
+        {
+         "t": "group",
+         "id": "a781f80",
+         "children": [
+          {
+           "t": "text",
+           "html": "<ul><li>Start with low doses: Cannabis concentrates are extremely potent, so it’s important to start with small doses and work your way up gradually.</li><li>Choose a reputable source: Make sure you’re getting your concentrates from a trusted and licensed dispensary or supplier.</li><li>Know your tolerance: If you’re new to cannabis, or if you haven’t used it in a while, your tolerance may be lower than you think. Take it slow and listen to your body.</li><li>Be mindful of consumption methods: Concentrates can be consumed in a variety of ways, including vaping and dabbing. Make sure you understand the different methods and choose one that works best for you.</li><li>Stay hydrated: Cannabis can cause dry mouth, so make sure you have plenty of water on hand to stay hydrated.</li><li>Never drive under the influence: Just like alcohol, it’s never safe to get behind the wheel after using cannabis. Make sure you have a sober ride home.</li></ul>"
+          }
+         ]
+        },
+        {
+         "t": "heading",
+         "level": "h2",
+         "html": "USING A DAB RIG",
+         "text": "USING A DAB RIG"
+        },
+        {
+         "t": "text",
+         "html": "<p>Dabbing is a popular method of consuming cannabis concentrates. A dab rig is a device used for this purpose, consisting of a glass chamber with a nail, which is heated to vaporize the concentrate and create a highly potent smoke. For those new to dabbing, using a dab rig may seem intimidating, but it’s actually quite easy to use. Here are a few simple steps to follow:</p>"
+        },
+        {
+         "t": "group",
+         "id": "82e87c8",
+         "children": [
+          {
+           "t": "text",
+           "html": "<ol><li>Fill up your rig with water. This will cool down the vapor and make it easier to inhale.</li><li>Heat up the nail with a torch until it’s glowing red hot.</li><li>Allow the nail to cool for around 30 seconds. This prevents the concentrate from burning and ruining the flavor.</li><li>Apply a small amount of concentrate onto the nail using a dabber or similar tool.</li><li>Slowly draw in the vapor while covering the carb cap hole to direct airflow over the nail.</li><li>Exhale and enjoy!</li></ol>"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "html": "<p>At Lifted DC, we offer a variety of cannabis concentrate options to fit your needs and preferences. Our knowledgeable staff can help guide you through the process and answer any questions you may have. With our high-quality products and expert guidance, you’ll be able to enjoy the benefits of cannabis concentrates with ease.</p>"
+        },
+        {
+         "t": "heading",
+         "level": "h2",
+         "html": "CONCENTRATES AT LIFTED DC",
+         "text": "CONCENTRATES AT LIFTED DC"
+        },
+        {
+         "t": "group",
+         "id": "c4f0875",
+         "children": [
+          {
+           "t": "text",
+           "html": "<ul><li>HASH ROSIN (Solventless) 1g (DC’s Only Shop w/ HASH ROSIN)</li><li>Lifted Shatter (Zaa Zilla, Hybrid) 1g </li><li>Lifted Shatter (Juicy Fruit, Hybrid) 1g</li><li>Lifted Shatter (Unicorn Piss, Sativa) 1g</li><li>Lifted Butter (Cheetah Piss, Hybrid) 1g</li><li>Lifted Butter (Lambs Breath, Indica) 1g</li><li>Traditional Hash (Cannabis Hash, crumble consistency) 1g </li><li>BANG! Crumble (Fruity Pebbles) 1g</li><li>BANG! Wax (Gelato) 1g</li><li>BANG! Wax (Orange Cookies) 1g </li><li>Diamonds (Green Crack, 90%) 1g </li><li>Diamonds (Runtz, 90%) 1g </li><li>Diamonds (Sinatra, 90%) 1g </li><li>Draggin Darts Distillate Syringe (Trainwreck, Sativa) 1g </li><li>Enjoy Live Resin (Motor Breath, Hybrid) 1g </li><li>Left Coast Extracts Syringe (Gelato, Hybrid) 1g </li><li>Forbidden Fruit (Hybrid, Diamonds/Sauce) 1g </li><li>Chernobyl (Sativa, Diamonds/Sauce) 1g</li><li>Left Coast Extracts Syringe (Pineapple Express, Hybrid) 1g</li></ul>"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "html": "<p>Shop the full <a href=\"/shop/\">Lifted DC menu</a>. We accept orders 24 hrs/day. Pick-ups &amp; walk-ins are welcome, <strong>10am-8pm daily</strong>.</p>"
+        },
+        {
+         "t": "heading",
+         "level": "h2",
+         "html": "HOW MUCH DOCONCENTRATES COST IN WASHINGTON DC?",
+         "text": "HOW MUCH DOCONCENTRATES COST IN WASHINGTON DC?"
+        },
+        {
+         "t": "text",
+         "html": "<p>At Lifted DC, we offer a variety of cannabis concentrates to meet the diverse needs and preferences of our clients. The cost of our cannabis concentrates will depend on the type and quality you choose. Our knowledgeable budtenders will provide you with detailed information regarding each product and help you select the one that best suits your individual needs.</p><p>Feel free to contact us at <a href=\"tel:2023328495\">(202) 332-8495</a> or visit us in-person at our location in Washington DC, or come and see us at our sister store Orbit, just a few minute’s drive away. Our stores are conveniently located in metro DC, just blocks away from Howard University and Du Pont Circle. We will be happy to assist you in any way we can and guide you through the process of selecting the right product for you.</p><p>Read the Lifted DC blog and join us on Facebook and Twitter for more information about weed in the DMV.</p>"
+        },
+        {
+         "t": "heading",
+         "level": "h2",
+         "html": "FAQ",
+         "text": "FAQ"
+        },
+        {
+         "t": "text",
+         "html": "<h3>HOW ARE CANNABIS CONCENTRATES USED?</h3><p>Cannabis concentrates can be used in a variety of ways, including dabbing, vaporizing, and adding to joints or bowls. Dabbing involves heating the concentrate on a hot surface and inhaling the vapor, while vaporizing involves heating the concentrate in a device and inhaling the vapor.</p><h3>ARE THERE ANY RISKS ASSOCIATED WITH USING CANNABIS CONCENTRATES?</h3><p>Like any cannabis product, there are risks associated with using cannabis concentrates. These include the potential for addiction, impaired judgment and coordination, and increased heart rate. It is important to consume cannabis concentrates responsibly and in moderation.</p><h3>IS IT LEGAL TO PURCHASE CANNABIS CONCENTRATES?</h3><p>The legality of purchasing and consuming cannabis concentrates varies by state. In Washington DC, it is legal for adults 21 and over to possess and consume cannabis concentrates for personal use.</p>"
+        },
+        {
+         "t": "group",
+         "id": "7805cc0",
+         "children": [
+          {
+           "t": "text",
+           "html": "<h3>Share:</h3>"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "e6bd3ab",
+     "children": [
+      {
+       "t": "testimonials",
+       "items": [
+        {
+         "text": "The “Sour Punched” single rolled is the BOMB!!!! The products here are the best I have had in NW. Pricey but worth every penny and I love the staff.",
+         "name": "G.D.",
+         "title": ""
+        },
+        {
+         "text": "I’ve finally found a place where the staff shows its customers love and respect. Thanks Lifted for being my new spot for the ⛽💨💯💪",
+         "name": "B.C.",
+         "title": ""
+        },
+        {
+         "text": "Great shop. Rick helped us out and was so nice and knowledgeable letting us know his recommendations. Much better quality and selection compared to other shops in DC.",
+         "name": "K.M",
+         "title": ""
+        }
+       ]
+      },
+      {
+       "t": "heading",
+       "level": "p",
+       "html": "Exclusives",
+       "text": "Exclusives"
+      },
+      {
+       "t": "carousel",
+       "items": [
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-1-768x1024.jpg",
+          "alt": "Grandmaster Caz’s Casanova Fly",
+          "w": null,
+          "h": null
+         },
+         "caption": "<strong>Grandmaster Caz’s</strong> Casanova Fly",
+         "href": "/shop/"
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-6.jpg",
+          "alt": "Laughing Gas Inspired by Def Comedy Jam",
+          "w": null,
+          "h": null
+         },
+         "caption": "<strong>Laughing Gas</strong> Inspired by Def Comedy Jam",
+         "href": "/shop/"
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-4-768x1034.jpg",
+          "alt": "Rakim Higher Frequency Soul Flower",
+          "w": null,
+          "h": null
+         },
+         "caption": "<strong>Rakim</strong> Higher Frequency Soul Flower",
+         "href": "/shop/"
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-5-768x1035.jpg",
+          "alt": "The Sugarhill Gang’s Sugarhill Delight",
+          "w": null,
+          "h": null
+         },
+         "caption": "<strong>The Sugarhill Gang’s</strong> Sugarhill Delight",
+         "href": "/shop/"
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-3-768x1035.jpg",
+          "alt": "DAS EFX Googley Goo",
+          "w": null,
+          "h": null
+         },
+         "caption": "<strong>DAS EFX</strong> Googley Goo",
+         "href": "/shop/"
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-2-768x1035.jpg",
+          "alt": "Onyx’s SLAM",
+          "w": null,
+          "h": null
+         },
+         "caption": "<strong>Onyx’s</strong> SLAM",
+         "href": "/shop/"
+        }
+       ]
+      },
+      {
+       "t": "group",
+       "id": "7604c27",
+       "children": [
+        {
+         "t": "button",
+         "text": "(771) 216-1684",
+         "href": "tel:7712161684"
+        },
+        {
+         "t": "text",
+         "html": "<p>OR</p><p>VIEW OUR MENU OF CANNABIS PRODUCTS</p>"
+        },
+        {
+         "t": "button",
+         "text": "Shop Now",
+         "href": "/shop/"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "archive": null,
+ "unknownWidgets": []
+}

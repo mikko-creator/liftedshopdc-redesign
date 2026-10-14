@@ -1,0 +1,276 @@
+{
+ "path": "/delivery/potomac-md/",
+ "url": "https://www.liftedshopdc.com/delivery/potomac-md/",
+ "kind": "page",
+ "head": {
+  "title": "Potomac, MD Weed Delivery | Same-Day Cannabis",
+  "description": "Get same-day weed delivery in Potomac, MD with Lifted Shop. Premium flower, edibles, vapes, and more. Fast, discreet, and 100% hassle-free.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://www.liftedshopdc.com/delivery/potomac-md/",
+  "og": {
+   "og:locale": "en_US",
+   "og:type": "article",
+   "og:title": "Potomac, MD Weed Delivery | Same-Day Cannabis",
+   "og:description": "Get same-day weed delivery in Potomac, MD with Lifted Shop. Premium flower, edibles, vapes, and more. Fast, discreet, and 100% hassle-free.",
+   "og:url": "https://www.liftedshopdc.com/delivery/potomac-md/",
+   "og:site_name": "LIFTED SHOP, DC",
+   "article:modified_time": "2026-05-25T16:20:42+00:00",
+   "twitter:card": "summary_large_image",
+   "twitter:label1": "Est. reading time",
+   "twitter:data1": "2 minutes"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "WebPage",
+      "@id": "https://www.liftedshopdc.com/delivery/potomac-md/",
+      "url": "https://www.liftedshopdc.com/delivery/potomac-md/",
+      "name": "Potomac, MD Weed Delivery | Same-Day Cannabis",
+      "isPartOf": {
+       "@id": "https://www.liftedshopdc.com/#website"
+      },
+      "datePublished": "2025-11-12T19:56:10+00:00",
+      "dateModified": "2026-05-25T16:20:42+00:00",
+      "description": "Get same-day weed delivery in Potomac, MD with Lifted Shop. Premium flower, edibles, vapes, and more. Fast, discreet, and 100% hassle-free.",
+      "breadcrumb": {
+       "@id": "https://www.liftedshopdc.com/delivery/potomac-md/#breadcrumb"
+      },
+      "inLanguage": "en-US",
+      "potentialAction": [
+       {
+        "@type": "ReadAction",
+        "target": [
+         "https://www.liftedshopdc.com/delivery/potomac-md/"
+        ]
+       }
+      ]
+     },
+     {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.liftedshopdc.com/delivery/potomac-md/#breadcrumb",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.liftedshopdc.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Delivery",
+        "item": "https://www.liftedshopdc.com/delivery/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Potomac, MD"
+       }
+      ]
+     },
+     {
+      "@type": "WebSite",
+      "@id": "https://www.liftedshopdc.com/#website",
+      "url": "https://www.liftedshopdc.com/",
+      "name": "LIFTED SHOP, DC",
+      "description": "",
+      "potentialAction": [
+       {
+        "@type": "SearchAction",
+        "target": {
+         "@type": "EntryPoint",
+         "urlTemplate": "https://www.liftedshopdc.com/?s={search_term_string}"
+        },
+        "query-input": {
+         "@type": "PropertyValueSpecification",
+         "valueRequired": true,
+         "valueName": "search_term_string"
+        }
+       }
+      ],
+      "inLanguage": "en-US"
+     }
+    ]
+   }
+  ]
+ },
+ "h1": "Potomac, MD Weed Delivery",
+ "docId": "4880",
+ "sections": [
+  {
+   "t": "group",
+   "id": "d3314ba",
+   "children": [
+    {
+     "t": "group",
+     "id": "d8d70ea",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h1",
+       "html": "Potomac, MD Weed Delivery",
+       "text": "Potomac, MD Weed Delivery"
+      },
+      {
+       "t": "text",
+       "html": "<p>Looking for fast and reliable Potomac, MD weed delivery? Lifted Shop makes getting your favorite cannabis products easier than ever. Whether you’re relaxing after work or restocking for the weekend, our team brings premium flower, edibles, vapes, and more right to your door safely, quickly, and discreetly.</p>"
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "#orderdelivery"
+      }
+     ]
+    }
+   ],
+   "bg": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/feature-bg-3-1.jpg"
+  },
+  {
+   "t": "group",
+   "id": "57c1f0b",
+   "children": [
+    {
+     "t": "reviews",
+     "provider": "Trustindex (Google reviews)",
+     "summary": {
+      "label": "EXCELLENT",
+      "text": "EXCELLENT Based on 2410 reviews"
+     },
+     "items": [
+      {
+       "name": "Sherrene Donovan",
+       "date": "",
+       "stars": 5,
+       "text": "Great and quick service. Big fan of Burst and Devour gummies. Thank you Nancy for all your help!!!",
+       "source": "Google"
+      },
+      {
+       "name": "Muhammad ihram Pangestu",
+       "date": "",
+       "stars": 5,
+       "text": "Weed shop delivery to Irvine apartments near UCI was quick!",
+       "source": "Google"
+      },
+      {
+       "name": "Zachariah Bailey",
+       "date": "",
+       "stars": 5,
+       "text": "Smooth cannabis delivery to our Anaheim hotel, perfect for the Disney trip 😭",
+       "source": "Google"
+      },
+      {
+       "name": "Saidi Tumwa",
+       "date": "",
+       "stars": 5,
+       "text": "Mari and Mark are great! i appreciate the help they gave me",
+       "source": "Google"
+      },
+      {
+       "name": "Jennifer Turner",
+       "date": "",
+       "stars": 5,
+       "text": "Hiyab was very helpful a great bud tender",
+       "source": "Google"
+      },
+      {
+       "name": "Jamie Coleman",
+       "date": "",
+       "stars": 5,
+       "text": "I travel to DC every month for work and a buddy of mine told me about this shop; I called the shop and found out they only do delivery now (DC only has medical shops now) so I ordered from them a few times and on my most recent order, the delivery driver, JJ, was super friendly and helpful. Got my delivery within an hr of ordering and enjoyed some incredible \"high\" energy products before my flight home. Thanks!!",
+       "source": "Google"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "b64f958",
+   "children": [
+    {
+     "t": "store",
+     "provider": "ecwid",
+     "storeId": "125946269"
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "ebbfbc2",
+   "children": [
+    {
+     "t": "group",
+     "id": "ef676b9",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "Why Choose Lifted Shop for Weed Delivery in Potomac, MD?",
+       "text": "Why Choose Lifted Shop for Weed Delivery in Potomac, MD?"
+      },
+      {
+       "t": "text",
+       "html": "<p><strong>1. Same-Day Delivery</strong><strong><br></strong>We know convenience matters. That’s why our drivers are on the road seven days a week, making sure your order arrives fresh and on time.</p><p><strong>2. Top-Shelf Quality You Can Trust</strong></p><p>Every product we carry is lab-tested for purity and potency. From exotic strains to delicious edibles, you’re getting the best quality cannabis in Maryland, no shortcuts, no fillers.</p><p><strong>3. Wide Selection of Products</strong></p><p>Lifted Shop offers a full lineup of cannabis favorites:</p><ul><li><strong>Premium Flower:</strong> Indica, Sativa, and hybrid strains for any mood.</li><li><strong>Pre-Rolls &amp; Vapes:</strong> Quick, portable, and perfect for on-the-go sessions.</li><li><strong>Edibles &amp; Gummies:</strong> Flavor-packed options with precise dosing.</li><li><strong>Concentrates &amp; Carts:</strong> Potent hits for seasoned users.</li></ul><p><strong>4. Local and Reliable Service</strong><br>We’re proud to serve Potomac and the surrounding Montgomery County area with same-day delivery that’s discreet, friendly, and professional. Your satisfaction is always our priority.</p>"
+      },
+      {
+       "t": "button",
+       "text": "Order Now!",
+       "href": "/shop/"
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "f673334",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "How to Order Weed Delivery in Potomac, MD",
+       "text": "How to Order Weed Delivery in Potomac, MD"
+      },
+      {
+       "t": "text",
+       "html": "<p>Getting your order started is simple:</p><p>1. Browse our online menu to explore current deals and strains.</p><p>2. Add your favorite items to the cart.</p><p>3. Place your order online or call to confirm delivery details.</p><p>4. Sit back and relax—your order will arrive shortly!</p><p>No medical card is required. Just a valid state ID and you’re good to go.</p>"
+      },
+      {
+       "t": "button",
+       "text": "Order Now!",
+       "href": "/shop/"
+      },
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "Experience the Best Weed Delivery in Potomac, MD",
+       "text": "Experience the Best Weed Delivery in Potomac, MD"
+      },
+      {
+       "t": "text",
+       "html": "<p>When it comes to cannabis delivery, Lifted Shop stands out for quality, speed, and care. From premium flower to top-rated edibles, our goal is to make your experience seamless every time you order.</p><p>You can order online or call (771) 216-1684 to place an order today and see why Potomac residents trust Lifted Shop for their weed delivery needs.</p>"
+      },
+      {
+       "t": "button",
+       "text": "Order Now!",
+       "href": "/shop/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "c9501d3",
+   "children": [
+    {
+     "t": "map",
+     "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d99196.15474524889!2d-77.198652!3d39.01805455!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b634a196dc7a43%3A0xb0f9fabb9d184a5b!2sPotomac%2C%20MD!5e0!3m2!1sen!2sus!4v1762977414022!5m2!1sen!2sus",
+     "title": ""
+    }
+   ]
+  }
+ ],
+ "archive": null,
+ "unknownWidgets": []
+}

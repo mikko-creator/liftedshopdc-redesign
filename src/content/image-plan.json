@@ -1,0 +1,81 @@
+{
+  "note": "Lifted Shop redesign imagery (fal flux-pro ultra + birefnet cut-outs). Illustrative industry imagery ADDED by the redesign: no people, no text, no logos, no real place, product or packaging of Lifted Shop. Real Lifted Shop photos are harvested separately into assets/source/.",
+  "defaults": {
+    "model": "fal-ai/flux-pro/v1.1-ultra",
+    "input": { "aspect_ratio": "16:9", "output_format": "jpeg", "num_images": 1, "enable_safety_checker": true },
+    "cutoutModel": "fal-ai/birefnet/v2",
+    "cutoutInput": { "model": "Matting", "operating_resolution": "2048x2048", "output_format": "png" }
+  },
+  "images": [
+    {
+      "id": "G-HERO-SKY", "role": "hero", "input": { "aspect_ratio": "21:9" }, "alt": "",
+      "usedFor": ["home hero background", "Higgsfield source for V-HERO"],
+      "prompt": "Breathtaking photograph from airplane altitude above a vast sea of soft cumulus clouds at night during blue hour, the cloud tops lit from below by warm amber glow through scattered gaps, deep indigo and violet sky fading to near black at the top with faint stars and a thin crescent moon, ethereal haze, calm and dreamy, cinematic wide composition with open sky in the upper half, ultra detailed, photographic; no people, no text, no logos, no aircraft, no wing, no buildings, no landmarks"
+    },
+    {
+      "id": "G-CLOUD-PLATE", "role": "overlay", "alt": "",
+      "usedFor": ["screen-blend cloud layers between sections"],
+      "prompt": "Isolated soft white volumetric cumulus clouds floating against a pure black background, wispy feathered edges, gentle cool rim light, several cloud puffs spread across the frame, high detail photograph; nothing else in frame, no text, no stars, no ground"
+    },
+    {
+      "id": "G-SMOKE", "role": "overlay", "alt": "",
+      "usedFor": ["screen-blend smoke layer", "Higgsfield source for V-SMOKE"],
+      "prompt": "Elegant swirling white smoke wisps and curls flowing horizontally across a pure black background, silky translucent ribbons with fine detail, soft side light, high detail photograph; no text, nothing else in frame"
+    },
+    {
+      "id": "G-BUD", "role": "cutout", "cutout": true, "file": "assets/generated/g-bud.png", "input": { "aspect_ratio": "3:4" }, "alt": "",
+      "usedFor": ["protruding bud layer (home categories, CTA)"],
+      "prompt": "Studio macro photograph of a single dense frosty cannabis flower bud covered in glistening trichomes, bright orange pistils, deep green with purple hues, floating at a slight angle, centred on a seamless plain mid grey background, soft diffused light with gentle rim light, crisp fine detail, high resolution; no text, no logos, no people, no hands, no smoke, no leaves cut off at the frame"
+    },
+    {
+      "id": "G-PLANE", "role": "cutout", "cutout": true, "file": "assets/generated/g-plane.png", "input": { "aspect_ratio": "3:2" }, "alt": "",
+      "usedFor": ["paper-plane layer gliding across sections (Frequent Flyer Club, hero)"],
+      "prompt": "Studio photograph of a neatly folded paper airplane made from thin translucent white rolling paper, crisp sharp folds, three-quarter view as if gliding upward, centred on a seamless plain light grey background, soft diffused studio light, fine paper fibre texture visible, high resolution; no text, no logos, no printing, no people, no hands, no strings"
+    },
+    {
+      "id": "G-LEAF", "role": "cutout", "cutout": true, "file": "assets/generated/g-leaf.png", "input": { "aspect_ratio": "1:1" }, "alt": "",
+      "usedFor": ["floating fan-leaf layer behind glass panels"],
+      "prompt": "Studio photograph of a single fresh cannabis fan leaf with seven serrated leaflets, vivid natural green, perfectly flat and symmetrical, centred on a seamless plain light grey background, soft diffused light, crisp detail, high resolution; no text, no logos, no people, no hands, no stem cut off"
+    },
+    {
+      "id": "G-DUSK", "role": "banner", "input": { "aspect_ratio": "21:9" }, "alt": "",
+      "usedFor": ["inner page heroes (about, contact, reviews, merch, promos)"],
+      "prompt": "Ethereal cloudscape at dusk photographed from airplane altitude, layered soft clouds in rose, peach and lavender under a deep violet sky, a warm golden glow along the far horizon, dreamy haze, cinematic wide photograph with calm open sky; no people, no text, no aircraft, no wing, no buildings"
+    },
+    {
+      "id": "G-AURORA", "role": "banner", "input": { "aspect_ratio": "21:9" }, "alt": "",
+      "usedFor": ["delivery pages hero", "Higgsfield source for V-AURORA"],
+      "prompt": "Emerald green aurora ribbons flowing above a soft sea of moonlit clouds at night, deep navy sky full of faint stars, a subtle warm golden glow on the horizon, ethereal and calm, cinematic wide photograph; no people, no text, no buildings, no trees, no aircraft"
+    },
+    {
+      "id": "G-ORBIT", "role": "banner", "input": { "aspect_ratio": "21:9" }, "alt": "",
+      "usedFor": ["Orbit Shop hero", "footer band", "blog hero"],
+      "prompt": "View from the edge of space at night: the thin glowing band of blue and amber atmosphere along the gently curved horizon above luminous cloud tops, deep black space with a field of stars, cinematic, ultra detailed photograph; no text, no spacecraft, no satellites, no people, no sun flare"
+    },
+    {
+      "id": "G-TRICHOME", "role": "banner", "alt": "",
+      "usedFor": ["blog and education heroes", "flower category atmosphere"],
+      "prompt": "Extreme macro photograph of cannabis trichomes, crystal-like glistening resin heads on a green and purple sugar leaf, shallow depth of field, soft dreamy bokeh, dark moody background with warm amber rim light; no text, no people"
+    },
+    {
+      "id": "G-RESIN", "role": "banner", "alt": "",
+      "usedFor": ["live resin and concentrates pages"],
+      "prompt": "Macro photograph of golden amber cannabis live resin concentrate glistening on a dark smoked glass surface, honey-like translucent texture with tiny sugar crystals, warm backlight glowing through it, dark moody background, shallow depth of field; no text, no logos, no people, no tools, no packaging"
+    },
+    {
+      "id": "G-PREROLL", "role": "banner", "alt": "",
+      "usedFor": ["pre-rolls page hero"],
+      "prompt": "A single pre-rolled cannabis joint in natural unbleached paper resting on dark smoked glass, a thin ribbon of white smoke curling upward from its tip, deep moody background with soft red and amber rim light, shallow depth of field, cinematic photograph; no text, no logos, no people, no hands, no ashtray, no packaging"
+    },
+    {
+      "id": "G-PARCEL", "role": "banner", "alt": "",
+      "usedFor": ["delivery hub and same-day delivery heroes"],
+      "prompt": "A sleek plain matte black parcel box resting on the leather passenger seat of a car at night, soft blurred city street lights bokeh in warm amber and red through the window, cinematic moody photograph, shallow depth of field; no text, no logos, no labels, no people, no hands, no steering wheel"
+    },
+    {
+      "id": "G-CITY-GLOW", "role": "banner", "alt": "",
+      "usedFor": ["home 'Weed Delivery in DC' band", "recreational dispensary page"],
+      "prompt": "Night aerial photograph through thin drifting clouds of a city street grid glowing with warm amber lights far below, soft fog layers catching the light, deep blue night tones, cinematic and dreamy; no recognisable landmarks, no monuments, no text, no people, no aircraft"
+    }
+  ]
+}

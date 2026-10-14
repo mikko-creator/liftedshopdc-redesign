@@ -1,0 +1,350 @@
+{
+ "path": "/delivery/hagerstown-md/",
+ "url": "https://www.liftedshopdc.com/delivery/hagerstown-md/",
+ "kind": "page",
+ "head": {
+  "title": "Cannabis Delivery in Hagerstown, MD | Lifted Shop",
+  "description": "Get premium cannabis delivered in Hagerstown, MD. Lifted Shop offers discreet service, consistent quality, and a sourced product lineup.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://www.liftedshopdc.com/delivery/hagerstown-md/",
+  "og": {
+   "og:locale": "en_US",
+   "og:type": "article",
+   "og:title": "Cannabis Delivery in Hagerstown, MD | Lifted Shop",
+   "og:description": "Get premium cannabis delivered in Hagerstown, MD. Lifted Shop offers discreet service, consistent quality, and a sourced product lineup.",
+   "og:url": "https://www.liftedshopdc.com/delivery/hagerstown-md/",
+   "og:site_name": "LIFTED SHOP, DC",
+   "article:modified_time": "2026-05-25T16:26:31+00:00",
+   "twitter:card": "summary_large_image",
+   "twitter:label1": "Est. reading time",
+   "twitter:data1": "4 minutes"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "WebPage",
+      "@id": "https://www.liftedshopdc.com/delivery/hagerstown-md/",
+      "url": "https://www.liftedshopdc.com/delivery/hagerstown-md/",
+      "name": "Cannabis Delivery in Hagerstown, MD | Lifted Shop",
+      "isPartOf": {
+       "@id": "https://www.liftedshopdc.com/#website"
+      },
+      "datePublished": "2026-01-09T18:48:43+00:00",
+      "dateModified": "2026-05-25T16:26:31+00:00",
+      "description": "Get premium cannabis delivered in Hagerstown, MD. Lifted Shop offers discreet service, consistent quality, and a sourced product lineup.",
+      "breadcrumb": {
+       "@id": "https://www.liftedshopdc.com/delivery/hagerstown-md/#breadcrumb"
+      },
+      "inLanguage": "en-US",
+      "potentialAction": [
+       {
+        "@type": "ReadAction",
+        "target": [
+         "https://www.liftedshopdc.com/delivery/hagerstown-md/"
+        ]
+       }
+      ]
+     },
+     {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.liftedshopdc.com/delivery/hagerstown-md/#breadcrumb",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.liftedshopdc.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Delivery",
+        "item": "https://www.liftedshopdc.com/delivery/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Hagerstown, MD"
+       }
+      ]
+     },
+     {
+      "@type": "WebSite",
+      "@id": "https://www.liftedshopdc.com/#website",
+      "url": "https://www.liftedshopdc.com/",
+      "name": "LIFTED SHOP, DC",
+      "description": "",
+      "potentialAction": [
+       {
+        "@type": "SearchAction",
+        "target": {
+         "@type": "EntryPoint",
+         "urlTemplate": "https://www.liftedshopdc.com/?s={search_term_string}"
+        },
+        "query-input": {
+         "@type": "PropertyValueSpecification",
+         "valueRequired": true,
+         "valueName": "search_term_string"
+        }
+       }
+      ],
+      "inLanguage": "en-US"
+     }
+    ]
+   }
+  ]
+ },
+ "h1": "Premier Weed Delivery in Hagerstown, MD",
+ "docId": "5331",
+ "sections": [
+  {
+   "t": "group",
+   "id": "d3314ba",
+   "children": [
+    {
+     "t": "group",
+     "id": "d8d70ea",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h1",
+       "html": "Premier Weed Delivery in Hagerstown, MD",
+       "text": "Premier Weed Delivery in Hagerstown, MD"
+      },
+      {
+       "t": "text",
+       "html": "<p>Residents of Hagerstown no longer need to spend time traveling to find top-tier cannabis. Whether you are relaxing near City Park or living in the heart of the Hub City, you can now have premium cannabis products delivered directly to your door. At <a href=\"/\"><strong>Lifted Shop</strong></a>, we offer a professional, discreet, and highly efficient delivery service designed to bring the best of the Maryland cannabis market to your private residence. We focus on quality and reliability, ensuring that every order meets the highest standards of purity and potency.</p>"
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "#orderdelivery"
+      }
+     ]
+    }
+   ],
+   "bg": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/feature-bg-3-1.jpg"
+  },
+  {
+   "t": "group",
+   "id": "57c1f0b",
+   "children": [
+    {
+     "t": "reviews",
+     "provider": "Trustindex (Google reviews)",
+     "summary": {
+      "label": "EXCELLENT",
+      "text": "EXCELLENT Based on 2410 reviews"
+     },
+     "items": [
+      {
+       "name": "Sherrene Donovan",
+       "date": "",
+       "stars": 5,
+       "text": "Great and quick service. Big fan of Burst and Devour gummies. Thank you Nancy for all your help!!!",
+       "source": "Google"
+      },
+      {
+       "name": "Muhammad ihram Pangestu",
+       "date": "",
+       "stars": 5,
+       "text": "Weed shop delivery to Irvine apartments near UCI was quick!",
+       "source": "Google"
+      },
+      {
+       "name": "Zachariah Bailey",
+       "date": "",
+       "stars": 5,
+       "text": "Smooth cannabis delivery to our Anaheim hotel, perfect for the Disney trip 😭",
+       "source": "Google"
+      },
+      {
+       "name": "Saidi Tumwa",
+       "date": "",
+       "stars": 5,
+       "text": "Mari and Mark are great! i appreciate the help they gave me",
+       "source": "Google"
+      },
+      {
+       "name": "Jennifer Turner",
+       "date": "",
+       "stars": 5,
+       "text": "Hiyab was very helpful a great bud tender",
+       "source": "Google"
+      },
+      {
+       "name": "Jamie Coleman",
+       "date": "",
+       "stars": 5,
+       "text": "I travel to DC every month for work and a buddy of mine told me about this shop; I called the shop and found out they only do delivery now (DC only has medical shops now) so I ordered from them a few times and on my most recent order, the delivery driver, JJ, was super friendly and helpful. Got my delivery within an hr of ordering and enjoyed some incredible \"high\" energy products before my flight home. Thanks!!",
+       "source": "Google"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "d169e2a",
+   "children": [
+    {
+     "t": "store",
+     "provider": "ecwid",
+     "storeId": "125946269"
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "ebbfbc2",
+   "children": [
+    {
+     "t": "group",
+     "id": "ef676b9",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "A Diverse Selection of Premium Cannabis",
+       "text": "A Diverse Selection of Premium Cannabis"
+      },
+      {
+       "t": "text",
+       "html": "<p>Our curated menu is built to accommodate every preference and experience level. We source products from the finest growers and processors to ensure a consistent and elevated experience.</p><ul><li><strong>Exotic &amp; Designer Flower:</strong> We carry a wide range of Sativa, Indica, and Hybrid strains. From high-terpene boutique flower to reliable classics, our selection is always fresh and hand-inspected.</li><li><strong>Precision-Dosed Edibles:</strong> For those who prefer a smoke-free option, we provide a variety of gummies, chocolates, and infused treats that offer consistent effects and great flavor.</li><li><strong>Vape Cartridges &amp; Disposables:</strong> Our inventory includes clean, lab-tested vape products that offer a discreet and convenient way to enjoy cannabis while on the go.</li><li><strong>High-Potency Concentrates:</strong> For the experienced consumer, we offer premium live resin, shatter, and badder with exceptional clarity and strength.</li><li><strong>Ready-to-Enjoy Pre-Rolls:</strong> Our pre-rolls are crafted with high-quality flower, offering a convenient and smooth smoking experience without the prep work.</li></ul>"
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "/shop/"
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "f673334",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "How Weed Delivery Works in Hagerstown",
+       "text": "How Weed Delivery Works in Hagerstown"
+      },
+      {
+       "t": "text",
+       "html": "<p>Getting cannabis delivered is a safe and legal process for adults in Maryland. To remain compliant with state law, all customers must be at least 21 years old and possess a valid government-issued ID.</p><ol><li><strong>Browse the Online Menu:</strong> Visit our website to see our real-time inventory and current specials. Our menu is updated constantly, so you know exactly what is available.</li><li><strong>Verify Your Age:</strong> State regulations require age verification for every purchase. You will be asked to provide a photo of your ID during the checkout process.</li><li><strong>Discreet Logistics:</strong> Our professional drivers use unmarked vehicles to ensure your privacy within your neighborhood. We prioritize safety and promptness for every route.</li><li><strong>Residential Delivery:</strong> We deliver exclusively to private residential addresses. Please have your physical ID ready for a final verification when your driver arrives.</li></ol>"
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "/shop/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "f0d1e8f",
+   "children": [
+    {
+     "t": "group",
+     "id": "37bc4a9",
+     "children": [
+      {
+       "t": "text",
+       "html": "<h2><strong>Why Choose Lifted Shop for Hagerstown Delivery?</strong></h2><p>We understand that Hagerstown residents value quality, transparency, and local expertise. We go beyond being a delivery service by acting as a trusted resource for the cannabis community. Our team is highly knowledgeable and can help you select products tailored to your specific needs, whether you are looking for relaxation, creativity, or focus.</p><p>We proudly serve all neighborhoods in and around Hagerstown, including:</p><ul><li>Halfway</li><li>Maugansville</li><li>Paramount-Long Meadow</li><li>Fountainhead-Orchard Hills</li><li>Robinwood</li></ul>"
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "/shop/"
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "a0dfdfe",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "Frequently Asked Questions",
+       "text": "Frequently Asked Questions"
+      },
+      {
+       "t": "faq",
+       "items": [
+        {
+         "q": "Is weed delivery legal in Hagerstown, MD?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>Yes. Since Maryland legalized adult-use cannabis, licensed delivery services can legally bring cannabis products to adults 21 and older at their private residences.</p>"
+          }
+         ]
+        },
+        {
+         "q": "What is the average delivery time for Hagerstown?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>While delivery times can be affected by local traffic or weather, we strive for rapid fulfillment. Most Hagerstown orders are delivered within 60 to 90 minutes.</p>"
+          }
+         ]
+        },
+        {
+         "q": "What do I need to show the driver?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>You must present a valid government-issued photo ID, such as a driver’s license or passport, to prove you are 21 or older at the time of delivery.</p>"
+          }
+         ]
+        },
+        {
+         "q": "Are there purchase limits?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>Yes. In accordance with Maryland law, individuals can purchase up to 1.5 ounces of flower, 12 grams of concentrated cannabis, or products containing up to 750mg of THC per day.</p>"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "c5a8017",
+   "children": [
+    {
+     "t": "text",
+     "html": "<h2><strong>Experience the Best in Cannabis Delivery Today</strong></h2><p>Skip the drive and let the premium dispensary experience come to you. <a href=\"/\"><strong>Lifted Shop</strong></a> is committed to providing the most reliable and high-end cannabis delivery in Washington County. Our dedication to customer service and product excellence makes us the top choice for Hagerstown residents.</p><p><strong>Place your order with Lifted Shop today.</strong></p>"
+    },
+    {
+     "t": "button",
+     "text": "ORDER DELIVERY",
+     "href": "/shop/"
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "c9501d3",
+   "children": [
+    {
+     "t": "map",
+     "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d98322.40908285325!2d-77.88263920825636!3d39.63676580543957!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c9ed151481dfdd%3A0x65f2620826df7239!2sHagerstown%2C%20MD!5e0!3m2!1sen!2sus!4v1767984728177!5m2!1sen!2sus",
+     "title": ""
+    }
+   ]
+  }
+ ],
+ "archive": null,
+ "unknownWidgets": []
+}

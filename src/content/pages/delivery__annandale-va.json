@@ -1,0 +1,276 @@
+{
+ "path": "/delivery/annandale-va/",
+ "url": "https://www.liftedshopdc.com/delivery/annandale-va/",
+ "kind": "page",
+ "head": {
+  "title": "Annandale, VA Weed Delivery",
+  "description": "Fast weed delivery in Annandale, VA, with premium cannabis, easy ordering, trusted drivers, and a wide selection delivered fast.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://www.liftedshopdc.com/delivery/annandale-va/",
+  "og": {
+   "og:locale": "en_US",
+   "og:type": "article",
+   "og:title": "Annandale, VA Weed Delivery",
+   "og:description": "Fast weed delivery in Annandale, VA, with premium cannabis, easy ordering, trusted drivers, and a wide selection delivered fast.",
+   "og:url": "https://www.liftedshopdc.com/delivery/annandale-va/",
+   "og:site_name": "LIFTED SHOP, DC",
+   "article:modified_time": "2026-05-25T16:20:54+00:00",
+   "twitter:card": "summary_large_image",
+   "twitter:label1": "Est. reading time",
+   "twitter:data1": "2 minutes"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "WebPage",
+      "@id": "https://www.liftedshopdc.com/delivery/annandale-va/",
+      "url": "https://www.liftedshopdc.com/delivery/annandale-va/",
+      "name": "Annandale, VA Weed Delivery",
+      "isPartOf": {
+       "@id": "https://www.liftedshopdc.com/#website"
+      },
+      "datePublished": "2025-12-12T21:39:29+00:00",
+      "dateModified": "2026-05-25T16:20:54+00:00",
+      "description": "Fast weed delivery in Annandale, VA, with premium cannabis, easy ordering, trusted drivers, and a wide selection delivered fast.",
+      "breadcrumb": {
+       "@id": "https://www.liftedshopdc.com/delivery/annandale-va/#breadcrumb"
+      },
+      "inLanguage": "en-US",
+      "potentialAction": [
+       {
+        "@type": "ReadAction",
+        "target": [
+         "https://www.liftedshopdc.com/delivery/annandale-va/"
+        ]
+       }
+      ]
+     },
+     {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.liftedshopdc.com/delivery/annandale-va/#breadcrumb",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.liftedshopdc.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Delivery",
+        "item": "https://www.liftedshopdc.com/delivery/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Annandale, VA"
+       }
+      ]
+     },
+     {
+      "@type": "WebSite",
+      "@id": "https://www.liftedshopdc.com/#website",
+      "url": "https://www.liftedshopdc.com/",
+      "name": "LIFTED SHOP, DC",
+      "description": "",
+      "potentialAction": [
+       {
+        "@type": "SearchAction",
+        "target": {
+         "@type": "EntryPoint",
+         "urlTemplate": "https://www.liftedshopdc.com/?s={search_term_string}"
+        },
+        "query-input": {
+         "@type": "PropertyValueSpecification",
+         "valueRequired": true,
+         "valueName": "search_term_string"
+        }
+       }
+      ],
+      "inLanguage": "en-US"
+     }
+    ]
+   }
+  ]
+ },
+ "h1": "Weed Delivery in Annandale, VA",
+ "docId": "5243",
+ "sections": [
+  {
+   "t": "group",
+   "id": "d3314ba",
+   "children": [
+    {
+     "t": "group",
+     "id": "d8d70ea",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h1",
+       "html": "Weed Delivery in Annandale, VA",
+       "text": "Weed Delivery in Annandale, VA"
+      },
+      {
+       "t": "text",
+       "html": "<p><a href=\"/\">Lifted Shop</a> offers fast and reliable weed delivery in Annandale, VA, giving local customers access to premium cannabis delivered straight to their door. If you want a simple ordering process, trustworthy drivers, and a wide selection of high-quality products, our Annandale delivery service is designed to make your experience easy from start to finish.</p>"
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "#orderdelivery"
+      }
+     ]
+    }
+   ],
+   "bg": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/feature-bg-3-1.jpg"
+  },
+  {
+   "t": "group",
+   "id": "57c1f0b",
+   "children": [
+    {
+     "t": "reviews",
+     "provider": "Trustindex (Google reviews)",
+     "summary": {
+      "label": "EXCELLENT",
+      "text": "EXCELLENT Based on 2410 reviews"
+     },
+     "items": [
+      {
+       "name": "Sherrene Donovan",
+       "date": "",
+       "stars": 5,
+       "text": "Great and quick service. Big fan of Burst and Devour gummies. Thank you Nancy for all your help!!!",
+       "source": "Google"
+      },
+      {
+       "name": "Muhammad ihram Pangestu",
+       "date": "",
+       "stars": 5,
+       "text": "Weed shop delivery to Irvine apartments near UCI was quick!",
+       "source": "Google"
+      },
+      {
+       "name": "Zachariah Bailey",
+       "date": "",
+       "stars": 5,
+       "text": "Smooth cannabis delivery to our Anaheim hotel, perfect for the Disney trip 😭",
+       "source": "Google"
+      },
+      {
+       "name": "Saidi Tumwa",
+       "date": "",
+       "stars": 5,
+       "text": "Mari and Mark are great! i appreciate the help they gave me",
+       "source": "Google"
+      },
+      {
+       "name": "Jennifer Turner",
+       "date": "",
+       "stars": 5,
+       "text": "Hiyab was very helpful a great bud tender",
+       "source": "Google"
+      },
+      {
+       "name": "Jamie Coleman",
+       "date": "",
+       "stars": 5,
+       "text": "I travel to DC every month for work and a buddy of mine told me about this shop; I called the shop and found out they only do delivery now (DC only has medical shops now) so I ordered from them a few times and on my most recent order, the delivery driver, JJ, was super friendly and helpful. Got my delivery within an hr of ordering and enjoyed some incredible \"high\" energy products before my flight home. Thanks!!",
+       "source": "Google"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "1bee0d7",
+   "children": [
+    {
+     "t": "store",
+     "provider": "ecwid",
+     "storeId": "125946269"
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "ebbfbc2",
+   "children": [
+    {
+     "t": "group",
+     "id": "ef676b9",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "What We Deliver in Annandale",
+       "text": "What We Deliver in Annandale"
+      },
+      {
+       "t": "text",
+       "html": "<p><strong>Flower Delivery:</strong> Indoor, exotic, indica, sativa, and balanced hybrid strains.</p><p><strong>Cart Delivery: </strong>Smooth, flavorful cartridges known for strong and reliable effects.</p><p><strong>Edible Delivery: </strong>A wide range of gummies, chocolates, drinks, and baked options.</p><p><strong>Concentrate Delivery: </strong>Live resin, rosin, wax, crumble, diamonds, and other premium extracts.</p><p><strong>Preroll Delivery: </strong>Single prerolls, infused prerolls, and multi packs.</p>"
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "/shop/"
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "f673334",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "How Weed Delivery Works in Annandale",
+       "text": "How Weed Delivery Works in Annandale"
+      },
+      {
+       "t": "text",
+       "html": "<ol><li><strong> Browse the Menu:</strong> Choose from a full selection of high-quality cannabis products.</li></ol><ol><li><strong> Submit Your Order: </strong>Place your order online within minutes through a simple checkout process.</li></ol><ol><li><strong> Show Valid ID: </strong>A state ID or passport is required. No medical card needed.</li></ol><ol><li><strong> Receive Same Day Delivery: </strong>A trained driver brings your order to your home or preferred meeting location.</li></ol>"
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "/shop/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "c5a8017",
+   "children": [
+    {
+     "t": "text",
+     "html": "<h2>Annandale Delivery Area</h2><p>Lifted Shop delivers throughout Annandale and nearby communities. If you are unsure whether your address is included in the delivery zone, you can contact us for quick confirmation.</p><h2>Order Weed Delivery in Annandale</h2><p>Lifted Shop makes cannabis delivery simple, fast, and reliable. You can submit an order online or by calling <a href=\"tel:7712161684\">(771) 216 1684</a>.</p>"
+    },
+    {
+     "t": "button",
+     "text": "ORDER DELIVERY",
+     "href": "/shop/"
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "c9501d3",
+   "children": [
+    {
+     "t": "map",
+     "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d49723.60998943389!2d-77.23111295610295!3d38.838744120828224!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b64cc4875d59b7%3A0x40ab0ae70cc61810!2sAnnandale%2C%20VA!5e0!3m2!1sen!2sus!4v1765575121327!5m2!1sen!2sus",
+     "title": ""
+    }
+   ]
+  }
+ ],
+ "archive": null,
+ "unknownWidgets": []
+}

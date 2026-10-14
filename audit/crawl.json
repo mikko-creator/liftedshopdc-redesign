@@ -1,0 +1,936 @@
+{
+  "origin": "https://www.liftedshopdc.com",
+  "at": "2026-10-14T01:01:30.778Z",
+  "robotsHonoured": true,
+  "gapMs": 500,
+  "max": 600,
+  "truncated": false,
+  "stopped": null,
+  "pending": [],
+  "counts": {
+    "total": 100,
+    "ok": 100,
+    "redirected": 3,
+    "notFound": 0
+  },
+  "records": [
+    {
+      "url": "https://www.liftedshopdc.com/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/index.html",
+      "bytes": 158812
+    },
+    {
+      "url": "https://www.liftedshopdc.com/does-cranberry-juice-flush-thc/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/does-cranberry-juice-flush-thc/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/does-cranberry-juice-flush-thc.html",
+      "bytes": 136068
+    },
+    {
+      "url": "https://www.liftedshopdc.com/best-weed-for-sleep/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/best-weed-for-sleep/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/best-weed-for-sleep.html",
+      "bytes": 125506
+    },
+    {
+      "url": "https://www.liftedshopdc.com/where-to-buy-weed-in-dc/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/where-to-buy-weed-in-dc/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/where-to-buy-weed-in-dc.html",
+      "bytes": 124507
+    },
+    {
+      "url": "https://www.liftedshopdc.com/is-weed-delivery-legal-dc-maryland-virginia/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/is-weed-delivery-legal-dc-maryland-virginia/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/is-weed-delivery-legal-dc-maryland-virginia.html",
+      "bytes": 127580
+    },
+    {
+      "url": "https://www.liftedshopdc.com/how-to-order-weed-delivery-dc/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/how-to-order-weed-delivery-dc/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/how-to-order-weed-delivery-dc.html",
+      "bytes": 121130
+    },
+    {
+      "url": "https://www.liftedshopdc.com/dc-weed-gifting-initiative-71/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/dc-weed-gifting-initiative-71/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/dc-weed-gifting-initiative-71.html",
+      "bytes": 127505
+    },
+    {
+      "url": "https://www.liftedshopdc.com/edibles-in-dc/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/edibles-in-dc/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/edibles-in-dc.html",
+      "bytes": 149316
+    },
+    {
+      "url": "https://www.liftedshopdc.com/shrooms-in-dc/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/shrooms-in-dc/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/shrooms-in-dc.html",
+      "bytes": 144936
+    },
+    {
+      "url": "https://www.liftedshopdc.com/cartridges-in-dc/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/cartridges-in-dc/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/cartridges-in-dc.html",
+      "bytes": 156401
+    },
+    {
+      "url": "https://www.liftedshopdc.com/concentrates/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/concentrates/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/concentrates.html",
+      "bytes": 132704
+    },
+    {
+      "url": "https://www.liftedshopdc.com/premium-weed-in-dc/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/premium-weed-in-dc/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/premium-weed-in-dc.html",
+      "bytes": 128040
+    },
+    {
+      "url": "https://www.liftedshopdc.com/indica-vs-sativa/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/indica-vs-sativa/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/indica-vs-sativa.html",
+      "bytes": 129446
+    },
+    {
+      "url": "https://www.liftedshopdc.com/best-weed-for-anxiety/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/best-weed-for-anxiety/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/best-weed-for-anxiety.html",
+      "bytes": 125366
+    },
+    {
+      "url": "https://www.liftedshopdc.com/how-long-do-edibles-last/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/how-long-do-edibles-last/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/how-long-do-edibles-last.html",
+      "bytes": 135459
+    },
+    {
+      "url": "https://www.liftedshopdc.com/what-is-thc-syrup/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/what-is-thc-syrup/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/what-is-thc-syrup.html",
+      "bytes": 133226
+    },
+    {
+      "url": "https://www.liftedshopdc.com/420-meaning/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/420-meaning/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/420-meaning.html",
+      "bytes": 123232
+    },
+    {
+      "url": "https://www.liftedshopdc.com/how-much-is-a-gram-of-weed/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/how-much-is-a-gram-of-weed/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/how-much-is-a-gram-of-weed.html",
+      "bytes": 125410
+    },
+    {
+      "url": "https://www.liftedshopdc.com/how-long-does-a-weed-high-last/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/how-long-does-a-weed-high-last/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/how-long-does-a-weed-high-last.html",
+      "bytes": 136031
+    },
+    {
+      "url": "https://www.liftedshopdc.com/is-weed-good-for-you-top-benefits-of-smoking-weed-that-you-never-knew/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/is-weed-good-for-you-top-benefits-of-smoking-weed-that-you-never-knew/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/is-weed-good-for-you-top-benefits-of-smoking-weed-that-you-never-knew.html",
+      "bytes": 139270
+    },
+    {
+      "url": "https://www.liftedshopdc.com/does-smoking-weed-cause-acne/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/does-smoking-weed-cause-acne/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/does-smoking-weed-cause-acne.html",
+      "bytes": 125735
+    },
+    {
+      "url": "https://www.liftedshopdc.com/cbd-vs-thc-whats-the-difference/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/cbd-vs-thc-whats-the-difference/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/cbd-vs-thc-whats-the-difference.html",
+      "bytes": 126345
+    },
+    {
+      "url": "https://www.liftedshopdc.com/does-kief-get-you-higher-than-weed/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/does-kief-get-you-higher-than-weed/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/does-kief-get-you-higher-than-weed.html",
+      "bytes": 117243
+    },
+    {
+      "url": "https://www.liftedshopdc.com/benefits-of-thc-to-the-body/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/benefits-of-thc-to-the-body/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/benefits-of-thc-to-the-body.html",
+      "bytes": 131168
+    },
+    {
+      "url": "https://www.liftedshopdc.com/weed-for-beginners-a-brief-guide/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/weed-for-beginners-a-brief-guide/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/weed-for-beginners-a-brief-guide.html",
+      "bytes": 132125
+    },
+    {
+      "url": "https://www.liftedshopdc.com/how-to-roll-a-joint/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/how-to-roll-a-joint/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/how-to-roll-a-joint.html",
+      "bytes": 134580
+    },
+    {
+      "url": "https://www.liftedshopdc.com/how-long-does-weed-potency-last/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/how-long-does-weed-potency-last/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/how-long-does-weed-potency-last.html",
+      "bytes": 118542
+    },
+    {
+      "url": "https://www.liftedshopdc.com/heres-what-happens-to-your-body-when-you-eat-edibles/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/heres-what-happens-to-your-body-when-you-eat-edibles/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/heres-what-happens-to-your-body-when-you-eat-edibles.html",
+      "bytes": 120077
+    },
+    {
+      "url": "https://www.liftedshopdc.com/tips-for-how-to-pass-a-thc-drug-test/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/tips-for-how-to-pass-a-thc-drug-test/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/tips-for-how-to-pass-a-thc-drug-test.html",
+      "bytes": 118752
+    },
+    {
+      "url": "https://www.liftedshopdc.com/pot-weed-marijuana-what-should-we-call-it/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/pot-weed-marijuana-what-should-we-call-it/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/pot-weed-marijuana-what-should-we-call-it.html",
+      "bytes": 119199
+    },
+    {
+      "url": "https://www.liftedshopdc.com/how-to-tell-if-weed-is-good-quality/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/how-to-tell-if-weed-is-good-quality/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/how-to-tell-if-weed-is-good-quality.html",
+      "bytes": 139370
+    },
+    {
+      "url": "https://www.liftedshopdc.com/types-of-cannabis-products/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/types-of-cannabis-products/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/types-of-cannabis-products.html",
+      "bytes": 138039
+    },
+    {
+      "url": "https://www.liftedshopdc.com/merch/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/merch/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/merch.html",
+      "bytes": 123461
+    },
+    {
+      "url": "https://www.liftedshopdc.com/promos/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/promos/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/promos.html",
+      "bytes": 114045
+    },
+    {
+      "url": "https://www.liftedshopdc.com/delivery/orbit-dc/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/delivery/orbit-dc/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/delivery__orbit-dc.html",
+      "bytes": 104709
+    },
+    {
+      "url": "https://www.liftedshopdc.com/contact/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/contact/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/contact.html",
+      "bytes": 98635
+    },
+    {
+      "url": "https://www.liftedshopdc.com/delivery/sterling-va/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/delivery/sterling-va/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/delivery__sterling-va.html",
+      "bytes": 123914
+    },
+    {
+      "url": "https://www.liftedshopdc.com/lifted-lounge/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/lifted-lounge/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/lifted-lounge.html",
+      "bytes": 112308
+    },
+    {
+      "url": "https://www.liftedshopdc.com/shop/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/shop/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/shop.html",
+      "bytes": 107121
+    },
+    {
+      "url": "https://www.liftedshopdc.com/delivery/arlington-va/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/delivery/arlington-va/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/delivery__arlington-va.html",
+      "bytes": 129041
+    },
+    {
+      "url": "https://www.liftedshopdc.com/delivery/ashburn-va/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/delivery/ashburn-va/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/delivery__ashburn-va.html",
+      "bytes": 118391
+    },
+    {
+      "url": "https://www.liftedshopdc.com/delivery/baltimore-md/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/delivery/baltimore-md/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/delivery__baltimore-md.html",
+      "bytes": 120719
+    },
+    {
+      "url": "https://www.liftedshopdc.com/delivery/fairfax-va/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/delivery/fairfax-va/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/delivery__fairfax-va.html",
+      "bytes": 120526
+    },
+    {
+      "url": "https://www.liftedshopdc.com/delivery/alexandria-va/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/delivery/alexandria-va/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/delivery__alexandria-va.html",
+      "bytes": 128303
+    },
+    {
+      "url": "https://www.liftedshopdc.com/delivery/manassas-va/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/delivery/manassas-va/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/delivery__manassas-va.html",
+      "bytes": 134785
+    },
+    {
+      "url": "https://www.liftedshopdc.com/delivery/vienna-va/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/delivery/vienna-va/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/delivery__vienna-va.html",
+      "bytes": 115464
+    },
+    {
+      "url": "https://www.liftedshopdc.com/delivery/bethesda-md/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/delivery/bethesda-md/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/delivery__bethesda-md.html",
+      "bytes": 125156
+    },
+    {
+      "url": "https://www.liftedshopdc.com/delivery/bowie-md/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/delivery/bowie-md/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/delivery__bowie-md.html",
+      "bytes": 127605
+    },
+    {
+      "url": "https://www.liftedshopdc.com/delivery/columbia-md/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/delivery/columbia-md/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/delivery__columbia-md.html",
+      "bytes": 128846
+    },
+    {
+      "url": "https://www.liftedshopdc.com/delivery/potomac-md/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/delivery/potomac-md/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/delivery__potomac-md.html",
+      "bytes": 116055
+    },
+    {
+      "url": "https://www.liftedshopdc.com/delivery/hyattsville-md/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/delivery/hyattsville-md/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/delivery__hyattsville-md.html",
+      "bytes": 116019
+    },
+    {
+      "url": "https://www.liftedshopdc.com/delivery/waldorf-md/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/delivery/waldorf-md/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/delivery__waldorf-md.html",
+      "bytes": 115975
+    },
+    {
+      "url": "https://www.liftedshopdc.com/delivery/frederick-md/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/delivery/frederick-md/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/delivery__frederick-md.html",
+      "bytes": 119120
+    },
+    {
+      "url": "https://www.liftedshopdc.com/delivery/springfield-va/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/delivery/springfield-va/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/delivery__springfield-va.html",
+      "bytes": 115854
+    },
+    {
+      "url": "https://www.liftedshopdc.com/delivery/mclean-va/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/delivery/mclean-va/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/delivery__mclean-va.html",
+      "bytes": 115286
+    },
+    {
+      "url": "https://www.liftedshopdc.com/delivery/annandale-va/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/delivery/annandale-va/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/delivery__annandale-va.html",
+      "bytes": 115358
+    },
+    {
+      "url": "https://www.liftedshopdc.com/delivery/germantown-md/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/delivery/germantown-md/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/delivery__germantown-md.html",
+      "bytes": 129287
+    },
+    {
+      "url": "https://www.liftedshopdc.com/delivery/hagerstown-md/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/delivery/hagerstown-md/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/delivery__hagerstown-md.html",
+      "bytes": 128978
+    },
+    {
+      "url": "https://www.liftedshopdc.com/delivery/lusby-md/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/delivery/lusby-md/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/delivery__lusby-md.html",
+      "bytes": 129322
+    },
+    {
+      "url": "https://www.liftedshopdc.com/delivery/maryland/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/delivery/maryland/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/delivery__maryland.html",
+      "bytes": 129110
+    },
+    {
+      "url": "https://www.liftedshopdc.com/delivery/burke-va/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/delivery/burke-va/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/delivery__burke-va.html",
+      "bytes": 126915
+    },
+    {
+      "url": "https://www.liftedshopdc.com/delivery/centreville-va/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/delivery/centreville-va/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/delivery__centreville-va.html",
+      "bytes": 125121
+    },
+    {
+      "url": "https://www.liftedshopdc.com/delivery/fredericksburg-va/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/delivery/fredericksburg-va/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/delivery__fredericksburg-va.html",
+      "bytes": 125549
+    },
+    {
+      "url": "https://www.liftedshopdc.com/delivery/oakton-va/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/delivery/oakton-va/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/delivery__oakton-va.html",
+      "bytes": 126511
+    },
+    {
+      "url": "https://www.liftedshopdc.com/delivery/tysons-va/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/delivery/tysons-va/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/delivery__tysons-va.html",
+      "bytes": 125463
+    },
+    {
+      "url": "https://www.liftedshopdc.com/pre-rolls-dc/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/pre-rolls-dc/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/pre-rolls-dc.html",
+      "bytes": 130866
+    },
+    {
+      "url": "https://www.liftedshopdc.com/live-resin-dc/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/live-resin-dc/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/live-resin-dc.html",
+      "bytes": 130665
+    },
+    {
+      "url": "https://www.liftedshopdc.com/same-day-weed-delivery-in-dc/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/same-day-weed-delivery-in-dc/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/same-day-weed-delivery-in-dc.html",
+      "bytes": 129106
+    },
+    {
+      "url": "https://www.liftedshopdc.com/recreational-dispensary-dc/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/recreational-dispensary-dc/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/recreational-dispensary-dc.html",
+      "bytes": 131393
+    },
+    {
+      "url": "https://www.liftedshopdc.com/about/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/about/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/about.html",
+      "bytes": 146156
+    },
+    {
+      "url": "https://www.liftedshopdc.com/reviews/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/reviews/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/reviews.html",
+      "bytes": 116121
+    },
+    {
+      "url": "https://www.liftedshopdc.com/blog/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/blog/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/blog.html",
+      "bytes": 124369
+    },
+    {
+      "url": "https://www.liftedshopdc.com/delivery/seven-corners-va/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/delivery/seven-corners-va/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/delivery__seven-corners-va.html",
+      "bytes": 125380
+    },
+    {
+      "url": "https://www.liftedshopdc.com/orbit-shop/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/orbit-shop/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/orbit-shop.html",
+      "bytes": 94014
+    },
+    {
+      "url": "https://www.liftedshopdc.com/delivery/laurel-md/",
+      "status": 200,
+      "chain": [
+        {
+          "from": "https://www.liftedshopdc.com/delivery/laurel-md/",
+          "status": 301,
+          "to": "https://www.liftedshopdc.com/delivery/south-laurel-md/"
+        }
+      ],
+      "finalUrl": "https://www.liftedshopdc.com/delivery/south-laurel-md/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/delivery__south-laurel-md.html",
+      "bytes": 125069
+    },
+    {
+      "url": "https://www.liftedshopdc.com/delivery/herndon-va/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/delivery/herndon-va/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/delivery__herndon-va.html",
+      "bytes": 105180
+    },
+    {
+      "url": "https://www.liftedshopdc.com/delivery/reston-va/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/delivery/reston-va/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/delivery__reston-va.html",
+      "bytes": 105717
+    },
+    {
+      "url": "https://www.liftedshopdc.com/delivery/rockville-md/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/delivery/rockville-md/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/delivery__rockville-md.html",
+      "bytes": 105795
+    },
+    {
+      "url": "https://www.liftedshopdc.com/delivery/aldie-va/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/delivery/aldie-va/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/delivery__aldie-va.html",
+      "bytes": 140365
+    },
+    {
+      "url": "https://www.liftedshopdc.com/delivery/chantilly-va/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/delivery/chantilly-va/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/delivery__chantilly-va.html",
+      "bytes": 119064
+    },
+    {
+      "url": "https://www.liftedshopdc.com/delivery/forest-heights-md/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/delivery/forest-heights-md/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/delivery__forest-heights-md.html",
+      "bytes": 106104
+    },
+    {
+      "url": "https://www.liftedshopdc.com/delivery/gainesville-va/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/delivery/gainesville-va/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/delivery__gainesville-va.html",
+      "bytes": 105652
+    },
+    {
+      "url": "https://www.liftedshopdc.com/delivery/hanover-md/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/delivery/hanover-md/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/delivery__hanover-md.html",
+      "bytes": 105126
+    },
+    {
+      "url": "https://www.liftedshopdc.com/delivery/leesburg-va/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/delivery/leesburg-va/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/delivery__leesburg-va.html",
+      "bytes": 106111
+    },
+    {
+      "url": "https://www.liftedshopdc.com/delivery/silver-spring-md/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/delivery/silver-spring-md/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/delivery__silver-spring-md.html",
+      "bytes": 105878
+    },
+    {
+      "url": "https://www.liftedshopdc.com/delivery/winchester-va/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/delivery/winchester-va/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/delivery__winchester-va.html",
+      "bytes": 105949
+    },
+    {
+      "url": "https://www.liftedshopdc.com/delivery/woodbridge-va/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/delivery/woodbridge-va/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/delivery__woodbridge-va.html",
+      "bytes": 106044
+    },
+    {
+      "url": "https://www.liftedshopdc.com/about/lifted-dispensary-dc/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/about/lifted-dispensary-dc/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/about__lifted-dispensary-dc.html",
+      "bytes": 155487
+    },
+    {
+      "url": "https://www.liftedshopdc.com/delivery/virginia/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/delivery/virginia/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/delivery__virginia.html",
+      "bytes": 124886
+    },
+    {
+      "url": "https://www.liftedshopdc.com/cannabis-dispensary-photos/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/cannabis-dispensary-photos/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/cannabis-dispensary-photos.html",
+      "bytes": 166711
+    },
+    {
+      "url": "https://www.liftedshopdc.com/delivery/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/delivery/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/delivery.html",
+      "bytes": 121788
+    },
+    {
+      "url": "https://www.liftedshopdc.com/delivery/south-laurel-md/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/delivery/south-laurel-md/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/delivery__south-laurel-md.html",
+      "bytes": 125069
+    },
+    {
+      "url": "https://www.liftedshopdc.com/author/kevin/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/author/kevin/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/author__kevin.html",
+      "bytes": 96329
+    },
+    {
+      "url": "https://www.liftedshopdc.com/author/chris/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/author/chris/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/author__chris.html",
+      "bytes": 87241
+    },
+    {
+      "url": "https://www.liftedshopdc.com/privacy-policy/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/privacy-policy/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/privacy-policy.html",
+      "bytes": 125846
+    },
+    {
+      "url": "https://www.liftedshopdc.com/orbit/",
+      "status": 200,
+      "chain": [
+        {
+          "from": "https://www.liftedshopdc.com/orbit/",
+          "status": 301,
+          "to": "https://www.liftedshopdc.com/delivery/orbit-dc/"
+        }
+      ],
+      "finalUrl": "https://www.liftedshopdc.com/delivery/orbit-dc/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/delivery__orbit-dc.html",
+      "bytes": 104709
+    },
+    {
+      "url": "https://www.liftedshopdc.com/home/",
+      "status": 200,
+      "chain": [
+        {
+          "from": "https://www.liftedshopdc.com/home/",
+          "status": 301,
+          "to": "https://www.liftedshopdc.com/"
+        }
+      ],
+      "finalUrl": "https://www.liftedshopdc.com/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/index.html",
+      "bytes": 158812
+    },
+    {
+      "url": "https://www.liftedshopdc.com/blog/2/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/blog/2/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/blog__2.html",
+      "bytes": 122977
+    },
+    {
+      "url": "https://www.liftedshopdc.com/author/kevin/page/2/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/author/kevin/page/2/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/author__kevin__page__2.html",
+      "bytes": 98165
+    },
+    {
+      "url": "https://www.liftedshopdc.com/author/kevin/page/3/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.liftedshopdc.com/author/kevin/page/3/",
+      "contentType": "text/html; charset=UTF-8",
+      "file": "audit/raw/author__kevin__page__3.html",
+      "bytes": 97800
+    }
+  ]
+}

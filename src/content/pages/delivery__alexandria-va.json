@@ -1,0 +1,373 @@
+{
+ "path": "/delivery/alexandria-va/",
+ "url": "https://www.liftedshopdc.com/delivery/alexandria-va/",
+ "kind": "page",
+ "head": {
+  "title": "Weed Delivery in Alexandria, VA",
+  "description": "Get fast, discreet weed delivery in Alexandria, VA with Lifted Shop. High-quality cannabis delivered to your door. Order now!",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://www.liftedshopdc.com/delivery/alexandria-va/",
+  "og": {
+   "og:locale": "en_US",
+   "og:type": "article",
+   "og:title": "Weed Delivery in Alexandria, VA",
+   "og:description": "Get fast, discreet weed delivery in Alexandria, VA with Lifted Shop. High-quality cannabis delivered to your door. Order now!",
+   "og:url": "https://www.liftedshopdc.com/delivery/alexandria-va/",
+   "og:site_name": "LIFTED SHOP, DC",
+   "article:modified_time": "2026-05-25T16:07:32+00:00",
+   "twitter:card": "summary_large_image",
+   "twitter:label1": "Est. reading time",
+   "twitter:data1": "4 minutes"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "WebPage",
+      "@id": "https://www.liftedshopdc.com/delivery/alexandria-va/",
+      "url": "https://www.liftedshopdc.com/delivery/alexandria-va/",
+      "name": "Weed Delivery in Alexandria, VA",
+      "isPartOf": {
+       "@id": "https://www.liftedshopdc.com/#website"
+      },
+      "datePublished": "2025-03-13T19:54:44+00:00",
+      "dateModified": "2026-05-25T16:07:32+00:00",
+      "description": "Get fast, discreet weed delivery in Alexandria, VA with Lifted Shop. High-quality cannabis delivered to your door. Order now!",
+      "breadcrumb": {
+       "@id": "https://www.liftedshopdc.com/delivery/alexandria-va/#breadcrumb"
+      },
+      "inLanguage": "en-US",
+      "potentialAction": [
+       {
+        "@type": "ReadAction",
+        "target": [
+         "https://www.liftedshopdc.com/delivery/alexandria-va/"
+        ]
+       }
+      ]
+     },
+     {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.liftedshopdc.com/delivery/alexandria-va/#breadcrumb",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.liftedshopdc.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Delivery",
+        "item": "https://www.liftedshopdc.com/delivery/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Alexandria, VA"
+       }
+      ]
+     },
+     {
+      "@type": "WebSite",
+      "@id": "https://www.liftedshopdc.com/#website",
+      "url": "https://www.liftedshopdc.com/",
+      "name": "LIFTED SHOP, DC",
+      "description": "",
+      "potentialAction": [
+       {
+        "@type": "SearchAction",
+        "target": {
+         "@type": "EntryPoint",
+         "urlTemplate": "https://www.liftedshopdc.com/?s={search_term_string}"
+        },
+        "query-input": {
+         "@type": "PropertyValueSpecification",
+         "valueRequired": true,
+         "valueName": "search_term_string"
+        }
+       }
+      ],
+      "inLanguage": "en-US"
+     }
+    ]
+   }
+  ]
+ },
+ "h1": "Weed Delivery in Alexandria, VA",
+ "docId": "2477",
+ "sections": [
+  {
+   "t": "group",
+   "id": "d3314ba",
+   "children": [
+    {
+     "t": "group",
+     "id": "d8d70ea",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h1",
+       "html": "Weed Delivery in Alexandria, VA",
+       "text": "Weed Delivery in Alexandria, VA"
+      },
+      {
+       "t": "text",
+       "html": "<p>Need premium weed delivery in Alexandria, VA? Lifted Shop brings high-quality cannabis straight to your door with fast, secure, and discreet service. Whether you’re looking for top-shelf flower, edibles, vapes, or concentrates, we make ordering easy and hassle-free.</p>"
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "#orderdelivery"
+      }
+     ]
+    }
+   ],
+   "bg": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/feature-bg-3-1.jpg"
+  },
+  {
+   "t": "group",
+   "id": "57c1f0b",
+   "children": [
+    {
+     "t": "reviews",
+     "provider": "Trustindex (Google reviews)",
+     "summary": {
+      "label": "EXCELLENT",
+      "text": "EXCELLENT Based on 2410 reviews"
+     },
+     "items": [
+      {
+       "name": "Sherrene Donovan",
+       "date": "",
+       "stars": 5,
+       "text": "Great and quick service. Big fan of Burst and Devour gummies. Thank you Nancy for all your help!!!",
+       "source": "Google"
+      },
+      {
+       "name": "Muhammad ihram Pangestu",
+       "date": "",
+       "stars": 5,
+       "text": "Weed shop delivery to Irvine apartments near UCI was quick!",
+       "source": "Google"
+      },
+      {
+       "name": "Zachariah Bailey",
+       "date": "",
+       "stars": 5,
+       "text": "Smooth cannabis delivery to our Anaheim hotel, perfect for the Disney trip 😭",
+       "source": "Google"
+      },
+      {
+       "name": "Saidi Tumwa",
+       "date": "",
+       "stars": 5,
+       "text": "Mari and Mark are great! i appreciate the help they gave me",
+       "source": "Google"
+      },
+      {
+       "name": "Jennifer Turner",
+       "date": "",
+       "stars": 5,
+       "text": "Hiyab was very helpful a great bud tender",
+       "source": "Google"
+      },
+      {
+       "name": "Jamie Coleman",
+       "date": "",
+       "stars": 5,
+       "text": "I travel to DC every month for work and a buddy of mine told me about this shop; I called the shop and found out they only do delivery now (DC only has medical shops now) so I ordered from them a few times and on my most recent order, the delivery driver, JJ, was super friendly and helpful. Got my delivery within an hr of ordering and enjoyed some incredible \"high\" energy products before my flight home. Thanks!!",
+       "source": "Google"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "5c25204",
+   "children": [
+    {
+     "t": "store",
+     "provider": "ecwid",
+     "storeId": "125946269"
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "ebbfbc2",
+   "children": [
+    {
+     "t": "group",
+     "id": "ef676b9",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "Why Choose Lifted Shop for Weed Delivery in Alexandria, VA?",
+       "text": "Why Choose Lifted Shop for Weed Delivery in Alexandria, VA?"
+      },
+      {
+       "t": "text",
+       "html": "<ul><li><p><strong>Fast &amp; Reliable Delivery:</strong> Enjoy same-day or next-day service.</p></li><li><p><strong>Top-Quality Cannabis:</strong> Explore a variety of premium flower, edibles, vapes, and more.</p></li><li><p><strong>Discreet &amp; Secure:</strong> Your privacy is our priority.</p></li><li><p><strong>Easy Online Ordering:</strong> A simple checkout process for convenience.</p></li><li><p><strong>Legal &amp; Compliant:</strong> We follow Virginia’s cannabis laws to ensure a safe experience.</p></li></ul><h2> </h2>"
+      },
+      {
+       "t": "button",
+       "text": "Order Now!",
+       "href": "/shop/"
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "f673334",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "How Our Alexandria Weed Delivery Works",
+       "text": "How Our Alexandria Weed Delivery Works"
+      },
+      {
+       "t": "text",
+       "html": "<p><strong>1. Browse Our Menu:</strong> Discover high-quality cannabis products online.</p><p><strong>2. Place Your Order:</strong> Choose your favorites and complete a secure checkout.</p><p><strong>3. Get Your Delivery:</strong> We bring your order straight to your location in Alexandria, VA.</p><p><strong>4. Enjoy!</strong> Experience premium cannabis without leaving your home.</p>"
+      },
+      {
+       "t": "button",
+       "text": "Order Now!",
+       "href": "/shop/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "810e949",
+   "children": [
+    {
+     "t": "group",
+     "id": "924e0f4",
+     "children": [
+      {
+       "t": "group",
+       "id": "f67db58",
+       "children": [
+        {
+         "t": "heading",
+         "level": "h3",
+         "html": "Testimonials",
+         "text": "Testimonials"
+        }
+       ]
+      },
+      {
+       "t": "testimonials",
+       "items": [
+        {
+         "text": "I wish I had of found this place before all the other time I wasted with other places. Professional, Friendly, Safe, Patient and On Point. All the way from Seattle and I can honestly say, I wish they had a location back at home.",
+         "name": "T.M.",
+         "title": ""
+        },
+        {
+         "text": "Friendliest shop around! Good selection and weekly specials!",
+         "name": "M.R.",
+         "title": ""
+        },
+        {
+         "text": "I’ve finally found a place where the staff shows its customers love and respect. Thanks Lifted for being my new spot for the ⛽💨💯💪",
+         "name": "B.C.",
+         "title": ""
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "b0cefe5",
+     "children": [
+      {
+       "t": "map",
+       "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d49740.15291679534!2d-77.13210859774325!3d38.815062285526984!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b64d3e93a4abf1%3A0xd7f52686dbc1012c!2sAlexandria%2C%20VA!5e0!3m2!1sen!2sus!4v1741895603615!5m2!1sen!2sus",
+       "title": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "cf41d89",
+   "children": [
+    {
+     "t": "heading",
+     "level": "h2",
+     "html": "FAQs About Weed Delivery",
+     "text": "FAQs About Weed Delivery"
+    },
+    {
+     "t": "faq",
+     "items": [
+      {
+       "q": "Is weed delivery legal in Alexandria, VA?",
+       "blocks": [
+        {
+         "t": "text",
+         "html": "<p>Yes! We operate in compliance with Virginia’s cannabis regulations to ensure safe and legal delivery.</p>"
+        }
+       ]
+      },
+      {
+       "q": "How quickly can I receive my order?",
+       "blocks": [
+        {
+         "t": "text",
+         "html": "<p>We offer same-day and next-day delivery based on availability.</p>"
+        }
+       ]
+      },
+      {
+       "q": "Do I need a medical card to order?",
+       "blocks": [
+        {
+         "t": "text",
+         "html": "<p>No, our service is for recreational users—no medical card required.</p>"
+        }
+       ]
+      },
+      {
+       "q": "Do you deliver throughout Alexandria?",
+       "blocks": [
+        {
+         "t": "text",
+         "html": "<p>Yes! We serve all of Alexandria, VA, and surrounding areas.</p>"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "heading",
+     "level": "h2",
+     "html": "Order Weed Delivery in Alexandria, VA Today",
+     "text": "Order Weed Delivery in Alexandria, VA Today"
+    },
+    {
+     "t": "text",
+     "html": "<p>Skip the trip to the dispensary and enjoy fast, discreet cannabis delivery with Lifted Shop. Place your order now for premium weed delivery in Alexandria, VA.</p>"
+    },
+    {
+     "t": "button",
+     "text": "ORDER DELIVERY",
+     "href": "/shop/"
+    }
+   ]
+  }
+ ],
+ "archive": null,
+ "unknownWidgets": []
+}

@@ -1,0 +1,332 @@
+{
+ "path": "/delivery/virginia/",
+ "url": "https://www.liftedshopdc.com/delivery/virginia/",
+ "kind": "page",
+ "head": {
+  "title": "#1 Weed Delivery in Virginia | Same-Day Service",
+  "description": "Fast, discreet weed delivery across Northern Virginia. Premium THC flower, edibles, & vapes delivered same-day. Call (771) 216-1684.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://www.liftedshopdc.com/delivery/virginia/",
+  "og": {
+   "og:locale": "en_US",
+   "og:type": "article",
+   "og:title": "#1 Weed Delivery in Virginia | Same-Day Service",
+   "og:description": "Fast, discreet weed delivery across Northern Virginia. Premium THC flower, edibles, & vapes delivered same-day. Call (771) 216-1684.",
+   "og:url": "https://www.liftedshopdc.com/delivery/virginia/",
+   "og:site_name": "LIFTED SHOP, DC",
+   "article:modified_time": "2026-08-04T15:04:43+00:00",
+   "twitter:card": "summary_large_image",
+   "twitter:label1": "Est. reading time",
+   "twitter:data1": "2 minutes"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "WebPage",
+      "@id": "https://www.liftedshopdc.com/delivery/virginia/",
+      "url": "https://www.liftedshopdc.com/delivery/virginia/",
+      "name": "#1 Weed Delivery in Virginia | Same-Day Service",
+      "isPartOf": {
+       "@id": "https://www.liftedshopdc.com/#website"
+      },
+      "datePublished": "2026-02-13T10:45:59+00:00",
+      "dateModified": "2026-08-04T15:04:43+00:00",
+      "description": "Fast, discreet weed delivery across Northern Virginia. Premium THC flower, edibles, & vapes delivered same-day. Call (771) 216-1684.",
+      "breadcrumb": {
+       "@id": "https://www.liftedshopdc.com/delivery/virginia/#breadcrumb"
+      },
+      "inLanguage": "en-US",
+      "potentialAction": [
+       {
+        "@type": "ReadAction",
+        "target": [
+         "https://www.liftedshopdc.com/delivery/virginia/"
+        ]
+       }
+      ]
+     },
+     {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.liftedshopdc.com/delivery/virginia/#breadcrumb",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.liftedshopdc.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Delivery",
+        "item": "https://www.liftedshopdc.com/delivery/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Virginia"
+       }
+      ]
+     },
+     {
+      "@type": "WebSite",
+      "@id": "https://www.liftedshopdc.com/#website",
+      "url": "https://www.liftedshopdc.com/",
+      "name": "LIFTED SHOP, DC",
+      "description": "",
+      "potentialAction": [
+       {
+        "@type": "SearchAction",
+        "target": {
+         "@type": "EntryPoint",
+         "urlTemplate": "https://www.liftedshopdc.com/?s={search_term_string}"
+        },
+        "query-input": {
+         "@type": "PropertyValueSpecification",
+         "valueRequired": true,
+         "valueName": "search_term_string"
+        }
+       }
+      ],
+      "inLanguage": "en-US"
+     }
+    ]
+   }
+  ]
+ },
+ "h1": "Premium Weed Delivery Throughout Virginia",
+ "docId": "5433",
+ "sections": [
+  {
+   "t": "group",
+   "id": "d3314ba",
+   "children": [
+    {
+     "t": "group",
+     "id": "78449aa",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h1",
+       "html": "Premium Weed Delivery Throughout Virginia",
+       "text": "Premium Weed Delivery Throughout Virginia"
+      },
+      {
+       "t": "text",
+       "html": "<p>Why wait in line at a dispensary or settle for subpar quality? <a href=\"/\"><strong>Lifted Shop</strong></a> provides Virginia residents with an elite, professional delivery service that prioritizes three things: <strong>quality, speed, and absolute discretion. </strong>As Virginia’s legal landscape evolves in 2026, we remain the most trusted source for adult-use (21+) cannabis.</p>"
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "#orderdelivery"
+      }
+     ]
+    }
+   ],
+   "bg": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/feature-bg-3-1.jpg"
+  },
+  {
+   "t": "group",
+   "id": "cf6ed66",
+   "children": [
+    {
+     "t": "reviews",
+     "provider": "Trustindex (Google reviews)",
+     "summary": {
+      "label": "EXCELLENT",
+      "text": "EXCELLENT Based on 2410 reviews"
+     },
+     "items": [
+      {
+       "name": "Sherrene Donovan",
+       "date": "",
+       "stars": 5,
+       "text": "Great and quick service. Big fan of Burst and Devour gummies. Thank you Nancy for all your help!!!",
+       "source": "Google"
+      },
+      {
+       "name": "Muhammad ihram Pangestu",
+       "date": "",
+       "stars": 5,
+       "text": "Weed shop delivery to Irvine apartments near UCI was quick!",
+       "source": "Google"
+      },
+      {
+       "name": "Zachariah Bailey",
+       "date": "",
+       "stars": 5,
+       "text": "Smooth cannabis delivery to our Anaheim hotel, perfect for the Disney trip 😭",
+       "source": "Google"
+      },
+      {
+       "name": "Saidi Tumwa",
+       "date": "",
+       "stars": 5,
+       "text": "Mari and Mark are great! i appreciate the help they gave me",
+       "source": "Google"
+      },
+      {
+       "name": "Jennifer Turner",
+       "date": "",
+       "stars": 5,
+       "text": "Hiyab was very helpful a great bud tender",
+       "source": "Google"
+      },
+      {
+       "name": "Jamie Coleman",
+       "date": "",
+       "stars": 5,
+       "text": "I travel to DC every month for work and a buddy of mine told me about this shop; I called the shop and found out they only do delivery now (DC only has medical shops now) so I ordered from them a few times and on my most recent order, the delivery driver, JJ, was super friendly and helpful. Got my delivery within an hr of ordering and enjoyed some incredible \"high\" energy products before my flight home. Thanks!!",
+       "source": "Google"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "6da8062",
+   "children": [
+    {
+     "t": "store",
+     "provider": "ecwid",
+     "storeId": "125946269"
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "ebbfbc2",
+   "children": [
+    {
+     "t": "group",
+     "id": "306ff37",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "The Lift Shop Menu",
+       "text": "The Lift Shop Menu"
+      },
+      {
+       "t": "text",
+       "html": "<ul><li><strong>Exotic Flower:</strong> From heavy-hitting Indicas to uplifting Sativas, our flower is cured to perfection.</li><li><strong>Artisan Edibles:</strong> Precision-dosed gummies, chocolates, and drinks that offer a clean, reliable experience.</li><li><strong>Concentrates &amp; Vapes:</strong> Pure, lab-tested oils and solventless rosins for those who demand the best.</li></ul>"
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "/shop/"
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "31e8311",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "How to Get Started",
+       "text": "How to Get Started"
+      },
+      {
+       "t": "text",
+       "html": "<p><strong>1. Browse:</strong> Select your products from our live online menu.</p><p><strong>2. Verify:</strong> Submit your 21+ ID for instant verification (no medical card required).</p><p><strong>3. Relax:</strong> We’ll text you with an ETA. Meet your professional driver at your residential address and enjoy!</p>"
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "/shop/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "810e949",
+   "children": [
+    {
+     "t": "group",
+     "id": "961fd26",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "Service Areas Throughout Virginia",
+       "text": "Service Areas Throughout Virginia"
+      },
+      {
+       "t": "text",
+       "html": "<p>We have expanded our logistics network to cover nearly every major residential hub in the Commonwealth. Find your city below to see our local coverage:</p><ul><li><strong>Northern Virginia:</strong><a href=\"/delivery/arlington-va/\"> Arlington</a>, <a href=\"/delivery/alexandria-va/\">Alexandria</a>, <a href=\"/delivery/fairfax-va/\">Fairfax</a>, <a href=\"/delivery/annandale-va/\">Annandale</a>, <a href=\"/delivery/tysons-va/\">Tysons</a>, <a href=\"/delivery/mclean-va/\">McLean</a>, <a href=\"/delivery/springfield-va/\">Springfield,</a> <a href=\"/delivery/burke-va/\">Burke</a>, <a href=\"/delivery/vienna-va/\">Vienna</a>, <a href=\"/delivery/oakton-va/\">Oakton</a>, and <a href=\"/delivery/seven-corners-va/\">Seven Corners</a>. </li><li><strong>Loudoun &amp; Dulles Corridor: </strong><a href=\"/delivery/ashburn-va/\">Ashburn</a>, <a href=\"/delivery/sterling-va/\">Sterling</a>, <a href=\"/delivery/reston-va/\">Reston</a>, <a href=\"/delivery/herndon-va/\">Herndon</a>, <a href=\"/delivery/leesburg-va/\">Leesburg</a>, and <a href=\"/delivery/aldie-va/\">Aldie</a>.</li><li><strong>Prince William &amp; Southern VA:</strong><a href=\"/delivery/manassas-va/\"> Manassas</a>, Manassas Park, <a href=\"/delivery/gainesville-va/\">Gainesville</a> &amp; Haymarket, <a href=\"/delivery/woodbridge-va/\">Woodbridge</a>, and <a href=\"/delivery/fredericksburg-va/\">Fredericksburg</a>. </li><li><strong>Western &amp; Peripheral Coverage:</strong> <a href=\"/delivery/chantilly-va/\">Chantilly</a>, <a href=\"/delivery/centreville-va/\">Centreville</a>, and <a href=\"/delivery/winchester-va/\">Winchester</a>. </li></ul>"
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "/shop/"
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "b0cefe5",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "Frequently Asked Questions",
+       "text": "Frequently Asked Questions"
+      },
+      {
+       "t": "faq",
+       "items": [
+        {
+         "q": "Is weed delivery legal in Virginia?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>Under 2026 Virginia guidelines, adult sharing and possession of up to a legal limit is permitted for those 21+. Lifted Shop operates a gifting service in strict compliance with these regulations.</p>"
+          }
+         ]
+        },
+        {
+         "q": "What is the fastest way to get delivery?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>Calling <strong>(771) 216-1684</strong> is the fastest way to get a live update on driver availability in your specific neighborhood.</p>"
+          }
+         ]
+        },
+        {
+         "q": "Do you deliver to my specific neighborhood?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>If you are in any of the cities listed above (from <strong>Aldie</strong> to <strong>Winchester</strong>), we have you covered. We deliver to private residential addresses throughout Northern and Western Virginia.</p>"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "b52ee0a",
+   "children": [
+    {
+     "t": "map",
+     "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3220435.2689602007!2d-82.06549132819985!3d37.97814873575554!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x884cd670bdbcb2cd%3A0xc04e4149b746a695!2sVirginia!5e0!3m2!1sen!2sus!4v1771286431422!5m2!1sen!2sus",
+     "title": ""
+    }
+   ]
+  }
+ ],
+ "archive": null,
+ "unknownWidgets": []
+}

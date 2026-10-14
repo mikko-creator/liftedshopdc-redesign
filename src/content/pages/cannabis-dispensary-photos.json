@@ -1,0 +1,1015 @@
+{
+ "path": "/cannabis-dispensary-photos/",
+ "url": "https://www.liftedshopdc.com/cannabis-dispensary-photos/",
+ "kind": "page",
+ "head": {
+  "title": "Before and After Photos Washington DC - Cannabis Dispensary Gallery Lifted Shop",
+  "description": "before and after patient photos from Washington DC Cannabis Dispensary Specialist Lifted Shop",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://www.liftedshopdc.com/cannabis-dispensary-photos/",
+  "og": {
+   "og:locale": "en_US",
+   "og:type": "article",
+   "og:title": "Before and After Photos Washington DC - Cannabis Dispensary Gallery Lifted Shop",
+   "og:description": "before and after patient photos from Washington DC Cannabis Dispensary Specialist Lifted Shop",
+   "og:url": "https://www.liftedshopdc.com/cannabis-dispensary-photos/",
+   "og:site_name": "LIFTED SHOP, DC",
+   "article:modified_time": "2026-08-04T15:06:23+00:00",
+   "og:image": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Lifted-Rocket-Logo-1.png",
+   "og:image:width": "1000",
+   "og:image:height": "1000",
+   "og:image:type": "image/png",
+   "twitter:card": "summary_large_image",
+   "twitter:label1": "Est. reading time",
+   "twitter:data1": "28 minutes"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "WebPage",
+      "@id": "https://www.liftedshopdc.com/cannabis-dispensary-photos/",
+      "url": "https://www.liftedshopdc.com/cannabis-dispensary-photos/",
+      "name": "Before and After Photos Washington DC - Cannabis Dispensary Gallery Lifted Shop",
+      "isPartOf": {
+       "@id": "https://www.liftedshopdc.com/#website"
+      },
+      "primaryImageOfPage": {
+       "@id": "https://www.liftedshopdc.com/cannabis-dispensary-photos/#primaryimage"
+      },
+      "image": {
+       "@id": "https://www.liftedshopdc.com/cannabis-dispensary-photos/#primaryimage"
+      },
+      "thumbnailUrl": "http://www.liftedshopdc.com/wp-content/uploads/2024/06/Lifted-Rocket-Logo-1-768x768.png",
+      "datePublished": "2024-07-10T16:02:12+00:00",
+      "dateModified": "2026-08-04T15:06:23+00:00",
+      "description": "before and after patient photos from Washington DC Cannabis Dispensary Specialist Lifted Shop",
+      "breadcrumb": {
+       "@id": "https://www.liftedshopdc.com/cannabis-dispensary-photos/#breadcrumb"
+      },
+      "inLanguage": "en-US",
+      "potentialAction": [
+       {
+        "@type": "ReadAction",
+        "target": [
+         "https://www.liftedshopdc.com/cannabis-dispensary-photos/"
+        ]
+       }
+      ]
+     },
+     {
+      "@type": "ImageObject",
+      "inLanguage": "en-US",
+      "@id": "https://www.liftedshopdc.com/cannabis-dispensary-photos/#primaryimage",
+      "url": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Lifted-Rocket-Logo-1.png",
+      "contentUrl": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Lifted-Rocket-Logo-1.png",
+      "width": 1000,
+      "height": 1000
+     },
+     {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.liftedshopdc.com/cannabis-dispensary-photos/#breadcrumb",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.liftedshopdc.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Cannabis Dispensary Photos"
+       }
+      ]
+     },
+     {
+      "@type": "WebSite",
+      "@id": "https://www.liftedshopdc.com/#website",
+      "url": "https://www.liftedshopdc.com/",
+      "name": "LIFTED SHOP, DC",
+      "description": "",
+      "potentialAction": [
+       {
+        "@type": "SearchAction",
+        "target": {
+         "@type": "EntryPoint",
+         "urlTemplate": "https://www.liftedshopdc.com/?s={search_term_string}"
+        },
+        "query-input": {
+         "@type": "PropertyValueSpecification",
+         "valueRequired": true,
+         "valueName": "search_term_string"
+        }
+       }
+      ],
+      "inLanguage": "en-US"
+     }
+    ]
+   }
+  ]
+ },
+ "h1": "Cannabis Dispensary Photos",
+ "docId": "1323",
+ "sections": [
+  {
+   "t": "group",
+   "id": "1872fa3d",
+   "children": [
+    {
+     "t": "group",
+     "id": "f1464d4",
+     "children": [
+      {
+       "t": "image",
+       "img": {
+        "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Lifted-Rocket-Logo-1.png",
+        "alt": "",
+        "w": 768,
+        "h": 768
+       },
+       "href": null,
+       "caption": null,
+       "anim": "zoomIn"
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "24d4c34a",
+     "children": [
+      {
+       "t": "carousel",
+       "items": [
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Higher-Frequency-Bag-2.png",
+          "alt": "Higher-Frequency-Bag-2",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Casanova-Fly-Bag.png",
+          "alt": "Casanova-Fly-Bag",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/bag-2.png",
+          "alt": "bag-2",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Dust-Mac-Bag-2.png",
+          "alt": "Dust-Mac-Bag-2",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Sugarland-Delight-Bag.png",
+          "alt": "Sugarland-Delight-Bag",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Onyx-Slam-Bag.png",
+          "alt": "Onyx-Slam-Bag",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        }
+       ]
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "/shop/"
+      }
+     ]
+    }
+   ],
+   "bg": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/feature-bg-3-1.jpg"
+  },
+  {
+   "t": "group",
+   "id": "9469bef",
+   "children": [
+    {
+     "t": "group",
+     "id": "7b657571",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h1",
+       "html": "Cannabis Dispensary Photos",
+       "text": "Cannabis Dispensary Photos"
+      },
+      {
+       "t": "heading",
+       "level": "p",
+       "html": "Flowers",
+       "text": "Flowers"
+      },
+      {
+       "t": "text",
+       "html": "<p>Exotic Flowers &amp; Shrooms (5g)</p>"
+      },
+      {
+       "t": "carousel",
+       "items": [
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/exotic-1-Black-Mamba.jpg",
+          "alt": "exotic-1-Black-Mamba",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/exotic-15-2.jpg",
+          "alt": "exotic-15 (2)",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/exotic-13.jpg",
+          "alt": "exotic-13",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/exotic-16.jpg",
+          "alt": "exotic-16",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/exotic-17.jpg",
+          "alt": "exotic-17",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/exotic-3-2.jpg",
+          "alt": "exotic-3 (2)",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "html": "<p>Exotic Flowers &amp; Shrooms (5g)</p>"
+      },
+      {
+       "t": "carousel",
+       "items": [
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/flowers-1.jpg",
+          "alt": "flowers-1",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/flowers-2.jpg",
+          "alt": "flowers-2",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/flowers-3.jpg",
+          "alt": "flowers-3",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/prodcard-6-3.jpg",
+          "alt": "prodcard-6 (3)",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/flowers-4.jpg",
+          "alt": "flowers-4",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/flowers-5.jpg",
+          "alt": "flowers-5",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/flowers-6.jpg",
+          "alt": "flowers-6",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/flowers-7.jpg",
+          "alt": "flowers-7",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/flowers-8.jpg",
+          "alt": "flowers-8",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/flowers-9.jpg",
+          "alt": "flowers-9",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/flowers-10.jpg",
+          "alt": "flowers-10",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/flowers-19-studio-54.jpg",
+          "alt": "flowers-19-studio-54",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/flowers-20-gelato-45.jpg",
+          "alt": "flowers-20-gelato-45",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/flowers-13-Jetfuel-Gelato.jpg",
+          "alt": "flowers-13-Jetfuel-Gelato",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/flowers-14-Incredible-Hulk.jpg",
+          "alt": "flowers-14-Incredible-Hulk",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/flowers-16-Covid-Something-1.jpg",
+          "alt": "flowers-16-Covid-Something (1)",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/flowers-17-Platinum-Cookies-1.jpg",
+          "alt": "flowers-17-Platinum-Cookies (1)",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/flowers-18-Fruity-Pebbles.jpg",
+          "alt": "flowers-18-Fruity-Pebbles",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/flowers-11-Alpha-Blue-1.jpg",
+          "alt": "flowers-11-Alpha-Blue (1)",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/flowers-12-Cherry-Pie.jpg",
+          "alt": "flowers-12-Cherry-Pie",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "html": "<p>Designer Flowers (3.5g)</p>"
+      },
+      {
+       "t": "carousel",
+       "items": [
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/designer-flowers-3-1.jpg",
+          "alt": "designer-flowers-3 (1)",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/designer-flowers-4.jpg",
+          "alt": "designer-flowers-4",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/designer-flowers-5.jpg",
+          "alt": "designer-flowers-5",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/designer-flowers-6.jpg",
+          "alt": "designer-flowers-6",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/Black-Cherry-Gelato-Bag-1.png",
+          "alt": "Black-Cherry-Gelato-Bag (1)",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/Dust-Mac-Bag-2-1.png",
+          "alt": "Dust-Mac-Bag-2 (1)",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/Higher-Frequency-Bag.png",
+          "alt": "Higher-Frequency-Bag",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/Higher-Frequency-Bag-2-1.png",
+          "alt": "Higher-Frequency-Bag-2 (1)",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/Sundae-Driver-Bag.png",
+          "alt": "Sundae-Driver-Bag",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/Ya-Hemi-Bag-1.png",
+          "alt": "Ya-Hemi-Bag (1)",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        }
+       ]
+      },
+      {
+       "t": "heading",
+       "level": "p",
+       "html": "High Potency Edibles",
+       "text": "High Potency Edibles"
+      },
+      {
+       "t": "carousel",
+       "items": [
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/high-pot-edibles-8.jpg",
+          "alt": "high-pot-edibles-8",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/high-pot-edibles-12.jpg",
+          "alt": "high-pot-edibles-12",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/high-pot-edibles-1.jpg",
+          "alt": "high-pot-edibles-1",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/high-pot-edibles-2.jpg",
+          "alt": "high-pot-edibles-2",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/high-pot-edibles-3.jpg",
+          "alt": "high-pot-edibles-3",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/high-pot-edibles-6.jpg",
+          "alt": "high-pot-edibles-6",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/high-pot-edibles-11-1.jpg",
+          "alt": "high-pot-edibles-11 (1)",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/high-pot-edibles-19-3.jpg",
+          "alt": "high-pot-edibles-19 (3)",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/high-pot-edibles-22-1.jpg",
+          "alt": "high-pot-edibles-22 (1)",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/high-pot-edibles-17.jpg",
+          "alt": "high-pot-edibles-17",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/high-pot-edibles-36.jpg",
+          "alt": "high-pot-edibles-36",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/high-pot-edibles-34-Dope-Rope.jpg",
+          "alt": "high-pot-edibles-34-Dope-Rope",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        }
+       ]
+      },
+      {
+       "t": "heading",
+       "level": "p",
+       "html": "Concentrates",
+       "text": "Concentrates"
+      },
+      {
+       "t": "carousel",
+       "items": [
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/concentrates-18-3.jpg",
+          "alt": "concentrates-18 (3)",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/concentrates-17.jpg",
+          "alt": "concentrates-17",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/concentrates-4-1.jpg",
+          "alt": "concentrates-4 (1)",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/concentrates-3-1.jpg",
+          "alt": "concentrates-3 (1)",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/concentrates-1.jpg",
+          "alt": "concentrates-1",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        }
+       ]
+      },
+      {
+       "t": "heading",
+       "level": "p",
+       "html": "Premium Pre-rolls",
+       "text": "Premium Pre-rolls"
+      },
+      {
+       "t": "carousel",
+       "items": [
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/pre-rolls-24-3.jpg",
+          "alt": "pre-rolls-24 (3)",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/pre-rolls-23-1.jpg",
+          "alt": "pre-rolls-23 (1)",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/pre-rolls-22-1.jpg",
+          "alt": "pre-rolls-22 (1)",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/pre-rolls-21.jpg",
+          "alt": "pre-rolls-21",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/pre-rolls-20.jpg",
+          "alt": "pre-rolls-20",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        }
+       ]
+      },
+      {
+       "t": "heading",
+       "level": "p",
+       "html": "Premium Carts",
+       "text": "Premium Carts"
+      },
+      {
+       "t": "carousel",
+       "items": [
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/carts-10.jpg",
+          "alt": "carts-10",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/carts-6.jpg",
+          "alt": "carts-6",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/carts-8-1.jpg",
+          "alt": "carts-8 (1)",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/carts-7.jpg",
+          "alt": "carts-7",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/carts-9.jpg",
+          "alt": "carts-9",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/carts-5-1.jpg",
+          "alt": "carts-5 (1)",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/carts-1.jpg",
+          "alt": "carts-1",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/concentrates-19-2.jpg",
+          "alt": "concentrates-19 (2)",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/carts-2.jpg",
+          "alt": "carts-2",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/carts-3-1.jpg",
+          "alt": "carts-3 (1)",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "34b14625",
+     "children": [
+      {
+       "t": "button",
+       "text": "(771) 216-1684",
+       "href": "tel:7712161684"
+      },
+      {
+       "t": "text",
+       "html": "<p>OR</p><p>VIEW OUR MENU OF CANNABIS PRODUCTS</p>"
+      },
+      {
+       "t": "button",
+       "text": "Shop Now",
+       "href": "/shop/"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "archive": null,
+ "unknownWidgets": []
+}

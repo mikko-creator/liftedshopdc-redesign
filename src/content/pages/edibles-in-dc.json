@@ -1,0 +1,634 @@
+{
+ "path": "/edibles-in-dc/",
+ "url": "https://www.liftedshopdc.com/edibles-in-dc/",
+ "kind": "post",
+ "head": {
+  "title": "Edibles in DC | LIFTED SHOP, DC",
+  "description": "Lifted Shop is the #1 Cannabis Dispensary in Washington DC offering the highest quality and best prices on Edibles in DC. Click to learn more.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://www.liftedshopdc.com/edibles-in-dc/",
+  "og": {
+   "og:locale": "en_US",
+   "og:type": "article",
+   "og:title": "Edibles in DC | LIFTED SHOP, DC",
+   "og:description": "Lifted Shop is the #1 Cannabis Dispensary in Washington DC offering the highest quality and best prices on Edibles in DC. Click to learn more.",
+   "og:url": "https://www.liftedshopdc.com/edibles-in-dc/",
+   "og:site_name": "LIFTED SHOP, DC",
+   "article:published_time": "2024-07-16T17:37:43+00:00",
+   "article:modified_time": "2026-08-13T15:55:58+00:00",
+   "og:image": "http://www.liftedshopdc.com/wp-content/uploads/2024/07/Edibles-in-DC.jpg",
+   "og:image:width": "504",
+   "og:image:height": "672",
+   "og:image:type": "image/jpeg",
+   "twitter:card": "summary_large_image",
+   "twitter:label1": "Written by",
+   "twitter:data1": "kevin",
+   "twitter:label2": "Est. reading time",
+   "twitter:data2": "13 minutes"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "Article",
+      "@id": "https://www.liftedshopdc.com/edibles-in-dc/#article",
+      "isPartOf": {
+       "@id": "https://www.liftedshopdc.com/edibles-in-dc/"
+      },
+      "author": {
+       "name": "kevin",
+       "@id": "https://www.liftedshopdc.com/#/schema/person/36b5a51fea0cb8b7f7fb9d9fb2426a49"
+      },
+      "headline": "Edibles in DC",
+      "datePublished": "2024-07-16T17:37:43+00:00",
+      "dateModified": "2026-08-13T15:55:58+00:00",
+      "mainEntityOfPage": {
+       "@id": "https://www.liftedshopdc.com/edibles-in-dc/"
+      },
+      "wordCount": 1705,
+      "image": {
+       "@id": "https://www.liftedshopdc.com/edibles-in-dc/#primaryimage"
+      },
+      "thumbnailUrl": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/Edibles-in-DC.jpg",
+      "articleSection": [
+       "Cannabis Guides"
+      ],
+      "inLanguage": "en-US"
+     },
+     {
+      "@type": "WebPage",
+      "@id": "https://www.liftedshopdc.com/edibles-in-dc/",
+      "url": "https://www.liftedshopdc.com/edibles-in-dc/",
+      "name": "Edibles in DC | LIFTED SHOP, DC",
+      "isPartOf": {
+       "@id": "https://www.liftedshopdc.com/#website"
+      },
+      "primaryImageOfPage": {
+       "@id": "https://www.liftedshopdc.com/edibles-in-dc/#primaryimage"
+      },
+      "image": {
+       "@id": "https://www.liftedshopdc.com/edibles-in-dc/#primaryimage"
+      },
+      "thumbnailUrl": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/Edibles-in-DC.jpg",
+      "datePublished": "2024-07-16T17:37:43+00:00",
+      "dateModified": "2026-08-13T15:55:58+00:00",
+      "author": {
+       "@id": "https://www.liftedshopdc.com/#/schema/person/36b5a51fea0cb8b7f7fb9d9fb2426a49"
+      },
+      "description": "Lifted Shop is the #1 Cannabis Dispensary in Washington DC offering the highest quality and best prices on Edibles in DC. Click to learn more.",
+      "breadcrumb": {
+       "@id": "https://www.liftedshopdc.com/edibles-in-dc/#breadcrumb"
+      },
+      "inLanguage": "en-US",
+      "potentialAction": [
+       {
+        "@type": "ReadAction",
+        "target": [
+         "https://www.liftedshopdc.com/edibles-in-dc/"
+        ]
+       }
+      ]
+     },
+     {
+      "@type": "ImageObject",
+      "inLanguage": "en-US",
+      "@id": "https://www.liftedshopdc.com/edibles-in-dc/#primaryimage",
+      "url": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/Edibles-in-DC.jpg",
+      "contentUrl": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/Edibles-in-DC.jpg",
+      "width": 504,
+      "height": 672,
+      "caption": "Edibles in DC"
+     },
+     {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.liftedshopdc.com/edibles-in-dc/#breadcrumb",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.liftedshopdc.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Edibles in DC"
+       }
+      ]
+     },
+     {
+      "@type": "WebSite",
+      "@id": "https://www.liftedshopdc.com/#website",
+      "url": "https://www.liftedshopdc.com/",
+      "name": "LIFTED SHOP, DC",
+      "description": "",
+      "potentialAction": [
+       {
+        "@type": "SearchAction",
+        "target": {
+         "@type": "EntryPoint",
+         "urlTemplate": "https://www.liftedshopdc.com/?s={search_term_string}"
+        },
+        "query-input": {
+         "@type": "PropertyValueSpecification",
+         "valueRequired": true,
+         "valueName": "search_term_string"
+        }
+       }
+      ],
+      "inLanguage": "en-US"
+     },
+     {
+      "@type": "Person",
+      "@id": "https://www.liftedshopdc.com/#/schema/person/36b5a51fea0cb8b7f7fb9d9fb2426a49",
+      "name": "kevin",
+      "image": {
+       "@type": "ImageObject",
+       "inLanguage": "en-US",
+       "@id": "https://secure.gravatar.com/avatar/0ded4728176259dd514cd3df95d945774d6163b0a8a049f1d842c93c4a11560a?s=96&d=mm&r=g",
+       "url": "https://secure.gravatar.com/avatar/0ded4728176259dd514cd3df95d945774d6163b0a8a049f1d842c93c4a11560a?s=96&d=mm&r=g",
+       "contentUrl": "https://secure.gravatar.com/avatar/0ded4728176259dd514cd3df95d945774d6163b0a8a049f1d842c93c4a11560a?s=96&d=mm&r=g",
+       "caption": "kevin"
+      },
+      "url": "https://www.liftedshopdc.com/author/kevin/"
+     }
+    ]
+   }
+  ]
+ },
+ "h1": "Edibles in DC",
+ "docId": "1641",
+ "sections": [
+  {
+   "t": "group",
+   "id": "3040fde1",
+   "children": [
+    {
+     "t": "group",
+     "id": "2ce6600c",
+     "children": [
+      {
+       "t": "image",
+       "img": {
+        "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Lifted-Rocket-Logo-1.png",
+        "alt": "",
+        "w": 768,
+        "h": 768
+       },
+       "href": null,
+       "caption": null,
+       "anim": "zoomIn"
+      },
+      {
+       "t": "heading",
+       "level": "p",
+       "html": "Get ready for liftoff!",
+       "text": "Get ready for liftoff!"
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "29ab7263",
+     "children": [
+      {
+       "t": "carousel",
+       "items": [
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Higher-Frequency-Bag-2.png",
+          "alt": "Higher-Frequency-Bag-2",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Casanova-Fly-Bag.png",
+          "alt": "Casanova-Fly-Bag",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/bag-2.png",
+          "alt": "bag-2",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Dust-Mac-Bag-2.png",
+          "alt": "Dust-Mac-Bag-2",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Sugarland-Delight-Bag.png",
+          "alt": "Sugarland-Delight-Bag",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Onyx-Slam-Bag.png",
+          "alt": "Onyx-Slam-Bag",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        }
+       ]
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": null
+      }
+     ]
+    }
+   ],
+   "bg": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/feature-bg-3-1.jpg"
+  },
+  {
+   "t": "group",
+   "id": "4212828c",
+   "children": [
+    {
+     "t": "group",
+     "id": "52ebbea9",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h1",
+       "html": "Edibles in DC",
+       "text": "Edibles in DC"
+      },
+      {
+       "t": "text",
+       "html": "<p>by Lifted Shop</p><p>A high-potency edible cannabis treat is one of the most effective ways to enjoy weed, and tickle your tastebuds at the same time! And when you’re in need of a sweet, therapeutic way to relax and unwind, you can be sure Lifted DC and Orbit will be there to provide high-quality THC-infused treats for you to consume.</p><p>We understand that as a cannabis connoisseur, you’re sometimes looking for a way to get what you want from weed without smoking. Edibles can be a great option for those who want a discreet and convenient way of consuming cannabis. They are also ideal for individuals who are new to cannabis and want to start with a controlled dose. That’s why we have one of the best selections of high-potency edibles in the DC area!</p><p>Situated just yards from historic Howard University, Lifted DC provides the highest quality cannabis products, including Exotic Flowers, Premium Flowers, Premium Carts, Concentrates, Pre-Rolls and more! To get started with your Lifted DC order, for delivery or pickup, simply use our online order system and follow the instructions on screen. If you have questions about your order, get in touch with us by calling <a href=\"tel:2023328495\">(202) 332-8495</a> or by filling out an online form.</p><p>Find out more about Who We Are.</p><p>Weed for delivery in:</p>"
+      },
+      {
+       "t": "group",
+       "id": "a781f80",
+       "children": [
+        {
+         "t": "text",
+         "html": "<ul><li><a href=\"/delivery/aldie-va/\">Aldie, VA</a></li><li><a href=\"/delivery/baltimore-md/\">Baltimore, MD</a></li><li><a href=\"/delivery/hanover-md/\">Hanover, MD</a></li><li><a href=\"/delivery/herndon-va/\">Herndon, VA</a></li><li><a href=\"/delivery/south-laurel-md/\">South Laurel, MD</a></li><li><a href=\"/delivery/winchester-va/\">Winchester, VA</a></li></ul>"
+        }
+       ]
+      },
+      {
+       "t": "group",
+       "id": "1cf8011e",
+       "children": [
+        {
+         "t": "heading",
+         "level": "h2",
+         "html": "ABOUT EDIBLES",
+         "text": "ABOUT EDIBLES"
+        },
+        {
+         "t": "text",
+         "html": "<p>Edibles are a popular way to consume cannabis, whether for recreational or medical purposes. They come in <strong>various forms</strong> such as gummies, chocolates, baked goods, and beverages, and offer an alternative to smoking or vaping. Edibles have a delayed onset time compared to inhalation methods, and it can take anywhere from 30 minutes to two hours to feel the full effects. It is important to start small and <strong>wait at least two hours</strong> before consuming more to avoid overconsumption and potential unwanted side effects.</p><h3><strong>WHAT IS THE DIFFERENCE BETWEEN SMOKING CANNABIS AND EATING EDIBLES?</strong></h3><p>When smoking cannabis, the effects are felt <strong>almost instantly</strong> because the THC enters the bloodstream through the lungs. On the other hand, edibles must first pass through the digestive system before the liver metabolizes them into the active compound, THC. This process can take longer to feel the effects, but the effects can <strong>last much longer</strong> than smoking.</p><h3>WHAT IS A HIGH-POTENCY EDIBLE?</h3><p>High potency edibles contain <strong>high percentages</strong> of THC. THC is the psychoactive compound in cannabis that is responsible for the “high” associated with the plant. While some people prefer low-THC or CBD-only products, others <strong>enjoy the full effects</strong> of THC.</p><p>Whether you’re new to cannabis or an experienced user, Lifted DC has something for everyone. Our products are made with the highest quality ingredients and are <strong>carefully dosed</strong> to ensure a consistent and enjoyable experience. Give us a call or stop by our Washington D.C. location today to learn more about our edibles and other <a href=\"/shop/\">cannabis products</a>.</p><p>At Lifted DC, we offer a variety of edibles to suit different preferences and needs. Our team can help you determine the right dosage and product for your individual needs. Contact us today to schedule a consultation and learn more about our edibles options.</p>"
+        }
+       ]
+      },
+      {
+       "t": "group",
+       "id": "7a52da3f",
+       "children": [
+        {
+         "t": "heading",
+         "level": "h2",
+         "html": "TYPES OF EDIBLES",
+         "text": "TYPES OF EDIBLES"
+        },
+        {
+         "t": "text",
+         "html": "<h3><strong>GUMMIES</strong></h3><p>Gummies are perfect for those who want a fun and tasty way to experience the benefits of cannabis. They come in a wide range of flavors from sour pineapple, to watermelon, to classics like Skittles and Starburst.</p><h3><strong>CHOCOLATE</strong></h3><p>Chocolate is great for those who want to enjoy a sweet treat while also getting the benefits of cannabis. THC-infused chocolates come in a range of different flavors to satisfy your sweet tooth.</p><h3><strong>COOKIES</strong></h3><p>If you’re a fan of baked goods, why not sample some weed-infused cookies? Cookies are perfect for those who want a delicious way to enjoy the benefits of cannabis.</p><h3><strong>SYRUPS</strong></h3><p>If you’d rather drink your THC, cannabis-infused syrups could be the answer. And at 1000mg a pop, they certainly pack a punch!</p>"
+        },
+        {
+         "t": "heading",
+         "level": "h2",
+         "html": "BENEFITS OF EDIBLES",
+         "text": "BENEFITS OF EDIBLES"
+        },
+        {
+         "t": "text",
+         "html": "<p>At Lifted DC, we specialize in offering high-quality edibles for our clients. Our approach is designed to provide you with a reliable and consistent experience every time you indulge. Here are some benefits you can expect from our edibles:</p>"
+        },
+        {
+         "t": "group",
+         "id": "6edd8b6",
+         "children": [
+          {
+           "t": "text",
+           "html": "<ul><li>Precise dosing: Our edibles are carefully crafted to ensure precise dosing, so you know exactly what you’re getting with each serving.</li><li>Discreet consumption: Edibles offer a discreet way to consume cannabis without drawing attention to yourself or emitting smoke or odor.</li><li>Long-lasting effects: The effects of edibles typically last longer than other methods of consumption, providing sustained relief over an extended period.</li><li>A wide range of options: We offer a variety of edibles, including cookies, brownies, gummies, chocolates, and more, so you can find the perfect product to suit your taste preferences.</li><li>Safe ingredients: We use only the highest quality ingredients in our edibles, ensuring a safe experience for our patients.</li></ul>"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "html": "<p>Whether you’re looking for pain relief, stress reduction, or just want to enjoy the therapeutic benefits of cannabis, Lifted DC has the edibles you need to achieve your goals. Contact us today to learn more about our products.</p>"
+        },
+        {
+         "t": "heading",
+         "level": "h2",
+         "html": "THE BEST WAY TO CONSUME EDIBLES",
+         "text": "THE BEST WAY TO CONSUME EDIBLES"
+        },
+        {
+         "t": "text",
+         "html": "<p>Before consuming edibles, it is important to take certain precautions to ensure a <strong>safe and enjoyable</strong> experience. Perhaps most importantly, those new to edibles should be aware of the delayed onset of their effects. <a href=\"/edibles-in-dc/#references\"><sup>(1)</sup></a> It’s also important to remember that the effects of edibles may last up to 12 hours after ingestion. <a href=\"/edibles-in-dc/#references\"><sup>(2)</sup></a></p><p>At Lifted DC, our team emphasizes the importance of preparation for all of our clients.</p>"
+        },
+        {
+         "t": "group",
+         "id": "f9a497f",
+         "children": [
+          {
+           "t": "text",
+           "html": "<ul><li>Start with a low dose and wait at least 2 hours before consuming more</li><li>Eat a light meal before consuming edibles to help with absorption and digestion</li><li>Avoid alcohol and other substances while consuming edibles</li><li>Keep edibles out of reach of children and pets</li><li>Understand the effects and potential side effects of edibles before consuming</li><li>Plan ahead and make sure you have a safe and comfortable environment for your experience.</li></ul>"
+          }
+         ]
+        },
+        {
+         "t": "heading",
+         "level": "h2",
+         "html": "EDIBLES AT ORBIT DC",
+         "text": "EDIBLES AT ORBIT DC"
+        },
+        {
+         "t": "text",
+         "html": "<h3><strong>GUMMIES</strong></h3>"
+        },
+        {
+         "t": "group",
+         "id": "82e87c8",
+         "children": [
+          {
+           "t": "text",
+           "html": "<ul><li>Trilli Gummies (Sour Octopuses) 600mg</li><li>Gummy Lifesavers (Wild Berry) 600mg</li><li>Sour Tropical Bites (10 pieces Assorted) 600mg</li><li>StoneAde Gummies (20 Assorted) 500mg *Strong</li><li>Rocket Gummies (10 Assorted) 500mg * Very Strong</li><li>Sour Cubes 10 Assorted Hard Candies, 100mg </li><li>Sweet Tart Rope Bites 600mg </li><li>Lifted Gummies (Assorted) * Very Strong</li><li>Nerd Gummy Clusters 600mg </li><li>Trilli Gummies (Strawberry Puffs) 600mg </li><li>Starburst Gummies (Original) 600mg </li><li>Skittles Gummies (Rainbow 10 pieces) 600 mg </li></ul>"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "html": "<h3><strong>CHOCOLATE</strong></h3>"
+        },
+        {
+         "t": "group",
+         "id": "01d8126",
+         "children": [
+          {
+           "t": "text",
+           "html": "<ul><li>Rocket Chocolate (Crunch) 350mg </li><li>Rocket Chocolate (Cookies &amp; Cream) 350mg </li><li>Rocket Chocolate (Strawberry) 350mg </li></ul>"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "html": "<h3><strong>TINCTURES</strong></h3><p>Lifted Tincture (Non-Alcohol Base) 1200mg</p>"
+        },
+        {
+         "t": "text",
+         "html": "<h3><strong>SYRUPS</strong></h3>"
+        },
+        {
+         "t": "group",
+         "id": "be1c123",
+         "children": [
+          {
+           "t": "text",
+           "html": "<ul><li>THCLean (Blueberry) 1000mg THC</li><li>THCLean (Watermelon) 1000mg THC</li><li>THCLean (Apple) 1000mg THC</li></ul>"
+          }
+         ]
+        },
+        {
+         "t": "heading",
+         "level": "h2",
+         "html": "HAVE YOU TRIED PSILOCYBIN?",
+         "text": "HAVE YOU TRIED PSILOCYBIN?"
+        },
+        {
+         "t": "text",
+         "html": "<p>At Lifted DC, we don’t just have the best THC-infused edibles, we also have magic mushroom-based treats!</p>"
+        },
+        {
+         "t": "group",
+         "id": "5764c5e",
+         "children": [
+          {
+           "t": "text",
+           "html": "<ul><li>Trippy Caps Chocolates 4 pieces, 4g — $150 *Psilocybin</li><li>Trippy Caps Tincture 8ML 12 Grams — $300 *BRAND NEW</li><li>Psilo-Vibin SHROOM Bar (Milk Chocolate Bar) 6g Psilocybin</li><li>Unveiled SHROOM Tea (3 Tea Bags) 1.25g per bag Psilocybin</li><li>Trippy Caps POWDER Psilocybin Powder- Mix/Drink with anything, 3g</li></ul>"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "html": "<p>Ready to order? See the full Lifted DC Menu for more details.</p>"
+        },
+        {
+         "t": "heading",
+         "level": "h2",
+         "html": "COST OF EDIBLES IN DC",
+         "text": "COST OF EDIBLES IN DC"
+        },
+        {
+         "t": "text",
+         "html": "<p>Order edibles for delivery throughout the DMV in <a href=\"/delivery/aldie-va/\">Aldie, VA</a>, <a href=\"/delivery/baltimore-md/\">Baltimore, MD</a>, <a href=\"/delivery/hanover-md/\">Hanover, MD</a>, <a href=\"/delivery/herndon-va/\">Herndon, VA</a>, <a href=\"/delivery/south-laurel-md/\">South Laurel, MD</a>, and <a href=\"/delivery/winchester-va/\">Winchester, VA</a>. If you have any questions, please don’t hesitate to contact us at <a href=\"tel:2023328495\">(202) 332-8495,</a> or fill out a <a href=\"/contact/\">contact form</a> on our website.</p>"
+        },
+        {
+         "t": "heading",
+         "level": "h2",
+         "html": "FAQ",
+         "text": "FAQ"
+        },
+        {
+         "t": "text",
+         "html": "<h3>ARE EDIBLES SAFE TO CONSUME?</h3><p>Edibles can be safe to consume as long as they are consumed responsibly and in moderation. It is crucial to purchase edibles from a reputable source that uses high-quality ingredients and accurately labels their products’ potency. It is also essential to start with a low dosage and wait for the effects to take hold before consuming more.</p>"
+        },
+        {
+         "t": "text",
+         "html": "<h3>HOW MANY EDIBLES SHOULD I EAT?</h3><p>Start with a low dose, usually between 5-10mg of THC per serving, and wait at least two hours before consuming more. It is important to note that individual tolerance levels can vary widely, so it is always best to start with a small amount and gradually increase based on personal experience.</p>"
+        },
+        {
+         "t": "text",
+         "html": "<h3>CAN EDIBLES BE USED FOR MEDICAL PURPOSES?</h3><p>Yes, edibles can be used for medical purposes such as pain management, anxiety relief, and reducing inflammation. However, it is important to consult with a medical professional before using edibles for medical reasons.</p>"
+        },
+        {
+         "t": "text",
+         "html": "<h3>ARE THERE ANY SIDE EFFECTS WHEN CONSUMING EDIBLES?</h3><p>Like any substance, there can be side effects associated with consuming edibles. Common side effects include dry mouth, red eyes, increased heart rate, and impaired coordination. These side effects can be avoided by consuming edibles responsibly and in moderation.</p>"
+        },
+        {
+         "t": "text",
+         "html": "<h3>CAN I DRIVE AFTER CONSUMING EDIBLES?</h3><p>No, it is not recommended to drive after consuming edibles. The effects of edibles can impair cognitive function and motor skills, making driving unsafe. It is important to wait until the effects of the edibles have worn off before operating a vehicle or heavy machinery.</p>"
+        },
+        {
+         "t": "text",
+         "html": "<h3>DO EDIBLES EXPIRE?</h3><p>Yes, edibles can expire, just like any food item. It is essential to check the expiration date when purchasing edibles. Be sure to store them properly to ensure they remain fresh and effective.</p>"
+        },
+        {
+         "t": "heading",
+         "level": "h2",
+         "html": "REFERENCES",
+         "text": "REFERENCES"
+        },
+        {
+         "t": "text",
+         "html": "<ol><li>Barrus D, Capogrossi K, Cates S, et al. Tasty THC: Promises and Challenges of Cannabis Edibles. Published online November 15, 2016. doi:<a href=\"https://doi.org/10.3768/rtipress.2016.op.0035.1611\" target=\"_blank\" rel=\"noopener\">https://doi.org/10.3768/rtipress.2016.op.0035.1611</a> </li><li>Zipursky JS, Bogler OD, Stall NM. Edible cannabis. <em>Canadian Medical Association Journal</em>. 2020;192(7):E162-E162. doi:<a href=\"https://doi.org/10.1503/cmaj.191305\" target=\"_blank\" rel=\"noopener\">https://doi.org/10.1503/cmaj.191305</a> </li></ol>"
+        },
+        {
+         "t": "group",
+         "id": "7805cc0",
+         "children": [
+          {
+           "t": "text",
+           "html": "<h3>Share:</h3>"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "e6bd3ab",
+     "children": [
+      {
+       "t": "testimonials",
+       "items": [
+        {
+         "text": "The “Sour Punched” single rolled is the BOMB!!!! The products here are the best I have had in NW. Pricey but worth every penny and I love the staff.",
+         "name": "G.D.",
+         "title": ""
+        },
+        {
+         "text": "I’ve finally found a place where the staff shows its customers love and respect. Thanks Lifted for being my new spot for the ⛽💨💯💪",
+         "name": "B.C.",
+         "title": ""
+        },
+        {
+         "text": "Great shop. Rick helped us out and was so nice and knowledgeable letting us know his recommendations. Much better quality and selection compared to other shops in DC.",
+         "name": "K.M",
+         "title": ""
+        }
+       ]
+      },
+      {
+       "t": "heading",
+       "level": "p",
+       "html": "Exclusives",
+       "text": "Exclusives"
+      },
+      {
+       "t": "carousel",
+       "items": [
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-1-768x1024.jpg",
+          "alt": "Grandmaster Caz’s Casanova Fly",
+          "w": null,
+          "h": null
+         },
+         "caption": "<strong>Grandmaster Caz’s</strong> Casanova Fly",
+         "href": "/shop/"
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-6.jpg",
+          "alt": "Laughing Gas Inspired by Def Comedy Jam",
+          "w": null,
+          "h": null
+         },
+         "caption": "<strong>Laughing Gas</strong> Inspired by Def Comedy Jam",
+         "href": "/shop/"
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-4-768x1034.jpg",
+          "alt": "Rakim Higher Frequency Soul Flower",
+          "w": null,
+          "h": null
+         },
+         "caption": "<strong>Rakim</strong> Higher Frequency Soul Flower",
+         "href": "/shop/"
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-5-768x1035.jpg",
+          "alt": "The Sugarhill Gang’s Sugarhill Delight",
+          "w": null,
+          "h": null
+         },
+         "caption": "<strong>The Sugarhill Gang’s</strong> Sugarhill Delight",
+         "href": "/shop/"
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-3-768x1035.jpg",
+          "alt": "DAS EFX Googley Goo",
+          "w": null,
+          "h": null
+         },
+         "caption": "<strong>DAS EFX</strong> Googley Goo",
+         "href": "/shop/"
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-2-768x1035.jpg",
+          "alt": "Onyx’s SLAM",
+          "w": null,
+          "h": null
+         },
+         "caption": "<strong>Onyx’s</strong> SLAM",
+         "href": "/shop/"
+        }
+       ]
+      },
+      {
+       "t": "group",
+       "id": "7604c27",
+       "children": [
+        {
+         "t": "button",
+         "text": "(771) 216-1684",
+         "href": "tel:7712161684"
+        },
+        {
+         "t": "text",
+         "html": "<p>OR</p><p>VIEW OUR MENU OF CANNABIS PRODUCTS</p>"
+        },
+        {
+         "t": "button",
+         "text": "Shop Now",
+         "href": "/shop/"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "archive": null,
+ "unknownWidgets": []
+}

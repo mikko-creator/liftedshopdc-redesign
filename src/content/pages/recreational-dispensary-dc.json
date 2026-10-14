@@ -1,0 +1,416 @@
+{
+ "path": "/recreational-dispensary-dc/",
+ "url": "https://www.liftedshopdc.com/recreational-dispensary-dc/",
+ "kind": "page",
+ "head": {
+  "title": "Recreational Weed Dispensary DC | Delivery & Pickup",
+  "description": "DC's top recreational cannabis dispensary. Order online for same-day delivery across Washington DC or pickup at Georgia Ave NW. 21+ only.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://www.liftedshopdc.com/recreational-dispensary-dc/",
+  "og": {
+   "og:locale": "en_US",
+   "og:type": "article",
+   "og:title": "Recreational Weed Dispensary DC | Delivery & Pickup",
+   "og:description": "DC's top recreational cannabis dispensary. Order online for same-day delivery across Washington DC or pickup at Georgia Ave NW. 21+ only.",
+   "og:url": "https://www.liftedshopdc.com/recreational-dispensary-dc/",
+   "og:site_name": "LIFTED SHOP, DC",
+   "article:modified_time": "2026-06-05T18:04:26+00:00",
+   "twitter:card": "summary_large_image",
+   "twitter:label1": "Est. reading time",
+   "twitter:data1": "4 minutes"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "WebPage",
+      "@id": "https://www.liftedshopdc.com/recreational-dispensary-dc/",
+      "url": "https://www.liftedshopdc.com/recreational-dispensary-dc/",
+      "name": "Recreational Weed Dispensary DC | Delivery & Pickup",
+      "isPartOf": {
+       "@id": "https://www.liftedshopdc.com/#website"
+      },
+      "datePublished": "2026-06-05T15:20:16+00:00",
+      "dateModified": "2026-06-05T18:04:26+00:00",
+      "description": "DC's top recreational cannabis dispensary. Order online for same-day delivery across Washington DC or pickup at Georgia Ave NW. 21+ only.",
+      "breadcrumb": {
+       "@id": "https://www.liftedshopdc.com/recreational-dispensary-dc/#breadcrumb"
+      },
+      "inLanguage": "en-US",
+      "potentialAction": [
+       {
+        "@type": "ReadAction",
+        "target": [
+         "https://www.liftedshopdc.com/recreational-dispensary-dc/"
+        ]
+       }
+      ]
+     },
+     {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.liftedshopdc.com/recreational-dispensary-dc/#breadcrumb",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.liftedshopdc.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "DC&#8217;s Recreational Weed Dispensary"
+       }
+      ]
+     },
+     {
+      "@type": "WebSite",
+      "@id": "https://www.liftedshopdc.com/#website",
+      "url": "https://www.liftedshopdc.com/",
+      "name": "LIFTED SHOP, DC",
+      "description": "",
+      "potentialAction": [
+       {
+        "@type": "SearchAction",
+        "target": {
+         "@type": "EntryPoint",
+         "urlTemplate": "https://www.liftedshopdc.com/?s={search_term_string}"
+        },
+        "query-input": {
+         "@type": "PropertyValueSpecification",
+         "valueRequired": true,
+         "valueName": "search_term_string"
+        }
+       }
+      ],
+      "inLanguage": "en-US"
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+     {
+      "@type": "Question",
+      "name": "Do I need a medical card to order?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "No. Lifted Shop serves recreational buyers. You only need to be 21 or older with a valid government-issued ID."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Can I walk into the store and browse?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "We don&#8217;t operate as a walk-in retail store. All orders are placed online either for same-day delivery or for scheduled pickup at our Georgia Ave NW location."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "How do I place a pickup order?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Browse our menu online, select your products, and choose pickup at checkout. We&#8217;ll have your order ready at 2622 Georgia Ave NW. We&#8217;ll notify you when it&#8217;s good to collect."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "What areas do you deliver to?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "We deliver across Washington, DC. We also serve select areas in Maryland and Virginia. Same-day delivery within DC has a $100 minimum order."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "What ID do you accept?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Any valid, government-issued photo ID confirming you are 21 or older. This includes a driver&#8217;s license, passport, or state ID."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Is recreational weed legal in DC?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes. Adult recreational cannabis use is legal in Washington, DC under Initiative 71. Read more about DC&#8217;s cannabis laws.Browse the menu and place your order now, delivery or pickup, your call."
+      }
+     }
+    ]
+   }
+  ]
+ },
+ "h1": "DC's Recreational Weed Dispensary (Delivery and Pickup)",
+ "docId": "5795",
+ "sections": [
+  {
+   "t": "group",
+   "id": "d42aadd",
+   "children": [
+    {
+     "t": "group",
+     "id": "0f00b8b",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h1",
+       "html": "DC's Recreational Weed Dispensary (Delivery and Pickup)",
+       "text": "DC's Recreational Weed Dispensary (Delivery and Pickup)"
+      },
+      {
+       "t": "text",
+       "html": "<p>Lifted Shop is Washington DC’s recreational cannabis dispensary. We carry premium flower, pre-rolls, edibles, cartridges, concentrates, shrooms, and more, all available to order online. Choose same-day delivery to your door anywhere in DC, or order ahead and pick up at our location at 2622 Georgia Ave NW. No membership required. No medical card. Just order, and we’ll take it from there.</p>"
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "#orderdelivery"
+      }
+     ]
+    }
+   ],
+   "bg": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/feature-bg-3-1.jpg"
+  },
+  {
+   "t": "group",
+   "id": "4e29435",
+   "children": [
+    {
+     "t": "reviews",
+     "provider": "Trustindex (Google reviews)",
+     "summary": {
+      "label": "EXCELLENT",
+      "text": "EXCELLENT Based on 2410 reviews"
+     },
+     "items": [
+      {
+       "name": "Sherrene Donovan",
+       "date": "",
+       "stars": 5,
+       "text": "Great and quick service. Big fan of Burst and Devour gummies. Thank you Nancy for all your help!!!",
+       "source": "Google"
+      },
+      {
+       "name": "Muhammad ihram Pangestu",
+       "date": "",
+       "stars": 5,
+       "text": "Weed shop delivery to Irvine apartments near UCI was quick!",
+       "source": "Google"
+      },
+      {
+       "name": "Zachariah Bailey",
+       "date": "",
+       "stars": 5,
+       "text": "Smooth cannabis delivery to our Anaheim hotel, perfect for the Disney trip 😭",
+       "source": "Google"
+      },
+      {
+       "name": "Saidi Tumwa",
+       "date": "",
+       "stars": 5,
+       "text": "Mari and Mark are great! i appreciate the help they gave me",
+       "source": "Google"
+      },
+      {
+       "name": "Jennifer Turner",
+       "date": "",
+       "stars": 5,
+       "text": "Hiyab was very helpful a great bud tender",
+       "source": "Google"
+      },
+      {
+       "name": "Jamie Coleman",
+       "date": "",
+       "stars": 5,
+       "text": "I travel to DC every month for work and a buddy of mine told me about this shop; I called the shop and found out they only do delivery now (DC only has medical shops now) so I ordered from them a few times and on my most recent order, the delivery driver, JJ, was super friendly and helpful. Got my delivery within an hr of ordering and enjoyed some incredible \"high\" energy products before my flight home. Thanks!!",
+       "source": "Google"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "ebbfbc2",
+   "children": [
+    {
+     "t": "group",
+     "id": "609a3e9",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "Delivery or Pickup: Your Choice",
+       "text": "Delivery or Pickup: Your Choice"
+      },
+      {
+       "t": "text",
+       "html": "<p>We don’t operate as a walk-in store. Everything starts with an online order. Once you’ve placed it, you decide how you want to receive it.</p><p><strong>Same-Day Delivery: </strong>Order by 9 pm and we’ll deliver to your DC address within 1–2 hours. Minimum order $100. Someone 21+ must be present to receive. Learn more about <a href=\"/same-day-weed-delivery-in-dc/\">same-day weed delivery in DC</a>.</p><p><strong>Order Ahead for Pickup: </strong>Prefer to come to us? Place your order online and pick it up at 2622 Georgia Ave NW, Washington, DC. We’ll have it ready and waiting, no browsing, no wait.</p>"
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "/shop/"
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "ef03211",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "What's on the Menu",
+       "text": "What's on the Menu"
+      },
+      {
+       "t": "text",
+       "html": "<p>Our full menu is available online. Here’s what we carry:</p><ul><li><strong>Flower</strong>: Top-shelf indoor strains, curated for quality</li><li><strong>Pre-rolls</strong>: Packed and ready to go. Shop pre-rolls</li><li><strong>Edibles</strong>: Gummies, chocolates, and infused treats</li><li><strong>Vape cartridges</strong>: 510-thread and all-in-one options. Shop cartridges</li><li><strong>Concentrates</strong>: Wax, shatter, live resin, and more. Shop concentrates</li><li><strong>Live resin</strong>: Premium extracts for the discerning buyer. Shop live resin</li><li><strong>Shrooms</strong>: Psilocybin products, available for delivery or pickup. Shop shrooms</li></ul><p><br><em>New to cannabis or not sure where to start? </em><a href=\"/how-to-order-weed-delivery-dc/\"><em>How to order weed delivery in DC</em></a><em> walks you through the whole process.</em></p>"
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "/shop/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "810e949",
+   "children": [
+    {
+     "t": "group",
+     "id": "924e0f4",
+     "children": [
+      {
+       "t": "group",
+       "id": "f67db58",
+       "children": [
+        {
+         "t": "heading",
+         "level": "h3",
+         "html": "Who We Serve",
+         "text": "Who We Serve"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "html": "<p>Lifted Shop serves adult recreational buyers 21 and older in Washington DC and surrounding areas. You do not need a medical marijuana card. You do not need a referral. All you need is a valid government-issued ID confirming you are 21 or older.</p><p>We deliver across Washington, DC, and to select areas in Maryland and Virginia. View Maryland delivery areas and Virginia delivery areas.</p>"
+      },
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "How It Works Under DC Law",
+       "text": "How It Works Under DC Law"
+      },
+      {
+       "t": "text",
+       "html": "<p>Washington DC, operates under Initiative 71, which allows the legal gifting of cannabis between adults 21 and older. When you place an order with Lifted Shop, your transaction is a lawful gift under DC law, the same framework that governs all recreational cannabis in the District.</p><p><em>For a full breakdown of how this works and what it means for you as a buyer, read: <a href=\"/dc-weed-gifting-initiative-71/\">DC Weed Gifting: How Initiative 71 Works.</a></em></p>"
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "/shop/"
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "c946de2",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "Why Lifted Shop",
+       "text": "Why Lifted Shop"
+      },
+      {
+       "t": "text",
+       "html": "<ul><li><strong>Premium product, no compromises:</strong> Everything we carry is selected for quality. We don’t stock filler.</li><li><strong>Fast delivery across DC:</strong> Order by 9 pm, receive within 1–2 hours. We operate out of Northwest DC and know how to get to you.</li><li><strong>Pickup available:</strong> Not in DC for delivery? Order online and collect from 2622 Georgia Ave NW at your convenience.</li><li><strong>Straightforward ordering:</strong> Browse online, place your order, and you’re done. No complicated signup, no membership fees, no hassle.</li><li><strong>Discreet and professional:</strong> Every delivery and pickup is handled with discretion. Plain packaging, no identifying labels.</li></ul>"
+      },
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "Frequently Asked Questions",
+       "text": "Frequently Asked Questions"
+      },
+      {
+       "t": "faq",
+       "items": [
+        {
+         "q": "Do I need a medical card to order?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>No. Lifted Shop serves recreational buyers. You only need to be 21 or older with a valid government-issued ID.</p>"
+          }
+         ]
+        },
+        {
+         "q": "Can I walk into the store and browse?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>We don’t operate as a walk-in retail store. All orders are placed online either for same-day delivery or for scheduled pickup at our Georgia Ave NW location.</p>"
+          }
+         ]
+        },
+        {
+         "q": "How do I place a pickup order?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>Browse our menu online, select your products, and choose pickup at checkout. We’ll have your order ready at 2622 Georgia Ave NW. We’ll notify you when it’s good to collect.</p>"
+          }
+         ]
+        },
+        {
+         "q": "What areas do you deliver to?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>We deliver across Washington, DC. We also serve select areas in Maryland and Virginia. Same-day delivery within DC has a $100 minimum order.</p>"
+          }
+         ]
+        },
+        {
+         "q": "What ID do you accept?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>Any valid, government-issued photo ID confirming you are 21 or older. This includes a driver’s license, passport, or state ID.</p>"
+          }
+         ]
+        },
+        {
+         "q": "Is recreational weed legal in DC?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>Yes. Adult recreational cannabis use is legal in Washington, DC under Initiative 71. Read more about DC’s cannabis laws.</p><p>Browse the menu and place your order now, delivery or pickup, your call.</p>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "/shop/"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "archive": null,
+ "unknownWidgets": []
+}

@@ -1,0 +1,623 @@
+{
+ "path": "/shrooms-in-dc/",
+ "url": "https://www.liftedshopdc.com/shrooms-in-dc/",
+ "kind": "post",
+ "head": {
+  "title": "Shrooms in DC | LIFTED SHOP, DC",
+  "description": "Lifted Shop is the #1 Cannabis Dispensary in Washington DC offering the highest quality and best prices on Shrooms in DC. Click to learn more.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://www.liftedshopdc.com/shrooms-in-dc/",
+  "og": {
+   "og:locale": "en_US",
+   "og:type": "article",
+   "og:title": "Shrooms in DC | LIFTED SHOP, DC",
+   "og:description": "Lifted Shop is the #1 Cannabis Dispensary in Washington DC offering the highest quality and best prices on Shrooms in DC. Click to learn more.",
+   "og:url": "https://www.liftedshopdc.com/shrooms-in-dc/",
+   "og:site_name": "LIFTED SHOP, DC",
+   "article:published_time": "2024-07-16T17:05:39+00:00",
+   "article:modified_time": "2026-08-13T15:55:58+00:00",
+   "og:image": "http://www.liftedshopdc.com/wp-content/uploads/2024/07/Shrooms-in-DC.webp",
+   "og:image:width": "1468",
+   "og:image:height": "1230",
+   "og:image:type": "image/webp",
+   "twitter:card": "summary_large_image",
+   "twitter:label1": "Written by",
+   "twitter:data1": "kevin",
+   "twitter:label2": "Est. reading time",
+   "twitter:data2": "13 minutes"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "Article",
+      "@id": "https://www.liftedshopdc.com/shrooms-in-dc/#article",
+      "isPartOf": {
+       "@id": "https://www.liftedshopdc.com/shrooms-in-dc/"
+      },
+      "author": {
+       "name": "kevin",
+       "@id": "https://www.liftedshopdc.com/#/schema/person/36b5a51fea0cb8b7f7fb9d9fb2426a49"
+      },
+      "headline": "Shrooms in DC",
+      "datePublished": "2024-07-16T17:05:39+00:00",
+      "dateModified": "2026-08-13T15:55:58+00:00",
+      "mainEntityOfPage": {
+       "@id": "https://www.liftedshopdc.com/shrooms-in-dc/"
+      },
+      "wordCount": 1644,
+      "image": {
+       "@id": "https://www.liftedshopdc.com/shrooms-in-dc/#primaryimage"
+      },
+      "thumbnailUrl": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/Shrooms-in-DC.webp",
+      "articleSection": [
+       "Cannabis Guides"
+      ],
+      "inLanguage": "en-US"
+     },
+     {
+      "@type": "WebPage",
+      "@id": "https://www.liftedshopdc.com/shrooms-in-dc/",
+      "url": "https://www.liftedshopdc.com/shrooms-in-dc/",
+      "name": "Shrooms in DC | LIFTED SHOP, DC",
+      "isPartOf": {
+       "@id": "https://www.liftedshopdc.com/#website"
+      },
+      "primaryImageOfPage": {
+       "@id": "https://www.liftedshopdc.com/shrooms-in-dc/#primaryimage"
+      },
+      "image": {
+       "@id": "https://www.liftedshopdc.com/shrooms-in-dc/#primaryimage"
+      },
+      "thumbnailUrl": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/Shrooms-in-DC.webp",
+      "datePublished": "2024-07-16T17:05:39+00:00",
+      "dateModified": "2026-08-13T15:55:58+00:00",
+      "author": {
+       "@id": "https://www.liftedshopdc.com/#/schema/person/36b5a51fea0cb8b7f7fb9d9fb2426a49"
+      },
+      "description": "Lifted Shop is the #1 Cannabis Dispensary in Washington DC offering the highest quality and best prices on Shrooms in DC. Click to learn more.",
+      "breadcrumb": {
+       "@id": "https://www.liftedshopdc.com/shrooms-in-dc/#breadcrumb"
+      },
+      "inLanguage": "en-US",
+      "potentialAction": [
+       {
+        "@type": "ReadAction",
+        "target": [
+         "https://www.liftedshopdc.com/shrooms-in-dc/"
+        ]
+       }
+      ]
+     },
+     {
+      "@type": "ImageObject",
+      "inLanguage": "en-US",
+      "@id": "https://www.liftedshopdc.com/shrooms-in-dc/#primaryimage",
+      "url": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/Shrooms-in-DC.webp",
+      "contentUrl": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/Shrooms-in-DC.webp",
+      "width": 1468,
+      "height": 1230,
+      "caption": "Shrooms in DC"
+     },
+     {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.liftedshopdc.com/shrooms-in-dc/#breadcrumb",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.liftedshopdc.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Shrooms in DC"
+       }
+      ]
+     },
+     {
+      "@type": "WebSite",
+      "@id": "https://www.liftedshopdc.com/#website",
+      "url": "https://www.liftedshopdc.com/",
+      "name": "LIFTED SHOP, DC",
+      "description": "",
+      "potentialAction": [
+       {
+        "@type": "SearchAction",
+        "target": {
+         "@type": "EntryPoint",
+         "urlTemplate": "https://www.liftedshopdc.com/?s={search_term_string}"
+        },
+        "query-input": {
+         "@type": "PropertyValueSpecification",
+         "valueRequired": true,
+         "valueName": "search_term_string"
+        }
+       }
+      ],
+      "inLanguage": "en-US"
+     },
+     {
+      "@type": "Person",
+      "@id": "https://www.liftedshopdc.com/#/schema/person/36b5a51fea0cb8b7f7fb9d9fb2426a49",
+      "name": "kevin",
+      "image": {
+       "@type": "ImageObject",
+       "inLanguage": "en-US",
+       "@id": "https://secure.gravatar.com/avatar/0ded4728176259dd514cd3df95d945774d6163b0a8a049f1d842c93c4a11560a?s=96&d=mm&r=g",
+       "url": "https://secure.gravatar.com/avatar/0ded4728176259dd514cd3df95d945774d6163b0a8a049f1d842c93c4a11560a?s=96&d=mm&r=g",
+       "contentUrl": "https://secure.gravatar.com/avatar/0ded4728176259dd514cd3df95d945774d6163b0a8a049f1d842c93c4a11560a?s=96&d=mm&r=g",
+       "caption": "kevin"
+      },
+      "url": "https://www.liftedshopdc.com/author/kevin/"
+     }
+    ]
+   }
+  ]
+ },
+ "h1": "Shrooms in DC",
+ "docId": "1634",
+ "sections": [
+  {
+   "t": "group",
+   "id": "3040fde1",
+   "children": [
+    {
+     "t": "group",
+     "id": "2ce6600c",
+     "children": [
+      {
+       "t": "image",
+       "img": {
+        "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Lifted-Rocket-Logo-1.png",
+        "alt": "",
+        "w": 768,
+        "h": 768
+       },
+       "href": null,
+       "caption": null,
+       "anim": "zoomIn"
+      },
+      {
+       "t": "heading",
+       "level": "p",
+       "html": "Get ready for liftoff!",
+       "text": "Get ready for liftoff!"
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "29ab7263",
+     "children": [
+      {
+       "t": "carousel",
+       "items": [
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Higher-Frequency-Bag-2.png",
+          "alt": "Higher-Frequency-Bag-2",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Casanova-Fly-Bag.png",
+          "alt": "Casanova-Fly-Bag",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/bag-2.png",
+          "alt": "bag-2",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Dust-Mac-Bag-2.png",
+          "alt": "Dust-Mac-Bag-2",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Sugarland-Delight-Bag.png",
+          "alt": "Sugarland-Delight-Bag",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Onyx-Slam-Bag.png",
+          "alt": "Onyx-Slam-Bag",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        }
+       ]
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": null
+      }
+     ]
+    }
+   ],
+   "bg": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/feature-bg-3-1.jpg"
+  },
+  {
+   "t": "group",
+   "id": "4212828c",
+   "children": [
+    {
+     "t": "group",
+     "id": "52ebbea9",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h1",
+       "html": "Shrooms in DC",
+       "text": "Shrooms in DC"
+      },
+      {
+       "t": "image",
+       "img": {
+        "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/christmas-cannabis-scaled-2.jpg.webp",
+        "alt": "Shrooms in DC",
+        "w": 500,
+        "h": 333
+       },
+       "href": null,
+       "caption": null
+      },
+      {
+       "t": "text",
+       "html": "<p>by Lifted Shop</p><p>Psilocybin is a well-known increasingly popular psychedelic that has been gaining more attention recently, especially in DC. Sometimes referred to as ‘shrooms’ or ‘magic mushrooms’, psilocybin products are now available throughout the capital with no legal ramifications! In fact, in 2020, the District of Columbia decriminalized psilocybin with DC Incentive 81, becoming one of the first US jurisdictions to do so.</p><p>Magic mushrooms have long been used for <strong>medicinal, spiritual, and recreational</strong> purposes. And now, many DC cannabis dispensaries are discovering that their customers <strong>enjoy shrooms just as much as they do</strong> weed! So, if you’re willing and able to try something different, why not try psilocybin?</p><p>At <a href=\"/\"><strong>Lifted DC</strong></a>, we don’t just sell cannabis. We offer the <strong>tastiest edibles</strong> containing psilocybin too. We can give you the lowdown on the history of shrooms, what to expect from your experience, and the best environment to set up so you’re well-prepared for the truly <strong>mind-expanding journey</strong>! To order for pickup, simply select the psilocybin products you want on our <a href=\"/shop/#High_Potency_Edibles\">edibles menu</a> and follow the on-screen instructions. If you have any questions, please call us at <a href=\"tel:2023328495\">(202) 332-8495</a> or <a href=\"/contact/\">send us a message</a> through our website.</p>"
+      },
+      {
+       "t": "group",
+       "id": "1cf8011e",
+       "children": [
+        {
+         "t": "heading",
+         "level": "h2",
+         "html": "ABOUT PSILOCYBIN",
+         "text": "ABOUT PSILOCYBIN"
+        },
+        {
+         "t": "text",
+         "html": "<p>Psilocybin is a <strong>psychoactive compound</strong> found in certain species of mushrooms which produce hallucinogenic effects when consumed. It has been used for centuries by indigenous cultures in Central and South America for <strong>ceremonial and religious</strong> purposes. <a href=\"/shrooms-in-dc/#references\"><sup>(1)</sup></a> It has also been used recreationally for many hundreds of years.</p><p>Although the use of magic mushrooms has a <strong>long history</strong>, little was really known about their scientific makeup until the middle of the 20th century. Swiss chemist Albert Hoffman first identified and synthesized the psychoactive compounds in psilocybe mushrooms in the 1950s, prompting further research into their properties. However, after the <strong>psychedelics explosion</strong> in the 1960s and 70s, psilocybin was classified under Schedule I by the US Drug Enforcement Agency. <a href=\"/shrooms-in-dc/#references\"><sup>(2)</sup></a></p><p>In recent years, there has been a <strong>growing interest</strong> in the potential therapeutic uses of these fungi, with some states decriminalizing their use and others allowing the production and sale of edibles. In fact an estimated <strong>5.5 million Americans</strong> use hallucinogens every year! <a href=\"/shrooms-in-dc/#references\"><sup>(3)</sup></a></p>"
+        }
+       ]
+      },
+      {
+       "t": "group",
+       "id": "7a52da3f",
+       "children": [
+        {
+         "t": "text",
+         "html": "<h3><strong>COMMON PSILOCYBIN MUSHROOM SPECIES</strong></h3>"
+        },
+        {
+         "t": "group",
+         "id": "a781f80",
+         "children": [
+          {
+           "t": "text",
+           "html": "<ul><li>Psilocybe cubensis (“cubes”)</li><li>Psilocybe semilanceata (“liberty cap”)</li><li>Psilocybe azurescens (“flying saucers”)</li><li>Psilocybin tampanensis (“philosopher’s stone”)</li><li>Panaeolus cyanescens (“blue meanies”)</li><li>Psilocybe zapotecorum (“badao”)</li><li>Psilocybe mexicana (“teonanacatl”)</li></ul>"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "html": "<h3><strong>HOW DOES PSILOCYBIN WORK?</strong></h3><p>Psilocybin works by binding to <strong>serotonin receptors</strong> in the brain, triggering changes in brain chemistry. This can lead to altered states of consciousness, heightened emotions, and a feeling of connection with nature, among other possible effects. The therapeutic effects of psilocybin are still being studied, however some studies have shown that it can be useful in treating a <strong>variety of conditions</strong> including depression, anxiety, <a href=\"/shrooms-in-dc/#references\"><sup>(4)</sup></a> PTSD, and addiction.</p>"
+        },
+        {
+         "t": "heading",
+         "level": "h2",
+         "html": "WHAT DOES PSILOCYBIN FEEL LIKE?",
+         "text": "WHAT DOES PSILOCYBIN FEEL LIKE?"
+        },
+        {
+         "t": "text",
+         "html": "<p>Although every individual’s experience is different, there are some common effects you can expect when you’re using shroom-based products. A good rule to follow is to be open-minded and understanding of the effects of your chosen goods beforehand.</p><h3><strong>MENTAL EFFECTS</strong></h3>"
+        },
+        {
+         "t": "group",
+         "id": "6edd8b6",
+         "children": [
+          {
+           "t": "text",
+           "html": "<ul><li>You might feel extreme waves of happiness (euphoria) while you are using psilocybin.</li><li>You might feel like you have a <strong>spiritual connection</strong> with things. This is sometimes known as a “mystical” or “transcendental” experience.</li><li>You might see things or hear sounds that aren’t really there.</li><li>You might feel you have a deeper relationship with nature and the Earth.</li><li>You might lose track of time, or perceive <strong>time, space, and reality</strong> differently.</li><li>You might feel more panicked or paranoid than normal.</li></ul>"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "html": "<h3><strong>PHYSICAL EFFECTS</strong></h3>"
+        },
+        {
+         "t": "group",
+         "id": "f9a497f",
+         "children": [
+          {
+           "t": "text",
+           "html": "<ul><li>Your pupils might be much bigger.</li><li>You might feel more drowsy.</li><li>Your heart rate, blood pressure, and<strong> temperature might increase</strong>.</li><li>You might not have as much control over your body movements.</li><li>You might get a headache.</li><li>You might feel nauseous.</li></ul>"
+          }
+         ]
+        },
+        {
+         "t": "heading",
+         "level": "h2",
+         "html": "STAY SAFE, STAY COMFORTABLE, &amp; ENJOY YOUR TRIP!",
+         "text": "STAY SAFE, STAY COMFORTABLE, & ENJOY YOUR TRIP!"
+        },
+        {
+         "t": "text",
+         "html": "<p>It’s a good idea to speak to someone who has used mushrooms before you use them yourself, as this can give you some insight into what to expect. All we’ll say is prepare for some interesting stories! Similarly, some people enjoy psilocybin with “chaperone”, a sober person who keeps you on the right track while you’re experiencing the psychedelic effects. It’s also best to experience shrooms in a familiar, comfortable environment such as your own living room.</p>"
+        },
+        {
+         "t": "heading",
+         "level": "h2",
+         "html": "PUTTING THE MAGIC INTO MUSHROOMS",
+         "text": "PUTTING THE MAGIC INTO MUSHROOMS"
+        },
+        {
+         "t": "text",
+         "html": "<p>Many people get a lot out of psilocybin-based products. Users may experience the following.</p>"
+        },
+        {
+         "t": "group",
+         "id": "82e87c8",
+         "children": [
+          {
+           "t": "text",
+           "html": "<ul><li>Improved mood and increased feelings of well-being</li><li>Reduced anxiety and stress</li><li>Increased creativity and problem-solving capabilities</li><li>Heightened sense of connection with nature</li><li>Increased empathy and compassion</li></ul>"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "html": "<p>Whether it’s a microdose or a macrodose you’re looking for, Lifted DC has you covered. Shop our menu online or give us a call at <a href=\"tel:2023328495\">(202) 332-8495</a> if you have any questions before you buy!</p>"
+        },
+        {
+         "t": "heading",
+         "level": "h2",
+         "html": "USING SHROOMS",
+         "text": "USING SHROOMS"
+        },
+        {
+         "t": "text",
+         "html": "<p>If you’re looking to <strong>get started</strong> with using magic mushrooms, there are a few different ways to go about it.</p><h3>AS IS OR COOKED</h3><p>The most common and well-studied types of magic mushrooms have a <strong>distinct taste</strong>. This includes species such as Psilocybe cubensis, Psilocybe semilanceata, and Psilocybe mexicana. Their taste is often described as slightly <strong>earthy or nutty</strong>. They can be eaten raw or cooked, but most people find it easier to eat them combined with something else.</p><h3>SHROOM TEA</h3><p>If you want to avoid the unique taste of raw mushrooms, <strong>making tea</strong> is a great way to enjoy the effects. To make mushroom tea, simply mix a mushroom tea bag or mushroom powder with hot water and <strong>steep for 15 minutes</strong>. You may also add sugar, honey, or lemon to mask the taste further. If possible, let your tea cool before drinking it so that the active ingredients are not destroyed by the heat.</p><h3>SHROOM CHOCOLATE</h3><p>It used to be a <strong>messy affair</strong> if you wanted to make shroom chocolate. Now, thanks to certain DC dispensaries like us, there’s no need to melt chocolate and mix it with shrooms in molds, as the sweet treats come <strong>pre-packaged and ready to eat</strong>! Now you can buy mushroom chocolates you can measure out by the piece. Be sure to gauge how much you should be taking at once.</p><h3>SHROOM POWDER</h3><p>If you want to get the <strong>full effects</strong> of magic mushrooms, one of the best options is to buy powdered mushrooms. Add them to your favorite drinks, snacks, and food. Powdered mushrooms are available from select vendors, like Lifted DC, and come in a range of potencies. When using powdered mushrooms, start with a low dose and <strong>increase gradually</strong> until you reach the desired effect.</p><h3>SHROOM TINCTURE</h3><p>Tinctures are an <strong>easy and discreet</strong> way to enjoy the effects of magic mushrooms without having to consume large amounts of powder. Tinctures can have a <strong>powerful effect</strong>, so start with a small dose and work your way up.</p>"
+        },
+        {
+         "t": "heading",
+         "level": "h2",
+         "html": "PSILOCYBIN AT LIFTED DC",
+         "text": "PSILOCYBIN AT LIFTED DC"
+        },
+        {
+         "t": "text",
+         "html": "<p>At Lifted DC, we offer a <a href=\"/shop/\">range of products</a> containing <strong>magic mushrooms</strong>. Our edibles are carefully crafted to ensure quality and consistency. These delicious treats are perfect for those who don’t want to consume mushrooms directly and prefer a <strong>more palatable</strong> option!</p><h3>MUSHROOMS</h3>"
+        },
+        {
+         "t": "group",
+         "id": "5764c5e",
+         "children": [
+          {
+           "t": "text",
+           "html": "<ul><li>Golden Halos 3.5g</li><li>Penis Envy 3.5g</li></ul>"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "html": "<h3>PSILOCYBIN PRODUCTS</h3>"
+        },
+        {
+         "t": "group",
+         "id": "ca27a56",
+         "children": [
+          {
+           "t": "text",
+           "html": "<ul><li>Infinity Shards Shroom Gummies 3.5g or 7g</li><li>Psilo-Vibin Shroom Bar (Milk Chocolate Bar) 6g Psilocybin</li><li>Trippy Caps Tincture 8ml (12g)</li><li>Unveiled Shroom Psilocybin Tea (3 Tea Bags) 1.25g per bag</li><li>Trippy Caps Psilocybin Powder 3g</li><li>Trippy Caps Psilocybin Chocolates 4 pieces, 4g</li></ul>"
+          }
+         ]
+        },
+        {
+         "t": "heading",
+         "level": "h2",
+         "html": "SHROOMS FOR PICKUP IN WASHINGTON DC",
+         "text": "SHROOMS FOR PICKUP IN WASHINGTON DC"
+        },
+        {
+         "t": "text",
+         "html": "<p>At Lifted DC, we believe that everyone should have access to the potential <strong>therapeutic benefits </strong>of magic mushrooms. So, take a look at our edibles menu, select your favorite psilocybin products, and <strong>come on down to see us</strong>!</p><p><a href=\"/about/\">Find out more</a> about Lifted DC, and our sister store <a href=\"/orbit/\">Orbit</a> on our website!</p>"
+        },
+        {
+         "t": "heading",
+         "level": "h2",
+         "html": "FAQ",
+         "text": "FAQ"
+        },
+        {
+         "t": "text",
+         "html": "<h3>ARE SHROOMS LEGAL IN WASHINGTON DC?</h3>\nYes, psilocybin has been decriminalized in Washington DC."
+        },
+        {
+         "t": "text",
+         "html": "<h3>WHAT ARE SOME OF THE BENEFITS OF USING MAGIC MUSHROOMS?</h3>\nMany people report feeling more connected to nature, increased creativity, improved emotional balance, and enhanced spirituality. Some also report reduced anxiety, improved focus, and improved sleep."
+        },
+        {
+         "t": "text",
+         "html": "<h3>ARE THERE ANY LONG-TERM SIDE EFFECTS OF USING MAGIC MUSHROOMS?</h3><p>Most of the short-term side effects of magic mushrooms will disappear shortly after the trip ends. However, in rare cases, people may experience lingering psychological effects, such as flashbacks, depression, or anxiety. It is important to be aware of these potential risks before consuming magic mushrooms.</p>"
+        },
+        {
+         "t": "heading",
+         "level": "h2",
+         "html": "REFERENCES",
+         "text": "REFERENCES"
+        },
+        {
+         "t": "text",
+         "html": "<ol><li>Lowe H, Toyang N, Steele B, et al. The Therapeutic Potential of Psilocybin. <em>Molecules</em>. 2021;26(10):2948. doi:<a href=\"https://doi.org/10.3390/molecules26102948\" target=\"_blank\" rel=\"noopener\">https://doi.org/10.3390/molecules26102948</a> </li><li>Geiger HA, Wurst MG, Daniels RN. DARK Classics in Chemical Neuroscience: Psilocybin. <em>ACS Chemical Neuroscience</em>. 2018;9(10):2438-2447. doi:<a href=\"https://doi.org/10.1021/acschemneuro.8b00186\" target=\"_blank\" rel=\"noopener\">https://doi.org/10.1021/acschemneuro.8b00186</a> </li><li>Livne O, Shmulewitz D, Walsh C, Hasin DS. Adolescent and adult time trends in US hallucinogen use, 2002–19: any use, and use of ecstasy, LSD and PCP. <em>Addiction</em>. Published online August 17, 2022. doi:<a href=\"https://doi.org/10.1111/add.15987\" target=\"_blank\" rel=\"noopener\">https://doi.org/10.1111/add.15987</a></li><li>Bogadi M, Kaštelan S. A potential effect of psilocybin on anxiety in neurotic personality structures in adolescents. <em>Croatian Medical Journal</em>. 2021;62(5):528-530. doi:<a href=\"https://doi.org/10.3325/cmj.2021.62.528\" target=\"_blank\" rel=\"noopener\">https://doi.org/10.3325/cmj.2021.62.528</a> </li></ol>"
+        },
+        {
+         "t": "group",
+         "id": "7805cc0",
+         "children": [
+          {
+           "t": "text",
+           "html": "<h3>Share:</h3>"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "e6bd3ab",
+     "children": [
+      {
+       "t": "testimonials",
+       "items": [
+        {
+         "text": "The “Sour Punched” single rolled is the BOMB!!!! The products here are the best I have had in NW. Pricey but worth every penny and I love the staff.",
+         "name": "G.D.",
+         "title": ""
+        },
+        {
+         "text": "I’ve finally found a place where the staff shows its customers love and respect. Thanks Lifted for being my new spot for the ⛽💨💯💪",
+         "name": "B.C.",
+         "title": ""
+        },
+        {
+         "text": "Great shop. Rick helped us out and was so nice and knowledgeable letting us know his recommendations. Much better quality and selection compared to other shops in DC.",
+         "name": "K.M",
+         "title": ""
+        }
+       ]
+      },
+      {
+       "t": "heading",
+       "level": "p",
+       "html": "Exclusives",
+       "text": "Exclusives"
+      },
+      {
+       "t": "carousel",
+       "items": [
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-1-768x1024.jpg",
+          "alt": "Grandmaster Caz’s Casanova Fly",
+          "w": null,
+          "h": null
+         },
+         "caption": "<strong>Grandmaster Caz’s</strong> Casanova Fly",
+         "href": "/shop/"
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-6.jpg",
+          "alt": "Laughing Gas Inspired by Def Comedy Jam",
+          "w": null,
+          "h": null
+         },
+         "caption": "<strong>Laughing Gas</strong> Inspired by Def Comedy Jam",
+         "href": "/shop/"
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-4-768x1034.jpg",
+          "alt": "Rakim Higher Frequency Soul Flower",
+          "w": null,
+          "h": null
+         },
+         "caption": "<strong>Rakim</strong> Higher Frequency Soul Flower",
+         "href": "/shop/"
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-5-768x1035.jpg",
+          "alt": "The Sugarhill Gang’s Sugarhill Delight",
+          "w": null,
+          "h": null
+         },
+         "caption": "<strong>The Sugarhill Gang’s</strong> Sugarhill Delight",
+         "href": "/shop/"
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-3-768x1035.jpg",
+          "alt": "DAS EFX Googley Goo",
+          "w": null,
+          "h": null
+         },
+         "caption": "<strong>DAS EFX</strong> Googley Goo",
+         "href": "/shop/"
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-2-768x1035.jpg",
+          "alt": "Onyx’s SLAM",
+          "w": null,
+          "h": null
+         },
+         "caption": "<strong>Onyx’s</strong> SLAM",
+         "href": "/shop/"
+        }
+       ]
+      },
+      {
+       "t": "group",
+       "id": "7604c27",
+       "children": [
+        {
+         "t": "button",
+         "text": "(771) 216-1684",
+         "href": "tel:7712161684"
+        },
+        {
+         "t": "text",
+         "html": "<p>OR</p><p>VIEW OUR MENU OF CANNABIS PRODUCTS</p>"
+        },
+        {
+         "t": "button",
+         "text": "Shop Now",
+         "href": "/shop/"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "archive": null,
+ "unknownWidgets": []
+}

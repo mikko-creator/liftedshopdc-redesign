@@ -1,0 +1,82 @@
+/* tokens.css - "Night Flight": the Lifted Shop brand (rasta red / gold / leaf green on black, the airplane mark,
+   clouds and smoke) carried into an ethereal glass system. Change values here, never at a call site. */
+@font-face { font-family: "Unbounded"; src: url("/assets/fonts/unbounded-var.woff2") format("woff2"); font-weight: 400 900; font-style: normal; font-display: swap; }
+@font-face { font-family: "Manrope"; src: url("/assets/fonts/manrope-var.woff2") format("woff2"); font-weight: 400 800; font-style: normal; font-display: swap; }
+@font-face { font-family: "Instrument Serif"; src: url("/assets/fonts/instrument-serif-italic.woff2") format("woff2"); font-weight: 400; font-style: italic; font-display: swap; }
+/* size-matched fallbacks so a late webfont does not re-wrap the hero */
+@font-face { font-family: "Unbounded Fallback"; src: local("Arial Black"), local("Arial Bold"), local("Arial"); size-adjust: 108%; ascent-override: 92%; descent-override: 22%; }
+@font-face { font-family: "Manrope Fallback"; src: local("Segoe UI"), local("Arial"); size-adjust: 103%; }
+
+:root {
+  /* night sky */
+  --ink-0: #05040a;
+  --ink-1: #0a0814;
+  --ink-2: #110e1e;
+  --ink-3: #1a1630;
+  --ink-4: #262042;
+  --violet: #6b4ce6;
+  --violet-2: #9a7cff;
+  --plum: #941449;          /* brand secondary seen on the live Frequent Flyer band */
+  --orchid: #704e8f;        /* brand secondary seen on the live site */
+  --mist: #f1eeff;
+  --mist-2: rgba(241, 238, 255, .78);
+  --mist-3: rgba(241, 238, 255, .56);
+  --mist-4: rgba(241, 238, 255, .14);
+  --line: rgba(255, 255, 255, .12);
+  --line-2: rgba(255, 255, 255, .22);
+
+  /* brand (Elementor kit: primary #FE1915, accent #FED705, text #378202, secondary #232323) */
+  --red: #fe1915;
+  --red-2: #ff5a3c;
+  --gold: #fed705;
+  --gold-2: #ffe766;
+  --green: #378202;
+  --leaf: #2fc25b;          /* the logo leaf, lifted for text on night grounds */
+  --coal: #232323;
+  --rasta: linear-gradient(90deg, var(--red) 0%, var(--gold) 50%, var(--leaf) 100%);
+  --rasta-v: linear-gradient(180deg, var(--red) 0%, var(--gold) 50%, var(--leaf) 100%);
+  --rasta-soft: linear-gradient(100deg, rgba(254, 25, 21, .9), rgba(254, 215, 5, .9) 50%, rgba(47, 194, 91, .9));
+  --aura: radial-gradient(60% 50% at 20% 10%, rgba(107, 76, 230, .35), transparent 70%), radial-gradient(50% 40% at 85% 20%, rgba(148, 20, 73, .32), transparent 70%), radial-gradient(60% 50% at 50% 100%, rgba(47, 194, 91, .14), transparent 70%);
+
+  /* glass */
+  --glass: linear-gradient(140deg, rgba(255, 255, 255, .13), rgba(255, 255, 255, .04) 60%, rgba(255, 255, 255, .07));
+  --glass-strong: linear-gradient(140deg, rgba(30, 24, 54, .78), rgba(16, 13, 30, .7));
+  --glass-light: linear-gradient(140deg, rgba(255, 255, 255, .96), rgba(246, 243, 255, .9));
+  --glass-blur: 22px;
+  --glass-edge: inset 0 1px 0 rgba(255, 255, 255, .22), inset 0 0 0 1px rgba(255, 255, 255, .08);
+  --shadow-1: 0 18px 50px -18px rgba(0, 0, 0, .7);
+  --shadow-2: 0 40px 100px -30px rgba(0, 0, 0, .85), 0 10px 30px -10px rgba(0, 0, 0, .5);
+  --glow-gold: 0 0 0 1px rgba(254, 215, 5, .35), 0 10px 40px -8px rgba(254, 215, 5, .45);
+
+  /* type */
+  --f-display: "Unbounded", "Unbounded Fallback", "Arial Black", system-ui, sans-serif;
+  --f-body: "Manrope", "Manrope Fallback", "Segoe UI", system-ui, sans-serif;
+  --f-serif: "Instrument Serif", Georgia, "Times New Roman", serif;
+  --fs-hero: clamp(2.6rem, min(6.4vw, 12vh), 7rem);
+  --fs-h1: clamp(2.3rem, 5.4vw, 5.2rem);
+  --fs-h2: clamp(1.75rem, 3.6vw, 3.25rem);
+  --fs-h3: clamp(1.15rem, 1.6vw, 1.45rem);
+  --fs-body: clamp(1rem, .96rem + .2vw, 1.0875rem);
+  --fs-small: .875rem;
+  --fs-kicker: .74rem;
+
+  /* space & shape */
+  --gutter: clamp(16px, 4vw, 56px);
+  --maxw: 1320px;
+  --maxw-text: 760px;
+  --r-xl: 34px;
+  --r-lg: 26px;
+  --r-md: 18px;
+  --r-sm: 12px;
+  --r-pill: 999px;
+  --sec-y: clamp(72px, 10vw, 150px);
+  --hdr-h: 76px;
+
+  /* motion */
+  --ease-out: cubic-bezier(.16, 1, .3, 1);
+  --ease-spring: cubic-bezier(.34, 1.56, .64, 1);
+  --t-fast: .25s;
+  --t-med: .6s;
+  --t-slow: 1.1s;
+  color-scheme: dark;
+}

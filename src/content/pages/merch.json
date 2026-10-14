@@ -1,0 +1,675 @@
+{
+ "path": "/merch/",
+ "url": "https://www.liftedshopdc.com/merch/",
+ "kind": "page",
+ "head": {
+  "title": "Best Merch Washington, DC | Lifted Shop",
+  "description": "Lifted Shop is the #1 Cannabis Dispensary in Washington DC offering the highest quality and best prices on Merch. Click to learn more.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://www.liftedshopdc.com/merch/",
+  "og": {
+   "og:locale": "en_US",
+   "og:type": "article",
+   "og:title": "Best Merch Washington, DC | Lifted Shop",
+   "og:description": "Lifted Shop is the #1 Cannabis Dispensary in Washington DC offering the highest quality and best prices on Merch. Click to learn more.",
+   "og:url": "https://www.liftedshopdc.com/merch/",
+   "og:site_name": "LIFTED SHOP, DC",
+   "article:modified_time": "2025-10-04T01:47:52+00:00",
+   "og:image": "http://www.liftedshopdc.com/wp-content/uploads/2024/06/Lifted-Rocket-Logo-1-768x768.png",
+   "twitter:card": "summary_large_image",
+   "twitter:label1": "Est. reading time",
+   "twitter:data1": "10 minutes"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "WebPage",
+      "@id": "https://www.liftedshopdc.com/merch/",
+      "url": "https://www.liftedshopdc.com/merch/",
+      "name": "Best Merch Washington, DC | Lifted Shop",
+      "isPartOf": {
+       "@id": "https://www.liftedshopdc.com/#website"
+      },
+      "primaryImageOfPage": {
+       "@id": "https://www.liftedshopdc.com/merch/#primaryimage"
+      },
+      "image": {
+       "@id": "https://www.liftedshopdc.com/merch/#primaryimage"
+      },
+      "thumbnailUrl": "http://www.liftedshopdc.com/wp-content/uploads/2024/06/Lifted-Rocket-Logo-1-768x768.png",
+      "datePublished": "2022-09-29T19:31:40+00:00",
+      "dateModified": "2025-10-04T01:47:52+00:00",
+      "description": "Lifted Shop is the #1 Cannabis Dispensary in Washington DC offering the highest quality and best prices on Merch. Click to learn more.",
+      "breadcrumb": {
+       "@id": "https://www.liftedshopdc.com/merch/#breadcrumb"
+      },
+      "inLanguage": "en-US",
+      "potentialAction": [
+       {
+        "@type": "ReadAction",
+        "target": [
+         "https://www.liftedshopdc.com/merch/"
+        ]
+       }
+      ]
+     },
+     {
+      "@type": "ImageObject",
+      "inLanguage": "en-US",
+      "@id": "https://www.liftedshopdc.com/merch/#primaryimage",
+      "url": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Lifted-Rocket-Logo-1.png",
+      "contentUrl": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Lifted-Rocket-Logo-1.png",
+      "width": 1000,
+      "height": 1000
+     },
+     {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.liftedshopdc.com/merch/#breadcrumb",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.liftedshopdc.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Merch"
+       }
+      ]
+     },
+     {
+      "@type": "WebSite",
+      "@id": "https://www.liftedshopdc.com/#website",
+      "url": "https://www.liftedshopdc.com/",
+      "name": "LIFTED SHOP, DC",
+      "description": "",
+      "potentialAction": [
+       {
+        "@type": "SearchAction",
+        "target": {
+         "@type": "EntryPoint",
+         "urlTemplate": "https://www.liftedshopdc.com/?s={search_term_string}"
+        },
+        "query-input": {
+         "@type": "PropertyValueSpecification",
+         "valueRequired": true,
+         "valueName": "search_term_string"
+        }
+       }
+      ],
+      "inLanguage": "en-US"
+     }
+    ]
+   }
+  ]
+ },
+ "h1": "Merch",
+ "docId": "230",
+ "sections": [
+  {
+   "t": "group",
+   "id": "73a75a36",
+   "children": [
+    {
+     "t": "group",
+     "id": "315d37ac",
+     "children": [
+      {
+       "t": "image",
+       "img": {
+        "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Lifted-Rocket-Logo-1.png",
+        "alt": "",
+        "w": 768,
+        "h": 768
+       },
+       "href": null,
+       "caption": null,
+       "anim": "zoomIn"
+      },
+      {
+       "t": "heading",
+       "level": "p",
+       "html": "Get ready for liftoff!",
+       "text": "Get ready for liftoff!"
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "2fd44b6c",
+     "children": [
+      {
+       "t": "carousel",
+       "items": [
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Higher-Frequency-Bag-2.png",
+          "alt": "Higher-Frequency-Bag-2",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Casanova-Fly-Bag.png",
+          "alt": "Casanova-Fly-Bag",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/bag-2.png",
+          "alt": "bag-2",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Dust-Mac-Bag-2.png",
+          "alt": "Dust-Mac-Bag-2",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Sugarland-Delight-Bag.png",
+          "alt": "Sugarland-Delight-Bag",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Onyx-Slam-Bag.png",
+          "alt": "Onyx-Slam-Bag",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        }
+       ]
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "/shop/"
+      }
+     ]
+    }
+   ],
+   "bg": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/feature-bg-3-1.jpg"
+  },
+  {
+   "t": "group",
+   "id": "594c7a55",
+   "children": [
+    {
+     "t": "group",
+     "id": "77a18d6b",
+     "children": [
+      {
+       "t": "breadcrumbs",
+       "items": [
+        {
+         "text": "Home",
+         "href": "/"
+        },
+        {
+         "text": "Merch",
+         "href": null
+        }
+       ]
+      },
+      {
+       "t": "heading",
+       "level": "h1",
+       "html": "Merch",
+       "text": "Merch"
+      },
+      {
+       "t": "text",
+       "html": "<p>Serving the Washington DC area with fast and reliable delivery</p>"
+      },
+      {
+       "t": "heading",
+       "level": "h3",
+       "html": "ORDER LIFTED MERCH TODAY",
+       "text": "ORDER LIFTED MERCH TODAY"
+      },
+      {
+       "t": "carousel",
+       "items": [
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/accessories-5-225x300.webp",
+          "alt": "accessories-5",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/accessories-6-225x300.webp",
+          "alt": "accessories-6",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/accessories-7-225x300.webp",
+          "alt": "accessories-7",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/accessories-8-225x300.webp",
+          "alt": "accessories-8",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/accessories-9-225x300.webp",
+          "alt": "accessories-9",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/prodcard-6-1-223x300.webp",
+          "alt": "prodcard-6 (1)",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        }
+       ]
+      },
+      {
+       "t": "heading",
+       "level": "h3",
+       "html": "LIFTED MERCH",
+       "text": "LIFTED MERCH"
+      },
+      {
+       "t": "group",
+       "id": "25adf2ce",
+       "children": [
+        {
+         "t": "form",
+         "kind": "order",
+         "fields": [
+          {
+           "type": "checkbox",
+           "name": "checkbox-1[]",
+           "label": "Seahorse Pro Electric Dabber - $50 (rechargeable)",
+           "placeholder": "",
+           "required": false,
+           "value": "Seahorse Pro Electric Dabber - $50 (rechargeable)"
+          },
+          {
+           "type": "checkbox",
+           "name": "checkbox-2[]",
+           "label": "Lifted Cereal Smoke Bowl (come with 1g flower) - $80 *A Cereal Bowl & Ceramic Smoke Bowl Combo",
+           "placeholder": "",
+           "required": false,
+           "value": "Lifted Cereal Smoke Bowl (come with 1g flower) - $80 *A Cereal Bowl & Ceramic Smoke Bowl Combo"
+          },
+          {
+           "type": "checkbox",
+           "name": "checkbox-3[]",
+           "label": "Lifted Sip & Smoke MUG: Infused Coffee K-Cup + 1g Flower + Specialty Mug $70ONYX SLAM T-Shirt (M,L,XL,XXL) $30",
+           "placeholder": "",
+           "required": false,
+           "value": "Lifted Sip & Smoke MUG: Infused Coffee K-Cup + 1g Flower + Specialty Mug $70ONYX SLAM T-Shirt (M,L,XL,XXL) $30"
+          },
+          {
+           "type": "checkbox",
+           "name": "checkbox-4[]",
+           "label": "ONYX SLAM T-Shirt - $30",
+           "placeholder": "",
+           "required": false,
+           "value": "ONYX SLAM T-Shirt - $30"
+          },
+          {
+           "type": "checkbox",
+           "name": "checkbox-5[]",
+           "label": "Grandmaster Caz Casanova Fly T-Shirt (M,L,XL,XXL) $30",
+           "placeholder": "",
+           "required": false,
+           "value": "Grandmaster Caz Casanova Fly T-Shirt (M,L,XL,XXL) $30"
+          },
+          {
+           "type": "checkbox",
+           "name": "checkbox-6[]",
+           "label": "Googley Goo T-Shirt (M,L,XL,XXL) $30",
+           "placeholder": "",
+           "required": false,
+           "value": "Googley Goo T-Shirt (M,L,XL,XXL) $30"
+          },
+          {
+           "type": "checkbox",
+           "name": "checkbox-7[]",
+           "label": "Sugarhill Delight T-Shirt (M,L,XL,XXL) $30",
+           "placeholder": "",
+           "required": false,
+           "value": "Sugarhill Delight T-Shirt (M,L,XL,XXL) $30"
+          },
+          {
+           "type": "checkbox",
+           "name": "checkbox-8[]",
+           "label": "Lifted T-Shirt (Sm, M, L, XL) $30",
+           "placeholder": "",
+           "required": false,
+           "value": "Lifted T-Shirt (Sm, M, L, XL) $30"
+          },
+          {
+           "type": "checkbox",
+           "name": "checkbox-9[]",
+           "label": "Cookies Rolling Tray $30",
+           "placeholder": "",
+           "required": false,
+           "value": "Cookies Rolling Tray $30"
+          },
+          {
+           "type": "checkbox",
+           "name": "checkbox-10[]",
+           "label": "Elephant Silicon Bowl/Dab/Bong - $40",
+           "placeholder": "",
+           "required": false,
+           "value": "Elephant Silicon Bowl/Dab/Bong - $40"
+          },
+          {
+           "type": "checkbox",
+           "name": "checkbox-11[]",
+           "label": "Raw Lighter- $10 Glass Dab Straw- $25",
+           "placeholder": "",
+           "required": false,
+           "value": "Raw Lighter- $10 Glass Dab Straw- $25"
+          },
+          {
+           "type": "checkbox",
+           "name": "checkbox-12[]",
+           "label": "Glass Dab Straw - $25",
+           "placeholder": "",
+           "required": false,
+           "value": "Glass Dab Straw - $25"
+          },
+          {
+           "type": "checkbox",
+           "name": "checkbox-13[]",
+           "label": "AK-47 Silicon Dab Rig - $30",
+           "placeholder": "",
+           "required": false,
+           "value": "AK-47 Silicon Dab Rig - $30"
+          },
+          {
+           "type": "checkbox",
+           "name": "checkbox-14[]",
+           "label": "Rasta Butane Dab Torch - $30",
+           "placeholder": "",
+           "required": false,
+           "value": "Rasta Butane Dab Torch - $30"
+          },
+          {
+           "type": "checkbox",
+           "name": "checkbox-15[]",
+           "label": "Mushroom Hand Blown Glass Bowls - $40",
+           "placeholder": "",
+           "required": false,
+           "value": "Mushroom Hand Blown Glass Bowls - $40"
+          },
+          {
+           "type": "checkbox",
+           "name": "checkbox-16[]",
+           "label": "Lifted Silicon Ashtray - $30",
+           "placeholder": "",
+           "required": false,
+           "value": "Lifted Silicon Ashtray - $30"
+          },
+          {
+           "type": "checkbox",
+           "name": "checkbox-17[]",
+           "label": "Lifted Silicon Rasta Bowl - $30",
+           "placeholder": "",
+           "required": false,
+           "value": "Lifted Silicon Rasta Bowl - $30"
+          },
+          {
+           "type": "text",
+           "name": "your-name",
+           "label": "",
+           "placeholder": "Name",
+           "required": true
+          },
+          {
+           "type": "text",
+           "name": "your-address",
+           "label": "",
+           "placeholder": "Address",
+           "required": false
+          },
+          {
+           "type": "tel",
+           "name": "your-phone",
+           "label": "",
+           "placeholder": "Phone",
+           "required": true
+          },
+          {
+           "type": "email",
+           "name": "your-email",
+           "label": "",
+           "placeholder": "Email",
+           "required": true
+          },
+          {
+           "type": "radio",
+           "name": "your-delivery-pickup",
+           "label": "",
+           "placeholder": "",
+           "required": false
+          },
+          {
+           "type": "radio",
+           "name": "your-delivery-pickup",
+           "label": "",
+           "placeholder": "",
+           "required": false
+          }
+         ],
+         "submit": "Send",
+         "notes": [
+          "Seahorse Pro Electric Dabber - $50 (rechargeable) Lifted Cereal Smoke Bowl (come with 1g flower) - $80 *A Cereal Bowl & Ceramic Smoke Bowl Combo Lifted Sip & Smoke MUG: Infused Coffee K-Cup + 1g Flower + Specialty Mug $70ONYX SLAM T-Shirt (M,L,XL,XXL) $30 ONYX SLAM T-Shirt - $30 Grandmaster Caz Casanova Fly T-Shirt (M,L,XL,XXL) $30 Googley Goo T-Shirt (M,L,XL,XXL) $30 Sugarhill Delight T-Shirt (M,L,XL,XXL) $30 Lifted T-Shirt (Sm, M, L, XL) $30 Cookies Rolling Tray $30 Elephant Silicon Bowl/Dab/Bong - $40 Raw Lighter- $10 Glass Dab Straw- $25 Glass Dab Straw - $25 AK-47 Silicon Dab Rig - $30 Rasta Butane Dab Torch - $30 Mushroom Hand Blown Glass Bowls - $40 Lifted Silicon Ashtray - $30 Lifted Silicon Rasta Bowl - $30",
+          "Complete Order",
+          "Complete Order",
+          "Delivery Pick Up"
+         ]
+        },
+        {
+         "t": "text",
+         "html": "<p>*Results May Vary</p>"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "596f1e31",
+     "children": [
+      {
+       "t": "group",
+       "id": "5038ad2e",
+       "children": [
+        {
+         "t": "heading",
+         "level": "p",
+         "html": "ABOUT",
+         "text": "ABOUT"
+        },
+        {
+         "t": "list",
+         "items": [
+          {
+           "html": "Weed Dispensary DC Lifted",
+           "text": "Weed Dispensary DC Lifted",
+           "href": "/delivery/winchester-va/"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "t": "testimonials",
+       "items": [
+        {
+         "text": "The “Sour Punched” single rolled is the BOMB!!!! The products here are the best I have had in NW. Pricey but worth every penny and I love the staff.",
+         "name": "G.D.",
+         "title": ""
+        },
+        {
+         "text": "I’ve finally found a place where the staff shows its customers love and respect. Thanks Lifted for being my new spot for the ⛽💨💯💪",
+         "name": "B.C.",
+         "title": ""
+        },
+        {
+         "text": "Great shop. Rick helped us out and was so nice and knowledgeable letting us know his recommendations. Much better quality and selection compared to other shops in DC.",
+         "name": "K.M",
+         "title": ""
+        }
+       ]
+      },
+      {
+       "t": "heading",
+       "level": "p",
+       "html": "Exclusives",
+       "text": "Exclusives"
+      },
+      {
+       "t": "carousel",
+       "items": [
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-1-768x1024.jpg",
+          "alt": "Grandmaster Caz’s Casanova Fly",
+          "w": null,
+          "h": null
+         },
+         "caption": "<strong>Grandmaster Caz’s</strong> Casanova Fly",
+         "href": "/shop/"
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-6.jpg",
+          "alt": "Laughing Gas Inspired by Def Comedy Jam",
+          "w": null,
+          "h": null
+         },
+         "caption": "<strong>Laughing Gas</strong> Inspired by Def Comedy Jam",
+         "href": "/shop/"
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-4-768x1034.jpg",
+          "alt": "Rakim Higher Frequency Soul Flower",
+          "w": null,
+          "h": null
+         },
+         "caption": "<strong>Rakim</strong> Higher Frequency Soul Flower",
+         "href": "/shop/"
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-5-768x1035.jpg",
+          "alt": "The Sugarhill Gang’s Sugarhill Delight",
+          "w": null,
+          "h": null
+         },
+         "caption": "<strong>The Sugarhill Gang’s</strong> Sugarhill Delight",
+         "href": "/shop/"
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-3-768x1035.jpg",
+          "alt": "DAS EFX Googley Goo",
+          "w": null,
+          "h": null
+         },
+         "caption": "<strong>DAS EFX</strong> Googley Goo",
+         "href": "/shop/"
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-2-768x1035.jpg",
+          "alt": "Onyx’s SLAM",
+          "w": null,
+          "h": null
+         },
+         "caption": "<strong>Onyx’s</strong> SLAM",
+         "href": "/shop/"
+        }
+       ]
+      },
+      {
+       "t": "group",
+       "id": "47726091",
+       "children": [
+        {
+         "t": "button",
+         "text": "(771) 216-1684",
+         "href": "tel:7712161684"
+        },
+        {
+         "t": "text",
+         "html": "<p>OR</p><p>VIEW OUR MENU OF CANNABIS PRODUCTS</p>"
+        },
+        {
+         "t": "button",
+         "text": "Shop Now",
+         "href": "/shop/"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "archive": null,
+ "unknownWidgets": []
+}

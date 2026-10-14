@@ -1,0 +1,563 @@
+{
+ "path": "/what-is-thc-syrup/",
+ "url": "https://www.liftedshopdc.com/what-is-thc-syrup/",
+ "kind": "post",
+ "head": {
+  "title": "What Is THC Syrup? Dosing, Onset, and 1000mg Explained",
+  "description": "THC syrup is a cannabis-infused liquid you mix into drinks. What 1000mg actually means, how to dose it, when it kicks in, and how long it lasts.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://www.liftedshopdc.com/what-is-thc-syrup/",
+  "og": {
+   "og:locale": "en_US",
+   "og:type": "article",
+   "og:title": "What Is THC Syrup? Dosing, Onset, and 1000mg Explained",
+   "og:description": "THC syrup is a cannabis-infused liquid you mix into drinks. What 1000mg actually means, how to dose it, when it kicks in, and how long it lasts.",
+   "og:url": "https://www.liftedshopdc.com/what-is-thc-syrup/",
+   "og:site_name": "LIFTED SHOP, DC",
+   "article:published_time": "2026-08-10T14:37:53+00:00",
+   "article:modified_time": "2026-08-13T15:55:58+00:00",
+   "og:image": "http://www.liftedshopdc.com/wp-content/uploads/2026/08/thc-syrup-1000mg.webp",
+   "og:image:width": "540",
+   "og:image:height": "356",
+   "og:image:type": "image/webp",
+   "twitter:card": "summary_large_image",
+   "twitter:label1": "Written by",
+   "twitter:data1": "kevin",
+   "twitter:label2": "Est. reading time",
+   "twitter:data2": "13 minutes"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "Article",
+      "@id": "https://www.liftedshopdc.com/what-is-thc-syrup/#article",
+      "isPartOf": {
+       "@id": "https://www.liftedshopdc.com/what-is-thc-syrup/"
+      },
+      "author": {
+       "name": "kevin",
+       "@id": "https://www.liftedshopdc.com/#/schema/person/36b5a51fea0cb8b7f7fb9d9fb2426a49"
+      },
+      "headline": "What Is THC Syrup?",
+      "datePublished": "2026-08-10T14:37:53+00:00",
+      "dateModified": "2026-08-13T15:55:58+00:00",
+      "mainEntityOfPage": {
+       "@id": "https://www.liftedshopdc.com/what-is-thc-syrup/"
+      },
+      "wordCount": 1718,
+      "image": {
+       "@id": "https://www.liftedshopdc.com/what-is-thc-syrup/#primaryimage"
+      },
+      "thumbnailUrl": "https://www.liftedshopdc.com/wp-content/uploads/2026/08/thc-syrup-1000mg.webp",
+      "articleSection": [
+       "Cannabis Guides"
+      ],
+      "inLanguage": "en-US"
+     },
+     {
+      "@type": "WebPage",
+      "@id": "https://www.liftedshopdc.com/what-is-thc-syrup/",
+      "url": "https://www.liftedshopdc.com/what-is-thc-syrup/",
+      "name": "What Is THC Syrup? Dosing, Onset, and 1000mg Explained",
+      "isPartOf": {
+       "@id": "https://www.liftedshopdc.com/#website"
+      },
+      "primaryImageOfPage": {
+       "@id": "https://www.liftedshopdc.com/what-is-thc-syrup/#primaryimage"
+      },
+      "image": {
+       "@id": "https://www.liftedshopdc.com/what-is-thc-syrup/#primaryimage"
+      },
+      "thumbnailUrl": "https://www.liftedshopdc.com/wp-content/uploads/2026/08/thc-syrup-1000mg.webp",
+      "datePublished": "2026-08-10T14:37:53+00:00",
+      "dateModified": "2026-08-13T15:55:58+00:00",
+      "author": {
+       "@id": "https://www.liftedshopdc.com/#/schema/person/36b5a51fea0cb8b7f7fb9d9fb2426a49"
+      },
+      "description": "THC syrup is a cannabis-infused liquid you mix into drinks. What 1000mg actually means, how to dose it, when it kicks in, and how long it lasts.",
+      "breadcrumb": {
+       "@id": "https://www.liftedshopdc.com/what-is-thc-syrup/#breadcrumb"
+      },
+      "inLanguage": "en-US",
+      "potentialAction": [
+       {
+        "@type": "ReadAction",
+        "target": [
+         "https://www.liftedshopdc.com/what-is-thc-syrup/"
+        ]
+       }
+      ]
+     },
+     {
+      "@type": "ImageObject",
+      "inLanguage": "en-US",
+      "@id": "https://www.liftedshopdc.com/what-is-thc-syrup/#primaryimage",
+      "url": "https://www.liftedshopdc.com/wp-content/uploads/2026/08/thc-syrup-1000mg.webp",
+      "contentUrl": "https://www.liftedshopdc.com/wp-content/uploads/2026/08/thc-syrup-1000mg.webp",
+      "width": 540,
+      "height": 356,
+      "caption": "thc syrup 1000mg"
+     },
+     {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.liftedshopdc.com/what-is-thc-syrup/#breadcrumb",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.liftedshopdc.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "What Is THC Syrup?"
+       }
+      ]
+     },
+     {
+      "@type": "WebSite",
+      "@id": "https://www.liftedshopdc.com/#website",
+      "url": "https://www.liftedshopdc.com/",
+      "name": "LIFTED SHOP, DC",
+      "description": "",
+      "potentialAction": [
+       {
+        "@type": "SearchAction",
+        "target": {
+         "@type": "EntryPoint",
+         "urlTemplate": "https://www.liftedshopdc.com/?s={search_term_string}"
+        },
+        "query-input": {
+         "@type": "PropertyValueSpecification",
+         "valueRequired": true,
+         "valueName": "search_term_string"
+        }
+       }
+      ],
+      "inLanguage": "en-US"
+     },
+     {
+      "@type": "Person",
+      "@id": "https://www.liftedshopdc.com/#/schema/person/36b5a51fea0cb8b7f7fb9d9fb2426a49",
+      "name": "kevin",
+      "image": {
+       "@type": "ImageObject",
+       "inLanguage": "en-US",
+       "@id": "https://secure.gravatar.com/avatar/0ded4728176259dd514cd3df95d945774d6163b0a8a049f1d842c93c4a11560a?s=96&d=mm&r=g",
+       "url": "https://secure.gravatar.com/avatar/0ded4728176259dd514cd3df95d945774d6163b0a8a049f1d842c93c4a11560a?s=96&d=mm&r=g",
+       "contentUrl": "https://secure.gravatar.com/avatar/0ded4728176259dd514cd3df95d945774d6163b0a8a049f1d842c93c4a11560a?s=96&d=mm&r=g",
+       "caption": "kevin"
+      },
+      "url": "https://www.liftedshopdc.com/author/kevin/"
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+     {
+      "@type": "Question",
+      "name": "What is THC syrup?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "A cannabis extract suspended in a sweetened liquid base, usually glycerin or sugar syrup, designed to be measured out and mixed into a drink or taken directly. It works like an edible, with a slightly faster onset."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Does 1000mg mean one dose?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "No. 1000mg is the total THC in the entire bottle, which typically holds twenty to sixty servings. Check the label for THC per serving. On most 1000mg bottles, a single serving lands somewhere between 20mg and 50mg, which is two to five times a standard 10mg edible dose."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "How long does THC syrup take to kick in?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Usually 20 to 45 minutes, occasionally up to 90. That&#8217;s slightly faster than gummies or baked goods because a liquid absorbs more quickly and some THC is taken up through the tissue in your mouth."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "How long does THC syrup last?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Four to eight hours of noticeable effects, peaking around two to four hours in. Larger doses can run longer."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Is THC syrup the same as lean?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "No. The nickname comes from codeine-based cough syrup drinks, but THC syrup contains no codeine, no promethazine, and no opioids of any kind. It&#8217;s cannabis in liquid form, and the two shouldn&#8217;t be treated as interchangeable."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "How do you take THC syrup?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Measure a dose with the cap or a spoon, then either mix it into a cold drink or take it straight. Holding it in your mouth briefly before swallowing can speed onset slightly. Always measure rather than pouring freehand."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Can you mix THC syrup with alcohol?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Better not to. The combination tends to intensify both and makes the delayed onset much harder to judge, which is how people misjudge their dose."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Does THC syrup need to be refrigerated?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Most products do after opening. Check the label. Store it somewhere secure rather than in the fridge door, since it looks like an ordinary sweet drink and is easily mistaken for one."
+      }
+     }
+    ]
+   }
+  ]
+ },
+ "h1": "What Is THC Syrup?",
+ "docId": "6135",
+ "sections": [
+  {
+   "t": "group",
+   "id": "4074bab",
+   "children": [
+    {
+     "t": "group",
+     "id": "34d328f",
+     "children": [
+      {
+       "t": "image",
+       "img": {
+        "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Lifted-Rocket-Logo-1.png",
+        "alt": "",
+        "w": 768,
+        "h": 768
+       },
+       "href": null,
+       "caption": null,
+       "anim": "zoomIn"
+      },
+      {
+       "t": "heading",
+       "level": "p",
+       "html": "Get ready for liftoff!",
+       "text": "Get ready for liftoff!"
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "2ab37cb",
+     "children": [
+      {
+       "t": "carousel",
+       "items": [
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Higher-Frequency-Bag-2.png",
+          "alt": "Higher-Frequency-Bag-2",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Casanova-Fly-Bag.png",
+          "alt": "Casanova-Fly-Bag",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/bag-2.png",
+          "alt": "bag-2",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Dust-Mac-Bag-2.png",
+          "alt": "Dust-Mac-Bag-2",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Sugarland-Delight-Bag.png",
+          "alt": "Sugarland-Delight-Bag",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Onyx-Slam-Bag.png",
+          "alt": "Onyx-Slam-Bag",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        }
+       ]
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": null
+      }
+     ]
+    }
+   ],
+   "bg": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/feature-bg-3-1.jpg"
+  },
+  {
+   "t": "group",
+   "id": "534238a",
+   "children": [
+    {
+     "t": "group",
+     "id": "86379c3",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h1",
+       "html": "What Is THC Syrup?",
+       "text": "What Is THC Syrup?"
+      },
+      {
+       "t": "text",
+       "html": "<p>THC syrup is a thick, sweetened cannabis-infused liquid. You measure out a serving, stir it into a drink or take it on its own, and it works much like an edible with a slightly faster onset.</p><p>The number on the bottle is where most of the confusion starts. <strong>A 1000mg bottle is not a 1000mg dose.</strong> That figure is the total THC content of the entire container, which typically holds somewhere between twenty and sixty servings. Treating it as one serving would be a genuinely bad afternoon.</p><p>Here’s how it works, how to dose it, and how it compares to gummies.</p><h2>What THC Syrup Actually Is</h2><p>A cannabis extract suspended in a sweetened liquid base, usually vegetable glycerin or a sugar syrup, with an emulsifier to keep the THC evenly distributed rather than separating out.</p><p>The result is viscous, sweet, and mixes cleanly into cold drinks. Most products come in a bottle with a measuring cap or dosing cup.</p><p><strong>One thing to be clear about:</strong> THC syrup is sometimes nicknamed after codeine-based cough syrup drinks. They are not the same thing and shouldn’t be treated the same way. THC syrup contains no opioids, no codeine, and no promethazine. It’s cannabis in liquid form, nothing more, and the association is a naming coincidence rather than a similarity in what’s inside.</p><h2>What 1000mg Means</h2><p>This is the single most important thing to understand before opening a bottle.</p><p><strong>1000mg is the total THC in the whole container.</strong> Not per serving, not per teaspoon.</p><p>Your label should tell you two numbers:</p><ul><li>Total THC in the bottle</li><li>THC per serving, and how many servings the bottle contains</li></ul><p>Divide the first by the number of servings, and you have your per-dose amount. On a typical 1000mg bottle, that usually works out somewhere between 20mg and 50mg per serving depending on how the manufacturer has portioned it.</p><p>For context, 10mg is a standard single edible dose for most people. So a single serving of syrup from a 1000mg bottle can easily be two to five times a normal dose. Measure it, and consider starting with half.</p><p>If a bottle doesn’t state servings per container and mg per serving, that’s a labeling problem and a reason to buy something else.</p><h2>How Long THC Syrup Takes to Work</h2><p>Usually <strong>20 to 45 minutes</strong>, sometimes up to 90.</p><p>That’s a little faster than a gummy or a baked good, for two reasons. A liquid doesn’t need to be broken down before absorption begins, and if you hold it in your mouth for a moment, some THC absorbs through the tissue there rather than going through your digestive system.</p><p>It’s faster, but it isn’t instant, and the same rule applies as with any edible: <strong>wait a full two hours before taking more.</strong> Taking a second serving at the 40-minute mark is how people end up far higher than they planned.</p><p>Once it’s working, expect <strong>4 to 8 hours</strong> of effects with the peak somewhere around hours two to four. The full timeline is the same as other edibles, and we break it down in detail in <strong>how long do edibles last.</strong></p><h2>THC Syrup vs. Gummies and Other Edibles</h2><p><strong>Where syrup wins:</strong></p><ul><li><strong>Precision:</strong> You can measure 5mg, then 7mg, then 10mg and find your exact number. A gummy comes in whatever increment the manufacturer chose, and cutting one in half is a rough approximation at best.</li><li><strong>Speed:</strong> Twenty to forty-five minutes rather than thirty to ninety.</li><li><strong>Versatility:</strong> It stirs into lemonade, soda, iced tea, or coffee without much affecting the taste beyond adding sweetness.</li></ul><p><strong>Where syrup loses:</strong></p><ul><li><strong>It’s easy to over-pour:</strong> A gummy is a fixed dose whether you’re paying attention or not. Syrup requires you to measure carefully every single time, including the third time, when you’re less careful.</li><li><strong>It looks like a drink:</strong> Which brings us to the part that matters most.</li></ul><h2>Storage and Safety</h2><ul><li><strong>Keep it away from children and pets, in a locked or high place.</strong> THC syrup looks and tastes like an ordinary sweet drink, which makes it one of the higher-risk cannabis formats to have in a household. Store it out of reach and out of the fridge door where a visitor might mistake it for a mixer.</li><li><strong>Refrigerate after opening</strong> if the label says to, and most do. Check the expiry, since syrups can separate or spoil.</li><li><strong>Don’t mix it with alcohol:</strong> Combining the two tends to amplify both, and it makes the delayed onset considerably harder to judge.</li><li><strong>Never store it near actual medicine:</strong> A cannabis syrup on the same shelf as a cough syrup is an accident waiting to happen.</li><li><strong>Don’t drive:</strong> Impairment from any edible outlasts the point where you feel more or less normal.</li></ul><h2>How to Take It</h2><ol><li><strong>Read the label</strong> and work out mg per serving.</li><li><strong>Start small.</strong> 5 to 10mg if you’re new to edibles, which often means a fraction of a full serving.</li><li><strong>Measure with the cap or a spoon.</strong> Never pour freehand.</li><li><strong>Mix into a cold drink</strong> or take it straight, and hold it in your mouth briefly before swallowing.</li><li><strong>Wait two hours</strong> before deciding whether you want more.</li><li><strong>Write down what you took.</strong> Once you know your number, it stays reliable.</li></ol><p>If you take prescription medication, check with a doctor first, since THC can interact with blood thinners and sedatives, among others.</p><h2>Frequently Asked Questions</h2>"
+      },
+      {
+       "t": "faq",
+       "items": [
+        {
+         "q": "What is THC syrup?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>A cannabis extract suspended in a sweetened liquid base, usually glycerin or sugar syrup, designed to be measured out and mixed into a drink or taken directly. It works like an edible, with a slightly faster onset.</p>"
+          }
+         ]
+        },
+        {
+         "q": "Does 1000mg mean one dose?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>No. 1000mg is the total THC in the entire bottle, which typically holds twenty to sixty servings. Check the label for THC per serving. On most 1000mg bottles, a single serving lands somewhere between 20mg and 50mg, which is two to five times a standard 10mg edible dose.</p>"
+          }
+         ]
+        },
+        {
+         "q": "How long does THC syrup take to kick in?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>Usually 20 to 45 minutes, occasionally up to 90. That’s slightly faster than gummies or baked goods because a liquid absorbs more quickly and some THC is taken up through the tissue in your mouth.</p>"
+          }
+         ]
+        },
+        {
+         "q": "How long does THC syrup last?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>Four to eight hours of noticeable effects, peaking around two to four hours in. Larger doses can run longer.</p>"
+          }
+         ]
+        },
+        {
+         "q": "Is THC syrup the same as lean?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>No. The nickname comes from codeine-based cough syrup drinks, but THC syrup contains no codeine, no promethazine, and no opioids of any kind. It’s cannabis in liquid form, and the two shouldn’t be treated as interchangeable.</p>"
+          }
+         ]
+        },
+        {
+         "q": "How do you take THC syrup?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>Measure a dose with the cap or a spoon, then either mix it into a cold drink or take it straight. Holding it in your mouth briefly before swallowing can speed onset slightly. Always measure rather than pouring freehand.</p>"
+          }
+         ]
+        },
+        {
+         "q": "Can you mix THC syrup with alcohol?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>Better not to. The combination tends to intensify both and makes the delayed onset much harder to judge, which is how people misjudge their dose.</p>"
+          }
+         ]
+        },
+        {
+         "q": "Does THC syrup need to be refrigerated?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>Most products do after opening. Check the label. Store it somewhere secure rather than in the fridge door, since it looks like an ordinary sweet drink and is easily mistaken for one.</p>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "html": "<h2>Start Small, and You’ll Like It</h2><p>THC syrup is one of the easier formats to dose precisely once you understand that the number on the bottle describes the bottle rather than the serving. Measure carefully, wait the full two hours, and note what worked.</p><p>Browse our <a href=\"/edibles-in-dc/\">edibles selection</a>, all labeled with THC content, or <a href=\"/shop/\">see the full menu</a>.</p><p><em>For adults 21 and over. This article is general information, not medical advice. Keep all cannabis products securely stored and out of reach of children.</em></p>"
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "c643239",
+     "children": [
+      {
+       "t": "testimonials",
+       "items": [
+        {
+         "text": "The “Sour Punched” single rolled is the BOMB!!!! The products here are the best I have had in NW. Pricey but worth every penny and I love the staff.",
+         "name": "G.D.",
+         "title": ""
+        },
+        {
+         "text": "I’ve finally found a place where the staff shows its customers love and respect. Thanks Lifted for being my new spot for the ⛽💨💯💪",
+         "name": "B.C.",
+         "title": ""
+        },
+        {
+         "text": "Great shop. Rick helped us out and was so nice and knowledgeable letting us know his recommendations. Much better quality and selection compared to other shops in DC.",
+         "name": "K.M",
+         "title": ""
+        }
+       ]
+      },
+      {
+       "t": "heading",
+       "level": "p",
+       "html": "Exclusives",
+       "text": "Exclusives"
+      },
+      {
+       "t": "carousel",
+       "items": [
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-1-768x1024.jpg",
+          "alt": "Grandmaster Caz’s Casanova Fly",
+          "w": null,
+          "h": null
+         },
+         "caption": "<strong>Grandmaster Caz’s</strong> Casanova Fly",
+         "href": "/shop/"
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-6.jpg",
+          "alt": "Laughing Gas Inspired by Def Comedy Jam",
+          "w": null,
+          "h": null
+         },
+         "caption": "<strong>Laughing Gas</strong> Inspired by Def Comedy Jam",
+         "href": "/shop/"
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-4-768x1034.jpg",
+          "alt": "Rakim Higher Frequency Soul Flower",
+          "w": null,
+          "h": null
+         },
+         "caption": "<strong>Rakim</strong> Higher Frequency Soul Flower",
+         "href": "/shop/"
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-5-768x1035.jpg",
+          "alt": "The Sugarhill Gang’s Sugarhill Delight",
+          "w": null,
+          "h": null
+         },
+         "caption": "<strong>The Sugarhill Gang’s</strong> Sugarhill Delight",
+         "href": "/shop/"
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-3-768x1035.jpg",
+          "alt": "DAS EFX Googley Goo",
+          "w": null,
+          "h": null
+         },
+         "caption": "<strong>DAS EFX</strong> Googley Goo",
+         "href": "/shop/"
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-2-768x1035.jpg",
+          "alt": "Onyx’s SLAM",
+          "w": null,
+          "h": null
+         },
+         "caption": "<strong>Onyx’s</strong> SLAM",
+         "href": "/shop/"
+        }
+       ]
+      },
+      {
+       "t": "group",
+       "id": "5bb4cee",
+       "children": [
+        {
+         "t": "button",
+         "text": "(771) 216-1684",
+         "href": "tel:7712161684"
+        },
+        {
+         "t": "text",
+         "html": "<p>OR</p><p>VIEW OUR MENU OF CANNABIS PRODUCTS</p>"
+        },
+        {
+         "t": "button",
+         "text": "Shop Now",
+         "href": "/shop/"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "archive": null,
+ "unknownWidgets": []
+}

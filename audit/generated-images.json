@@ -1,0 +1,561 @@
+{
+  "schema": "site-reforge/generated-images@2",
+  "provider": "fal.ai",
+  "note": "Illustrative industry imagery ADDED by the redesign. None stands in for a real person, place, product, brand or result of Lifted Shop (liftedshopdc.com); every alt describes what is depicted.",
+  "images": [
+    {
+      "id": "G-CLOUD-PLATE",
+      "file": "assets/generated/g-cloud-plate.jpg",
+      "raw": "tmp/img/raw/G-CLOUD-PLATE.1791940201485.jpg",
+      "rawBytes": 389995,
+      "role": "overlay",
+      "alt": "",
+      "usedFor": [
+        "screen-blend cloud layers between sections"
+      ],
+      "prompt": "Isolated soft white volumetric cumulus clouds floating against a pure black background, wispy feathered edges, gentle cool rim light, several cloud puffs spread across the frame, high detail photograph; nothing else in frame, no text, no stars, no ground",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "aspect_ratio": "16:9",
+        "output_format": "jpeg",
+        "num_images": 1,
+        "enable_safety_checker": true,
+        "safety_tolerance": "5"
+      },
+      "editOf": null,
+      "seed": 3948141611,
+      "requestId": "01a137f5-6ca0-7c93-986f-410120726e53",
+      "width": 2752,
+      "height": 1536,
+      "cutout": null,
+      "sha256": "6b81a2d7129ed1aebc78873282a83896eced622c21a1e49a3af920d7fa51337b",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-14T01:10:03.000Z",
+      "attempt": 1
+    },
+    {
+      "id": "G-HERO-SKY",
+      "file": "assets/generated/g-hero-sky.jpg",
+      "raw": "tmp/img/raw/G-HERO-SKY.1791940201105.jpg",
+      "rawBytes": 870717,
+      "role": "hero",
+      "alt": "",
+      "usedFor": [
+        "home hero background",
+        "Higgsfield source for V-HERO"
+      ],
+      "prompt": "Breathtaking photograph from airplane altitude above a vast sea of soft cumulus clouds at night during blue hour, the cloud tops lit from below by warm amber glow through scattered gaps, deep indigo and violet sky fading to near black at the top with faint stars and a thin crescent moon, ethereal haze, calm and dreamy, cinematic wide composition with open sky in the upper half, ultra detailed, photographic; no people, no text, no logos, no aircraft, no wing, no buildings, no landmarks",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "aspect_ratio": "21:9",
+        "output_format": "jpeg",
+        "num_images": 1,
+        "enable_safety_checker": true,
+        "safety_tolerance": "5"
+      },
+      "editOf": null,
+      "seed": 3510521057,
+      "requestId": "01a137f5-6ca8-7670-a15b-f5449b91de1f",
+      "width": 3136,
+      "height": 1344,
+      "cutout": null,
+      "sha256": "6e9e924ddedc212dd24cdda70701d30b3d927deb87986ca2032353ba6c3405fe",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-14T01:10:03.328Z",
+      "attempt": 1
+    },
+    {
+      "id": "G-SMOKE",
+      "file": "assets/generated/g-smoke.jpg",
+      "raw": "tmp/img/raw/G-SMOKE.1791940202823.jpg",
+      "rawBytes": 730437,
+      "role": "overlay",
+      "alt": "",
+      "usedFor": [
+        "screen-blend smoke layer",
+        "Higgsfield source for V-SMOKE"
+      ],
+      "prompt": "Elegant swirling white smoke wisps and curls flowing horizontally across a pure black background, silky translucent ribbons with fine detail, soft side light, high detail photograph; no text, nothing else in frame",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "aspect_ratio": "16:9",
+        "output_format": "jpeg",
+        "num_images": 1,
+        "enable_safety_checker": true,
+        "safety_tolerance": "5"
+      },
+      "editOf": null,
+      "seed": 2401292174,
+      "requestId": "01a137f5-6ca4-76d2-ad60-0bd4412d1729",
+      "width": 2752,
+      "height": 1536,
+      "cutout": null,
+      "sha256": "a2018c1e9d5f80306d35b5ce8eb41cfc1075869d9bfec706260570fe273067d5",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-14T01:10:04.463Z",
+      "attempt": 1
+    },
+    {
+      "id": "G-BUD",
+      "file": "assets/generated/g-bud.png",
+      "raw": "tmp/img/raw/G-BUD.1791940201467.jpg",
+      "rawBytes": 1021861,
+      "role": "cutout",
+      "alt": "",
+      "usedFor": [
+        "protruding bud layer (home categories, CTA)"
+      ],
+      "prompt": "Studio macro photograph of a single dense frosty cannabis flower bud covered in glistening trichomes, bright orange pistils, deep green with purple hues, floating at a slight angle, centred on a seamless plain mid grey background, soft diffused light with gentle rim light, crisp fine detail, high resolution; no text, no logos, no people, no hands, no smoke, no leaves cut off at the frame",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "aspect_ratio": "3:4",
+        "output_format": "jpeg",
+        "num_images": 1,
+        "enable_safety_checker": true,
+        "safety_tolerance": "5"
+      },
+      "editOf": null,
+      "seed": 1139531567,
+      "requestId": "01a137f5-6c9f-7620-a1b3-9ba2a4d1f1fb",
+      "width": 1792,
+      "height": 2368,
+      "cutout": {
+        "model": "fal-ai/birefnet/v2",
+        "requestId": "01a137f5-97ad-71a0-8193-e6dfc89f438b"
+      },
+      "sha256": "b43b3c2780d529a8772ab63ebaaaff69242fd0c7f81c713da97e58e380de5c23",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-14T01:10:07.156Z",
+      "attempt": 1
+    },
+    {
+      "id": "G-DUSK",
+      "file": "assets/generated/g-dusk.jpg",
+      "raw": "tmp/img/raw/G-DUSK.1791940213817.jpg",
+      "rawBytes": 675443,
+      "role": "banner",
+      "alt": "",
+      "usedFor": [
+        "inner page heroes (about, contact, reviews, merch, promos)"
+      ],
+      "prompt": "Ethereal cloudscape at dusk photographed from airplane altitude, layered soft clouds in rose, peach and lavender under a deep violet sky, a warm golden glow along the far horizon, dreamy haze, cinematic wide photograph with calm open sky; no people, no text, no aircraft, no wing, no buildings",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "aspect_ratio": "21:9",
+        "output_format": "jpeg",
+        "num_images": 1,
+        "enable_safety_checker": true,
+        "safety_tolerance": "5"
+      },
+      "editOf": null,
+      "seed": 3014261209,
+      "requestId": "01a137f5-9cb5-7980-a965-1701dcda7bbb",
+      "width": 3136,
+      "height": 1344,
+      "cutout": null,
+      "sha256": "c993b147793f364ebc22f4c4c6f333795f26387a6c80220fc511b608ef2e55e3",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-14T01:10:15.412Z",
+      "attempt": 1
+    },
+    {
+      "id": "G-PLANE",
+      "file": "assets/generated/g-plane.png",
+      "raw": "tmp/img/raw/G-PLANE.1791940214057.jpg",
+      "rawBytes": 430630,
+      "role": "cutout",
+      "alt": "",
+      "usedFor": [
+        "paper-plane layer gliding across sections (Frequent Flyer Club, hero)"
+      ],
+      "prompt": "Studio photograph of a neatly folded paper airplane made from thin translucent white rolling paper, crisp sharp folds, three-quarter view as if gliding upward, centred on a seamless plain light grey background, soft diffused studio light, fine paper fibre texture visible, high resolution; no text, no logos, no printing, no people, no hands, no strings",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "aspect_ratio": "3:2",
+        "output_format": "jpeg",
+        "num_images": 1,
+        "enable_safety_checker": true,
+        "safety_tolerance": "5"
+      },
+      "editOf": null,
+      "seed": 1045936713,
+      "requestId": "01a137f5-9706-7141-b674-3566c11a72d6",
+      "width": 2496,
+      "height": 1664,
+      "cutout": {
+        "model": "fal-ai/birefnet/v2",
+        "requestId": "01a137f5-c782-7350-b992-15a1a9c24bce"
+      },
+      "sha256": "951ae640349f21b277ba4c7d4ba97c3017b63590a1df44180edeffea290b88d0",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-14T01:10:19.006Z",
+      "attempt": 1
+    },
+    {
+      "id": "G-AURORA",
+      "file": "assets/generated/g-aurora.jpg",
+      "raw": "tmp/img/raw/G-AURORA.1791940217832.jpg",
+      "rawBytes": 800107,
+      "role": "banner",
+      "alt": "",
+      "usedFor": [
+        "delivery pages hero",
+        "Higgsfield source for V-AURORA"
+      ],
+      "prompt": "Emerald green aurora ribbons flowing above a soft sea of moonlit clouds at night, deep navy sky full of faint stars, a subtle warm golden glow on the horizon, ethereal and calm, cinematic wide photograph; no people, no text, no buildings, no trees, no aircraft",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "aspect_ratio": "21:9",
+        "output_format": "jpeg",
+        "num_images": 1,
+        "enable_safety_checker": true,
+        "safety_tolerance": "5"
+      },
+      "editOf": null,
+      "seed": 78424479,
+      "requestId": "01a137f5-a739-71e0-ad50-54e345dd2da7",
+      "width": 3136,
+      "height": 1344,
+      "cutout": null,
+      "sha256": "658546bf342d35bcf145025b5807b799c2313bf1ae833e6cd329e747baeb5888",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-14T01:10:19.257Z",
+      "attempt": 1
+    },
+    {
+      "id": "G-LEAF",
+      "file": "assets/generated/g-leaf.png",
+      "raw": "tmp/img/raw/G-LEAF.1791940214355.jpg",
+      "rawBytes": 933121,
+      "role": "cutout",
+      "alt": "",
+      "usedFor": [
+        "floating fan-leaf layer behind glass panels"
+      ],
+      "prompt": "Studio photograph of a single fresh cannabis fan leaf with seven serrated leaflets, vivid natural green, perfectly flat and symmetrical, centred on a seamless plain light grey background, soft diffused light, crisp detail, high resolution; no text, no logos, no people, no hands, no stem cut off",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "aspect_ratio": "1:1",
+        "output_format": "jpeg",
+        "num_images": 1,
+        "enable_safety_checker": true,
+        "safety_tolerance": "5"
+      },
+      "editOf": null,
+      "seed": 2282109562,
+      "requestId": "01a137f5-9842-7cb3-b84d-b0806014c48f",
+      "width": 2048,
+      "height": 2048,
+      "cutout": {
+        "model": "fal-ai/birefnet/v2",
+        "requestId": "01a137f5-c8db-7101-bf36-e3c4e54c0e29"
+      },
+      "sha256": "f885f7b714a45ef942d76b8bd610e5af119abd7314160b8be0132f7ebfa1b2dd",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-14T01:10:19.585Z",
+      "attempt": 1
+    },
+    {
+      "id": "G-ORBIT",
+      "file": "assets/generated/g-orbit.jpg",
+      "raw": "tmp/img/raw/G-ORBIT.1791940224783.jpg",
+      "rawBytes": 861695,
+      "role": "banner",
+      "alt": "",
+      "usedFor": [
+        "Orbit Shop hero",
+        "footer band",
+        "blog hero"
+      ],
+      "prompt": "View from the edge of space at night: the thin glowing band of blue and amber atmosphere along the gently curved horizon above luminous cloud tops, deep black space with a field of stars, cinematic, ultra detailed photograph; no text, no spacecraft, no satellites, no people, no sun flare",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "aspect_ratio": "21:9",
+        "output_format": "jpeg",
+        "num_images": 1,
+        "enable_safety_checker": true,
+        "safety_tolerance": "5"
+      },
+      "editOf": null,
+      "seed": 2389601801,
+      "requestId": "01a137f5-c784-7c50-81f6-e3a97e141b4a",
+      "width": 3136,
+      "height": 1344,
+      "cutout": null,
+      "sha256": "54e4951f26fc7dd18bfb4491d7a41fb5b5b79f8b122957543e03f04b6c64733a",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-14T01:10:26.427Z",
+      "attempt": 1
+    },
+    {
+      "id": "G-TRICHOME",
+      "file": "assets/generated/g-trichome.jpg",
+      "raw": "tmp/img/raw/G-TRICHOME.1791940229655.jpg",
+      "rawBytes": 862943,
+      "role": "banner",
+      "alt": "",
+      "usedFor": [
+        "blog and education heroes",
+        "flower category atmosphere"
+      ],
+      "prompt": "Extreme macro photograph of cannabis trichomes, crystal-like glistening resin heads on a green and purple sugar leaf, shallow depth of field, soft dreamy bokeh, dark moody background with warm amber rim light; no text, no people",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "aspect_ratio": "16:9",
+        "output_format": "jpeg",
+        "num_images": 1,
+        "enable_safety_checker": true,
+        "safety_tolerance": "5"
+      },
+      "editOf": null,
+      "seed": 2933872587,
+      "requestId": "01a137f5-d580-7c20-a7b1-5a83677f84bf",
+      "width": 2752,
+      "height": 1536,
+      "cutout": null,
+      "sha256": "8f72068ad6827e88e06b084e412645cdd736db3f603e900484070c8b91f44cc4",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-14T01:10:31.503Z",
+      "attempt": 1
+    },
+    {
+      "id": "G-RESIN",
+      "file": "assets/generated/g-resin.jpg",
+      "raw": "tmp/img/raw/G-RESIN.1791940229924.jpg",
+      "rawBytes": 968107,
+      "role": "banner",
+      "alt": "",
+      "usedFor": [
+        "live resin and concentrates pages"
+      ],
+      "prompt": "Macro photograph of golden amber cannabis live resin concentrate glistening on a dark smoked glass surface, honey-like translucent texture with tiny sugar crystals, warm backlight glowing through it, dark moody background, shallow depth of field; no text, no logos, no people, no tools, no packaging",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "aspect_ratio": "16:9",
+        "output_format": "jpeg",
+        "num_images": 1,
+        "enable_safety_checker": true,
+        "safety_tolerance": "5"
+      },
+      "editOf": null,
+      "seed": 2606617117,
+      "requestId": "01a137f5-d67e-7cf1-91df-ceebb90d0da9",
+      "width": 2752,
+      "height": 1536,
+      "cutout": null,
+      "sha256": "954b7e7c952a7e25540fea5a4fdc3e7d4adaeecc809536b6623389c0634bbd41",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-14T01:10:31.688Z",
+      "attempt": 1
+    },
+    {
+      "id": "G-PREROLL",
+      "file": "assets/generated/g-preroll.jpg",
+      "raw": "tmp/img/raw/G-PREROLL.1791940230243.jpg",
+      "rawBytes": 419224,
+      "role": "banner",
+      "alt": "",
+      "usedFor": [
+        "pre-rolls page hero"
+      ],
+      "prompt": "A single pre-rolled cannabis joint in natural unbleached paper resting on dark smoked glass, a thin ribbon of white smoke curling upward from its tip, deep moody background with soft red and amber rim light, shallow depth of field, cinematic photograph; no text, no logos, no people, no hands, no ashtray, no packaging",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "aspect_ratio": "16:9",
+        "output_format": "jpeg",
+        "num_images": 1,
+        "enable_safety_checker": true,
+        "safety_tolerance": "5"
+      },
+      "editOf": null,
+      "seed": 3484420687,
+      "requestId": "01a137f5-d7cb-77e3-a448-aa00e141a9ab",
+      "width": 2752,
+      "height": 1536,
+      "cutout": null,
+      "sha256": "cf5bc11bacf0da5673449230f822d6efe07c657076976fecd4dffd50b81c74a9",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-14T01:10:31.711Z",
+      "attempt": 1
+    },
+    {
+      "id": "G-PARCEL",
+      "file": "assets/generated/g-parcel.jpg",
+      "raw": "tmp/img/raw/G-PARCEL.1791940237836.jpg",
+      "rawBytes": 617673,
+      "role": "banner",
+      "alt": "",
+      "usedFor": [
+        "delivery hub and same-day delivery heroes"
+      ],
+      "prompt": "A sleek plain matte black parcel box resting on the leather passenger seat of a car at night, soft blurred city street lights bokeh in warm amber and red through the window, cinematic moody photograph, shallow depth of field; no text, no logos, no labels, no people, no hands, no steering wheel",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "aspect_ratio": "16:9",
+        "output_format": "jpeg",
+        "num_images": 1,
+        "enable_safety_checker": true,
+        "safety_tolerance": "5"
+      },
+      "editOf": null,
+      "seed": 1378216150,
+      "requestId": "01a137f5-f27c-78e0-a828-c7e5d67286c4",
+      "width": 2752,
+      "height": 1536,
+      "cutout": null,
+      "sha256": "f1e17b3021a9acac30a310825875ee5345db5d961b8ca23cb9da84ff2ab6f439",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-14T01:10:39.781Z",
+      "attempt": 1
+    },
+    {
+      "id": "G-CITY-GLOW",
+      "file": "assets/generated/g-city-glow.jpg",
+      "raw": "tmp/img/raw/G-CITY-GLOW.1791940242561.jpg",
+      "rawBytes": 803706,
+      "role": "banner",
+      "alt": "",
+      "usedFor": [
+        "home 'Weed Delivery in DC' band",
+        "recreational dispensary page"
+      ],
+      "prompt": "Night aerial photograph through thin drifting clouds of a city street grid glowing with warm amber lights far below, soft fog layers catching the light, deep blue night tones, cinematic and dreamy; no recognisable landmarks, no monuments, no text, no people, no aircraft",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "aspect_ratio": "16:9",
+        "output_format": "jpeg",
+        "num_images": 1,
+        "enable_safety_checker": true,
+        "safety_tolerance": "5"
+      },
+      "editOf": null,
+      "seed": 2111854006,
+      "requestId": "01a137f6-0654-72f3-8ce0-f3378482ba46",
+      "width": 2752,
+      "height": 1536,
+      "cutout": null,
+      "sha256": "56aa9babf874d349584a7864eb083bbd912d1eb4e64be26174c11cdfeabfe6a9",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-14T01:10:44.365Z",
+      "attempt": 1
+    }
+  ],
+  "failures": [],
+  "spend": {
+    "ultraCalls": 14,
+    "cutoutCalls": 3,
+    "otherCalls": 0,
+    "calls": [
+      {
+        "kind": "ultra",
+        "id": "G-HERO-SKY",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-14T01:09:51.662Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "G-CLOUD-PLATE",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-14T01:09:51.733Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "G-SMOKE",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-14T01:09:51.738Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "G-BUD",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-14T01:09:51.743Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "G-PLANE",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-14T01:10:03.008Z"
+      },
+      {
+        "kind": "cutout",
+        "id": "G-BUD",
+        "model": "fal-ai/birefnet/v2",
+        "at": "2026-10-14T01:10:03.185Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "G-LEAF",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-14T01:10:03.330Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "G-DUSK",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-14T01:10:04.466Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "G-AURORA",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-14T01:10:07.161Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "G-ORBIT",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-14T01:10:15.421Z"
+      },
+      {
+        "kind": "cutout",
+        "id": "G-PLANE",
+        "model": "fal-ai/birefnet/v2",
+        "at": "2026-10-14T01:10:15.429Z"
+      },
+      {
+        "kind": "cutout",
+        "id": "G-LEAF",
+        "model": "fal-ai/birefnet/v2",
+        "at": "2026-10-14T01:10:15.772Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "G-TRICHOME",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-14T01:10:19.011Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "G-RESIN",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-14T01:10:19.263Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "G-PREROLL",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-14T01:10:19.591Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "G-PARCEL",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-14T01:10:26.429Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "G-CITY-GLOW",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-14T01:10:31.508Z"
+      }
+    ],
+    "estUSD": 0.855,
+    "priceBasis": "about $0.06 per flux-pro ultra call and $0.005 per birefnet cut-out (fal list prices, UNVERIFIED against the invoice)",
+    "caps": {
+      "ultra": 30,
+      "cutout": 8,
+      "lane": "IMG"
+    }
+  },
+  "generated": "2026-10-14T01:10:44.367Z"
+}

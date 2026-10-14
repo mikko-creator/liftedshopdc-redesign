@@ -1,0 +1,466 @@
+{
+ "path": "/blog/2/",
+ "url": "https://www.liftedshopdc.com/blog/2/",
+ "kind": "page",
+ "head": {
+  "title": "Lifted Shop DC Blog | Weed Delivery & Cannabis Guide",
+  "description": "Explore weed delivery tips, cannabis guides, dispensary insights, and helpful resources from Lifted Shop DC.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://www.liftedshopdc.com/blog/",
+  "og": {
+   "og:locale": "en_US",
+   "og:type": "article",
+   "og:title": "Lifted Shop DC Blog | Weed Delivery & Cannabis Guide",
+   "og:description": "Explore weed delivery tips, cannabis guides, dispensary insights, and helpful resources from Lifted Shop DC.",
+   "og:url": "https://www.liftedshopdc.com/blog/",
+   "og:site_name": "LIFTED SHOP, DC",
+   "article:modified_time": "2026-06-09T13:03:23+00:00",
+   "og:image": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Lifted-Rocket-Logo-1.png",
+   "og:image:width": "1000",
+   "og:image:height": "1000",
+   "og:image:type": "image/png",
+   "twitter:card": "summary_large_image",
+   "twitter:label1": "Est. reading time",
+   "twitter:data1": "15 minutes"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "WebPage",
+      "@id": "https://www.liftedshopdc.com/blog/",
+      "url": "https://www.liftedshopdc.com/blog/",
+      "name": "Lifted Shop DC Blog | Weed Delivery & Cannabis Guide",
+      "isPartOf": {
+       "@id": "https://www.liftedshopdc.com/#website"
+      },
+      "primaryImageOfPage": {
+       "@id": "https://www.liftedshopdc.com/blog/#primaryimage"
+      },
+      "image": {
+       "@id": "https://www.liftedshopdc.com/blog/#primaryimage"
+      },
+      "thumbnailUrl": "http://www.liftedshopdc.com/wp-content/uploads/2024/06/Lifted-Rocket-Logo-1-768x768.png",
+      "datePublished": "2015-09-16T17:54:17+00:00",
+      "dateModified": "2026-06-09T13:03:23+00:00",
+      "description": "Explore weed delivery tips, cannabis guides, dispensary insights, and helpful resources from Lifted Shop DC.",
+      "breadcrumb": {
+       "@id": "https://www.liftedshopdc.com/blog/#breadcrumb"
+      },
+      "inLanguage": "en-US",
+      "potentialAction": [
+       {
+        "@type": "ReadAction",
+        "target": [
+         "https://www.liftedshopdc.com/blog/"
+        ]
+       }
+      ]
+     },
+     {
+      "@type": "ImageObject",
+      "inLanguage": "en-US",
+      "@id": "https://www.liftedshopdc.com/blog/#primaryimage",
+      "url": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Lifted-Rocket-Logo-1.png",
+      "contentUrl": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Lifted-Rocket-Logo-1.png",
+      "width": 1000,
+      "height": 1000
+     },
+     {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.liftedshopdc.com/blog/#breadcrumb",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.liftedshopdc.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Blog"
+       }
+      ]
+     },
+     {
+      "@type": "WebSite",
+      "@id": "https://www.liftedshopdc.com/#website",
+      "url": "https://www.liftedshopdc.com/",
+      "name": "LIFTED SHOP, DC",
+      "description": "",
+      "potentialAction": [
+       {
+        "@type": "SearchAction",
+        "target": {
+         "@type": "EntryPoint",
+         "urlTemplate": "https://www.liftedshopdc.com/?s={search_term_string}"
+        },
+        "query-input": {
+         "@type": "PropertyValueSpecification",
+         "valueRequired": true,
+         "valueName": "search_term_string"
+        }
+       }
+      ],
+      "inLanguage": "en-US"
+     }
+    ]
+   }
+  ]
+ },
+ "h1": "Blog",
+ "docId": "782",
+ "sections": [
+  {
+   "t": "group",
+   "id": "654b37fe",
+   "children": [
+    {
+     "t": "group",
+     "id": "57769dea",
+     "children": [
+      {
+       "t": "image",
+       "img": {
+        "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Lifted-Rocket-Logo-1.png",
+        "alt": "",
+        "w": 768,
+        "h": 768
+       },
+       "href": null,
+       "caption": null,
+       "anim": "zoomIn"
+      },
+      {
+       "t": "heading",
+       "level": "p",
+       "html": "Get ready for liftoff!",
+       "text": "Get ready for liftoff!"
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "c13c8af",
+     "children": [
+      {
+       "t": "carousel",
+       "items": [
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Higher-Frequency-Bag-2.png",
+          "alt": "Higher-Frequency-Bag-2",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Casanova-Fly-Bag.png",
+          "alt": "Casanova-Fly-Bag",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/bag-2.png",
+          "alt": "bag-2",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Dust-Mac-Bag-2.png",
+          "alt": "Dust-Mac-Bag-2",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Sugarland-Delight-Bag.png",
+          "alt": "Sugarland-Delight-Bag",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Onyx-Slam-Bag.png",
+          "alt": "Onyx-Slam-Bag",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        }
+       ]
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "/shop/"
+      }
+     ]
+    }
+   ],
+   "bg": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/feature-bg-3-1.jpg"
+  },
+  {
+   "t": "group",
+   "id": "8cdfbc9",
+   "children": [
+    {
+     "t": "heading",
+     "level": "h1",
+     "html": "Blog",
+     "text": "Blog"
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "15255c95",
+   "children": [
+    {
+     "t": "posts",
+     "items": [
+      {
+       "title": "Indica vs. Sativa",
+       "href": "/indica-vs-sativa/",
+       "img": {
+        "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/9fa5cf_f8915b85742943919a22cba1c42d8487_mv2-e1664467664781.jpg.webp",
+        "alt": "Indica vs. Sativa",
+        "w": 720,
+        "h": 480
+       },
+       "excerpt": "Get ready for liftoff! ORDER DELIVERY Indica vs. Sativa by Lifted Shop There are more than 1,000 strains of cannabis",
+       "date": "",
+       "more": "Read More »"
+      },
+      {
+       "title": "Here’s What Happens to Your Body When You Eat Edibles",
+       "href": "/heres-what-happens-to-your-body-when-you-eat-edibles/",
+       "img": {
+        "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/9fa5cf_1e82ad16b3864514b8818a6cf9d357a4_mv2.jpg.webp",
+        "alt": "Indica vs. Sativa",
+        "w": 720,
+        "h": 480
+       },
+       "excerpt": "Get ready for liftoff! ORDER DELIVERY How Do Edibles Work? When you smoke cannabis, THC goes from your lungs into",
+       "date": "",
+       "more": "Read More »"
+      },
+      {
+       "title": "Best Weed for Anxiety",
+       "href": "/best-weed-for-anxiety/",
+       "img": {
+        "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/cc0ea4_d6ab8d8edf7d4ea7a2b02fa25f646772_mv2-e1664293670788.jpg.webp",
+        "alt": "Best Weed for Anxiety",
+        "w": 720,
+        "h": 540
+       },
+       "excerpt": "Get ready for liftoff! ORDER DELIVERY Best Weed for Anxiety by Lifted Shop There are reasons why weed is a",
+       "date": "",
+       "more": "Read More »"
+      },
+      {
+       "title": "420 Meaning",
+       "href": "/420-meaning/",
+       "img": {
+        "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/cc0ea4_4ce26a818de143e5a4a5b189f84eee5b_mv2-rotated.jpg.webp",
+        "alt": "420 Meaning",
+        "w": 600,
+        "h": 450
+       },
+       "excerpt": "Get ready for liftoff! ORDER DELIVERY 420 Meaning by Lifted Shop Whether you are new to marijuana or you’re a",
+       "date": "",
+       "more": "Read More »"
+      },
+      {
+       "title": "How Much Is a Gram of Weed",
+       "href": "/how-much-is-a-gram-of-weed/",
+       "img": {
+        "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/cc0ea4_ea5de0dc2569448aa75f19af51b9378d_mv2-e1664236167143.jpg.webp",
+        "alt": "",
+        "w": 768,
+        "h": 512
+       },
+       "excerpt": "Get ready for liftoff! ORDER DELIVERY How Much Is a Gram of Weed by Lifted Shop Whether you’re a cannabis",
+       "date": "",
+       "more": "Read More »"
+      },
+      {
+       "title": "Cannabis vs Marijuana vs Weed: What’s the Difference?",
+       "href": "/pot-weed-marijuana-what-should-we-call-it/",
+       "img": {
+        "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/cc0ea4_60eb72fadd564ebcb109577bab482f83_mv2.jpg.webp",
+        "alt": "Pot? Weed? Marijuana?",
+        "w": 720,
+        "h": 540
+       },
+       "excerpt": "Get ready for liftoff! ORDER DELIVERY Cannabis vs Marijuana vs Weed: What’s the Difference? Botanically, there isn’t one. Cannabis, marijuana,",
+       "date": "",
+       "more": "Read More »"
+      },
+      {
+       "title": "How Long Does A Weed High Last?",
+       "href": "/how-long-does-a-weed-high-last/",
+       "img": {
+        "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/cc0ea4_a8f998b1f95c4702b261daadc342c661_mv2.jpg.webp",
+        "alt": "How Long Does A Weed High Last?",
+        "w": 600,
+        "h": 499
+       },
+       "excerpt": "Get ready for liftoff! ORDER DELIVERY How Long Does A Weed High Last? by Lifted Shop Both new and seasoned",
+       "date": "",
+       "more": "Read More »"
+      },
+      {
+       "title": "Is Weed Good for You? Top Benefits of Smoking Weed That You Never Knew",
+       "href": "/is-weed-good-for-you-top-benefits-of-smoking-weed-that-you-never-knew/",
+       "img": {
+        "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/cc0ea4_793922fe7c1a4abca6ec7c83b5415c0c_mv2.jpg.webp",
+        "alt": "Is Weed Good for You? Top Benefits of Smoking Weed That You Never Knew",
+        "w": 720,
+        "h": 540
+       },
+       "excerpt": "Get ready for liftoff! ORDER DELIVERY Is Weed Good for You? Top Benefits of Smoking Weed That You Never Knew",
+       "date": "",
+       "more": "Read More »"
+      },
+      {
+       "title": "Does Smoking Weed Cause Acne?",
+       "href": "/does-smoking-weed-cause-acne/",
+       "img": {
+        "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/cc0ea4_ed824ec58fe842a483ed5ae1d292e34e_mv2.jpg.webp",
+        "alt": "Does Smoking Weed Cause Acne?",
+        "w": 768,
+        "h": 576
+       },
+       "excerpt": "Get ready for liftoff! ORDER DELIVERY Does Smoking Weed Cause Acne? by Lifted Shop There is a lot of debate",
+       "date": "",
+       "more": "Read More »"
+      },
+      {
+       "title": "Does Weed Lose Potency Over Time?",
+       "href": "/how-long-does-weed-potency-last/",
+       "img": {
+        "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/cc0ea4_bb5cc95c8e754078bae7332389043380_mv2-e1664469313661-1024x611.jpg.webp",
+        "alt": "How Long Does Weed Potency Last?",
+        "w": 768,
+        "h": 458
+       },
+       "excerpt": "Get ready for liftoff! ORDER DELIVERY Does Weed Lose Potency Over Time? Yes. Weed doesn’t spoil the way food does,",
+       "date": "",
+       "more": "Read More »"
+      },
+      {
+       "title": "How Long Does THC Stay in Your System?",
+       "href": "/tips-for-how-to-pass-a-thc-drug-test/",
+       "img": {
+        "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/9fa5cf_4fba3ad52a354e07a20be359eaeff5bc_mv2-e1664319953409.jpg.webp",
+        "alt": "Tips for How to Pass a THC Drug Test",
+        "w": 720,
+        "h": 400
+       },
+       "excerpt": "Get ready for liftoff! ORDER DELIVERY How Long Does THC Stay in Your System? For a urine test, the usual",
+       "date": "",
+       "more": "Read More »"
+      },
+      {
+       "title": "CBD vs. THC: What’s the Difference?",
+       "href": "/cbd-vs-thc-whats-the-difference/",
+       "img": {
+        "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/9fa5cf_5d6d130378f94039b37ce9e4acb70686_mv2-1-e1664318949560.jpg.webp",
+        "alt": "CBD vs. THC: What’s the Difference?",
+        "w": 735,
+        "h": 480
+       },
+       "excerpt": "Get ready for liftoff! ORDER DELIVERY CBD vs. THC: What’s the Difference? by Lifted ShopPeople globally are wondering what this CBD",
+       "date": "",
+       "more": "Read More »"
+      },
+      {
+       "title": "Does Kief Get You Higher Than Weed?",
+       "href": "/does-kief-get-you-higher-than-weed/",
+       "img": {
+        "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/cc0ea4_db7b682e748145e7b763792b88f19e59_mv2.jpg-1.webp",
+        "alt": "Does Kief Get You Higher Than Weed?",
+        "w": 768,
+        "h": 600
+       },
+       "excerpt": "Get ready for liftoff! ORDER DELIVERY Does Kief Get You Higher Than Weed? by Lifted Shop If you’re wondering, “what",
+       "date": "",
+       "more": "Read More »"
+      },
+      {
+       "title": "Benefits of THC to the Body",
+       "href": "/benefits-of-thc-to-the-body/",
+       "img": {
+        "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/9fa5cf_5493e80ccfd34883bac668e80a804095_mv2-e1664312318345-1024x647.jpg-1.webp",
+        "alt": "Benefits of THC to the Body",
+        "w": 768,
+        "h": 485
+       },
+       "excerpt": "Get ready for liftoff! ORDER DELIVERY Benefits of THC to the Body by Lifted Shop THC is a vital component",
+       "date": "",
+       "more": "Read More »"
+      },
+      {
+       "title": "Weed for Beginners: A Brief Guide",
+       "href": "/weed-for-beginners-a-brief-guide/",
+       "img": {
+        "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/cc0ea4_05718642385e47fcb6321889f78361ed_mv2.jpg.webp",
+        "alt": "Weed for Beginners: A Brief Guide",
+        "w": 768,
+        "h": 577
+       },
+       "excerpt": "Get ready for liftoff! ORDER DELIVERY Weed for Beginners: A Brief Guide by Lifted Shop Weed is a plant that",
+       "date": "",
+       "more": "Read More »"
+      }
+     ],
+     "pagination": [
+      {
+       "text": "←",
+       "href": "/blog/",
+       "current": false
+      },
+      {
+       "text": "Page1",
+       "href": "/blog/",
+       "current": false
+      },
+      {
+       "text": "Page2",
+       "href": null,
+       "current": true
+      },
+      {
+       "text": "→",
+       "href": null,
+       "current": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "archive": null,
+ "unknownWidgets": []
+}

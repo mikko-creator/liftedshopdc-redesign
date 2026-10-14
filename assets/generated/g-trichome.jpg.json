@@ -1,0 +1,29 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "G-TRICHOME",
+  "file": "assets/generated/g-trichome.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Lifted Shop (liftedshopdc.com), its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "Extreme macro photograph of cannabis trichomes, crystal-like glistening resin heads on a green and purple sugar leaf, shallow depth of field, soft dreamy bokeh, dark moody background with warm amber rim light; no text, no people",
+  "input": {
+    "aspect_ratio": "16:9",
+    "output_format": "jpeg",
+    "num_images": 1,
+    "enable_safety_checker": true,
+    "safety_tolerance": "5"
+  },
+  "seed": 2933872587,
+  "requestId": "01a137f5-d580-7c20-a7b1-5a83677f84bf",
+  "cutout": null,
+  "width": 2752,
+  "height": 1536,
+  "sha256": "8f72068ad6827e88e06b084e412645cdd736db3f603e900484070c8b91f44cc4",
+  "raw": "tmp/img/raw/G-TRICHOME.1791940229655.jpg",
+  "attempt": 1,
+  "generatedAt": "2026-10-14T01:10:31.503Z",
+  "review": {
+    "verdict": "PENDING",
+    "reason": null
+  }
+}

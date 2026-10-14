@@ -1,0 +1,197 @@
+{
+ "path": "/orbit-shop/",
+ "url": "https://www.liftedshopdc.com/orbit-shop/",
+ "kind": "page",
+ "head": {
+  "title": "DC Dispensary & Weed Delivery- Orbit Shop",
+  "description": "At Orbit Shop, we offer premium cannabis products for delivery. Explore our selection of top-tier flower, edibles, and concentrates.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://www.liftedshopdc.com/orbit-shop/",
+  "og": {
+   "og:locale": "en_US",
+   "og:type": "article",
+   "og:title": "DC Dispensary & Weed Delivery- Orbit Shop",
+   "og:description": "At Orbit Shop, we offer premium cannabis products for delivery. Explore our selection of top-tier flower, edibles, and concentrates.",
+   "og:url": "https://www.liftedshopdc.com/orbit-shop/",
+   "og:site_name": "LIFTED SHOP, DC",
+   "article:modified_time": "2026-06-23T15:49:01+00:00",
+   "twitter:card": "summary_large_image",
+   "twitter:label1": "Est. reading time",
+   "twitter:data1": "2 minutes"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "WebPage",
+      "@id": "https://www.liftedshopdc.com/orbit-shop/",
+      "url": "https://www.liftedshopdc.com/orbit-shop/",
+      "name": "DC Dispensary & Weed Delivery- Orbit Shop",
+      "isPartOf": {
+       "@id": "https://www.liftedshopdc.com/#website"
+      },
+      "datePublished": "2024-10-17T18:45:00+00:00",
+      "dateModified": "2026-06-23T15:49:01+00:00",
+      "description": "At Orbit Shop, we offer premium cannabis products for delivery. Explore our selection of top-tier flower, edibles, and concentrates.",
+      "breadcrumb": {
+       "@id": "https://www.liftedshopdc.com/orbit-shop/#breadcrumb"
+      },
+      "inLanguage": "en-US",
+      "potentialAction": [
+       {
+        "@type": "ReadAction",
+        "target": [
+         "https://www.liftedshopdc.com/orbit-shop/"
+        ]
+       }
+      ]
+     },
+     {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.liftedshopdc.com/orbit-shop/#breadcrumb",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.liftedshopdc.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Orbit Shop"
+       }
+      ]
+     },
+     {
+      "@type": "WebSite",
+      "@id": "https://www.liftedshopdc.com/#website",
+      "url": "https://www.liftedshopdc.com/",
+      "name": "LIFTED SHOP, DC",
+      "description": "",
+      "potentialAction": [
+       {
+        "@type": "SearchAction",
+        "target": {
+         "@type": "EntryPoint",
+         "urlTemplate": "https://www.liftedshopdc.com/?s={search_term_string}"
+        },
+        "query-input": {
+         "@type": "PropertyValueSpecification",
+         "valueRequired": true,
+         "valueName": "search_term_string"
+        }
+       }
+      ],
+      "inLanguage": "en-US"
+     }
+    ]
+   }
+  ]
+ },
+ "h1": "Orbit Shop",
+ "docId": "2135",
+ "sections": [
+  {
+   "t": "group",
+   "id": "1872fa3d",
+   "children": [
+    {
+     "t": "group",
+     "id": "b7412c0",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h1",
+       "html": "Orbit Shop",
+       "text": "Orbit Shop"
+      },
+      {
+       "t": "text",
+       "html": "<p>At Orbit Shop, we’re dedicated to offering a premium cannabis experience right here in Washington, DC. We provide a wide range of high-quality cannabis products, including top-tier flower, edibles, concentrates, and accessories. Whether you’re a seasoned enthusiast or new to cannabis, our knowledgeable and friendly team is here to guide you through our selection, ensuring you find exactly what you need.</p>"
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "/shop/"
+      }
+     ]
+    }
+   ],
+   "bg": "https://www.liftedshopdc.com/wp-content/uploads/2024/08/https-dispensaryindc.com-wp-content-uploads-2024-03-20221220_162733-1-scaled-1-e1723134889260.jpg"
+  },
+  {
+   "t": "group",
+   "id": "65777d4",
+   "children": [
+    {
+     "t": "store",
+     "provider": "ecwid",
+     "storeId": "125946269"
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "465f141",
+   "children": [
+    {
+     "t": "group",
+     "id": "2bc5e21",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "Why Choose Orbit Shop?",
+       "text": "Why Choose Orbit Shop?"
+      },
+      {
+       "t": "text",
+       "html": "<p>We know you have options when it comes to cannabis, so here’s why Orbit Shop stands out:</p><ul><li><strong>Quality You Can Trust:</strong> We carry only the finest cannabis products, sourced from reputable growers and producers to ensure consistency, potency, and safety. We believe in offering nothing but the best.</li><li><strong>Diverse Product Selection:</strong> We understand that everyone has different preferences, so we stock a wide variety of products, from potent flowers to tasty edibles, concentrates, and more. No matter your needs, we’ve got you covered.</li><li><strong>Safe and Discreet Delivery:</strong> Don’t have time to visit us in person? Enjoy the convenience of having your favorite products delivered right to your door.</li></ul>"
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "/shop/"
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "54946b5",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "Cannabis Delivery with Orbit Shop",
+       "text": "Cannabis Delivery with Orbit Shop"
+      },
+      {
+       "t": "text",
+       "html": "<p>For those who prefer shopping from home, Orbit Shop offers a seamless and discreet delivery service. Just browse our products online, place your order, and let us do the rest. We deliver up to 100 miles from our Georgia Avenue location, ensuring that cannabis enthusiasts in the DC and surrounding areas can access high-quality products without the hassle.</p><p>Our delivery process is fast, reliable, and always discreet. Whether you’re in Washington DC, Baltimore, or anywhere within our delivery radius, our professional drivers ensure your order arrives safely and on time.</p>"
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "/shop/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "4df233b",
+   "children": [
+    {
+     "t": "map",
+     "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3104.341098864798!2d-77.0413864!3d38.916180499999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7b7cef8ce90ed%3A0x2fbcc0498f9ccfaf!2sDC%20Dispensary%20%26%20Weed%20Delivery-%20Orbit%20Shop!5e0!3m2!1sen!2sus!4v1782229398049!5m2!1sen!2sus",
+     "title": ""
+    }
+   ]
+  }
+ ],
+ "archive": null,
+ "unknownWidgets": []
+}

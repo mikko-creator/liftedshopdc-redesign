@@ -1,0 +1,366 @@
+{
+ "path": "/delivery/herndon-va/",
+ "url": "https://www.liftedshopdc.com/delivery/herndon-va/",
+ "kind": "page",
+ "head": {
+  "title": "Best Weed Delivery Herndon, VA | Lifted Shop",
+  "description": "Lifted Shop is the #1 Cannabis Dispensary in Washington DC offering the highest quality and best prices on Cannabis Products. Click to learn more.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://www.liftedshopdc.com/delivery/herndon-va/",
+  "og": {
+   "og:locale": "en_US",
+   "og:type": "article",
+   "og:title": "Best Weed Delivery Herndon, VA | Lifted Shop",
+   "og:description": "Lifted Shop is the #1 Cannabis Dispensary in Washington DC offering the highest quality and best prices on Cannabis Products. Click to learn more.",
+   "og:url": "https://www.liftedshopdc.com/delivery/herndon-va/",
+   "og:site_name": "LIFTED SHOP, DC",
+   "article:modified_time": "2026-08-04T13:08:03+00:00",
+   "og:image": "http://www.liftedshopdc.com/wp-content/uploads/2024/06/Lifted-Rocket-Logo-1-768x768.png",
+   "twitter:card": "summary_large_image",
+   "twitter:label1": "Est. reading time",
+   "twitter:data1": "6 minutes"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "WebPage",
+      "@id": "https://www.liftedshopdc.com/delivery/herndon-va/",
+      "url": "https://www.liftedshopdc.com/delivery/herndon-va/",
+      "name": "Best Weed Delivery Herndon, VA | Lifted Shop",
+      "isPartOf": {
+       "@id": "https://www.liftedshopdc.com/#website"
+      },
+      "primaryImageOfPage": {
+       "@id": "https://www.liftedshopdc.com/delivery/herndon-va/#primaryimage"
+      },
+      "image": {
+       "@id": "https://www.liftedshopdc.com/delivery/herndon-va/#primaryimage"
+      },
+      "thumbnailUrl": "http://www.liftedshopdc.com/wp-content/uploads/2024/06/Lifted-Rocket-Logo-1-768x768.png",
+      "datePublished": "2022-12-01T18:10:12+00:00",
+      "dateModified": "2026-08-04T13:08:03+00:00",
+      "description": "Lifted Shop is the #1 Cannabis Dispensary in Washington DC offering the highest quality and best prices on Cannabis Products. Click to learn more.",
+      "breadcrumb": {
+       "@id": "https://www.liftedshopdc.com/delivery/herndon-va/#breadcrumb"
+      },
+      "inLanguage": "en-US",
+      "potentialAction": [
+       {
+        "@type": "ReadAction",
+        "target": [
+         "https://www.liftedshopdc.com/delivery/herndon-va/"
+        ]
+       }
+      ]
+     },
+     {
+      "@type": "ImageObject",
+      "inLanguage": "en-US",
+      "@id": "https://www.liftedshopdc.com/delivery/herndon-va/#primaryimage",
+      "url": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Lifted-Rocket-Logo-1.png",
+      "contentUrl": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Lifted-Rocket-Logo-1.png",
+      "width": 1000,
+      "height": 1000
+     },
+     {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.liftedshopdc.com/delivery/herndon-va/#breadcrumb",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.liftedshopdc.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Delivery",
+        "item": "https://www.liftedshopdc.com/delivery/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Herndon, VA"
+       }
+      ]
+     },
+     {
+      "@type": "WebSite",
+      "@id": "https://www.liftedshopdc.com/#website",
+      "url": "https://www.liftedshopdc.com/",
+      "name": "LIFTED SHOP, DC",
+      "description": "",
+      "potentialAction": [
+       {
+        "@type": "SearchAction",
+        "target": {
+         "@type": "EntryPoint",
+         "urlTemplate": "https://www.liftedshopdc.com/?s={search_term_string}"
+        },
+        "query-input": {
+         "@type": "PropertyValueSpecification",
+         "valueRequired": true,
+         "valueName": "search_term_string"
+        }
+       }
+      ],
+      "inLanguage": "en-US"
+     }
+    ]
+   }
+  ]
+ },
+ "h1": "BEST WEED DELIVERY HERNDON, VA",
+ "docId": "564",
+ "sections": [
+  {
+   "t": "group",
+   "id": "003ca16",
+   "children": [
+    {
+     "t": "group",
+     "id": "915c4fb",
+     "children": [
+      {
+       "t": "image",
+       "img": {
+        "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Lifted-Rocket-Logo-1.png",
+        "alt": "",
+        "w": 768,
+        "h": 768
+       },
+       "href": null,
+       "caption": null,
+       "anim": "zoomIn"
+      },
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "Get ready for liftoff!",
+       "text": "Get ready for liftoff!"
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "69c7b2e",
+     "children": [
+      {
+       "t": "carousel",
+       "items": [
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Higher-Frequency-Bag-2.png",
+          "alt": "Higher-Frequency-Bag-2",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Casanova-Fly-Bag.png",
+          "alt": "Casanova-Fly-Bag",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/bag-2.png",
+          "alt": "bag-2",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Dust-Mac-Bag-2.png",
+          "alt": "Dust-Mac-Bag-2",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Sugarland-Delight-Bag.png",
+          "alt": "Sugarland-Delight-Bag",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Onyx-Slam-Bag.png",
+          "alt": "Onyx-Slam-Bag",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        }
+       ]
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "#orderdelivery"
+      }
+     ]
+    }
+   ],
+   "bg": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/feature-bg-3-1.jpg"
+  },
+  {
+   "t": "group",
+   "id": "19a4573",
+   "children": [
+    {
+     "t": "heading",
+     "level": "h1",
+     "html": "BEST WEED DELIVERY HERNDON, VA",
+     "text": "BEST WEED DELIVERY HERNDON, VA"
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "a2b0690",
+   "children": [
+    {
+     "t": "store",
+     "provider": "ecwid",
+     "storeId": "125946269"
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "c362071",
+   "children": [
+    {
+     "t": "group",
+     "id": "984c950",
+     "children": [
+      {
+       "t": "group",
+       "id": "77dce65",
+       "children": [
+        {
+         "t": "heading",
+         "level": "h2",
+         "html": "Delivery Area",
+         "text": "Delivery Area"
+        },
+        {
+         "t": "text",
+         "html": "<p>Address: Herndon, VA 20171<br>Hours: Monday – Friday 10am-9pm<br>Phone: <a href=\"tel:7712161684\">(771) 216-1684</a></p>"
+        }
+       ]
+      },
+      {
+       "t": "button",
+       "text": "Contact Us",
+       "href": "#locationcontact"
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "d95453d",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "Our Services",
+       "text": "Our Services"
+      },
+      {
+       "t": "text",
+       "html": "<p>Lifted Shop, DC is the best place in Washington, DC, to buy weed. We have a large selection of high-quality cannabis, and we have knowledgeable staff who can help you find what’s suitable for your needs. We provide safe delivery throughout Maryland, Virginia, and Northern Virginia! Delivery Available up to 50 Miles!</p><ul><li>Place An Order</li><li>Promos</li><li>Merch</li><li><a href=\"/contact/\">Contact Us</a></li><li>Elevated</li></ul>"
+      },
+      {
+       "t": "button",
+       "text": "Order Now!",
+       "href": "/shop/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "23dd999",
+   "children": [
+    {
+     "t": "group",
+     "id": "2de5c56",
+     "children": [
+      {
+       "t": "map",
+       "src": "https://maps.google.com/maps?q=herndon&t=m&z=15&output=embed&iwloc=near",
+       "title": "herndon"
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "d505a8a",
+     "children": [
+      {
+       "t": "group",
+       "id": "97f2a57",
+       "children": [
+        {
+         "t": "heading",
+         "level": "h2",
+         "html": "Testimonials",
+         "text": "Testimonials"
+        }
+       ]
+      },
+      {
+       "t": "testimonials",
+       "items": [
+        {
+         "text": "I wish I had of found this place before all the other time I wasted with other places. Professional, Friendly, Safe, Patient and On Point. All the way from Seattle and I can honestly say, I wish they had a location back at home.",
+         "name": "T.M.",
+         "title": ""
+        },
+        {
+         "text": "Friendliest shop around! Good selection and weekly specials!",
+         "name": "M.R.",
+         "title": ""
+        },
+        {
+         "text": "I’ve finally found a place where the staff shows its customers love and respect. Thanks Lifted for being my new spot for the ⛽💨💯💪",
+         "name": "B.C.",
+         "title": ""
+        }
+       ]
+      },
+      {
+       "t": "button",
+       "text": "Read More",
+       "href": "/reviews/"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "archive": null,
+ "unknownWidgets": []
+}

@@ -1,0 +1,403 @@
+{
+ "path": "/same-day-weed-delivery-in-dc/",
+ "url": "https://www.liftedshopdc.com/same-day-weed-delivery-in-dc/",
+ "kind": "page",
+ "head": {
+  "title": "Same-Day Weed Delivery in DC | Lifted Shop DC",
+  "description": "Order weed delivery in DC and get it same day. Lifted Shop delivers across Washington DC in 1–2 hours, 10am–9pm daily. $100 minimum. Order now.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://www.liftedshopdc.com/same-day-weed-delivery-in-dc/",
+  "og": {
+   "og:locale": "en_US",
+   "og:type": "article",
+   "og:title": "Same-Day Weed Delivery in DC | Lifted Shop DC",
+   "og:description": "Order weed delivery in DC and get it same day. Lifted Shop delivers across Washington DC in 1–2 hours, 10am–9pm daily. $100 minimum. Order now.",
+   "og:url": "https://www.liftedshopdc.com/same-day-weed-delivery-in-dc/",
+   "og:site_name": "LIFTED SHOP, DC",
+   "article:modified_time": "2026-06-05T18:02:32+00:00",
+   "twitter:card": "summary_large_image",
+   "twitter:label1": "Est. reading time",
+   "twitter:data1": "3 minutes"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "WebPage",
+      "@id": "https://www.liftedshopdc.com/same-day-weed-delivery-in-dc/",
+      "url": "https://www.liftedshopdc.com/same-day-weed-delivery-in-dc/",
+      "name": "Same-Day Weed Delivery in DC | Lifted Shop DC",
+      "isPartOf": {
+       "@id": "https://www.liftedshopdc.com/#website"
+      },
+      "datePublished": "2026-06-05T14:34:16+00:00",
+      "dateModified": "2026-06-05T18:02:32+00:00",
+      "description": "Order weed delivery in DC and get it same day. Lifted Shop delivers across Washington DC in 1–2 hours, 10am–9pm daily. $100 minimum. Order now.",
+      "breadcrumb": {
+       "@id": "https://www.liftedshopdc.com/same-day-weed-delivery-in-dc/#breadcrumb"
+      },
+      "inLanguage": "en-US",
+      "potentialAction": [
+       {
+        "@type": "ReadAction",
+        "target": [
+         "https://www.liftedshopdc.com/same-day-weed-delivery-in-dc/"
+        ]
+       }
+      ]
+     },
+     {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.liftedshopdc.com/same-day-weed-delivery-in-dc/#breadcrumb",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.liftedshopdc.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Same-Day Weed Delivery in DC"
+       }
+      ]
+     },
+     {
+      "@type": "WebSite",
+      "@id": "https://www.liftedshopdc.com/#website",
+      "url": "https://www.liftedshopdc.com/",
+      "name": "LIFTED SHOP, DC",
+      "description": "",
+      "potentialAction": [
+       {
+        "@type": "SearchAction",
+        "target": {
+         "@type": "EntryPoint",
+         "urlTemplate": "https://www.liftedshopdc.com/?s={search_term_string}"
+        },
+        "query-input": {
+         "@type": "PropertyValueSpecification",
+         "valueRequired": true,
+         "valueName": "search_term_string"
+        }
+       }
+      ],
+      "inLanguage": "en-US"
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+     {
+      "@type": "Question",
+      "name": "How long does same-day delivery take in DC?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Most deliveries within Washington DC are completed within 1–2 hours of placing your order, depending on your location and order volume at the time."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "What is the minimum order for DC delivery?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "The minimum order for same-day delivery in Washington DC is $100."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "What hours do you deliver in DC?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "We deliver daily from 10 am to 9 pm. Orders placed before 9 pm are eligible for same-day delivery."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Do I need to be home for delivery?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes. Someone 21 or older must be present to receive the order and provide a valid government-issued ID."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Do you deliver to all DC neighborhoods?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "We deliver across Washington DC. If you&#8217;re unsure whether we reach your address, place your order, and our team will confirm."
+      }
+     }
+    ]
+   }
+  ]
+ },
+ "h1": "Same-Day Weed Delivery in DC",
+ "docId": "5782",
+ "sections": [
+  {
+   "t": "group",
+   "id": "d42aadd",
+   "children": [
+    {
+     "t": "group",
+     "id": "0f00b8b",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h1",
+       "html": "Same-Day Weed Delivery in DC",
+       "text": "Same-Day Weed Delivery in DC"
+      },
+      {
+       "t": "text",
+       "html": "<p>No waiting. No trips across town. Order from Lifted Shop and get premium cannabis delivered to your door anywhere in Washington, DC, same day, every day. We deliver from our location at 2622 Georgia Ave NW, reaching most DC addresses within 1–2 hours.</p>"
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "#orderdelivery"
+      }
+     ]
+    }
+   ],
+   "bg": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/feature-bg-3-1.jpg"
+  },
+  {
+   "t": "group",
+   "id": "4e29435",
+   "children": [
+    {
+     "t": "reviews",
+     "provider": "Trustindex (Google reviews)",
+     "summary": {
+      "label": "EXCELLENT",
+      "text": "EXCELLENT Based on 2410 reviews"
+     },
+     "items": [
+      {
+       "name": "Sherrene Donovan",
+       "date": "",
+       "stars": 5,
+       "text": "Great and quick service. Big fan of Burst and Devour gummies. Thank you Nancy for all your help!!!",
+       "source": "Google"
+      },
+      {
+       "name": "Muhammad ihram Pangestu",
+       "date": "",
+       "stars": 5,
+       "text": "Weed shop delivery to Irvine apartments near UCI was quick!",
+       "source": "Google"
+      },
+      {
+       "name": "Zachariah Bailey",
+       "date": "",
+       "stars": 5,
+       "text": "Smooth cannabis delivery to our Anaheim hotel, perfect for the Disney trip 😭",
+       "source": "Google"
+      },
+      {
+       "name": "Saidi Tumwa",
+       "date": "",
+       "stars": 5,
+       "text": "Mari and Mark are great! i appreciate the help they gave me",
+       "source": "Google"
+      },
+      {
+       "name": "Jennifer Turner",
+       "date": "",
+       "stars": 5,
+       "text": "Hiyab was very helpful a great bud tender",
+       "source": "Google"
+      },
+      {
+       "name": "Jamie Coleman",
+       "date": "",
+       "stars": 5,
+       "text": "I travel to DC every month for work and a buddy of mine told me about this shop; I called the shop and found out they only do delivery now (DC only has medical shops now) so I ordered from them a few times and on my most recent order, the delivery driver, JJ, was super friendly and helpful. Got my delivery within an hr of ordering and enjoyed some incredible \"high\" energy products before my flight home. Thanks!!",
+       "source": "Google"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "ebbfbc2",
+   "children": [
+    {
+     "t": "group",
+     "id": "609a3e9",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "How It Works",
+       "text": "How It Works"
+      },
+      {
+       "t": "text",
+       "html": "<p>Order online, get a confirmation, and your delivery is on its way. Here’s what to expect:</p><p><strong>Step 1: Browse and order</strong><strong><br></strong> Shop our full menu online. Select your products and place your order directly through our site.</p><p><strong>Step 2: Confirmation</strong><strong><br></strong> You’ll receive confirmation once your order is placed. Our team prepares it right away.</p><p><strong>Step 3: Delivery to your door</strong><strong><br></strong> A driver heads your way from 2622 Georgia Ave NW. Most DC addresses receive their order within 1–2 hours.</p><p><strong>Step 4: Receive your order</strong><strong><br></strong> Have a valid ID ready. You must be 21+ to receive a delivery.</p><p><em>Want more detail on the ordering process? Read our full guide: </em><em><strong><a href=\"/how-to-order-weed-delivery-dc/\">How to Order Weed Delivery Online in DC</a></strong>.</em></p>"
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "/shop/"
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "ef03211",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "DC Same-Day Delivery Details",
+       "text": "DC Same-Day Delivery Details"
+      },
+      {
+       "t": "text",
+       "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><strong>Delivery hours</strong></p>\n</td>\n<td>\n<p>Daily, 10 am – 9 pm</p>\n</td>\n</tr>\n<tr>\n<td>\n<p><strong>Estimated delivery time</strong></p>\n</td>\n<td>\n<p>1–2 hours within DC</p>\n</td>\n</tr>\n<tr>\n<td>\n<p><strong>Delivery area</strong></p>\n</td>\n<td>\n<p>Washington DC</p>\n</td>\n</tr>\n<tr>\n<td>\n<p><strong>Minimum order</strong></p>\n</td>\n<td>\n<p>$100</p>\n</td>\n</tr>\n<tr>\n<td>\n<p><strong>Delivery from</strong></p>\n</td>\n<td>\n<p>2622 Georgia Ave NW, Washington, DC</p>\n</td>\n</tr>\n<tr>\n<td>\n<p><strong>Age requirement</strong></p>\n</td>\n<td>\n<p>21+ with valid ID</p>\n</td>\n</tr>\n</tbody>\n</table>"
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "/shop/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "810e949",
+   "children": [
+    {
+     "t": "group",
+     "id": "924e0f4",
+     "children": [
+      {
+       "t": "group",
+       "id": "f67db58",
+       "children": [
+        {
+         "t": "heading",
+         "level": "h3",
+         "html": "What Can I Order for Same-Day Delivery?",
+         "text": "What Can I Order for Same-Day Delivery?"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "html": "<p>Everything on our menu is available for same-day delivery. That includes:</p><ul><li><strong>Flower</strong>: Premium indoor and top-shelf strains</li><li><strong>Pre-rolls</strong>: Ready to go, no prep needed. </li><li><strong>Edibles</strong>: Gummies, chocolates, and more</li><li><strong>Vape cartridges</strong>: 510-thread and all-in-one options. </li><li><strong>Concentrates</strong>: Wax, shatter, and live resin. </li><li><strong>Shrooms</strong>: Psilocybin products delivered discreetly. </li></ul>"
+      },
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "Why Order Same-Day Delivery from Lifted?",
+       "text": "Why Order Same-Day Delivery from Lifted?"
+      },
+      {
+       "t": "text",
+       "html": "<ul>\n<li><strong>We know DC:</strong> Our drivers operate out of Northwest DC, which means we know the streets, the neighborhoods, and how to get to you fast, whether you’re in Columbia Heights, Capitol Hill, Dupont Circle, or anywhere in between.</li>\n<li><strong>No dispensary run required:</strong> Skip the parking, the lines, and the trip. Your order comes to you.</li>\n<li><strong>Fresh product, every time:</strong> Everything is sourced, stored, and packed to order. You’re not getting something that’s been sitting on a shelf.</li>\n<li><strong>Real people, real service:</strong> Questions about your order? We’re reachable. No bots, no runaround.</li>\n</ul>"
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "/shop/"
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "c946de2",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "Is Same-Day Weed Delivery Legal in DC?",
+       "text": "Is Same-Day Weed Delivery Legal in DC?"
+      },
+      {
+       "t": "text",
+       "html": "<p>Yes. Weed delivery in Washington DC is legal under Initiative 71, which permits the gifting of cannabis between adults 21 and older. When you place an order with <a href=\"/\">Lifted Shop</a>, you are participating in a lawful gifting transaction under DC law.</p><p><em>Want to understand how this works? Read our full breakdown: <a href=\"/dc-weed-gifting-initiative-71/\">DC Weed Gifting: How Initiative 71 Works.</a></em></p>"
+      },
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "Frequently Asked Questions",
+       "text": "Frequently Asked Questions"
+      },
+      {
+       "t": "faq",
+       "items": [
+        {
+         "q": "How long does same-day delivery take in DC?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>Most deliveries within Washington DC are completed within 1–2 hours of placing your order, depending on your location and order volume at the time.</p>"
+          }
+         ]
+        },
+        {
+         "q": "What is the minimum order for DC delivery?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>The minimum order for same-day delivery in Washington DC is $100.</p>"
+          }
+         ]
+        },
+        {
+         "q": "What hours do you deliver in DC?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>We deliver daily from 10 am to 9 pm. Orders placed before 9 pm are eligible for same-day delivery.</p>"
+          }
+         ]
+        },
+        {
+         "q": "Do I need to be home for delivery?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>Yes. Someone 21 or older must be present to receive the order and provide a valid government-issued ID.</p>"
+          }
+         ]
+        },
+        {
+         "q": "Do you deliver to all DC neighborhoods?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>We deliver across Washington DC. If you’re unsure whether we reach your address, place your order, and our team will confirm.</p>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "html": "<p>Ready to order? Browse the menu and place your same-day delivery now.</p>"
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "/shop/"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "archive": null,
+ "unknownWidgets": []
+}

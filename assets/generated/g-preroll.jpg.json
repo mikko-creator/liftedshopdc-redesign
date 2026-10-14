@@ -1,0 +1,29 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "G-PREROLL",
+  "file": "assets/generated/g-preroll.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Lifted Shop (liftedshopdc.com), its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "A single pre-rolled cannabis joint in natural unbleached paper resting on dark smoked glass, a thin ribbon of white smoke curling upward from its tip, deep moody background with soft red and amber rim light, shallow depth of field, cinematic photograph; no text, no logos, no people, no hands, no ashtray, no packaging",
+  "input": {
+    "aspect_ratio": "16:9",
+    "output_format": "jpeg",
+    "num_images": 1,
+    "enable_safety_checker": true,
+    "safety_tolerance": "5"
+  },
+  "seed": 3484420687,
+  "requestId": "01a137f5-d7cb-77e3-a448-aa00e141a9ab",
+  "cutout": null,
+  "width": 2752,
+  "height": 1536,
+  "sha256": "cf5bc11bacf0da5673449230f822d6efe07c657076976fecd4dffd50b81c74a9",
+  "raw": "tmp/img/raw/G-PREROLL.1791940230243.jpg",
+  "attempt": 1,
+  "generatedAt": "2026-10-14T01:10:31.711Z",
+  "review": {
+    "verdict": "PENDING",
+    "reason": null
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "G-ORBIT",
+  "file": "assets/generated/g-orbit.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Lifted Shop (liftedshopdc.com), its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "View from the edge of space at night: the thin glowing band of blue and amber atmosphere along the gently curved horizon above luminous cloud tops, deep black space with a field of stars, cinematic, ultra detailed photograph; no text, no spacecraft, no satellites, no people, no sun flare",
+  "input": {
+    "aspect_ratio": "21:9",
+    "output_format": "jpeg",
+    "num_images": 1,
+    "enable_safety_checker": true,
+    "safety_tolerance": "5"
+  },
+  "seed": 2389601801,
+  "requestId": "01a137f5-c784-7c50-81f6-e3a97e141b4a",
+  "cutout": null,
+  "width": 3136,
+  "height": 1344,
+  "sha256": "54e4951f26fc7dd18bfb4491d7a41fb5b5b79f8b122957543e03f04b6c64733a",
+  "raw": "tmp/img/raw/G-ORBIT.1791940224783.jpg",
+  "attempt": 1,
+  "generatedAt": "2026-10-14T01:10:26.427Z",
+  "review": {
+    "verdict": "PENDING",
+    "reason": null
+  }
+}

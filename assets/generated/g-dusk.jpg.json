@@ -1,0 +1,29 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "G-DUSK",
+  "file": "assets/generated/g-dusk.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Lifted Shop (liftedshopdc.com), its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "Ethereal cloudscape at dusk photographed from airplane altitude, layered soft clouds in rose, peach and lavender under a deep violet sky, a warm golden glow along the far horizon, dreamy haze, cinematic wide photograph with calm open sky; no people, no text, no aircraft, no wing, no buildings",
+  "input": {
+    "aspect_ratio": "21:9",
+    "output_format": "jpeg",
+    "num_images": 1,
+    "enable_safety_checker": true,
+    "safety_tolerance": "5"
+  },
+  "seed": 3014261209,
+  "requestId": "01a137f5-9cb5-7980-a965-1701dcda7bbb",
+  "cutout": null,
+  "width": 3136,
+  "height": 1344,
+  "sha256": "c993b147793f364ebc22f4c4c6f333795f26387a6c80220fc511b608ef2e55e3",
+  "raw": "tmp/img/raw/G-DUSK.1791940213817.jpg",
+  "attempt": 1,
+  "generatedAt": "2026-10-14T01:10:15.412Z",
+  "review": {
+    "verdict": "PENDING",
+    "reason": null
+  }
+}

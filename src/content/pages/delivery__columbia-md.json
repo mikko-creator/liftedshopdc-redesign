@@ -1,0 +1,356 @@
+{
+ "path": "/delivery/columbia-md/",
+ "url": "https://www.liftedshopdc.com/delivery/columbia-md/",
+ "kind": "page",
+ "head": {
+  "title": "Reliable Weed Delivery in Columbia, MD | Lifted Shop",
+  "description": "Lifted Shop provides professional weed delivery in Columbia, MD. Enjoy high-quality cannabis, discreet service, and convenient home delivery.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://www.liftedshopdc.com/delivery/columbia-md/",
+  "og": {
+   "og:locale": "en_US",
+   "og:type": "article",
+   "og:title": "Reliable Weed Delivery in Columbia, MD | Lifted Shop",
+   "og:description": "Lifted Shop provides professional weed delivery in Columbia, MD. Enjoy high-quality cannabis, discreet service, and convenient home delivery.",
+   "og:url": "https://www.liftedshopdc.com/delivery/columbia-md/",
+   "og:site_name": "LIFTED SHOP, DC",
+   "article:modified_time": "2026-05-25T16:20:32+00:00",
+   "twitter:card": "summary_large_image",
+   "twitter:label1": "Est. reading time",
+   "twitter:data1": "4 minutes"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "WebPage",
+      "@id": "https://www.liftedshopdc.com/delivery/columbia-md/",
+      "url": "https://www.liftedshopdc.com/delivery/columbia-md/",
+      "name": "Reliable Weed Delivery in Columbia, MD | Lifted Shop",
+      "isPartOf": {
+       "@id": "https://www.liftedshopdc.com/#website"
+      },
+      "datePublished": "2026-01-09T16:24:22+00:00",
+      "dateModified": "2026-05-25T16:20:32+00:00",
+      "description": "Lifted Shop provides professional weed delivery in Columbia, MD. Enjoy high-quality cannabis, discreet service, and convenient home delivery.",
+      "breadcrumb": {
+       "@id": "https://www.liftedshopdc.com/delivery/columbia-md/#breadcrumb"
+      },
+      "inLanguage": "en-US",
+      "potentialAction": [
+       {
+        "@type": "ReadAction",
+        "target": [
+         "https://www.liftedshopdc.com/delivery/columbia-md/"
+        ]
+       }
+      ]
+     },
+     {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.liftedshopdc.com/delivery/columbia-md/#breadcrumb",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.liftedshopdc.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Delivery",
+        "item": "https://www.liftedshopdc.com/delivery/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Columbia, MD"
+       }
+      ]
+     },
+     {
+      "@type": "WebSite",
+      "@id": "https://www.liftedshopdc.com/#website",
+      "url": "https://www.liftedshopdc.com/",
+      "name": "LIFTED SHOP, DC",
+      "description": "",
+      "potentialAction": [
+       {
+        "@type": "SearchAction",
+        "target": {
+         "@type": "EntryPoint",
+         "urlTemplate": "https://www.liftedshopdc.com/?s={search_term_string}"
+        },
+        "query-input": {
+         "@type": "PropertyValueSpecification",
+         "valueRequired": true,
+         "valueName": "search_term_string"
+        }
+       }
+      ],
+      "inLanguage": "en-US"
+     }
+    ]
+   }
+  ]
+ },
+ "h1": "Reliable Weed Delivery in Columbia, MD",
+ "docId": "5300",
+ "sections": [
+  {
+   "t": "group",
+   "id": "d3314ba",
+   "children": [
+    {
+     "t": "group",
+     "id": "d8d70ea",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h1",
+       "html": "Reliable Weed Delivery in Columbia, MD",
+       "text": "Reliable Weed Delivery in Columbia, MD"
+      },
+      {
+       "t": "text",
+       "html": "<p>Residents of Columbia no longer need to navigate the commute to Baltimore or Silver Spring to access premium cannabis. Whether you are spending the day at Merriweather Post Pavilion or relaxing in the quiet neighborhoods of Wilde Lake and Harper’s Choice, you can have high-quality cannabis delivered directly to your home. At <a href=\"/\"><strong>Lifted Shop</strong></a>, we offer a professional and discreet delivery service that brings the best of the Maryland cannabis market to your doorstep.</p>"
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "#orderdelivery"
+      }
+     ]
+    }
+   ],
+   "bg": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/feature-bg-3-1.jpg"
+  },
+  {
+   "t": "group",
+   "id": "57c1f0b",
+   "children": [
+    {
+     "t": "reviews",
+     "provider": "Trustindex (Google reviews)",
+     "summary": {
+      "label": "EXCELLENT",
+      "text": "EXCELLENT Based on 2410 reviews"
+     },
+     "items": [
+      {
+       "name": "Sherrene Donovan",
+       "date": "",
+       "stars": 5,
+       "text": "Great and quick service. Big fan of Burst and Devour gummies. Thank you Nancy for all your help!!!",
+       "source": "Google"
+      },
+      {
+       "name": "Muhammad ihram Pangestu",
+       "date": "",
+       "stars": 5,
+       "text": "Weed shop delivery to Irvine apartments near UCI was quick!",
+       "source": "Google"
+      },
+      {
+       "name": "Zachariah Bailey",
+       "date": "",
+       "stars": 5,
+       "text": "Smooth cannabis delivery to our Anaheim hotel, perfect for the Disney trip 😭",
+       "source": "Google"
+      },
+      {
+       "name": "Saidi Tumwa",
+       "date": "",
+       "stars": 5,
+       "text": "Mari and Mark are great! i appreciate the help they gave me",
+       "source": "Google"
+      },
+      {
+       "name": "Jennifer Turner",
+       "date": "",
+       "stars": 5,
+       "text": "Hiyab was very helpful a great bud tender",
+       "source": "Google"
+      },
+      {
+       "name": "Jamie Coleman",
+       "date": "",
+       "stars": 5,
+       "text": "I travel to DC every month for work and a buddy of mine told me about this shop; I called the shop and found out they only do delivery now (DC only has medical shops now) so I ordered from them a few times and on my most recent order, the delivery driver, JJ, was super friendly and helpful. Got my delivery within an hr of ordering and enjoyed some incredible \"high\" energy products before my flight home. Thanks!!",
+       "source": "Google"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "86adb4d",
+   "children": [
+    {
+     "t": "store",
+     "provider": "ecwid",
+     "storeId": "125946269"
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "ebbfbc2",
+   "children": [
+    {
+     "t": "group",
+     "id": "ef676b9",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "Premium Cannabis Curated for the Columbia Community",
+       "text": "Premium Cannabis Curated for the Columbia Community"
+      },
+      {
+       "t": "text",
+       "html": "<p>Our menu is designed to cater to both seasoned connoisseurs and those new to the cannabis experience. We focus on purity, potency, and a diverse range of effects to ensure every customer finds their perfect match.</p><ul><li><strong>Exotic Flower:</strong> We stock a wide variety of Sativa, Indica, and Hybrid strains. </li><li><strong>Precision-Dosed Edibles:</strong> If you prefer a smoke-free option, our selection of gummies, chocolates, and beverages provides a consistent experience. </li><li><strong>Elite Concentrates:</strong> For those seeking higher potency, we offer premium live resin, badder, and shatter. </li><li><strong>Vape Cartridges and Disposables:</strong> Our inventory includes the latest from top brands, offering clean-burning oil and convenient hardware for a discreet, portable experience.</li><li><strong>Ready-to-Use Pre-Rolls:</strong> Professionally rolled and available in single or multi-packs, our pre-rolls are the ultimate convenience for your busy lifestyle.</li></ul>"
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "/shop/"
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "f673334",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "How to Order Your Delivery in Columbia",
+       "text": "How to Order Your Delivery in Columbia"
+      },
+      {
+       "t": "text",
+       "html": "<p>Getting cannabis delivered is a simple and secure process. To remain compliant with Maryland state law, all customers must be 21 years of age or older and possess a valid government-issued ID.</p><ol><li><strong>Browse the Online Menu:</strong> Visit our website to view current inventory and daily specials. Our menu updates in real-time, so you always know what is in stock.</li><li><strong>Submit Your Order:</strong> Select your products and proceed to checkout. You will be asked to provide your delivery address and verify your age.</li><li><strong>Professional Courier Arrival:</strong> Our delivery team operates with the highest level of discretion. We use unmarked vehicles to ensure your privacy within your neighborhood.</li><li><strong>Final Verification:</strong> When your driver arrives at your private residence, simply show your physical ID to complete the transaction.</li></ol>"
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "/shop/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "f0d1e8f",
+   "children": [
+    {
+     "t": "group",
+     "id": "37bc4a9",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "Why Choose Lifted Shop for Columbia Delivery?",
+       "text": "Why Choose Lifted Shop for Columbia Delivery?"
+      },
+      {
+       "t": "text",
+       "html": "<p>We understand that Columbia residents value reliability and quality. We go beyond being a delivery service by acting as a trusted resource for the local cannabis community. Our staff is highly knowledgeable about different terpene profiles and can help you select products tailored to your specific goals, whether that is finding focus or winding down after work.</p><p>We proudly serve all villages in Columbia, including:</p><ul><li>Town Center</li><li>Oakland Mills</li><li>Kings Contrivance</li><li>River Hill</li><li>Hickory Ridge</li></ul>"
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "/shop/"
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "a0dfdfe",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "Frequently Asked Questions",
+       "text": "Frequently Asked Questions"
+      },
+      {
+       "t": "faq",
+       "items": [
+        {
+         "q": "Is weed delivery legal in Columbia, MD?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>Yes. Following Maryland’s adult-use legalization, licensed services can legally deliver cannabis products to private residences.</p>"
+          }
+         ]
+        },
+        {
+         "q": "What do I need to show the driver?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>You must present a valid government-issued photo ID (such as a driver’s license or passport) that proves you are at least 21 years old.</p>"
+          }
+         ]
+        },
+        {
+         "q": "How long will my delivery take?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>Most orders in the Columbia area are fulfilled within 60 to 90 minutes. We provide updates throughout the process so you know exactly when to expect your driver.</p>"
+          }
+         ]
+        },
+        {
+         "q": "Are there limits on what I can buy?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>Yes. In Maryland, adults can possess up to 1.5 ounces of flower, 12 grams of concentrated cannabis, or products containing up to 750mg of THC.</p>"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "c5a8017",
+   "children": [
+    {
+     "t": "text",
+     "html": "<h3><strong>Experience Premium Delivery Today</strong></h3><p>Skip the lines and the traffic. <a href=\"/\"><strong>Lifted Shop</strong></a> is here to provide the most seamless cannabis shopping experience in Howard County. Our commitment to excellence ensures that you receive the best products with the best service every time.</p><p><strong>Get started with Lifted Shop now.</strong></p>"
+    },
+    {
+     "t": "button",
+     "text": "ORDER DELIVERY",
+     "href": "/shop/"
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "c9501d3",
+   "children": [
+    {
+     "t": "map",
+     "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d197899.33324709837!2d-77.17879714337731!3d39.19342483113174!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7dfb06369a051%3A0xf0d6bd65b687635d!2sColumbia%2C%20MD!5e0!3m2!1sen!2sus!4v1767975791547!5m2!1sen!2sus",
+     "title": ""
+    }
+   ]
+  }
+ ],
+ "archive": null,
+ "unknownWidgets": []
+}

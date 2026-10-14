@@ -1,0 +1,32 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "G-PLANE",
+  "file": "assets/generated/g-plane.png",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Lifted Shop (liftedshopdc.com), its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "Studio photograph of a neatly folded paper airplane made from thin translucent white rolling paper, crisp sharp folds, three-quarter view as if gliding upward, centred on a seamless plain light grey background, soft diffused studio light, fine paper fibre texture visible, high resolution; no text, no logos, no printing, no people, no hands, no strings",
+  "input": {
+    "aspect_ratio": "3:2",
+    "output_format": "jpeg",
+    "num_images": 1,
+    "enable_safety_checker": true,
+    "safety_tolerance": "5"
+  },
+  "seed": 1045936713,
+  "requestId": "01a137f5-9706-7141-b674-3566c11a72d6",
+  "cutout": {
+    "model": "fal-ai/birefnet/v2",
+    "requestId": "01a137f5-c782-7350-b992-15a1a9c24bce"
+  },
+  "width": 2496,
+  "height": 1664,
+  "sha256": "951ae640349f21b277ba4c7d4ba97c3017b63590a1df44180edeffea290b88d0",
+  "raw": "tmp/img/raw/G-PLANE.1791940214057.jpg",
+  "attempt": 1,
+  "generatedAt": "2026-10-14T01:10:19.006Z",
+  "review": {
+    "verdict": "PENDING",
+    "reason": null
+  }
+}

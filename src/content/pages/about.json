@@ -1,0 +1,513 @@
+{
+ "path": "/about/",
+ "url": "https://www.liftedshopdc.com/about/",
+ "kind": "page",
+ "head": {
+  "title": "About our Dispensary Washington, DC | Lifted Shop",
+  "description": "Lifted Shop is the #1 Cannabis Dispensary in Washington DC offering the highest quality and best prices on About. Click to learn more.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://www.liftedshopdc.com/about/",
+  "og": {
+   "og:locale": "en_US",
+   "og:type": "article",
+   "og:title": "About our Dispensary Washington, DC | Lifted Shop",
+   "og:description": "Lifted Shop is the #1 Cannabis Dispensary in Washington DC offering the highest quality and best prices on About. Click to learn more.",
+   "og:url": "https://www.liftedshopdc.com/about/",
+   "og:site_name": "LIFTED SHOP, DC",
+   "article:modified_time": "2026-06-08T14:14:40+00:00",
+   "og:image": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Lifted-Rocket-Logo-1.png",
+   "og:image:width": "1000",
+   "og:image:height": "1000",
+   "og:image:type": "image/png",
+   "twitter:card": "summary_large_image",
+   "twitter:label1": "Est. reading time",
+   "twitter:data1": "5 minutes"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "WebPage",
+      "@id": "https://www.liftedshopdc.com/about/",
+      "url": "https://www.liftedshopdc.com/about/",
+      "name": "About our Dispensary Washington, DC | Lifted Shop",
+      "isPartOf": {
+       "@id": "https://www.liftedshopdc.com/#website"
+      },
+      "primaryImageOfPage": {
+       "@id": "https://www.liftedshopdc.com/about/#primaryimage"
+      },
+      "image": {
+       "@id": "https://www.liftedshopdc.com/about/#primaryimage"
+      },
+      "thumbnailUrl": "http://www.liftedshopdc.com/wp-content/uploads/2024/06/Lifted-Rocket-Logo-1-768x768.png",
+      "datePublished": "2022-10-11T18:38:47+00:00",
+      "dateModified": "2026-06-08T14:14:40+00:00",
+      "description": "Lifted Shop is the #1 Cannabis Dispensary in Washington DC offering the highest quality and best prices on About. Click to learn more.",
+      "breadcrumb": {
+       "@id": "https://www.liftedshopdc.com/about/#breadcrumb"
+      },
+      "inLanguage": "en-US",
+      "potentialAction": [
+       {
+        "@type": "ReadAction",
+        "target": [
+         "https://www.liftedshopdc.com/about/"
+        ]
+       }
+      ]
+     },
+     {
+      "@type": "ImageObject",
+      "inLanguage": "en-US",
+      "@id": "https://www.liftedshopdc.com/about/#primaryimage",
+      "url": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Lifted-Rocket-Logo-1.png",
+      "contentUrl": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Lifted-Rocket-Logo-1.png",
+      "width": 1000,
+      "height": 1000
+     },
+     {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.liftedshopdc.com/about/#breadcrumb",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.liftedshopdc.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "About"
+       }
+      ]
+     },
+     {
+      "@type": "WebSite",
+      "@id": "https://www.liftedshopdc.com/#website",
+      "url": "https://www.liftedshopdc.com/",
+      "name": "LIFTED SHOP, DC",
+      "description": "",
+      "potentialAction": [
+       {
+        "@type": "SearchAction",
+        "target": {
+         "@type": "EntryPoint",
+         "urlTemplate": "https://www.liftedshopdc.com/?s={search_term_string}"
+        },
+        "query-input": {
+         "@type": "PropertyValueSpecification",
+         "valueRequired": true,
+         "valueName": "search_term_string"
+        }
+       }
+      ],
+      "inLanguage": "en-US"
+     }
+    ]
+   }
+  ]
+ },
+ "h1": "About Us",
+ "docId": "409",
+ "sections": [
+  {
+   "t": "group",
+   "id": "c1b72a5",
+   "children": [
+    {
+     "t": "group",
+     "id": "3900f3d",
+     "children": [
+      {
+       "t": "image",
+       "img": {
+        "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Lifted-Rocket-Logo-1.png",
+        "alt": "",
+        "w": 768,
+        "h": 768
+       },
+       "href": null,
+       "caption": null,
+       "anim": "zoomIn"
+      },
+      {
+       "t": "heading",
+       "level": "p",
+       "html": "Get ready for liftoff!",
+       "text": "Get ready for liftoff!"
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "d4eb2a6",
+     "children": [
+      {
+       "t": "carousel",
+       "items": [
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Higher-Frequency-Bag-2.png",
+          "alt": "Higher-Frequency-Bag-2",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Casanova-Fly-Bag.png",
+          "alt": "Casanova-Fly-Bag",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/bag-2.png",
+          "alt": "bag-2",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Dust-Mac-Bag-2.png",
+          "alt": "Dust-Mac-Bag-2",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Sugarland-Delight-Bag.png",
+          "alt": "Sugarland-Delight-Bag",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Onyx-Slam-Bag.png",
+          "alt": "Onyx-Slam-Bag",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        }
+       ]
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "/shop/"
+      }
+     ]
+    }
+   ],
+   "bg": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/feature-bg-3-1.jpg"
+  },
+  {
+   "t": "group",
+   "id": "fdb1d3f",
+   "children": [
+    {
+     "t": "group",
+     "id": "6e150e3",
+     "children": [
+      {
+       "t": "breadcrumbs",
+       "items": [
+        {
+         "text": "Home",
+         "href": "/"
+        },
+        {
+         "text": "About",
+         "href": null
+        }
+       ]
+      },
+      {
+       "t": "heading",
+       "level": "h1",
+       "html": "About Us",
+       "text": "About Us"
+      },
+      {
+       "t": "text",
+       "html": "<p><img data-ref=\"https://www.liftedshopdc.com/wp-content/uploads/2024/07/9fa5cf_5493e80ccfd34883bac668e80a804095_mv2-e1664312318345-1024x647.jpg-e1745338932965.webp\" alt=\"\">Lifted Shop DC is the best place in Washington, DC, to buy weed. We have a large selection of high-quality cannabis, and we have knowledgeable staff who can help you find what’s suitable for your needs.</p>"
+      },
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "Our Delivery Areas",
+       "text": "Our Delivery Areas"
+      },
+      {
+       "t": "group",
+       "id": "3d1a0c1",
+       "children": [
+        {
+         "t": "text",
+         "html": "<ul><li>Delivery Available up to 100 Miles!</li><li><a href=\"/delivery/\">Delivery</a> throughout Maryland, Virginia, and Northern Virginia FREE!</li><li>Biggest Selection!</li></ul>"
+        }
+       ]
+      },
+      {
+       "t": "group",
+       "id": "0ac206a",
+       "children": [
+        {
+         "t": "heading",
+         "level": "h2",
+         "html": "LOCATION",
+         "text": "LOCATION"
+        },
+        {
+         "t": "text",
+         "html": "<p>Address: Washington, D.C.<br>Phone: <a href=\"tel:7712161684\">(771) 216-1684</a></p>"
+        }
+       ]
+      },
+      {
+       "t": "group",
+       "id": "1fbdc9b",
+       "children": [
+        {
+         "t": "heading",
+         "level": "h2",
+         "html": "FAQ",
+         "text": "FAQ"
+        },
+        {
+         "t": "text",
+         "html": "<p>Please read all of our FAQ’s before calling – your question may already be answered above. <a href=\"tel:7712161684\">(771) 216-1684</a></p>"
+        },
+        {
+         "t": "heading",
+         "level": "h3",
+         "html": "What are your hours of operation​",
+         "text": "What are your hours of operation​"
+        },
+        {
+         "t": "text",
+         "html": "<p>We’re open 10AM – 9PM EVERYDAY.</p>"
+        }
+       ]
+      },
+      {
+       "t": "group",
+       "id": "c9aaf3e",
+       "children": [
+        {
+         "t": "heading",
+         "level": "h3",
+         "html": "Does it matter if I’m from a different city or state",
+         "text": "Does it matter if I’m from a different city or state"
+        },
+        {
+         "t": "text",
+         "html": "<p>No, It does not matter where you’re from. We are recreational and weed is legal in DC.</p>"
+        }
+       ]
+      },
+      {
+       "t": "group",
+       "id": "1e1eff2",
+       "children": [
+        {
+         "t": "heading",
+         "level": "h3",
+         "html": "Is there a limit on how many gifts i can receive",
+         "text": "Is there a limit on how many gifts i can receive"
+        },
+        {
+         "t": "text",
+         "html": "<p>Nope! Get as much as your high heart desires.</p>"
+        }
+       ]
+      },
+      {
+       "t": "group",
+       "id": "7a87525",
+       "children": [
+        {
+         "t": "heading",
+         "level": "h3",
+         "html": "Do I need to have my medical card when visiting",
+         "text": "Do I need to have my medical card when visiting"
+        },
+        {
+         "t": "text",
+         "html": "<p>Nope – Recreational means no medical card needed when visiting our shop</p>"
+        }
+       ]
+      },
+      {
+       "t": "group",
+       "id": "11be1ea",
+       "children": [
+        {
+         "t": "heading",
+         "level": "h3",
+         "html": "Where are you located",
+         "text": "Where are you located"
+        },
+        {
+         "t": "text",
+         "html": "<p><a href=\"/contact/\">The Lifted Shop</a> is located at Washington, D.C. – At Listen Vision Studios, right upstairs!</p>"
+        }
+       ]
+      },
+      {
+       "t": "group",
+       "id": "8d17b2a",
+       "children": [
+        {
+         "t": "heading",
+         "level": "h3",
+         "html": "Is there an age limit",
+         "text": "Is there an age limit"
+        },
+        {
+         "t": "text",
+         "html": "<p>Yes! All customers must be 21+</p>"
+        }
+       ]
+      },
+      {
+       "t": "group",
+       "id": "d87688f",
+       "children": [
+        {
+         "t": "heading",
+         "level": "h3",
+         "html": "Do you offer delivery as well",
+         "text": "Do you offer delivery as well"
+        },
+        {
+         "t": "text",
+         "html": "<p>Of course we do silly! Head over to our delivery tab for more information on weed delivery.</p>"
+        }
+       ]
+      },
+      {
+       "t": "group",
+       "id": "87e8b06",
+       "children": [
+        {
+         "t": "heading",
+         "level": "h3",
+         "html": "Where do you deliver",
+         "text": "Where do you deliver"
+        },
+        {
+         "t": "text",
+         "html": "<p>We deliver to Washington D.C., Maryland &amp; Virginia. However – Maryland &amp; Virginia have a radius limit of 30 miles, as well as a minimal payment limit of $300 – which is explained in full detail on our delivery menu tab.</p>"
+        },
+        {
+         "t": "text",
+         "html": "<p>*Results May Vary</p>"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "26815dd",
+     "children": [
+      {
+       "t": "reviews",
+       "provider": "Trustindex (Google reviews)",
+       "summary": {
+        "label": "EXCELLENT",
+        "text": "EXCELLENT Based on 2410 reviews"
+       },
+       "items": [
+        {
+         "name": "Sherrene Donovan",
+         "date": "",
+         "stars": 5,
+         "text": "Great and quick service. Big fan of Burst and Devour gummies. Thank you Nancy for all your help!!!",
+         "source": "Google"
+        },
+        {
+         "name": "Muhammad ihram Pangestu",
+         "date": "",
+         "stars": 5,
+         "text": "Weed shop delivery to Irvine apartments near UCI was quick!",
+         "source": "Google"
+        },
+        {
+         "name": "Zachariah Bailey",
+         "date": "",
+         "stars": 5,
+         "text": "Smooth cannabis delivery to our Anaheim hotel, perfect for the Disney trip 😭",
+         "source": "Google"
+        },
+        {
+         "name": "Saidi Tumwa",
+         "date": "",
+         "stars": 5,
+         "text": "Mari and Mark are great! i appreciate the help they gave me",
+         "source": "Google"
+        },
+        {
+         "name": "Jennifer Turner",
+         "date": "",
+         "stars": 5,
+         "text": "Hiyab was very helpful a great bud tender",
+         "source": "Google"
+        },
+        {
+         "name": "Jamie Coleman",
+         "date": "",
+         "stars": 5,
+         "text": "I travel to DC every month for work and a buddy of mine told me about this shop; I called the shop and found out they only do delivery now (DC only has medical shops now) so I ordered from them a few times and on my most recent order, the delivery driver, JJ, was super friendly and helpful. Got my delivery within an hr of ordering and enjoyed some incredible \"high\" energy products before my flight home. Thanks!!",
+         "source": "Google"
+        }
+       ]
+      },
+      {
+       "t": "group",
+       "id": "57d578d",
+       "children": [
+        {
+         "t": "button",
+         "text": "(771) 216-1684",
+         "href": "tel:7712161684"
+        },
+        {
+         "t": "text",
+         "html": "<p>OR</p><p>VIEW OUR MENU OF CANNABIS PRODUCTS</p>"
+        },
+        {
+         "t": "button",
+         "text": "Shop Now",
+         "href": "/shop/"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "archive": null,
+ "unknownWidgets": []
+}

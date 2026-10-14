@@ -1,0 +1,309 @@
+{
+ "path": "/delivery/chantilly-va/",
+ "url": "https://www.liftedshopdc.com/delivery/chantilly-va/",
+ "kind": "page",
+ "head": {
+  "title": "Weed Delivery in Chantilly, VA | Fast & Discreet",
+  "description": "Need weed delivery in Chantilly, VA? Lifted Shop offers fast, free, discreet cannabis delivery. Call now for premium cannabis, edibles & more!",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://www.liftedshopdc.com/delivery/chantilly-va/",
+  "og": {
+   "og:locale": "en_US",
+   "og:type": "article",
+   "og:title": "Weed Delivery in Chantilly, VA | Fast & Discreet",
+   "og:description": "Need weed delivery in Chantilly, VA? Lifted Shop offers fast, free, discreet cannabis delivery. Call now for premium cannabis, edibles & more!",
+   "og:url": "https://www.liftedshopdc.com/delivery/chantilly-va/",
+   "og:site_name": "LIFTED SHOP, DC",
+   "article:modified_time": "2026-08-04T13:28:13+00:00",
+   "twitter:card": "summary_large_image",
+   "twitter:label1": "Est. reading time",
+   "twitter:data1": "3 minutes"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "WebPage",
+      "@id": "https://www.liftedshopdc.com/delivery/chantilly-va/",
+      "url": "https://www.liftedshopdc.com/delivery/chantilly-va/",
+      "name": "Weed Delivery in Chantilly, VA | Fast & Discreet",
+      "isPartOf": {
+       "@id": "https://www.liftedshopdc.com/#website"
+      },
+      "datePublished": "2025-04-07T15:26:56+00:00",
+      "dateModified": "2026-08-04T13:28:13+00:00",
+      "description": "Need weed delivery in Chantilly, VA? Lifted Shop offers fast, free, discreet cannabis delivery. Call now for premium cannabis, edibles & more!",
+      "breadcrumb": {
+       "@id": "https://www.liftedshopdc.com/delivery/chantilly-va/#breadcrumb"
+      },
+      "inLanguage": "en-US",
+      "potentialAction": [
+       {
+        "@type": "ReadAction",
+        "target": [
+         "https://www.liftedshopdc.com/delivery/chantilly-va/"
+        ]
+       }
+      ]
+     },
+     {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.liftedshopdc.com/delivery/chantilly-va/#breadcrumb",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.liftedshopdc.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Delivery",
+        "item": "https://www.liftedshopdc.com/delivery/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Chantilly, VA"
+       }
+      ]
+     },
+     {
+      "@type": "WebSite",
+      "@id": "https://www.liftedshopdc.com/#website",
+      "url": "https://www.liftedshopdc.com/",
+      "name": "LIFTED SHOP, DC",
+      "description": "",
+      "potentialAction": [
+       {
+        "@type": "SearchAction",
+        "target": {
+         "@type": "EntryPoint",
+         "urlTemplate": "https://www.liftedshopdc.com/?s={search_term_string}"
+        },
+        "query-input": {
+         "@type": "PropertyValueSpecification",
+         "valueRequired": true,
+         "valueName": "search_term_string"
+        }
+       }
+      ],
+      "inLanguage": "en-US"
+     }
+    ]
+   }
+  ]
+ },
+ "h1": "Weed Delivery in Chantilly, VA",
+ "docId": "2678",
+ "sections": [
+  {
+   "t": "group",
+   "id": "d3314ba",
+   "children": [
+    {
+     "t": "group",
+     "id": "d8d70ea",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h1",
+       "html": "Weed Delivery in Chantilly, VA",
+       "text": "Weed Delivery in Chantilly, VA"
+      },
+      {
+       "t": "text",
+       "html": "<p>Looking for fast, reliable, and discreet weed delivery in Chantilly, VA? <a href=\"/\">Lifted Shop</a> has you covered! We’re your premier choice for top-quality cannabis products delivered straight to your door in Chantilly, Virginia. Whether you’re a seasoned cannabis enthusiast or new to the scene, our hassle-free delivery service ensures you get what you need, when you need it. Call us today at <a href=\"tel:7712161684\">(771) 216-1684</a> to place your order and experience the Lifted Shop difference!</p>"
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "#orderdelivery"
+      }
+     ]
+    }
+   ],
+   "bg": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/feature-bg-3-1.jpg"
+  },
+  {
+   "t": "group",
+   "id": "57c1f0b",
+   "children": [
+    {
+     "t": "reviews",
+     "provider": "Trustindex (Google reviews)",
+     "summary": {
+      "label": "EXCELLENT",
+      "text": "EXCELLENT Based on 2410 reviews"
+     },
+     "items": [
+      {
+       "name": "Sherrene Donovan",
+       "date": "",
+       "stars": 5,
+       "text": "Great and quick service. Big fan of Burst and Devour gummies. Thank you Nancy for all your help!!!",
+       "source": "Google"
+      },
+      {
+       "name": "Muhammad ihram Pangestu",
+       "date": "",
+       "stars": 5,
+       "text": "Weed shop delivery to Irvine apartments near UCI was quick!",
+       "source": "Google"
+      },
+      {
+       "name": "Zachariah Bailey",
+       "date": "",
+       "stars": 5,
+       "text": "Smooth cannabis delivery to our Anaheim hotel, perfect for the Disney trip 😭",
+       "source": "Google"
+      },
+      {
+       "name": "Saidi Tumwa",
+       "date": "",
+       "stars": 5,
+       "text": "Mari and Mark are great! i appreciate the help they gave me",
+       "source": "Google"
+      },
+      {
+       "name": "Jennifer Turner",
+       "date": "",
+       "stars": 5,
+       "text": "Hiyab was very helpful a great bud tender",
+       "source": "Google"
+      },
+      {
+       "name": "Jamie Coleman",
+       "date": "",
+       "stars": 5,
+       "text": "I travel to DC every month for work and a buddy of mine told me about this shop; I called the shop and found out they only do delivery now (DC only has medical shops now) so I ordered from them a few times and on my most recent order, the delivery driver, JJ, was super friendly and helpful. Got my delivery within an hr of ordering and enjoyed some incredible \"high\" energy products before my flight home. Thanks!!",
+       "source": "Google"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "f50573e",
+   "children": [
+    {
+     "t": "store",
+     "provider": "ecwid",
+     "storeId": "125946269"
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "ebbfbc2",
+   "children": [
+    {
+     "t": "group",
+     "id": "ef676b9",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "Why Choose Lifted Shop for Weed Delivery in Chantilly, VA?",
+       "text": "Why Choose Lifted Shop for Weed Delivery in Chantilly, VA?"
+      },
+      {
+       "t": "text",
+       "html": "<p>At Lifted Shop, we understand that convenience, quality, and trust are top priorities when searching for weed delivery in Chantilly, VA. That’s why we’ve built our service around your needs:</p><ul><li><strong>Fast Delivery:</strong> We offer weed delivery within 50 miles of our Washington, DC hub, including Chantilly, VA. Orders typically arrive within hours, so you’re never left waiting.</li><li><strong>Premium Cannabis Products:</strong> From high-grade flower and pre-rolls to edibles and concentrates, we curate only the best for our Chantilly customers.</li><li><strong>Discreet Service:</strong> Concerned about privacy? Our deliveries are professional and discreet, ensuring your peace of mind every time.</li><li><strong>Friendly, Knowledgeable Team:</strong> Have questions about strains or products? Our staff is here to guide you—call us at <a href=\"tel:7712161684\">(771) 216-1684</a>, and we’ll help you find exactly what you’re looking for.</li></ul>"
+      },
+      {
+       "t": "button",
+       "text": "Order Now!",
+       "href": "/shop/"
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "f673334",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "How Our Weed Delivery Service Works in Chantilly, VA",
+       "text": "How Our Weed Delivery Service Works in Chantilly, VA"
+      },
+      {
+       "t": "text",
+       "html": "<p>We’ve made ordering cannabis as easy as possible for Chantilly residents. Here’s how it works:</p><p><strong>1. Browse &amp; Call</strong>: Check out our wide selection of cannabis products online or give us a call at <a href=\"tel:7712161684\">(771) 216-1684</a> to discuss your options.</p><p><strong>2. Place Your Order</strong>: Let us know what you want, and we’ll confirm availability and delivery details tailored to Chantilly, VA.</p><p><strong>3. Sit Back &amp; Relax</strong>: Our drivers will bring your order right to your doorstep—fast, safe, and discreet.</p><p>Worried about legality or safety? Rest assured, Lifted Shop operates in compliance with local regulations, delivering only to adults 21+ with valid ID. Your satisfaction and security are our top priorities.</p>"
+      },
+      {
+       "t": "button",
+       "text": "Order Now!",
+       "href": "/shop/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "924e0f4",
+   "children": [
+    {
+     "t": "group",
+     "id": "f67db58",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h3",
+       "html": "Top Cannabis Products Delivered in Chantilly, VA",
+       "text": "Top Cannabis Products Delivered in Chantilly, VA"
+      },
+      {
+       "t": "text",
+       "html": "<p>When you choose Lifted Shop for weed delivery in Chantilly, VA, you’re getting access to a variety of premium cannabis options:</p><p><strong>*Flower</strong>: Explore indica, sativa, and hybrid strains to suit your mood or needs.</p><p><strong>*Pre-Rolls</strong>: Perfect for convenience—ready to enjoy without the hassle.</p><p><strong>*Edibles</strong>: From gummies to chocolates, we’ve got tasty options for every preference.</p><p><strong>*Concentrates</strong>: Potent and pure, ideal for experienced users looking for a stronger experience.</p><p><strong>*Vapes</strong>: Discreet and portable, our vape pens are a Chantilly favorite.</p>"
+      }
+     ]
+    },
+    {
+     "t": "button",
+     "text": "Read More",
+     "href": "/reviews/"
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "cf41d89",
+   "children": [
+    {
+     "t": "heading",
+     "level": "h2",
+     "html": "Call Lifted Shop for Weed Delivery in Chantilly, VA Today!",
+     "text": "Call Lifted Shop for Weed Delivery in Chantilly, VA Today!"
+    },
+    {
+     "t": "text",
+     "html": "<p>Why wait? Elevate your day with the best weed delivery in Chantilly, VA from Lifted Shop. Whether you’re unwinding after work, hosting friends, or exploring cannabis for the first time, we’ve got the products and service to make it effortless. Call us now at <a href=\"tel:7712161684\">(771) 216-1684 </a>to place your order or get more info—we’re here to help 10 AM to 8 PM daily.</p>"
+    },
+    {
+     "t": "button",
+     "text": "ORDER DELIVERY",
+     "href": "/shop/"
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "c9501d3",
+   "children": [
+    {
+     "t": "map",
+     "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d49691.16682105533!2d-77.44791355!3d38.8851525!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b6415619677219%3A0x4041f0fc4316ad83!2sChantilly%2C%20VA!5e0!3m2!1sen!2sus!4v1785850070083!5m2!1sen!2sus",
+     "title": ""
+    }
+   ]
+  }
+ ],
+ "archive": null,
+ "unknownWidgets": []
+}

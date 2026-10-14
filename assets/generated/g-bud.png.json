@@ -1,0 +1,32 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "G-BUD",
+  "file": "assets/generated/g-bud.png",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Lifted Shop (liftedshopdc.com), its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "Studio macro photograph of a single dense frosty cannabis flower bud covered in glistening trichomes, bright orange pistils, deep green with purple hues, floating at a slight angle, centred on a seamless plain mid grey background, soft diffused light with gentle rim light, crisp fine detail, high resolution; no text, no logos, no people, no hands, no smoke, no leaves cut off at the frame",
+  "input": {
+    "aspect_ratio": "3:4",
+    "output_format": "jpeg",
+    "num_images": 1,
+    "enable_safety_checker": true,
+    "safety_tolerance": "5"
+  },
+  "seed": 1139531567,
+  "requestId": "01a137f5-6c9f-7620-a1b3-9ba2a4d1f1fb",
+  "cutout": {
+    "model": "fal-ai/birefnet/v2",
+    "requestId": "01a137f5-97ad-71a0-8193-e6dfc89f438b"
+  },
+  "width": 1792,
+  "height": 2368,
+  "sha256": "b43b3c2780d529a8772ab63ebaaaff69242fd0c7f81c713da97e58e380de5c23",
+  "raw": "tmp/img/raw/G-BUD.1791940201467.jpg",
+  "attempt": 1,
+  "generatedAt": "2026-10-14T01:10:07.156Z",
+  "review": {
+    "verdict": "PENDING",
+    "reason": null
+  }
+}

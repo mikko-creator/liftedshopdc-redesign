@@ -1,0 +1,902 @@
+{
+ "generated": "2026-10-14T01:33:00.402Z",
+ "min": 0.985,
+ "pages": [
+  {
+   "path": "/",
+   "key": "index",
+   "kind": "home",
+   "h1": "Weed Delivery in DC",
+   "words": 397,
+   "recall": 1,
+   "sections": 16
+  },
+  {
+   "path": "/does-cranberry-juice-flush-thc/",
+   "key": "does-cranberry-juice-flush-thc",
+   "kind": "post",
+   "h1": "Does Cranberry Juice Flush THC?",
+   "words": 1661,
+   "recall": 1,
+   "sections": 2
+  },
+  {
+   "path": "/best-weed-for-sleep/",
+   "key": "best-weed-for-sleep",
+   "kind": "post",
+   "h1": "Best Weed for Sleep",
+   "words": 1421,
+   "recall": 1,
+   "sections": 2
+  },
+  {
+   "path": "/where-to-buy-weed-in-dc/",
+   "key": "where-to-buy-weed-in-dc",
+   "kind": "post",
+   "h1": "Where to Buy Weed in DC: Dispensary vs. Delivery",
+   "words": 1154,
+   "recall": 1,
+   "sections": 2
+  },
+  {
+   "path": "/is-weed-delivery-legal-dc-maryland-virginia/",
+   "key": "is-weed-delivery-legal-dc-maryland-virginia",
+   "kind": "post",
+   "h1": "Is Weed Delivery Legal in DC, Maryland, and Virginia?",
+   "words": 1162,
+   "recall": 1,
+   "sections": 2
+  },
+  {
+   "path": "/how-to-order-weed-delivery-dc/",
+   "key": "how-to-order-weed-delivery-dc",
+   "kind": "post",
+   "h1": "How to Order Weed Delivery Online in DC",
+   "words": 876,
+   "recall": 1,
+   "sections": 2
+  },
+  {
+   "path": "/dc-weed-gifting-initiative-71/",
+   "key": "dc-weed-gifting-initiative-71",
+   "kind": "post",
+   "h1": "DC Weed Gifting and Initiative 71: What You Need to Know",
+   "words": 1267,
+   "recall": 1,
+   "sections": 2
+  },
+  {
+   "path": "/edibles-in-dc/",
+   "key": "edibles-in-dc",
+   "kind": "post",
+   "h1": "Edibles in DC",
+   "words": 1703,
+   "recall": 1,
+   "sections": 2
+  },
+  {
+   "path": "/shrooms-in-dc/",
+   "key": "shrooms-in-dc",
+   "kind": "post",
+   "h1": "Shrooms in DC",
+   "words": 1642,
+   "recall": 1,
+   "sections": 2
+  },
+  {
+   "path": "/cartridges-in-dc/",
+   "key": "cartridges-in-dc",
+   "kind": "post",
+   "h1": "Cartridges in DC",
+   "words": 1805,
+   "recall": 1,
+   "sections": 2
+  },
+  {
+   "path": "/concentrates/",
+   "key": "concentrates",
+   "kind": "post",
+   "h1": "Concentrates",
+   "words": 1671,
+   "recall": 1,
+   "sections": 2
+  },
+  {
+   "path": "/premium-weed-in-dc/",
+   "key": "premium-weed-in-dc",
+   "kind": "post",
+   "h1": "Premium Weed in DC",
+   "words": 1626,
+   "recall": 1,
+   "sections": 2
+  },
+  {
+   "path": "/indica-vs-sativa/",
+   "key": "indica-vs-sativa",
+   "kind": "post",
+   "h1": "Indica vs. Sativa",
+   "words": 1661,
+   "recall": 1,
+   "sections": 2
+  },
+  {
+   "path": "/best-weed-for-anxiety/",
+   "key": "best-weed-for-anxiety",
+   "kind": "post",
+   "h1": "Best Weed for Anxiety",
+   "words": 1305,
+   "recall": 1,
+   "sections": 2
+  },
+  {
+   "path": "/how-long-do-edibles-last/",
+   "key": "how-long-do-edibles-last",
+   "kind": "post",
+   "h1": "How Long Do Edibles Take to Hit?",
+   "words": 1573,
+   "recall": 1,
+   "sections": 2
+  },
+  {
+   "path": "/what-is-thc-syrup/",
+   "key": "what-is-thc-syrup",
+   "kind": "post",
+   "h1": "What Is THC Syrup?",
+   "words": 1426,
+   "recall": 1,
+   "sections": 2
+  },
+  {
+   "path": "/420-meaning/",
+   "key": "420-meaning",
+   "kind": "post",
+   "h1": "420 Meaning",
+   "words": 977,
+   "recall": 1,
+   "sections": 2
+  },
+  {
+   "path": "/how-much-is-a-gram-of-weed/",
+   "key": "how-much-is-a-gram-of-weed",
+   "kind": "post",
+   "h1": "How Much Is a Gram of Weed",
+   "words": 1088,
+   "recall": 1,
+   "sections": 2
+  },
+  {
+   "path": "/how-long-does-a-weed-high-last/",
+   "key": "how-long-does-a-weed-high-last",
+   "kind": "post",
+   "h1": "How Long Does A Weed High Last?",
+   "words": 1454,
+   "recall": 1,
+   "sections": 2
+  },
+  {
+   "path": "/is-weed-good-for-you-top-benefits-of-smoking-weed-that-you-never-knew/",
+   "key": "is-weed-good-for-you-top-benefits-of-smoking-weed-that-you-never-knew",
+   "kind": "post",
+   "h1": "Is Weed Good for You? Top Benefits of Smoking Weed That You Never Knew",
+   "words": 1975,
+   "recall": 1,
+   "sections": 2
+  },
+  {
+   "path": "/does-smoking-weed-cause-acne/",
+   "key": "does-smoking-weed-cause-acne",
+   "kind": "post",
+   "h1": "Does Smoking Weed Cause Acne?",
+   "words": 954,
+   "recall": 1,
+   "sections": 2
+  },
+  {
+   "path": "/cbd-vs-thc-whats-the-difference/",
+   "key": "cbd-vs-thc-whats-the-difference",
+   "kind": "post",
+   "h1": "CBD vs. THC: What’s the Difference?",
+   "words": 1231,
+   "recall": 0.9992,
+   "sections": 2
+  },
+  {
+   "path": "/does-kief-get-you-higher-than-weed/",
+   "key": "does-kief-get-you-higher-than-weed",
+   "kind": "post",
+   "h1": "Does Kief Get You Higher Than Weed?",
+   "words": 872,
+   "recall": 1,
+   "sections": 2
+  },
+  {
+   "path": "/benefits-of-thc-to-the-body/",
+   "key": "benefits-of-thc-to-the-body",
+   "kind": "post",
+   "h1": "Benefits of THC to the Body",
+   "words": 1208,
+   "recall": 1,
+   "sections": 2
+  },
+  {
+   "path": "/weed-for-beginners-a-brief-guide/",
+   "key": "weed-for-beginners-a-brief-guide",
+   "kind": "post",
+   "h1": "Weed for Beginners: A Brief Guide",
+   "words": 1141,
+   "recall": 1,
+   "sections": 2
+  },
+  {
+   "path": "/how-to-roll-a-joint/",
+   "key": "how-to-roll-a-joint",
+   "kind": "post",
+   "h1": "How to Roll a Joint",
+   "words": 1957,
+   "recall": 1,
+   "sections": 2
+  },
+  {
+   "path": "/how-long-does-weed-potency-last/",
+   "key": "how-long-does-weed-potency-last",
+   "kind": "post",
+   "h1": "Does Weed Lose Potency Over Time?",
+   "words": 1468,
+   "recall": 1,
+   "sections": 2
+  },
+  {
+   "path": "/heres-what-happens-to-your-body-when-you-eat-edibles/",
+   "key": "heres-what-happens-to-your-body-when-you-eat-edibles",
+   "kind": "post",
+   "h1": "How Do Edibles Work?",
+   "words": 1616,
+   "recall": 1,
+   "sections": 2
+  },
+  {
+   "path": "/tips-for-how-to-pass-a-thc-drug-test/",
+   "key": "tips-for-how-to-pass-a-thc-drug-test",
+   "kind": "post",
+   "h1": "How Long Does THC Stay in Your System?",
+   "words": 1621,
+   "recall": 1,
+   "sections": 2
+  },
+  {
+   "path": "/pot-weed-marijuana-what-should-we-call-it/",
+   "key": "pot-weed-marijuana-what-should-we-call-it",
+   "kind": "post",
+   "h1": "Cannabis vs Marijuana vs Weed: What's the Difference?",
+   "words": 1609,
+   "recall": 1,
+   "sections": 2
+  },
+  {
+   "path": "/how-to-tell-if-weed-is-good-quality/",
+   "key": "how-to-tell-if-weed-is-good-quality",
+   "kind": "post",
+   "h1": "How to Tell If Weed Is Good Quality",
+   "words": 2072,
+   "recall": 1,
+   "sections": 2
+  },
+  {
+   "path": "/types-of-cannabis-products/",
+   "key": "types-of-cannabis-products",
+   "kind": "post",
+   "h1": "Which Cannabis Product Is Right for You",
+   "words": 1789,
+   "recall": 1,
+   "sections": 2
+  },
+  {
+   "path": "/merch/",
+   "key": "merch",
+   "kind": "page",
+   "h1": "Merch",
+   "words": 286,
+   "recall": 1,
+   "sections": 2
+  },
+  {
+   "path": "/promos/",
+   "key": "promos",
+   "kind": "page",
+   "h1": "Promos",
+   "words": 145,
+   "recall": 1,
+   "sections": 2
+  },
+  {
+   "path": "/delivery/orbit-dc/",
+   "key": "delivery__orbit-dc",
+   "kind": "page",
+   "h1": "BEST WEED DELIVERY Orbit DC",
+   "words": 177,
+   "recall": 1,
+   "sections": 4
+  },
+  {
+   "path": "/contact/",
+   "key": "contact",
+   "kind": "page",
+   "h1": "Contact",
+   "words": 55,
+   "recall": 1,
+   "sections": 2
+  },
+  {
+   "path": "/delivery/sterling-va/",
+   "key": "delivery__sterling-va",
+   "kind": "page",
+   "h1": "Premium Weed Delivery in Sterling, VA",
+   "words": 531,
+   "recall": 1,
+   "sections": 5
+  },
+  {
+   "path": "/lifted-lounge/",
+   "key": "lifted-lounge",
+   "kind": "page",
+   "h1": "WEED LOUNGE IN DC",
+   "words": 469,
+   "recall": 1,
+   "sections": 7
+  },
+  {
+   "path": "/shop/",
+   "key": "shop",
+   "kind": "page",
+   "h1": null,
+   "words": 124,
+   "recall": 1,
+   "sections": 3
+  },
+  {
+   "path": "/delivery/arlington-va/",
+   "key": "delivery__arlington-va",
+   "kind": "page",
+   "h1": "Weed Delivery in Arlington, VA",
+   "words": 494,
+   "recall": 1,
+   "sections": 6
+  },
+  {
+   "path": "/delivery/ashburn-va/",
+   "key": "delivery__ashburn-va",
+   "kind": "page",
+   "h1": "Best Weed Delivery in Ashburn, VA",
+   "words": 406,
+   "recall": 1,
+   "sections": 5
+  },
+  {
+   "path": "/delivery/baltimore-md/",
+   "key": "delivery__baltimore-md",
+   "kind": "page",
+   "h1": "Best Weed Delivery in Baltimore, MD",
+   "words": 443,
+   "recall": 1,
+   "sections": 6
+  },
+  {
+   "path": "/delivery/fairfax-va/",
+   "key": "delivery__fairfax-va",
+   "kind": "page",
+   "h1": "BEST WEED DELIVERY Fairfax, VA",
+   "words": 435,
+   "recall": 1,
+   "sections": 6
+  },
+  {
+   "path": "/delivery/alexandria-va/",
+   "key": "delivery__alexandria-va",
+   "kind": "page",
+   "h1": "Weed Delivery in Alexandria, VA",
+   "words": 505,
+   "recall": 1,
+   "sections": 6
+  },
+  {
+   "path": "/delivery/manassas-va/",
+   "key": "delivery__manassas-va",
+   "kind": "page",
+   "h1": "Weed Delivery in Manassas, VA",
+   "words": 520,
+   "recall": 1,
+   "sections": 7
+  },
+  {
+   "path": "/delivery/vienna-va/",
+   "key": "delivery__vienna-va",
+   "kind": "page",
+   "h1": "Weed Delivery in Vienna, VA",
+   "words": 412,
+   "recall": 1,
+   "sections": 6
+  },
+  {
+   "path": "/delivery/bethesda-md/",
+   "key": "delivery__bethesda-md",
+   "kind": "page",
+   "h1": "Premium Weed Delivery in Bethesda, MD",
+   "words": 655,
+   "recall": 1,
+   "sections": 6
+  },
+  {
+   "path": "/delivery/bowie-md/",
+   "key": "delivery__bowie-md",
+   "kind": "page",
+   "h1": "Top-Tier Weed Delivery in Bowie, MD",
+   "words": 664,
+   "recall": 1,
+   "sections": 7
+  },
+  {
+   "path": "/delivery/columbia-md/",
+   "key": "delivery__columbia-md",
+   "kind": "page",
+   "h1": "Reliable Weed Delivery in Columbia, MD",
+   "words": 766,
+   "recall": 1,
+   "sections": 7
+  },
+  {
+   "path": "/delivery/potomac-md/",
+   "key": "delivery__potomac-md",
+   "kind": "page",
+   "h1": "Potomac, MD Weed Delivery",
+   "words": 501,
+   "recall": 1,
+   "sections": 5
+  },
+  {
+   "path": "/delivery/hyattsville-md/",
+   "key": "delivery__hyattsville-md",
+   "kind": "page",
+   "h1": "Weed Delivery Hyattsville, MD",
+   "words": 478,
+   "recall": 1,
+   "sections": 5
+  },
+  {
+   "path": "/delivery/waldorf-md/",
+   "key": "delivery__waldorf-md",
+   "kind": "page",
+   "h1": "Weed Delivery Waldorf, MD",
+   "words": 492,
+   "recall": 1,
+   "sections": 5
+  },
+  {
+   "path": "/delivery/frederick-md/",
+   "key": "delivery__frederick-md",
+   "kind": "page",
+   "h1": "Weed Delivery Frederick, MD",
+   "words": 547,
+   "recall": 1,
+   "sections": 6
+  },
+  {
+   "path": "/delivery/springfield-va/",
+   "key": "delivery__springfield-va",
+   "kind": "page",
+   "h1": "Weed Delivery in Springfield, VA",
+   "words": 428,
+   "recall": 1,
+   "sections": 6
+  },
+  {
+   "path": "/delivery/mclean-va/",
+   "key": "delivery__mclean-va",
+   "kind": "page",
+   "h1": "Weed Delivery in McLean, VA",
+   "words": 410,
+   "recall": 1,
+   "sections": 6
+  },
+  {
+   "path": "/delivery/annandale-va/",
+   "key": "delivery__annandale-va",
+   "kind": "page",
+   "h1": "Weed Delivery in Annandale, VA",
+   "words": 403,
+   "recall": 1,
+   "sections": 6
+  },
+  {
+   "path": "/delivery/germantown-md/",
+   "key": "delivery__germantown-md",
+   "kind": "page",
+   "h1": "Top-Rated Weed Delivery in Germantown, MD",
+   "words": 830,
+   "recall": 1,
+   "sections": 7
+  },
+  {
+   "path": "/delivery/hagerstown-md/",
+   "key": "delivery__hagerstown-md",
+   "kind": "page",
+   "h1": "Premier Weed Delivery in Hagerstown, MD",
+   "words": 821,
+   "recall": 1,
+   "sections": 7
+  },
+  {
+   "path": "/delivery/lusby-md/",
+   "key": "delivery__lusby-md",
+   "kind": "page",
+   "h1": "Top-Tier Weed Delivery in Lusby, MD",
+   "words": 834,
+   "recall": 1,
+   "sections": 7
+  },
+  {
+   "path": "/delivery/maryland/",
+   "key": "delivery__maryland",
+   "kind": "page",
+   "h1": "Premium Statewide Weed Delivery in Maryland",
+   "words": 682,
+   "recall": 1,
+   "sections": 7
+  },
+  {
+   "path": "/delivery/burke-va/",
+   "key": "delivery__burke-va",
+   "kind": "page",
+   "h1": "Reliable Weed Delivery in Burke, VA",
+   "words": 647,
+   "recall": 1,
+   "sections": 6
+  },
+  {
+   "path": "/delivery/centreville-va/",
+   "key": "delivery__centreville-va",
+   "kind": "page",
+   "h1": "Weed Delivery in Centreville, VA",
+   "words": 521,
+   "recall": 1,
+   "sections": 6
+  },
+  {
+   "path": "/delivery/fredericksburg-va/",
+   "key": "delivery__fredericksburg-va",
+   "kind": "page",
+   "h1": "Fast Cannabis Delivery in Fredericksburg",
+   "words": 521,
+   "recall": 1,
+   "sections": 6
+  },
+  {
+   "path": "/delivery/oakton-va/",
+   "key": "delivery__oakton-va",
+   "kind": "page",
+   "h1": "Elite Weed Delivery in Oakton, VA",
+   "words": 555,
+   "recall": 1,
+   "sections": 6
+  },
+  {
+   "path": "/delivery/tysons-va/",
+   "key": "delivery__tysons-va",
+   "kind": "page",
+   "h1": "Luxury Weed Delivery in Tysons, VA",
+   "words": 553,
+   "recall": 1,
+   "sections": 6
+  },
+  {
+   "path": "/pre-rolls-dc/",
+   "key": "pre-rolls-dc",
+   "kind": "page",
+   "h1": "Pre-Rolls in DC",
+   "words": 864,
+   "recall": 1,
+   "sections": 4
+  },
+  {
+   "path": "/live-resin-dc/",
+   "key": "live-resin-dc",
+   "kind": "page",
+   "h1": "Live Resin, Wax & Premium Concentrates in DC",
+   "words": 959,
+   "recall": 1,
+   "sections": 3
+  },
+  {
+   "path": "/same-day-weed-delivery-in-dc/",
+   "key": "same-day-weed-delivery-in-dc",
+   "kind": "page",
+   "h1": "Same-Day Weed Delivery in DC",
+   "words": 738,
+   "recall": 1,
+   "sections": 4
+  },
+  {
+   "path": "/recreational-dispensary-dc/",
+   "key": "recreational-dispensary-dc",
+   "kind": "page",
+   "h1": "DC's Recreational Weed Dispensary (Delivery and Pickup)",
+   "words": 864,
+   "recall": 1,
+   "sections": 4
+  },
+  {
+   "path": "/about/",
+   "key": "about",
+   "kind": "page",
+   "h1": "About Us",
+   "words": 434,
+   "recall": 1,
+   "sections": 2
+  },
+  {
+   "path": "/reviews/",
+   "key": "reviews",
+   "kind": "page",
+   "h1": "Reviews",
+   "words": 177,
+   "recall": 1,
+   "sections": 2
+  },
+  {
+   "path": "/blog/",
+   "key": "blog",
+   "kind": "page",
+   "h1": "Blog",
+   "words": 508,
+   "recall": 0.9961,
+   "sections": 3
+  },
+  {
+   "path": "/delivery/seven-corners-va/",
+   "key": "delivery__seven-corners-va",
+   "kind": "page",
+   "h1": "Premium Weed Delivery in Seven Corners, VA",
+   "words": 572,
+   "recall": 1,
+   "sections": 6
+  },
+  {
+   "path": "/orbit-shop/",
+   "key": "orbit-shop",
+   "kind": "page",
+   "h1": "Orbit Shop",
+   "words": 276,
+   "recall": 1,
+   "sections": 4
+  },
+  {
+   "path": "/delivery/herndon-va/",
+   "key": "delivery__herndon-va",
+   "kind": "page",
+   "h1": "BEST WEED DELIVERY HERNDON, VA",
+   "words": 171,
+   "recall": 1,
+   "sections": 5
+  },
+  {
+   "path": "/delivery/reston-va/",
+   "key": "delivery__reston-va",
+   "kind": "page",
+   "h1": "Best Weed Delivery in Reston, VA",
+   "words": 255,
+   "recall": 1,
+   "sections": 5
+  },
+  {
+   "path": "/delivery/rockville-md/",
+   "key": "delivery__rockville-md",
+   "kind": "page",
+   "h1": "Best Weed Delivery in Rockville, MD",
+   "words": 254,
+   "recall": 1,
+   "sections": 5
+  },
+  {
+   "path": "/delivery/aldie-va/",
+   "key": "delivery__aldie-va",
+   "kind": "page",
+   "h1": "BEST WEED DELIVERY ALDIE, VA",
+   "words": 409,
+   "recall": 1,
+   "sections": 6
+  },
+  {
+   "path": "/delivery/chantilly-va/",
+   "key": "delivery__chantilly-va",
+   "kind": "page",
+   "h1": "Weed Delivery in Chantilly, VA",
+   "words": 661,
+   "recall": 1,
+   "sections": 7
+  },
+  {
+   "path": "/delivery/forest-heights-md/",
+   "key": "delivery__forest-heights-md",
+   "kind": "page",
+   "h1": "BEST WEED DELIVERY Forest Heights, MD",
+   "words": 268,
+   "recall": 1,
+   "sections": 5
+  },
+  {
+   "path": "/delivery/gainesville-va/",
+   "key": "delivery__gainesville-va",
+   "kind": "page",
+   "h1": "BEST WEED DELIVERY Gainesville, VA",
+   "words": 226,
+   "recall": 1,
+   "sections": 5
+  },
+  {
+   "path": "/delivery/hanover-md/",
+   "key": "delivery__hanover-md",
+   "kind": "page",
+   "h1": "BEST WEED DELIVERY HANOVER, MD",
+   "words": 168,
+   "recall": 1,
+   "sections": 5
+  },
+  {
+   "path": "/delivery/leesburg-va/",
+   "key": "delivery__leesburg-va",
+   "kind": "page",
+   "h1": "Best Weed Delivery in Leesburg, VA",
+   "words": 278,
+   "recall": 1,
+   "sections": 5
+  },
+  {
+   "path": "/delivery/silver-spring-md/",
+   "key": "delivery__silver-spring-md",
+   "kind": "page",
+   "h1": "BEST WEED DELIVERY SILVER SPRING, MD",
+   "words": 252,
+   "recall": 1,
+   "sections": 5
+  },
+  {
+   "path": "/delivery/winchester-va/",
+   "key": "delivery__winchester-va",
+   "kind": "page",
+   "h1": "BEST WEED DELIVERY WINCHESTER, VA",
+   "words": 253,
+   "recall": 1,
+   "sections": 5
+  },
+  {
+   "path": "/delivery/woodbridge-va/",
+   "key": "delivery__woodbridge-va",
+   "kind": "page",
+   "h1": "BEST WEED DELIVERY Woodbridge, VA",
+   "words": 287,
+   "recall": 1,
+   "sections": 5
+  },
+  {
+   "path": "/about/lifted-dispensary-dc/",
+   "key": "about__lifted-dispensary-dc",
+   "kind": "page",
+   "h1": "LIFTED SHOP DC",
+   "words": 1512,
+   "recall": 1,
+   "sections": 5
+  },
+  {
+   "path": "/delivery/virginia/",
+   "key": "delivery__virginia",
+   "kind": "page",
+   "h1": "Premium Weed Delivery Throughout Virginia",
+   "words": 485,
+   "recall": 1,
+   "sections": 6
+  },
+  {
+   "path": "/cannabis-dispensary-photos/",
+   "key": "cannabis-dispensary-photos",
+   "kind": "page",
+   "h1": "Cannabis Dispensary Photos",
+   "words": 36,
+   "recall": 1,
+   "sections": 2
+  },
+  {
+   "path": "/delivery/",
+   "key": "delivery",
+   "kind": "page",
+   "h1": "Weed Delivery",
+   "words": 370,
+   "recall": 1,
+   "sections": 2
+  },
+  {
+   "path": "/delivery/south-laurel-md/",
+   "key": "delivery__south-laurel-md",
+   "kind": "page",
+   "h1": "Weed Delivery in Laurel & South Laurel, MD",
+   "words": 1025,
+   "recall": 1,
+   "sections": 6
+  },
+  {
+   "path": "/author/kevin/",
+   "key": "author__kevin",
+   "kind": "author",
+   "h1": "Author: kevin",
+   "words": 616,
+   "recall": 1,
+   "sections": 0
+  },
+  {
+   "path": "/author/chris/",
+   "key": "author__chris",
+   "kind": "author",
+   "h1": "Author: chris",
+   "words": 127,
+   "recall": 1,
+   "sections": 0
+  },
+  {
+   "path": "/privacy-policy/",
+   "key": "privacy-policy",
+   "kind": "page",
+   "h1": "Privacy Policy",
+   "words": 1636,
+   "recall": 1,
+   "sections": 2
+  },
+  {
+   "path": "/blog/2/",
+   "key": "blog__2",
+   "kind": "page",
+   "h1": "Blog",
+   "words": 440,
+   "recall": 0.9955,
+   "sections": 3
+  },
+  {
+   "path": "/author/kevin/page/2/",
+   "key": "author__kevin__page__2",
+   "kind": "author",
+   "h1": "Author: kevin",
+   "words": 599,
+   "recall": 1,
+   "sections": 0
+  },
+  {
+   "path": "/author/kevin/page/3/",
+   "key": "author__kevin__page__3",
+   "kind": "author",
+   "h1": "Author: kevin",
+   "words": 564,
+   "recall": 1,
+   "sections": 0
+  }
+ ],
+ "unknownWidgets": {},
+ "control": {
+  "full": 1,
+  "withoutThreeLargestSections": 0.4484,
+  "fired": true
+ },
+ "redirects": [
+  {
+   "from": "/delivery/laurel-md/",
+   "to": "/delivery/south-laurel-md/",
+   "status": 301
+  },
+  {
+   "from": "/orbit/",
+   "to": "/delivery/orbit-dc/",
+   "status": 301
+  },
+  {
+   "from": "/home/",
+   "to": "/",
+   "status": 301
+  }
+ ]
+}

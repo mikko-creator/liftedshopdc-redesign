@@ -1,0 +1,29 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "G-AURORA",
+  "file": "assets/generated/g-aurora.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Lifted Shop (liftedshopdc.com), its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "Emerald green aurora ribbons flowing above a soft sea of moonlit clouds at night, deep navy sky full of faint stars, a subtle warm golden glow on the horizon, ethereal and calm, cinematic wide photograph; no people, no text, no buildings, no trees, no aircraft",
+  "input": {
+    "aspect_ratio": "21:9",
+    "output_format": "jpeg",
+    "num_images": 1,
+    "enable_safety_checker": true,
+    "safety_tolerance": "5"
+  },
+  "seed": 78424479,
+  "requestId": "01a137f5-a739-71e0-ad50-54e345dd2da7",
+  "cutout": null,
+  "width": 3136,
+  "height": 1344,
+  "sha256": "658546bf342d35bcf145025b5807b799c2313bf1ae833e6cd329e747baeb5888",
+  "raw": "tmp/img/raw/G-AURORA.1791940217832.jpg",
+  "attempt": 1,
+  "generatedAt": "2026-10-14T01:10:19.257Z",
+  "review": {
+    "verdict": "PENDING",
+    "reason": null
+  }
+}

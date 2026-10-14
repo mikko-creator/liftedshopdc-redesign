@@ -1,0 +1,356 @@
+{
+ "path": "/delivery/maryland/",
+ "url": "https://www.liftedshopdc.com/delivery/maryland/",
+ "kind": "page",
+ "head": {
+  "title": "Maryland Weed Delivery | Premium Cannabis Delivered Statewide",
+  "description": "Lifted Shop offers trusted weed delivery across Maryland with top-shelf cannabis, discreet service, and fast fulfillment.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://www.liftedshopdc.com/delivery/maryland/",
+  "og": {
+   "og:locale": "en_US",
+   "og:type": "article",
+   "og:title": "Maryland Weed Delivery | Premium Cannabis Delivered Statewide",
+   "og:description": "Lifted Shop offers trusted weed delivery across Maryland with top-shelf cannabis, discreet service, and fast fulfillment.",
+   "og:url": "https://www.liftedshopdc.com/delivery/maryland/",
+   "og:site_name": "LIFTED SHOP, DC",
+   "article:modified_time": "2026-05-25T16:26:36+00:00",
+   "twitter:card": "summary_large_image",
+   "twitter:label1": "Est. reading time",
+   "twitter:data1": "3 minutes"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "WebPage",
+      "@id": "https://www.liftedshopdc.com/delivery/maryland/",
+      "url": "https://www.liftedshopdc.com/delivery/maryland/",
+      "name": "Maryland Weed Delivery | Premium Cannabis Delivered Statewide",
+      "isPartOf": {
+       "@id": "https://www.liftedshopdc.com/#website"
+      },
+      "datePublished": "2026-01-12T20:34:06+00:00",
+      "dateModified": "2026-05-25T16:26:36+00:00",
+      "description": "Lifted Shop offers trusted weed delivery across Maryland with top-shelf cannabis, discreet service, and fast fulfillment.",
+      "breadcrumb": {
+       "@id": "https://www.liftedshopdc.com/delivery/maryland/#breadcrumb"
+      },
+      "inLanguage": "en-US",
+      "potentialAction": [
+       {
+        "@type": "ReadAction",
+        "target": [
+         "https://www.liftedshopdc.com/delivery/maryland/"
+        ]
+       }
+      ]
+     },
+     {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.liftedshopdc.com/delivery/maryland/#breadcrumb",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.liftedshopdc.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Delivery",
+        "item": "https://www.liftedshopdc.com/delivery/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Maryland"
+       }
+      ]
+     },
+     {
+      "@type": "WebSite",
+      "@id": "https://www.liftedshopdc.com/#website",
+      "url": "https://www.liftedshopdc.com/",
+      "name": "LIFTED SHOP, DC",
+      "description": "",
+      "potentialAction": [
+       {
+        "@type": "SearchAction",
+        "target": {
+         "@type": "EntryPoint",
+         "urlTemplate": "https://www.liftedshopdc.com/?s={search_term_string}"
+        },
+        "query-input": {
+         "@type": "PropertyValueSpecification",
+         "valueRequired": true,
+         "valueName": "search_term_string"
+        }
+       }
+      ],
+      "inLanguage": "en-US"
+     }
+    ]
+   }
+  ]
+ },
+ "h1": "Premium Statewide Weed Delivery in Maryland",
+ "docId": "5366",
+ "sections": [
+  {
+   "t": "group",
+   "id": "d3314ba",
+   "children": [
+    {
+     "t": "group",
+     "id": "d8d70ea",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h1",
+       "html": "Premium Statewide Weed Delivery in Maryland",
+       "text": "Premium Statewide Weed Delivery in Maryland"
+      },
+      {
+       "t": "text",
+       "html": "<p>Accessing top-shelf cannabis in Maryland has never been more convenient. Whether you are a long-time enthusiast or new to the world of cannabis, you can now enjoy a professional dispensary experience from the comfort of your own home. At <a href=\"/\"><strong>Lifted Shop</strong></a>, we provide a reliable, discreet, and high-quality delivery service that spans the most vibrant communities across the state. We prioritize quality, safety, and speed, ensuring that every customer receives the finest products available in the Maryland market without the need to stand in line or navigate traffic.</p>"
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "#orderdelivery"
+      }
+     ]
+    }
+   ],
+   "bg": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/feature-bg-3-1.jpg"
+  },
+  {
+   "t": "group",
+   "id": "57c1f0b",
+   "children": [
+    {
+     "t": "reviews",
+     "provider": "Trustindex (Google reviews)",
+     "summary": {
+      "label": "EXCELLENT",
+      "text": "EXCELLENT Based on 2410 reviews"
+     },
+     "items": [
+      {
+       "name": "Sherrene Donovan",
+       "date": "",
+       "stars": 5,
+       "text": "Great and quick service. Big fan of Burst and Devour gummies. Thank you Nancy for all your help!!!",
+       "source": "Google"
+      },
+      {
+       "name": "Muhammad ihram Pangestu",
+       "date": "",
+       "stars": 5,
+       "text": "Weed shop delivery to Irvine apartments near UCI was quick!",
+       "source": "Google"
+      },
+      {
+       "name": "Zachariah Bailey",
+       "date": "",
+       "stars": 5,
+       "text": "Smooth cannabis delivery to our Anaheim hotel, perfect for the Disney trip 😭",
+       "source": "Google"
+      },
+      {
+       "name": "Saidi Tumwa",
+       "date": "",
+       "stars": 5,
+       "text": "Mari and Mark are great! i appreciate the help they gave me",
+       "source": "Google"
+      },
+      {
+       "name": "Jennifer Turner",
+       "date": "",
+       "stars": 5,
+       "text": "Hiyab was very helpful a great bud tender",
+       "source": "Google"
+      },
+      {
+       "name": "Jamie Coleman",
+       "date": "",
+       "stars": 5,
+       "text": "I travel to DC every month for work and a buddy of mine told me about this shop; I called the shop and found out they only do delivery now (DC only has medical shops now) so I ordered from them a few times and on my most recent order, the delivery driver, JJ, was super friendly and helpful. Got my delivery within an hr of ordering and enjoyed some incredible \"high\" energy products before my flight home. Thanks!!",
+       "source": "Google"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "b7c689c",
+   "children": [
+    {
+     "t": "store",
+     "provider": "ecwid",
+     "storeId": "125946269"
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "ebbfbc2",
+   "children": [
+    {
+     "t": "group",
+     "id": "ef676b9",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "Our Premium Cannabis Selection",
+       "text": "Our Premium Cannabis Selection"
+      },
+      {
+       "t": "text",
+       "html": "<p>Our menu is meticulously curated to meet the highest standards of purity and potency. We source only the best products to ensure a consistent and elevated experience for every order.</p><ul><li><strong>Exotic &amp; Boutique Flower</strong></li><li><strong>Precision-Dosed Edibles</strong></li><li><strong>Vape Cartridges &amp; Disposables</strong></li><li><strong>High-Potency Concentrates</strong></li><li><strong>Ready-to-Enjoy Pre-Rolls</strong>.</li></ul>"
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "/shop/"
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "f673334",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "How to Order Your Maryland Cannabis Delivery",
+       "text": "How to Order Your Maryland Cannabis Delivery"
+      },
+      {
+       "t": "text",
+       "html": "<ol><li><strong>Browse the Online Menu:</strong> Visit our website to view our real-time inventory and current specials. Our menu is updated constantly to reflect our latest arrivals.</li><li><strong>Age Verification:</strong> State regulations require us to verify your age. You will be prompted to provide a photo of your ID during the secure checkout process.</li><li><strong>Discreet Logistics:</strong> Our professional drivers use unmarked vehicles to ensure your privacy within your neighborhood. We prioritize safety and promptness for every route.</li><li><strong>Residential Delivery:</strong> We deliver exclusively to private residential addresses. Please have your physical ID ready for a final check when your driver arrives.</li></ol>"
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "/shop/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "f0d1e8f",
+   "children": [
+    {
+     "t": "group",
+     "id": "37bc4a9",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "Service Areas Throughout Maryland",
+       "text": "Service Areas Throughout Maryland"
+      },
+      {
+       "t": "text",
+       "html": "<p>We are proud to offer dependable delivery to a wide range of locations. No matter where you are located, we bring the premium dispensary experience to your private residence. Our primary service areas include:</p><ul><li><strong>Montgomery County:</strong><a href=\"/delivery/bethesda-md/\"> Bethesda</a>, <a href=\"/delivery/potomac-md/\">Potomac</a>, <a href=\"/delivery/rockville-md/\">Rockville</a>, <a href=\"/delivery/silver-spring-md/\">Silver Spring</a>, and <a href=\"/delivery/germantown-md/\">Germantown</a>.</li><li><strong>Prince George’s County:</strong><a href=\"/delivery/bowie-md/\"> Bowie</a>, <a href=\"/delivery/hyattsville-md/\">Hyattsville</a>, <a href=\"/delivery/laurel-md/\">Laurel</a>, <a href=\"/delivery/south-laurel-md/\">South Laurel</a>, and <a href=\"/delivery/forest-heights-md/\">Forest Heights</a>.</li><li><strong>Howard &amp; Anne Arundel Counties:</strong><a href=\"/delivery/columbia-md/\"> Columbia</a> and <a href=\"/delivery/hanover-md/\">Hanover</a>.</li><li><strong>Southern Maryland:</strong><a href=\"/delivery/waldorf-md/\"> Waldorf</a> and <a href=\"/delivery/lusby-md/\">Lusby</a>.</li><li><strong>Northern &amp; Central Maryland:</strong> <a href=\"/delivery/baltimore-md/\">Baltimore</a> and <a href=\"/delivery/frederick-md/\">Frederick</a>.</li></ul>"
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "/shop/"
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "a0dfdfe",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "Frequently Asked Questions",
+       "text": "Frequently Asked Questions"
+      },
+      {
+       "t": "faq",
+       "items": [
+        {
+         "q": "Is weed delivery legal in Maryland?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>Yes. Since Maryland legalized adult-use cannabis, licensed delivery services can legally bring cannabis products to adults 21 and older at their private residences.</p>"
+          }
+         ]
+        },
+        {
+         "q": "How long does delivery usually take?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>While delivery times vary based on your specific location and local traffic conditions, we strive for rapid fulfillment. Most orders are delivered within a 60 to 90-minute window.</p>"
+          }
+         ]
+        },
+        {
+         "q": "What do I need to show the driver?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>You must present a valid government-issued photo ID (such as a driver’s license or passport) to prove you are 21 or older at the time of delivery.</p>"
+          }
+         ]
+        },
+        {
+         "q": "Are there purchase limits?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>Yes. Per Maryland law, individuals may purchase up to 1.5 ounces of flower, 12 grams of concentrated cannabis, or products containing up to 750mg of THC per transaction.</p>"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "c5a8017",
+   "children": [
+    {
+     "t": "text",
+     "html": "<h2><strong>Experience the Best in Maryland Cannabis Today</strong></h2><p>Skip the trip to the dispensary and let the best products come to you. <a href=\"/\"><strong>Lifted Shop</strong></a> is committed to providing the most reliable and high-end cannabis delivery service in the state. Our dedication to customer service and product excellence makes us the preferred choice for residents across Maryland.</p><p><strong>Place your order with Lifted Shop today.</strong></p>"
+    },
+    {
+     "t": "button",
+     "text": "ORDER DELIVERY",
+     "href": "/shop/"
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "c9501d3",
+   "children": [
+    {
+     "t": "map",
+     "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1591913.738461017!2d-77.2369665!3d38.804821!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b64debe9f190df%3A0xf2af37657655f6b1!2sMaryland!5e0!3m2!1sen!2sus!4v1768250004475!5m2!1sen!2sus",
+     "title": ""
+    }
+   ]
+  }
+ ],
+ "archive": null,
+ "unknownWidgets": []
+}

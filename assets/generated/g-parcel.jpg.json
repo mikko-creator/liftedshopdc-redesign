@@ -1,0 +1,29 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "G-PARCEL",
+  "file": "assets/generated/g-parcel.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Lifted Shop (liftedshopdc.com), its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "A sleek plain matte black parcel box resting on the leather passenger seat of a car at night, soft blurred city street lights bokeh in warm amber and red through the window, cinematic moody photograph, shallow depth of field; no text, no logos, no labels, no people, no hands, no steering wheel",
+  "input": {
+    "aspect_ratio": "16:9",
+    "output_format": "jpeg",
+    "num_images": 1,
+    "enable_safety_checker": true,
+    "safety_tolerance": "5"
+  },
+  "seed": 1378216150,
+  "requestId": "01a137f5-f27c-78e0-a828-c7e5d67286c4",
+  "cutout": null,
+  "width": 2752,
+  "height": 1536,
+  "sha256": "f1e17b3021a9acac30a310825875ee5345db5d961b8ca23cb9da84ff2ab6f439",
+  "raw": "tmp/img/raw/G-PARCEL.1791940237836.jpg",
+  "attempt": 1,
+  "generatedAt": "2026-10-14T01:10:39.781Z",
+  "review": {
+    "verdict": "PENDING",
+    "reason": null
+  }
+}

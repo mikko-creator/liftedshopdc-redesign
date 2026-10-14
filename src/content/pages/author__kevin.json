@@ -1,0 +1,248 @@
+{
+ "path": "/author/kevin/",
+ "url": "https://www.liftedshopdc.com/author/kevin/",
+ "kind": "author",
+ "head": {
+  "title": "kevin, Author at LIFTED SHOP, DC",
+  "description": null,
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://www.liftedshopdc.com/author/kevin/",
+  "og": {
+   "og:locale": "en_US",
+   "og:type": "profile",
+   "og:title": "kevin, Author at LIFTED SHOP, DC",
+   "og:url": "https://www.liftedshopdc.com/author/kevin/",
+   "og:site_name": "LIFTED SHOP, DC",
+   "og:image": "https://secure.gravatar.com/avatar/0ded4728176259dd514cd3df95d945774d6163b0a8a049f1d842c93c4a11560a?s=500&d=mm&r=g",
+   "twitter:card": "summary_large_image"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "ProfilePage",
+      "@id": "https://www.liftedshopdc.com/author/kevin/",
+      "url": "https://www.liftedshopdc.com/author/kevin/",
+      "name": "kevin, Author at LIFTED SHOP, DC",
+      "isPartOf": {
+       "@id": "https://www.liftedshopdc.com/#website"
+      },
+      "primaryImageOfPage": {
+       "@id": "https://www.liftedshopdc.com/author/kevin/#primaryimage"
+      },
+      "image": {
+       "@id": "https://www.liftedshopdc.com/author/kevin/#primaryimage"
+      },
+      "thumbnailUrl": "https://www.liftedshopdc.com/wp-content/uploads/2026/08/does-cranberry-juice-help-detox-thc.webp",
+      "breadcrumb": {
+       "@id": "https://www.liftedshopdc.com/author/kevin/#breadcrumb"
+      },
+      "inLanguage": "en-US",
+      "potentialAction": [
+       {
+        "@type": "ReadAction",
+        "target": [
+         "https://www.liftedshopdc.com/author/kevin/"
+        ]
+       }
+      ]
+     },
+     {
+      "@type": "ImageObject",
+      "inLanguage": "en-US",
+      "@id": "https://www.liftedshopdc.com/author/kevin/#primaryimage",
+      "url": "https://www.liftedshopdc.com/wp-content/uploads/2026/08/does-cranberry-juice-help-detox-thc.webp",
+      "contentUrl": "https://www.liftedshopdc.com/wp-content/uploads/2026/08/does-cranberry-juice-help-detox-thc.webp",
+      "width": 540,
+      "height": 356,
+      "caption": "does cranberry juice help detox thc"
+     },
+     {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.liftedshopdc.com/author/kevin/#breadcrumb",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.liftedshopdc.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Archives for kevin"
+       }
+      ]
+     },
+     {
+      "@type": "WebSite",
+      "@id": "https://www.liftedshopdc.com/#website",
+      "url": "https://www.liftedshopdc.com/",
+      "name": "LIFTED SHOP, DC",
+      "description": "",
+      "potentialAction": [
+       {
+        "@type": "SearchAction",
+        "target": {
+         "@type": "EntryPoint",
+         "urlTemplate": "https://www.liftedshopdc.com/?s={search_term_string}"
+        },
+        "query-input": {
+         "@type": "PropertyValueSpecification",
+         "valueRequired": true,
+         "valueName": "search_term_string"
+        }
+       }
+      ],
+      "inLanguage": "en-US"
+     },
+     {
+      "@type": "Person",
+      "@id": "https://www.liftedshopdc.com/#/schema/person/36b5a51fea0cb8b7f7fb9d9fb2426a49",
+      "name": "kevin",
+      "image": {
+       "@type": "ImageObject",
+       "inLanguage": "en-US",
+       "@id": "https://secure.gravatar.com/avatar/0ded4728176259dd514cd3df95d945774d6163b0a8a049f1d842c93c4a11560a?s=96&d=mm&r=g",
+       "url": "https://secure.gravatar.com/avatar/0ded4728176259dd514cd3df95d945774d6163b0a8a049f1d842c93c4a11560a?s=96&d=mm&r=g",
+       "contentUrl": "https://secure.gravatar.com/avatar/0ded4728176259dd514cd3df95d945774d6163b0a8a049f1d842c93c4a11560a?s=96&d=mm&r=g",
+       "caption": "kevin"
+      },
+      "mainEntityOfPage": {
+       "@id": "https://www.liftedshopdc.com/author/kevin/"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ "h1": "Author: kevin",
+ "docId": null,
+ "sections": [],
+ "archive": {
+  "h1": "Author: kevin",
+  "h1Html": "Author: kevin",
+  "posts": [
+   {
+    "title": "Does Cranberry Juice Flush THC?",
+    "href": "/does-cranberry-juice-flush-thc/",
+    "img": {
+     "src": "https://www.liftedshopdc.com/wp-content/uploads/2026/08/does-cranberry-juice-help-detox-thc.webp",
+     "alt": "does cranberry juice help detox thc",
+     "w": 540,
+     "h": 356
+    },
+    "excerpt": "Get ready for liftoff! ORDER DELIVERY Does Cranberry Juice Flush THC? No. Cranberry juice does not remove THC from your body, and neither does niacin, lemon water, apple cider vinegar, or any detox drink sold for the purpose. The reason has nothing to do with which liquid you pick. It’s that THC isn’t sitting in […]"
+   },
+   {
+    "title": "What Is THC Syrup?",
+    "href": "/what-is-thc-syrup/",
+    "img": {
+     "src": "https://www.liftedshopdc.com/wp-content/uploads/2026/08/thc-syrup-1000mg.webp",
+     "alt": "thc syrup 1000mg",
+     "w": 540,
+     "h": 356
+    },
+    "excerpt": "Get ready for liftoff! ORDER DELIVERY What Is THC Syrup? THC syrup is a thick, sweetened cannabis-infused liquid. You measure out a serving, stir it into a drink or take it on its own, and it works much like an edible with a slightly faster onset. The number on the bottle is where most of […]"
+   },
+   {
+    "title": "How Long Do Edibles Last?",
+    "href": "/how-long-do-edibles-last/",
+    "img": {
+     "src": "https://www.liftedshopdc.com/wp-content/uploads/2026/08/how-long-do-edibles-last.webp",
+     "alt": "how long do edibles last",
+     "w": 540,
+     "h": 356
+    },
+    "excerpt": "Get ready for liftoff! ORDER DELIVERY How Long Do Edibles Take to Hit? Usually 30 to 90 minutes, though the outer edges run from about 20 minutes to well over 2 hours. The delay exists because an edible has to travel a longer road than smoke does. When you inhale, THC crosses from your lungs […]"
+   },
+   {
+    "title": "How to Roll a Joint",
+    "href": "/how-to-roll-a-joint/",
+    "img": {
+     "src": "https://www.liftedshopdc.com/wp-content/uploads/2026/08/how-to-roll-a-joint.webp",
+     "alt": "how to roll a joint",
+     "w": 540,
+     "h": 356
+    },
+    "excerpt": "Get ready for liftoff! ORDER DELIVERY How to Roll a Joint Rolling your own is one of those skills that looks impossible until the moment it clicks. Then you wonder why it ever seemed hard. The good news is that a decent joint takes about two minutes and nine steps, and none of them require […]"
+   },
+   {
+    "title": "Best Weed for Sleep",
+    "href": "/best-weed-for-sleep/",
+    "img": {
+     "src": "https://www.liftedshopdc.com/wp-content/uploads/2026/06/Best-Weed-for-Sleep.webp",
+     "alt": "Best Weed for Sleep",
+     "w": 540,
+     "h": 356
+    },
+    "excerpt": "Get ready for liftoff! ORDER DELIVERY Best Weed for Sleep Sleep is one of the most common reasons people turn to cannabis. Whether you struggle to fall asleep, wake up in the middle of the night, or just want to wind down more effectively at the end of the day, the right cannabis product can […]"
+   },
+   {
+    "title": "Where to Buy Weed in DC: Dispensary vs. Delivery",
+    "href": "/where-to-buy-weed-in-dc/",
+    "img": {
+     "src": "https://www.liftedshopdc.com/wp-content/uploads/2026/06/where-to-buy-weed-in-dc.png",
+     "alt": "where to buy weed in dc",
+     "w": 800,
+     "h": 527
+    },
+    "excerpt": "Get ready for liftoff! ORDER DELIVERY Where to Buy Weed in DC: Dispensary vs. Delivery If you are trying to figure out where to buy weed in Washington, DC, you have two main options: visit a dispensary in person or order delivery online. Both are legal for adults 21 and older. Both give you access […]"
+   },
+   {
+    "title": "Is Weed Delivery Legal in DC, Maryland, and Virginia?",
+    "href": "/is-weed-delivery-legal-dc-maryland-virginia/",
+    "img": {
+     "src": "https://www.liftedshopdc.com/wp-content/uploads/2026/06/is-weed-delivery-legal-dc-maryland-virginia.webp",
+     "alt": "is weed delivery legal dc maryland virginia",
+     "w": 540,
+     "h": 356
+    },
+    "excerpt": "Get ready for liftoff! ORDER DELIVERY Is Weed Delivery Legal in DC, Maryland, and Virginia? If you are in the DC, Maryland, or Virginia area and wondering whether ordering cannabis delivery is legal, the short answer is yes. But the laws governing recreational cannabis vary across the three jurisdictions, and how delivery works in each […]"
+   },
+   {
+    "title": "How to Order Weed Delivery Online in DC",
+    "href": "/how-to-order-weed-delivery-dc/",
+    "img": {
+     "src": "https://www.liftedshopdc.com/wp-content/uploads/2026/06/how-to-order-weed-delivery-dc.png",
+     "alt": "how to order weed delivery dc",
+     "w": 800,
+     "h": 527
+    },
+    "excerpt": "Get ready for liftoff! ORDER DELIVERY How to Order Weed Delivery Online in DC Ordering weed delivery in DC is straightforward once you know how the system works. This guide walks you through the whole process from placing your first order to receiving it at your door, so you know exactly what to expect before […]"
+   },
+   {
+    "title": "DC Weed Gifting and Initiative 71: What You Need to Know",
+    "href": "/dc-weed-gifting-initiative-71/",
+    "img": {
+     "src": "https://www.liftedshopdc.com/wp-content/uploads/2026/06/dc-weed-gifting-initiative-71.webp",
+     "alt": "dc weed gifting initiative 71",
+     "w": 800,
+     "h": 601
+    },
+    "excerpt": "Get ready for liftoff! ORDER DELIVERY DC Weed Gifting and Initiative 71: What You Need to Know If you’re new to cannabis in Washington, DC, you’ve probably come across the term “gifting” and wondered what it actually means. DC’s cannabis laws work differently from states like Colorado or California, and that trips a lot of […]"
+   },
+   {
+    "title": "Edibles in DC",
+    "href": "/edibles-in-dc/",
+    "img": {
+     "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/Edibles-in-DC.jpg",
+     "alt": "Edibles in DC",
+     "w": 504,
+     "h": 672
+    },
+    "excerpt": "Get ready for liftoff! ORDER DELIVERY Edibles in DC by Lifted Shop A high-potency edible cannabis treat is one of the most effective ways to enjoy weed, and tickle your tastebuds at the same time! And when you’re in need of a sweet, therapeutic way to relax and unwind, you can be sure Lifted DC […]"
+   }
+  ],
+  "pagination": [
+   {
+    "text": "Next",
+    "href": "/author/kevin/page/2/",
+    "rel": "next"
+   }
+  ],
+  "html": ""
+ },
+ "unknownWidgets": []
+}

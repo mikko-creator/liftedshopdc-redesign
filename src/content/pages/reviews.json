@@ -1,0 +1,329 @@
+{
+ "path": "/reviews/",
+ "url": "https://www.liftedshopdc.com/reviews/",
+ "kind": "page",
+ "head": {
+  "title": "Best Cannabis Reviews Washington, DC | Lifted Shop",
+  "description": "Lifted Shop is the #1 Cannabis Dispensary in Washington DC offering the highest quality and best prices on cannabis products. Click to learn more.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://www.liftedshopdc.com/reviews/",
+  "og": {
+   "og:locale": "en_US",
+   "og:type": "article",
+   "og:title": "Best Cannabis Reviews Washington, DC | Lifted Shop",
+   "og:description": "Lifted Shop is the #1 Cannabis Dispensary in Washington DC offering the highest quality and best prices on cannabis products. Click to learn more.",
+   "og:url": "https://www.liftedshopdc.com/reviews/",
+   "og:site_name": "LIFTED SHOP, DC",
+   "article:modified_time": "2026-06-08T14:22:42+00:00",
+   "og:image": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Lifted-Rocket-Logo-1.png",
+   "og:image:width": "1000",
+   "og:image:height": "1000",
+   "og:image:type": "image/png",
+   "twitter:card": "summary_large_image",
+   "twitter:label1": "Est. reading time",
+   "twitter:data1": "3 minutes"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "WebPage",
+      "@id": "https://www.liftedshopdc.com/reviews/",
+      "url": "https://www.liftedshopdc.com/reviews/",
+      "name": "Best Cannabis Reviews Washington, DC | Lifted Shop",
+      "isPartOf": {
+       "@id": "https://www.liftedshopdc.com/#website"
+      },
+      "primaryImageOfPage": {
+       "@id": "https://www.liftedshopdc.com/reviews/#primaryimage"
+      },
+      "image": {
+       "@id": "https://www.liftedshopdc.com/reviews/#primaryimage"
+      },
+      "thumbnailUrl": "http://www.liftedshopdc.com/wp-content/uploads/2024/06/Lifted-Rocket-Logo-1-768x768.png",
+      "datePublished": "2015-10-19T16:13:57+00:00",
+      "dateModified": "2026-06-08T14:22:42+00:00",
+      "description": "Lifted Shop is the #1 Cannabis Dispensary in Washington DC offering the highest quality and best prices on cannabis products. Click to learn more.",
+      "breadcrumb": {
+       "@id": "https://www.liftedshopdc.com/reviews/#breadcrumb"
+      },
+      "inLanguage": "en-US",
+      "potentialAction": [
+       {
+        "@type": "ReadAction",
+        "target": [
+         "https://www.liftedshopdc.com/reviews/"
+        ]
+       }
+      ]
+     },
+     {
+      "@type": "ImageObject",
+      "inLanguage": "en-US",
+      "@id": "https://www.liftedshopdc.com/reviews/#primaryimage",
+      "url": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Lifted-Rocket-Logo-1.png",
+      "contentUrl": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Lifted-Rocket-Logo-1.png",
+      "width": 1000,
+      "height": 1000
+     },
+     {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.liftedshopdc.com/reviews/#breadcrumb",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.liftedshopdc.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Reviews"
+       }
+      ]
+     },
+     {
+      "@type": "WebSite",
+      "@id": "https://www.liftedshopdc.com/#website",
+      "url": "https://www.liftedshopdc.com/",
+      "name": "LIFTED SHOP, DC",
+      "description": "",
+      "potentialAction": [
+       {
+        "@type": "SearchAction",
+        "target": {
+         "@type": "EntryPoint",
+         "urlTemplate": "https://www.liftedshopdc.com/?s={search_term_string}"
+        },
+        "query-input": {
+         "@type": "PropertyValueSpecification",
+         "valueRequired": true,
+         "valueName": "search_term_string"
+        }
+       }
+      ],
+      "inLanguage": "en-US"
+     }
+    ]
+   }
+  ]
+ },
+ "h1": "Reviews",
+ "docId": "29",
+ "sections": [
+  {
+   "t": "group",
+   "id": "8d32d0d",
+   "children": [
+    {
+     "t": "group",
+     "id": "c51c785",
+     "children": [
+      {
+       "t": "image",
+       "img": {
+        "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Lifted-Rocket-Logo-1.png",
+        "alt": "",
+        "w": 768,
+        "h": 768
+       },
+       "href": null,
+       "caption": null,
+       "anim": "zoomIn"
+      },
+      {
+       "t": "heading",
+       "level": "p",
+       "html": "Get ready for liftoff!",
+       "text": "Get ready for liftoff!"
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "f2ce507",
+     "children": [
+      {
+       "t": "carousel",
+       "items": [
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Higher-Frequency-Bag-2.png",
+          "alt": "Higher-Frequency-Bag-2",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Casanova-Fly-Bag.png",
+          "alt": "Casanova-Fly-Bag",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/bag-2.png",
+          "alt": "bag-2",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Dust-Mac-Bag-2.png",
+          "alt": "Dust-Mac-Bag-2",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Sugarland-Delight-Bag.png",
+          "alt": "Sugarland-Delight-Bag",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Onyx-Slam-Bag.png",
+          "alt": "Onyx-Slam-Bag",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        }
+       ]
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "/shop/"
+      }
+     ]
+    }
+   ],
+   "bg": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/feature-bg-3-1.jpg"
+  },
+  {
+   "t": "group",
+   "id": "38afad2",
+   "children": [
+    {
+     "t": "group",
+     "id": "84e02fd",
+     "children": [
+      {
+       "t": "breadcrumbs",
+       "items": [
+        {
+         "text": "Home",
+         "href": "/"
+        },
+        {
+         "text": "Reviews",
+         "href": null
+        }
+       ]
+      },
+      {
+       "t": "heading",
+       "level": "h1",
+       "html": "Reviews",
+       "text": "Reviews"
+      },
+      {
+       "t": "reviews",
+       "provider": "Trustindex (Google reviews)",
+       "summary": {
+        "label": "EXCELLENT",
+        "text": "EXCELLENT Based on 2410 reviews"
+       },
+       "items": [
+        {
+         "name": "Sherrene Donovan",
+         "date": "",
+         "stars": 5,
+         "text": "Great and quick service. Big fan of Burst and Devour gummies. Thank you Nancy for all your help!!!",
+         "source": "Google"
+        },
+        {
+         "name": "Muhammad ihram Pangestu",
+         "date": "",
+         "stars": 5,
+         "text": "Weed shop delivery to Irvine apartments near UCI was quick!",
+         "source": "Google"
+        },
+        {
+         "name": "Zachariah Bailey",
+         "date": "",
+         "stars": 5,
+         "text": "Smooth cannabis delivery to our Anaheim hotel, perfect for the Disney trip 😭",
+         "source": "Google"
+        },
+        {
+         "name": "Saidi Tumwa",
+         "date": "",
+         "stars": 5,
+         "text": "Mari and Mark are great! i appreciate the help they gave me",
+         "source": "Google"
+        },
+        {
+         "name": "Jennifer Turner",
+         "date": "",
+         "stars": 5,
+         "text": "Hiyab was very helpful a great bud tender",
+         "source": "Google"
+        },
+        {
+         "name": "Jamie Coleman",
+         "date": "",
+         "stars": 5,
+         "text": "I travel to DC every month for work and a buddy of mine told me about this shop; I called the shop and found out they only do delivery now (DC only has medical shops now) so I ordered from them a few times and on my most recent order, the delivery driver, JJ, was super friendly and helpful. Got my delivery within an hr of ordering and enjoyed some incredible \"high\" energy products before my flight home. Thanks!!",
+         "source": "Google"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "92553f7",
+     "children": [
+      {
+       "t": "button",
+       "text": "(771) 216-1684",
+       "href": "tel:7712161684"
+      },
+      {
+       "t": "text",
+       "html": "<p>OR</p><p>VIEW OUR MENU OF CANNABIS PRODUCTS</p>"
+      },
+      {
+       "t": "button",
+       "text": "Shop Now",
+       "href": "/shop/"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "archive": null,
+ "unknownWidgets": []
+}

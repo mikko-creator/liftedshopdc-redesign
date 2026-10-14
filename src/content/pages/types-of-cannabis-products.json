@@ -1,0 +1,563 @@
+{
+ "path": "/types-of-cannabis-products/",
+ "url": "https://www.liftedshopdc.com/types-of-cannabis-products/",
+ "kind": "post",
+ "head": {
+  "title": "Which Cannabis Product Is Right for You? | LIFTED SHOP, DC",
+  "description": "Compare cannabis flower, edibles, pre-rolls, and concentrates by onset, duration, discretion, and dosing to find the right fit for you.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://www.liftedshopdc.com/types-of-cannabis-products/",
+  "og": {
+   "og:locale": "en_US",
+   "og:type": "article",
+   "og:title": "Which Cannabis Product Is Right for You? | LIFTED SHOP, DC",
+   "og:description": "Compare cannabis flower, edibles, pre-rolls, and concentrates by onset, duration, discretion, and dosing to find the right fit for you.",
+   "og:url": "https://www.liftedshopdc.com/types-of-cannabis-products/",
+   "og:site_name": "LIFTED SHOP, DC",
+   "article:published_time": "2026-10-13T15:22:32+00:00",
+   "article:modified_time": "2026-10-13T16:11:31+00:00",
+   "og:image": "http://www.liftedshopdc.com/wp-content/uploads/2026/10/types-of-cannabis-products.webp",
+   "og:image:width": "540",
+   "og:image:height": "356",
+   "og:image:type": "image/webp",
+   "twitter:card": "summary_large_image",
+   "twitter:label1": "Written by",
+   "twitter:data1": "chris",
+   "twitter:label2": "Est. reading time",
+   "twitter:data2": "15 minutes"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "Article",
+      "@id": "https://www.liftedshopdc.com/types-of-cannabis-products/#article",
+      "isPartOf": {
+       "@id": "https://www.liftedshopdc.com/types-of-cannabis-products/"
+      },
+      "author": {
+       "name": "chris",
+       "@id": "https://www.liftedshopdc.com/#/schema/person/c864496d696467b0c0b13e776b077474"
+      },
+      "headline": "Which Cannabis Product Is Right for You",
+      "datePublished": "2026-10-13T15:22:32+00:00",
+      "dateModified": "2026-10-13T16:11:31+00:00",
+      "mainEntityOfPage": {
+       "@id": "https://www.liftedshopdc.com/types-of-cannabis-products/"
+      },
+      "wordCount": 2091,
+      "image": {
+       "@id": "https://www.liftedshopdc.com/types-of-cannabis-products/#primaryimage"
+      },
+      "thumbnailUrl": "https://www.liftedshopdc.com/wp-content/uploads/2026/10/types-of-cannabis-products.webp",
+      "articleSection": [
+       "Cannabis Guides"
+      ],
+      "inLanguage": "en-US"
+     },
+     {
+      "@type": "WebPage",
+      "@id": "https://www.liftedshopdc.com/types-of-cannabis-products/",
+      "url": "https://www.liftedshopdc.com/types-of-cannabis-products/",
+      "name": "Which Cannabis Product Is Right for You? | LIFTED SHOP, DC",
+      "isPartOf": {
+       "@id": "https://www.liftedshopdc.com/#website"
+      },
+      "primaryImageOfPage": {
+       "@id": "https://www.liftedshopdc.com/types-of-cannabis-products/#primaryimage"
+      },
+      "image": {
+       "@id": "https://www.liftedshopdc.com/types-of-cannabis-products/#primaryimage"
+      },
+      "thumbnailUrl": "https://www.liftedshopdc.com/wp-content/uploads/2026/10/types-of-cannabis-products.webp",
+      "datePublished": "2026-10-13T15:22:32+00:00",
+      "dateModified": "2026-10-13T16:11:31+00:00",
+      "author": {
+       "@id": "https://www.liftedshopdc.com/#/schema/person/c864496d696467b0c0b13e776b077474"
+      },
+      "description": "Compare cannabis flower, edibles, pre-rolls, and concentrates by onset, duration, discretion, and dosing to find the right fit for you.",
+      "breadcrumb": {
+       "@id": "https://www.liftedshopdc.com/types-of-cannabis-products/#breadcrumb"
+      },
+      "inLanguage": "en-US",
+      "potentialAction": [
+       {
+        "@type": "ReadAction",
+        "target": [
+         "https://www.liftedshopdc.com/types-of-cannabis-products/"
+        ]
+       }
+      ]
+     },
+     {
+      "@type": "ImageObject",
+      "inLanguage": "en-US",
+      "@id": "https://www.liftedshopdc.com/types-of-cannabis-products/#primaryimage",
+      "url": "https://www.liftedshopdc.com/wp-content/uploads/2026/10/types-of-cannabis-products.webp",
+      "contentUrl": "https://www.liftedshopdc.com/wp-content/uploads/2026/10/types-of-cannabis-products.webp",
+      "width": 540,
+      "height": 356,
+      "caption": "types of cannabis products"
+     },
+     {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.liftedshopdc.com/types-of-cannabis-products/#breadcrumb",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.liftedshopdc.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Which Cannabis Product Is Right for You"
+       }
+      ]
+     },
+     {
+      "@type": "WebSite",
+      "@id": "https://www.liftedshopdc.com/#website",
+      "url": "https://www.liftedshopdc.com/",
+      "name": "LIFTED SHOP, DC",
+      "description": "",
+      "potentialAction": [
+       {
+        "@type": "SearchAction",
+        "target": {
+         "@type": "EntryPoint",
+         "urlTemplate": "https://www.liftedshopdc.com/?s={search_term_string}"
+        },
+        "query-input": {
+         "@type": "PropertyValueSpecification",
+         "valueRequired": true,
+         "valueName": "search_term_string"
+        }
+       }
+      ],
+      "inLanguage": "en-US"
+     },
+     {
+      "@type": "Person",
+      "@id": "https://www.liftedshopdc.com/#/schema/person/c864496d696467b0c0b13e776b077474",
+      "name": "chris",
+      "image": {
+       "@type": "ImageObject",
+       "inLanguage": "en-US",
+       "@id": "https://secure.gravatar.com/avatar/38bd97135be3bf1d7deca4be52cba72683f76dcb9b11946dff53b64d6f88e836?s=96&d=mm&r=g",
+       "url": "https://secure.gravatar.com/avatar/38bd97135be3bf1d7deca4be52cba72683f76dcb9b11946dff53b64d6f88e836?s=96&d=mm&r=g",
+       "contentUrl": "https://secure.gravatar.com/avatar/38bd97135be3bf1d7deca4be52cba72683f76dcb9b11946dff53b64d6f88e836?s=96&d=mm&r=g",
+       "caption": "chris"
+      },
+      "url": "https://www.liftedshopdc.com/author/chris/"
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+     {
+      "@type": "Question",
+      "name": "Which cannabis product is best for beginners?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "A low-dose edible (2.5 to 5mg) or a vape cartridge. Cartridges let you take a small amount, wait, and decide whether to take more, which makes them hard to overdo. Edibles provide exact dosing, as long as you follow the two-hour rule. Save concentrates until you&#8217;ve built tolerance."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "What is the difference between flower and concentrates?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Flower is the dried bud of the plant, usually 15-30% THC. Concentrates are extracts with the plant material removed, typically 60 to 90% THC. Concentrates need a dab rig or dab pen, while flower can be smoked in a joint or pipe."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Which cannabis product is the most discreet?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Vape cartridges. The vapor dissipates in seconds and carries very little smell, and the device is indistinguishable from a nicotine vape. Edibles produce no smell at all but require planning because of the delayed onset."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "How long does each type take to work?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Inhaled products, including flower, pre-rolls, cartridges, and concentrates, take effect within minutes and usually peak around ten. Edibles take 30 to 90 minutes because they pass through the digestive system and the liver first."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Which cannabis product lasts the longest?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Edibles last four to eight hours and sometimes longer with a large dose. Inhaled products generally last one to three hours."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "What is the difference between a pre-roll and a vape cartridge?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "A pre-roll is ground flower rolled into a ready-made joint and smoked. A cartridge holds cannabis oil that is vaporized using a battery. Both work within minutes, but cartridges are far more discreet and allow smaller, more controlled doses."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Which product gives the most control over dosage?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Edibles, because they arrive measured in milligrams per serving. Cartridges come second, since you can take a single puff, pause, and then decide whether to take more. Flower and concentrates are judged by feel rather than measured."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Are concentrates too strong for new consumers?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "They are considerably stronger than flower, at roughly three to five times the THC content, and they require equipment. Most people are better served starting with flower, a cartridge, or a low-dose edible and moving to concentrates once they know their tolerance."
+      }
+     }
+    ]
+   }
+  ]
+ },
+ "h1": "Which Cannabis Product Is Right for You",
+ "docId": "6285",
+ "sections": [
+  {
+   "t": "group",
+   "id": "4074bab",
+   "children": [
+    {
+     "t": "group",
+     "id": "34d328f",
+     "children": [
+      {
+       "t": "image",
+       "img": {
+        "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Lifted-Rocket-Logo-1.png",
+        "alt": "",
+        "w": 768,
+        "h": 768
+       },
+       "href": null,
+       "caption": null,
+       "anim": "zoomIn"
+      },
+      {
+       "t": "heading",
+       "level": "p",
+       "html": "Get ready for liftoff!",
+       "text": "Get ready for liftoff!"
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "2ab37cb",
+     "children": [
+      {
+       "t": "carousel",
+       "items": [
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Higher-Frequency-Bag-2.png",
+          "alt": "Higher-Frequency-Bag-2",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Casanova-Fly-Bag.png",
+          "alt": "Casanova-Fly-Bag",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/bag-2.png",
+          "alt": "bag-2",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Dust-Mac-Bag-2.png",
+          "alt": "Dust-Mac-Bag-2",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Sugarland-Delight-Bag.png",
+          "alt": "Sugarland-Delight-Bag",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Onyx-Slam-Bag.png",
+          "alt": "Onyx-Slam-Bag",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        }
+       ]
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": null
+      }
+     ]
+    }
+   ],
+   "bg": "http://www.liftedshopdc.com/wp-content/uploads/2024/06/feature-bg-3-1.jpg"
+  },
+  {
+   "t": "group",
+   "id": "534238a",
+   "children": [
+    {
+     "t": "group",
+     "id": "86379c3",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h1",
+       "html": "Which Cannabis Product Is Right for You",
+       "text": "Which Cannabis Product Is Right for You"
+      },
+      {
+       "t": "text",
+       "html": "<p>Most guides to this answer the wrong question. They tell you what flower is, what a cartridge is, what a concentrate is, and leave you to work out which one fits your evening.</p><p>The useful question is the other way round. What do you actually want? Something that works in two minutes or something that lasts all night. Something nobody will smell or something you can share. Something you can measure exactly or something you can stop when you’ve had enough.</p><p>Answer that, and the product picks itself.</p><h2>The Questions That Actually Decide It</h2><p><strong>How fast do you want it to work?</strong> Anything you inhale works within minutes. Anything you eat takes between half an hour and an hour and a half.</p><p><strong>How long do you want it to last?</strong> Inhaled effects run one to three hours. Eaten effects run four to eight hours, sometimes longer.</p><p><strong>How discreet does it need to be?</strong> This is usually the deciding factor for people in apartments, shared housing, or anywhere with nearby neighbors.</p><p><strong>How precisely do you want to control the dose?</strong> Some formats come measured in milligrams. Others you judge by feel.</p><p><strong>How much effort are you willing to put in?</strong> Some products need equipment and preparation. Others need you to open a packet.</p><p><strong>What’s your tolerance?</strong> A format that suits someone new is often underwhelming for a daily consumer, and the reverse goes badly.</p><h2>Quick Comparison</h2><table><tbody><tr><td> </td><td><strong>Onset</strong></td><td><strong>Duration</strong></td><td><strong>Discretion</strong></td><td><strong>Dose control</strong></td><td><strong>Effort</strong></td></tr><tr><td>Flower</td><td>Minutes</td><td>1 to 3 hrs</td><td>Low</td><td>By feel</td><td>Grinder, papers</td></tr><tr><td>Pre-rolls</td><td>Minutes</td><td>1 to 3 hrs</td><td>Low</td><td>By feel</td><td>None</td></tr><tr><td>Cartridges</td><td>Minutes</td><td>1 to 3 hrs</td><td>High</td><td>Good</td><td>Charge the battery</td></tr><tr><td>Edibles</td><td>30 to 90 min</td><td>4 to 8 hrs</td><td>High</td><td>Exact, in mg</td><td>None</td></tr><tr><td>Concentrates</td><td>Seconds</td><td>1 to 3 hrs</td><td>Low to medium</td><td>By feel</td><td>Rig or dab pen</td></tr></tbody></table><h2>Match the Product to What You Want</h2><h3>If you want it to work fast</h3><p>Anything inhaled.<a href=\"/premium-weed-in-dc/\"> Flower</a>,<a href=\"/pre-rolls-dc/\"> pre-rolls</a>,<a href=\"/cartridges-in-dc/\"> cartridges</a>, and<a href=\"/concentrates/\"> concentrates</a> all reach you within minutes, usually peaking around ten.</p><p>The real advantage isn’t speed, it’s feedback. You can feel where you are and stop. That makes inhaling the forgiving option, and it’s why most people who have a bad time with cannabis had it with an edible.</p><h3>If you want it to last</h3><p><a href=\"/edibles-in-dc/\">Edibles</a>, without much competition. Four to eight hours against one to three for anything inhaled, because your liver converts the THC into a longer-acting compound before it reaches circulation. We cover why that happens in<a href=\"/heres-what-happens-to-your-body-when-you-eat-edibles/\"> how do edibles work</a>.</p><p>The trade-off is that you commit up front. Once you eat it, the dose is fixed.</p><h3>If you need it discreet</h3><p><strong>Cartridges</strong> win this outright. Vapor dissipates in seconds, carries little smell, and the device looks like any other vape.</p><p><strong>Edibles</strong> are equally invisible but slower, so they suit planned evenings rather than a quick decision.</p><p>Flower and pre-rolls are the opposite. For many people, the smell is the point, and it lingers in fabric and hallways.</p><h3>If you want precise dose control</h3><p><strong>Edibles</strong> are the only format that arrives pre-measured. A 5mg gummy is 5mg every time, making it the easiest way to find your number and repeat it.<a href=\"/what-is-thc-syrup/\"> THC syrup</a> goes further, letting you measure in smaller increments than a gummy allows.</p><p><strong>Cartridges</strong> come second. You can’t measure a puff, but you can take one, wait, and take another.</p><p><strong>Flower and concentrates:</strong> you judge by feel. Experienced consumers find that natural. New ones usually don’t.</p><h3>If you want the least effort</h3><p><strong>Pre-rolls</strong> and <strong>cartridges</strong>. One is ready to light, the other ready to draw on. Edibles are equally effortless but require patience.</p><p>Flower asks the most of you: a grinder, papers, and the<a href=\"/how-to-roll-a-joint/\"> rolling</a> itself. Plenty of people enjoy that part, but it’s a real difference if you don’t.</p><h3>If you have a high tolerance</h3><p><strong>Concentrates.</strong> Flower typically runs 15 to 30% THC. Concentrates run 60 to 90%, and the terpene-rich ones like<a href=\"/live-resin-dc/\"> live resin</a> deliver that without losing flavor.</p><p>Worth knowing: tolerance to smoking doesn’t carry over to edibles cleanly, because the compound doing the work is different. Regular smokers get caught out by gummies all the time.</p><h2>What Each Product Actually Is</h2><h3>H3: Flower</h3><p><a href=\"/premium-weed-in-dc/\">Flower</a> is the plant’s dried, cured bud. Everything else on this list is made from it and smoked in a joint, pipe, or dry herb vaporizer.</p><p>Cheapest by volume, widest variety, and the format where quality differences are most obvious, which cuts both ways. Our guide to<a href=\"/how-to-tell-if-weed-is-good-quality/\"> telling good flower from bad</a> covers what to look for.</p><h3>Pre-Rolls</h3><p><a href=\"/pre-rolls-dc/\">Pre-rolls</a> are flower, ground and rolled, ready to go. You pay a small premium for the convenience, and you lose the ability to inspect what went in, so they’re worth buying from somewhere you already trust.</p><p>Infused pre-rolls add concentrate to the mix and hit considerably harder.</p><h3>Vape Cartridges</h3><p>A<a href=\"/cartridges-in-dc/\"> cartridge</a> of cannabis oil that screws onto a battery. Heat vaporizes the oil rather than burning it.</p><p>Discreet, portable, no preparation beyond charging. The variable is what’s in the oil: distillate is potent but stripped of flavor, while live resin carts keep the terpenes and taste noticeably better.</p><h3>Edibles</h3><p><a href=\"/edibles-in-dc/\">Edibles</a> are food and drink infused with THC: gummies, chocolates, baked goods, drinks, syrups.</p><p>Slowest onset, longest duration, exact dosing, no smell. The one rule that matters is waiting two hours before taking more, which we cover in<a href=\"/how-long-do-edibles-last/\"> how long edibles last</a>.</p><h3>Concentrates</h3><p><a href=\"/concentrates/\">Concentrates</a> are extracts with the plant material stripped away: wax, shatter, badder, rosin, live resin, diamonds. They’re three to five times as potent as flower.</p><p>You consume them by dabbing, which requires a rig or an electronic dab pen, or by adding them to flower to strengthen a joint.</p><p>Topicals, tinctures, and capsules exist too, though they sit outside what most people are choosing between.</p><h2>What Not to Start With</h2><p><strong>Concentrates, if you’re new.</strong> Not dangerous, but 70% THC is a different experience from 20%, and the equipment adds a learning curve on top. Come to them once you know your tolerance.</p><p><strong>A full-strength edible as a first try.</strong> Start at 2.5 to 5mg. Ten milligrams is a standard dose, not a starting point.</p><p><strong>Homemade edibles from an unknown source.</strong> Potency varies wildly within a single batch, which is why they account for so many bad first experiences.</p><p><strong>Anything bought on a THC percentage alone.</strong> A 19% flower with a rich terpene profile often beats a 28% one with nothing else going on.</p><h2>Choosing From a Menu Instead of a Counter</h2><p>Most guides assume a budtender is standing in front of you. If you’re ordering online, a few things change.</p><p><strong>Lean on the product description.</strong> Listings that describe the terpene profile, the extraction method, or the cure tell you more than a THC figure does.</p><p><strong>Buy small from somewhere new.</strong> An eighth or a single cartridge is a cheap way to find out whether a source is worth repeating.</p><p><strong>Mix formats in one order.</strong> It costs nothing extra, and it’s the quickest way to learn what you actually prefer. Many people discover they want flower for evenings in and a cartridge for everything else.</p><p><strong>Check the delivery window against your plans</strong> if you’re choosing an edible, since the wait after it arrives is longer than the wait for it to arrive.</p><h2>Frequently Asked Questions</h2>"
+      },
+      {
+       "t": "faq",
+       "items": [
+        {
+         "q": "Which cannabis product is best for beginners?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>A low-dose edible (2.5 to 5mg) or a vape cartridge. Cartridges let you take a small amount, wait, and decide whether to take more, which makes them hard to overdo. Edibles provide exact dosing, as long as you follow the two-hour rule. Save concentrates until you’ve built tolerance.</p>"
+          }
+         ]
+        },
+        {
+         "q": "What is the difference between flower and concentrates?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>Flower is the dried bud of the plant, usually 15-30% THC. Concentrates are extracts with the plant material removed, typically 60 to 90% THC. Concentrates need a dab rig or dab pen, while flower can be smoked in a joint or pipe.</p>"
+          }
+         ]
+        },
+        {
+         "q": "Which cannabis product is the most discreet?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>Vape cartridges. The vapor dissipates in seconds and carries very little smell, and the device is indistinguishable from a nicotine vape. Edibles produce no smell at all but require planning because of the delayed onset.</p>"
+          }
+         ]
+        },
+        {
+         "q": "How long does each type take to work?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>Inhaled products, including flower, pre-rolls, cartridges, and concentrates, take effect within minutes and usually peak around ten. Edibles take 30 to 90 minutes because they pass through the digestive system and the liver first.</p>"
+          }
+         ]
+        },
+        {
+         "q": "Which cannabis product lasts the longest?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>Edibles last four to eight hours and sometimes longer with a large dose. Inhaled products generally last one to three hours.</p>"
+          }
+         ]
+        },
+        {
+         "q": "What is the difference between a pre-roll and a vape cartridge?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>A pre-roll is ground flower rolled into a ready-made joint and smoked. A cartridge holds cannabis oil that is vaporized using a battery. Both work within minutes, but cartridges are far more discreet and allow smaller, more controlled doses.</p>"
+          }
+         ]
+        },
+        {
+         "q": "Which product gives the most control over dosage?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>Edibles, because they arrive measured in milligrams per serving. Cartridges come second, since you can take a single puff, pause, and then decide whether to take more. Flower and concentrates are judged by feel rather than measured.</p>"
+          }
+         ]
+        },
+        {
+         "q": "Are concentrates too strong for new consumers?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>They are considerably stronger than flower, at roughly three to five times the THC content, and they require equipment. Most people are better served starting with flower, a cartridge, or a low-dose edible and moving to concentrates once they know their tolerance.</p>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "html": "<h2>Pick for the Occasion, Not the Category</h2><p>There’s no best product, only a best fit for what you’re doing. A cartridge for a weeknight, flower for a Saturday with friends, an edible for a long evening with nothing scheduled after it.</p><p>Most regular consumers end up keeping two or three formats for different situations, and that’s usually the right answer, not a failure to choose.</p><p>Look at the<a href=\"/shop/\"> full menu</a> and pick the option that suits the occasion you have in mind.</p><p><em>For adults 21 and over.</em></p>"
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "c643239",
+     "children": [
+      {
+       "t": "testimonials",
+       "items": [
+        {
+         "text": "The “Sour Punched” single rolled is the BOMB!!!! The products here are the best I have had in NW. Pricey but worth every penny and I love the staff.",
+         "name": "G.D.",
+         "title": ""
+        },
+        {
+         "text": "I’ve finally found a place where the staff shows its customers love and respect. Thanks Lifted for being my new spot for the ⛽💨💯💪",
+         "name": "B.C.",
+         "title": ""
+        },
+        {
+         "text": "Great shop. Rick helped us out and was so nice and knowledgeable letting us know his recommendations. Much better quality and selection compared to other shops in DC.",
+         "name": "K.M",
+         "title": ""
+        }
+       ]
+      },
+      {
+       "t": "heading",
+       "level": "p",
+       "html": "Exclusives",
+       "text": "Exclusives"
+      },
+      {
+       "t": "carousel",
+       "items": [
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-1-768x1024.jpg",
+          "alt": "Grandmaster Caz’s Casanova Fly",
+          "w": null,
+          "h": null
+         },
+         "caption": "<strong>Grandmaster Caz’s</strong> Casanova Fly",
+         "href": "/shop/"
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-6.jpg",
+          "alt": "Laughing Gas Inspired by Def Comedy Jam",
+          "w": null,
+          "h": null
+         },
+         "caption": "<strong>Laughing Gas</strong> Inspired by Def Comedy Jam",
+         "href": "/shop/"
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-4-768x1034.jpg",
+          "alt": "Rakim Higher Frequency Soul Flower",
+          "w": null,
+          "h": null
+         },
+         "caption": "<strong>Rakim</strong> Higher Frequency Soul Flower",
+         "href": "/shop/"
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-5-768x1035.jpg",
+          "alt": "The Sugarhill Gang’s Sugarhill Delight",
+          "w": null,
+          "h": null
+         },
+         "caption": "<strong>The Sugarhill Gang’s</strong> Sugarhill Delight",
+         "href": "/shop/"
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-3-768x1035.jpg",
+          "alt": "DAS EFX Googley Goo",
+          "w": null,
+          "h": null
+         },
+         "caption": "<strong>DAS EFX</strong> Googley Goo",
+         "href": "/shop/"
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-2-768x1035.jpg",
+          "alt": "Onyx’s SLAM",
+          "w": null,
+          "h": null
+         },
+         "caption": "<strong>Onyx’s</strong> SLAM",
+         "href": "/shop/"
+        }
+       ]
+      },
+      {
+       "t": "group",
+       "id": "5bb4cee",
+       "children": [
+        {
+         "t": "button",
+         "text": "(771) 216-1684",
+         "href": "tel:7712161684"
+        },
+        {
+         "t": "text",
+         "html": "<p>OR</p><p>VIEW OUR MENU OF CANNABIS PRODUCTS</p>"
+        },
+        {
+         "t": "button",
+         "text": "Shop Now",
+         "href": "/shop/"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "archive": null,
+ "unknownWidgets": []
+}

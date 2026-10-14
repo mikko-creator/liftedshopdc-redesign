@@ -1,0 +1,406 @@
+{
+ "path": "/pre-rolls-dc/",
+ "url": "https://www.liftedshopdc.com/pre-rolls-dc/",
+ "kind": "page",
+ "head": {
+  "title": "Pre-Rolls in DC | Delivery & Pickup | Lifted Shop DC",
+  "description": "Shop pre-rolls in DC from Lifted Shop. Hash rosin, diamonds, kief, and infused options. Order for same-day delivery or pickup at Georgia Ave NW.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://www.liftedshopdc.com/pre-rolls-dc/",
+  "og": {
+   "og:locale": "en_US",
+   "og:type": "article",
+   "og:title": "Pre-Rolls in DC | Delivery & Pickup | Lifted Shop DC",
+   "og:description": "Shop pre-rolls in DC from Lifted Shop. Hash rosin, diamonds, kief, and infused options. Order for same-day delivery or pickup at Georgia Ave NW.",
+   "og:url": "https://www.liftedshopdc.com/pre-rolls-dc/",
+   "og:site_name": "LIFTED SHOP, DC",
+   "article:modified_time": "2026-06-05T16:16:08+00:00",
+   "twitter:card": "summary_large_image",
+   "twitter:label1": "Est. reading time",
+   "twitter:data1": "4 minutes"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "WebPage",
+      "@id": "https://www.liftedshopdc.com/pre-rolls-dc/",
+      "url": "https://www.liftedshopdc.com/pre-rolls-dc/",
+      "name": "Pre-Rolls in DC | Delivery & Pickup | Lifted Shop DC",
+      "isPartOf": {
+       "@id": "https://www.liftedshopdc.com/#website"
+      },
+      "datePublished": "2026-06-05T15:40:07+00:00",
+      "dateModified": "2026-06-05T16:16:08+00:00",
+      "description": "Shop pre-rolls in DC from Lifted Shop. Hash rosin, diamonds, kief, and infused options. Order for same-day delivery or pickup at Georgia Ave NW.",
+      "breadcrumb": {
+       "@id": "https://www.liftedshopdc.com/pre-rolls-dc/#breadcrumb"
+      },
+      "inLanguage": "en-US",
+      "potentialAction": [
+       {
+        "@type": "ReadAction",
+        "target": [
+         "https://www.liftedshopdc.com/pre-rolls-dc/"
+        ]
+       }
+      ]
+     },
+     {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.liftedshopdc.com/pre-rolls-dc/#breadcrumb",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.liftedshopdc.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Pre-Rolls in DC"
+       }
+      ]
+     },
+     {
+      "@type": "WebSite",
+      "@id": "https://www.liftedshopdc.com/#website",
+      "url": "https://www.liftedshopdc.com/",
+      "name": "LIFTED SHOP, DC",
+      "description": "",
+      "potentialAction": [
+       {
+        "@type": "SearchAction",
+        "target": {
+         "@type": "EntryPoint",
+         "urlTemplate": "https://www.liftedshopdc.com/?s={search_term_string}"
+        },
+        "query-input": {
+         "@type": "PropertyValueSpecification",
+         "valueRequired": true,
+         "valueName": "search_term_string"
+        }
+       }
+      ],
+      "inLanguage": "en-US"
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+     {
+      "@type": "Question",
+      "name": "What pre-rolls do you carry?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Our pre-roll menu rotates based on availability. We typically stock standard flower pre-rolls and infused options, including hash rosin, THCa diamond-infused, and kief-coated joints available as singles and multi-packs. Browse the live menu for current stock."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "What is an infused pre-roll?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "An infused pre-roll is a joint that&#8217;s been enhanced with cannabis concentrates such as hash rosin, THCa diamonds, or kief in addition to the ground flower inside. This makes them significantly more potent than a standard pre-roll. They&#8217;re best suited to experienced consumers."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "How much do pre-rolls cost?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Prices vary depending on the product and format. Standard pre-rolls start at lower price points, while premium infused packs are priced higher to reflect the concentrate content. See the menu for current pricing."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Can I get pre-rolls delivered same-day?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes. Pre-rolls are available for same-day delivery across Washington, DC, 10 am–9 pm daily. Minimum order $100. Order now."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Can I pick up pre-rolls in person?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes. Place your order online and collect from 2622 Georgia Ave NW. We don&#8217;t operate as a walk-in store; all orders must be placed online before pickup."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Are pre-rolls available in indica, sativa, and hybrid?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes, availability varies by what&#8217;s currently in stock. Check the menu for current strain options. Read more about indica vs. sativa if you&#8217;re not sure which is right for you.Browse the current pre-roll menu and place your order for delivery or pickup."
+      }
+     }
+    ]
+   }
+  ]
+ },
+ "h1": "Pre-Rolls in DC",
+ "docId": "5803",
+ "sections": [
+  {
+   "t": "group",
+   "id": "d42aadd",
+   "children": [
+    {
+     "t": "group",
+     "id": "0f00b8b",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h1",
+       "html": "Pre-Rolls in DC",
+       "text": "Pre-Rolls in DC"
+      },
+      {
+       "t": "text",
+       "html": "<p>Skip the rolling. Lifted Shop carries a rotating selection of pre-rolls in DC from straightforward single joints to premium infused options loaded with hash rosin, THCa diamonds, and kief. Order online and get them delivered same-day anywhere in DC, or place an order for pickup at our location on Georgia Ave NW.</p>"
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "#orderdelivery"
+      }
+     ]
+    }
+   ],
+   "bg": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/feature-bg-3-1.jpg"
+  },
+  {
+   "t": "group",
+   "id": "4e29435",
+   "children": [
+    {
+     "t": "reviews",
+     "provider": "Trustindex (Google reviews)",
+     "summary": {
+      "label": "EXCELLENT",
+      "text": "EXCELLENT Based on 2410 reviews"
+     },
+     "items": [
+      {
+       "name": "Sherrene Donovan",
+       "date": "",
+       "stars": 5,
+       "text": "Great and quick service. Big fan of Burst and Devour gummies. Thank you Nancy for all your help!!!",
+       "source": "Google"
+      },
+      {
+       "name": "Muhammad ihram Pangestu",
+       "date": "",
+       "stars": 5,
+       "text": "Weed shop delivery to Irvine apartments near UCI was quick!",
+       "source": "Google"
+      },
+      {
+       "name": "Zachariah Bailey",
+       "date": "",
+       "stars": 5,
+       "text": "Smooth cannabis delivery to our Anaheim hotel, perfect for the Disney trip 😭",
+       "source": "Google"
+      },
+      {
+       "name": "Saidi Tumwa",
+       "date": "",
+       "stars": 5,
+       "text": "Mari and Mark are great! i appreciate the help they gave me",
+       "source": "Google"
+      },
+      {
+       "name": "Jennifer Turner",
+       "date": "",
+       "stars": 5,
+       "text": "Hiyab was very helpful a great bud tender",
+       "source": "Google"
+      },
+      {
+       "name": "Jamie Coleman",
+       "date": "",
+       "stars": 5,
+       "text": "I travel to DC every month for work and a buddy of mine told me about this shop; I called the shop and found out they only do delivery now (DC only has medical shops now) so I ordered from them a few times and on my most recent order, the delivery driver, JJ, was super friendly and helpful. Got my delivery within an hr of ordering and enjoyed some incredible \"high\" energy products before my flight home. Thanks!!",
+       "source": "Google"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "ebbfbc2",
+   "children": [
+    {
+     "t": "group",
+     "id": "609a3e9",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "Standard and Infused Pre-Rolls",
+       "text": "Standard and Infused Pre-Rolls"
+      },
+      {
+       "t": "text",
+       "html": "<p>Not all pre-rolls are created equal. We carry options across the spectrum so you can find what fits your tolerance, your occasion, and your budget.</p><h3>Standard pre-rolls</h3><p>Ground flower, packed and ready. Great for everyday use, sharing, or if you just want something reliable without any extras. Available as singles and multi-packs.</p><h3>Infused pre-rolls</h3><p>For buyers who want more. Our infused options are packed with premium flower and enhanced with concentrates including hash rosin, THCa diamonds, and kief coatings. These hit differently. If you’re experienced and want a stronger, longer-lasting effect, this is where to start.</p><p><em>Our inventory rotates. Browse the current menu to see exactly what’s in stock.</em></p>"
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "/shop/"
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "ef03211",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "Pre-Roll Formats We Carry",
+       "text": "Pre-Roll Formats We Carry"
+      },
+      {
+       "t": "text",
+       "html": "<p>Depending on what’s in stock, you’ll typically find:</p><ul><li><strong>Singles</strong>: One and done. Good for trying something new or keeping it casual</li><li><strong>Multi-packs:</strong> Better value, stocked up. Ideal if you have a go-to strain or format</li><li><strong>Mini packs</strong>: Smaller joints in larger quantities, great for sharing or lighter sessions</li><li><strong>Infused singles and packs</strong>: Hash rosin, diamond-infused, and kief-coated options for a more potent experience</li></ul><p><em>Not sure what to go for? If you’re newer to cannabis, a standard pre-roll is the easier starting point. If you’re experienced and want something with more kick, an infused option is worth it. Read our beginner’s guide to weed for more context.</em></p>"
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "/shop/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "810e949",
+   "children": [
+    {
+     "t": "group",
+     "id": "924e0f4",
+     "children": [
+      {
+       "t": "group",
+       "id": "f67db58",
+       "children": [
+        {
+         "t": "heading",
+         "level": "h3",
+         "html": "Why Buy Pre-Rolls",
+         "text": "Why Buy Pre-Rolls"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "html": "<p>Pre-rolls are the most straightforward way to consume cannabis flower. No grinder, no papers, no technique required. You open the pack, and you’re ready. That’s the appeal.</p><p>For people who don’t roll their own or want consistent results every time, pre-rolls are the practical choice. For buyers who want a more elevated experience without setting up a full dab rig or concentrate setup, infused pre-rolls sit in an ideal middle ground.</p><p>They’re also easy to share, transport, and store.</p><p><em>Prefer a different format? Browse our edibles, cartridges, concentrates, and live resin—all available for delivery or pickup.</em></p>"
+      },
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "How to Order Pre-Rolls in DC",
+       "text": "How to Order Pre-Rolls in DC"
+      },
+      {
+       "t": "text",
+       "html": "<p><strong>Delivery: </strong>Browse the menu, select your pre-rolls, and place your order online. We deliver across Washington, DC, in 1–2 hours, daily from 10 am to 9 pm. Minimum order $100. Someone 21+ must be present to receive. Full same-day delivery details.</p><p><strong>Pickup: </strong>Order online and collect from our location at 2622 Georgia Ave NW, Washington, DC. We’ll have your order packed and ready, no browsing in store, just collect and go.</p>"
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "/shop/"
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "c946de2",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "Frequently Asked Questions",
+       "text": "Frequently Asked Questions"
+      },
+      {
+       "t": "faq",
+       "items": [
+        {
+         "q": "What pre-rolls do you carry?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>Our pre-roll menu rotates based on availability. We typically stock standard flower pre-rolls and infused options, including hash rosin, THCa diamond-infused, and kief-coated joints available as singles and multi-packs. Browse the live menu for current stock.</p>"
+          }
+         ]
+        },
+        {
+         "q": "What is an infused pre-roll?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>An infused pre-roll is a joint that’s been enhanced with cannabis concentrates such as hash rosin, THCa diamonds, or kief in addition to the ground flower inside. This makes them significantly more potent than a standard pre-roll. They’re best suited to experienced consumers.</p>"
+          }
+         ]
+        },
+        {
+         "q": "How much do pre-rolls cost?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>Prices vary depending on the product and format. Standard pre-rolls start at lower price points, while premium infused packs are priced higher to reflect the concentrate content. See the menu for current pricing.</p>"
+          }
+         ]
+        },
+        {
+         "q": "Can I get pre-rolls delivered same-day?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>Yes. Pre-rolls are available for same-day delivery across Washington, DC, 10 am–9 pm daily. Minimum order $100. Order now.</p>"
+          }
+         ]
+        },
+        {
+         "q": "Can I pick up pre-rolls in person?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>Yes. Place your order online and collect from 2622 Georgia Ave NW. We don’t operate as a walk-in store; all orders must be placed online before pickup.</p>"
+          }
+         ]
+        },
+        {
+         "q": "Are pre-rolls available in indica, sativa, and hybrid?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>Yes, availability varies by what’s currently in stock. Check the menu for current strain options. Read more about indica vs. sativa if you’re not sure which is right for you.</p><p>Browse the current pre-roll menu and place your order for delivery or pickup.</p>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "/shop/"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "archive": null,
+ "unknownWidgets": []
+}

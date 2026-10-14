@@ -1,0 +1,347 @@
+{
+ "path": "/delivery/tysons-va/",
+ "url": "https://www.liftedshopdc.com/delivery/tysons-va/",
+ "kind": "page",
+ "head": {
+  "title": "Premium Weed Delivery Tysons, VA | Fast Same-Day Service",
+  "description": "Elite cannabis delivery in Tysons, VA. High-quality flower, edibles, and vapes delivered discreetly to your residence.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://www.liftedshopdc.com/delivery/tysons-va/",
+  "og": {
+   "og:locale": "en_US",
+   "og:type": "article",
+   "og:title": "Premium Weed Delivery Tysons, VA | Fast Same-Day Service",
+   "og:description": "Elite cannabis delivery in Tysons, VA. High-quality flower, edibles, and vapes delivered discreetly to your residence.",
+   "og:url": "https://www.liftedshopdc.com/delivery/tysons-va/",
+   "og:site_name": "LIFTED SHOP, DC",
+   "article:modified_time": "2026-05-25T16:26:45+00:00",
+   "twitter:card": "summary_large_image",
+   "twitter:label1": "Est. reading time",
+   "twitter:data1": "3 minutes"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "WebPage",
+      "@id": "https://www.liftedshopdc.com/delivery/tysons-va/",
+      "url": "https://www.liftedshopdc.com/delivery/tysons-va/",
+      "name": "Premium Weed Delivery Tysons, VA | Fast Same-Day Service",
+      "isPartOf": {
+       "@id": "https://www.liftedshopdc.com/#website"
+      },
+      "datePublished": "2026-02-13T10:34:10+00:00",
+      "dateModified": "2026-05-25T16:26:45+00:00",
+      "description": "Elite cannabis delivery in Tysons, VA. High-quality flower, edibles, and vapes delivered discreetly to your residence.",
+      "breadcrumb": {
+       "@id": "https://www.liftedshopdc.com/delivery/tysons-va/#breadcrumb"
+      },
+      "inLanguage": "en-US",
+      "potentialAction": [
+       {
+        "@type": "ReadAction",
+        "target": [
+         "https://www.liftedshopdc.com/delivery/tysons-va/"
+        ]
+       }
+      ]
+     },
+     {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.liftedshopdc.com/delivery/tysons-va/#breadcrumb",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.liftedshopdc.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Delivery",
+        "item": "https://www.liftedshopdc.com/delivery/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Tysons, VA"
+       }
+      ]
+     },
+     {
+      "@type": "WebSite",
+      "@id": "https://www.liftedshopdc.com/#website",
+      "url": "https://www.liftedshopdc.com/",
+      "name": "LIFTED SHOP, DC",
+      "description": "",
+      "potentialAction": [
+       {
+        "@type": "SearchAction",
+        "target": {
+         "@type": "EntryPoint",
+         "urlTemplate": "https://www.liftedshopdc.com/?s={search_term_string}"
+        },
+        "query-input": {
+         "@type": "PropertyValueSpecification",
+         "valueRequired": true,
+         "valueName": "search_term_string"
+        }
+       }
+      ],
+      "inLanguage": "en-US"
+     }
+    ]
+   }
+  ]
+ },
+ "h1": "Luxury Weed Delivery in Tysons, VA",
+ "docId": "5423",
+ "sections": [
+  {
+   "t": "group",
+   "id": "5cfb3c1",
+   "children": [
+    {
+     "t": "group",
+     "id": "445c3cc",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h1",
+       "html": "Luxury Weed Delivery in Tysons, VA",
+       "text": "Luxury Weed Delivery in Tysons, VA"
+      },
+      {
+       "t": "text",
+       "html": "<p>In the DMV’s hub of fashion and business, you shouldn’t have to settle for anything less than premium. <a href=\"/\">Lifted Shop</a> provides Tysons residents and professionals with a sophisticated, reliable, and ultra-fast cannabis delivery service. Whether you’re finishing a long day at the office near Tysons Galleria or relaxing at your residence in The Boro, we bring the dispensary experience directly to you.</p>"
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "#orderdelivery"
+      }
+     ]
+    }
+   ],
+   "bg": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/feature-bg-3-1.jpg"
+  },
+  {
+   "t": "group",
+   "id": "b1d6d0e",
+   "children": [
+    {
+     "t": "reviews",
+     "provider": "Trustindex (Google reviews)",
+     "summary": {
+      "label": "EXCELLENT",
+      "text": "EXCELLENT Based on 2410 reviews"
+     },
+     "items": [
+      {
+       "name": "Sherrene Donovan",
+       "date": "",
+       "stars": 5,
+       "text": "Great and quick service. Big fan of Burst and Devour gummies. Thank you Nancy for all your help!!!",
+       "source": "Google"
+      },
+      {
+       "name": "Muhammad ihram Pangestu",
+       "date": "",
+       "stars": 5,
+       "text": "Weed shop delivery to Irvine apartments near UCI was quick!",
+       "source": "Google"
+      },
+      {
+       "name": "Zachariah Bailey",
+       "date": "",
+       "stars": 5,
+       "text": "Smooth cannabis delivery to our Anaheim hotel, perfect for the Disney trip 😭",
+       "source": "Google"
+      },
+      {
+       "name": "Saidi Tumwa",
+       "date": "",
+       "stars": 5,
+       "text": "Mari and Mark are great! i appreciate the help they gave me",
+       "source": "Google"
+      },
+      {
+       "name": "Jennifer Turner",
+       "date": "",
+       "stars": 5,
+       "text": "Hiyab was very helpful a great bud tender",
+       "source": "Google"
+      },
+      {
+       "name": "Jamie Coleman",
+       "date": "",
+       "stars": 5,
+       "text": "I travel to DC every month for work and a buddy of mine told me about this shop; I called the shop and found out they only do delivery now (DC only has medical shops now) so I ordered from them a few times and on my most recent order, the delivery driver, JJ, was super friendly and helpful. Got my delivery within an hr of ordering and enjoyed some incredible \"high\" energy products before my flight home. Thanks!!",
+       "source": "Google"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "6b4166d",
+   "children": [
+    {
+     "t": "store",
+     "provider": "ecwid",
+     "storeId": "125946269"
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "ebbfbc2",
+   "children": [
+    {
+     "t": "group",
+     "id": "609a3e9",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "Serving All Tysons Neighborhoods &amp; High-Rises",
+       "text": "Serving All Tysons Neighborhoods & High-Rises"
+      },
+      {
+       "t": "text",
+       "html": "<p>We provide local delivery coverage across the entire Tysons and McLean area, including:</p><ul><li><strong>The Boro &amp; Tysons Central:</strong> Efficient delivery to the area’s premier residential high-rises.</li><li><strong>Pimmit Hills:</strong> Fast service to the residential communities just off the main corridors.</li><li><strong>McLean &amp; Wolf Trap:</strong> Reliable, discreet delivery to the quieter estates surrounding Tysons.</li><li><strong>West-Tysons &amp; Spring Hill:</strong> We cover the residential developments near the Silver Line stations with ease.</li></ul>"
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "/shop/"
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "ef03211",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "How to Order in Tysons",
+       "text": "How to Order in Tysons"
+      },
+      {
+       "t": "text",
+       "html": "<ol><li><strong>Browse Our Live Menu:</strong> View our current stock of flower, edibles, and concentrates.</li><li><strong>Order Online or Call:</strong> Use our secure checkout or speak with a representative at <a href=\"tel:(771)216-1684\"><strong>(771) 216-1684</strong></a>.</li><li><strong>Fast Arrival:</strong> We provide live updates as our driver navigates to your Tysons residence. Have your 21+ ID ready and enjoy.</li></ol>"
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "/shop/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "b7cd3e6",
+   "children": [
+    {
+     "t": "group",
+     "id": "95cc7c1",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "Our Menu: Top-Shelf Only",
+       "text": "Our Menu: Top-Shelf Only"
+      },
+      {
+       "t": "text",
+       "html": "<ul><li><strong>Designer Flower:</strong> Hand-selected strains ranging from potent, gassy Indicas for late-night relaxation to uplifting, bright Sativas.</li><li><strong>Gourmet Edibles:</strong> Clean-distillate gummies and chocolates that offer a refined taste and a reliable, controlled experience.</li><li><strong>Premium Vapes &amp; Extracts:</strong> Lab-tested cartridges and solventless rosins for those who demand the purest terpene profiles.</li></ul>"
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "/shop/"
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "008aa2a",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "Frequently Asked Questions",
+       "text": "Frequently Asked Questions"
+      },
+      {
+       "t": "faq",
+       "items": [
+        {
+         "q": "Can you deliver to high-rise apartments in Tysons?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>Absolutely. We are highly experienced in delivering to luxury residential buildings throughout Tysons. We coordinate with you to ensure a smooth hand-off that respects your building’s privacy and security.</p>"
+          }
+         ]
+        },
+        {
+         "q": "How long does delivery take to 22102?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>Most orders are fulfilled within 1 to 2 hours. Because we are locally based, we can often bypass the heavy traffic on International Drive to get to you faster than services coming from further out.</p>"
+          }
+         ]
+        },
+        {
+         "q": "Is there a delivery fee?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>We offer transparent pricing with no hidden “city fees.” Any delivery minimums will be clearly shown in your cart based on your specific Tysons address.</p>"
+          },
+          {
+           "t": "heading",
+           "level": "h2",
+           "html": "Contact Lifted Shop Today",
+           "text": "Contact Lifted Shop Today"
+          },
+          {
+           "t": "text",
+           "html": "<p>Elevate your evening with the most professional weed delivery service in Tysons, Virginia.</p><ul><li><strong>Phone:</strong><a href=\"tel:(771)216-1684\"> (771) 216-1684</a></li><li><strong>Service Areas: </strong> Tysons, <a href=\"/delivery/mclean-va/\">McLean</a>, Falls Church, and Great Falls.</li></ul>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "/shop/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "6261047",
+   "children": [
+    {
+     "t": "map",
+     "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d49667.330951900396!2d-77.30328489910386!3d38.91921887337625!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b64af062f85bf9%3A0x7c4805f1ae7ddffa!2sTysons%2C%20VA%2C%20USA!5e0!3m2!1sen!2sin!4v1771346606110!5m2!1sen!2sin",
+     "title": ""
+    }
+   ]
+  }
+ ],
+ "archive": null,
+ "unknownWidgets": []
+}

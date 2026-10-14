@@ -1,0 +1,515 @@
+{
+ "path": "/indica-vs-sativa/",
+ "url": "https://www.liftedshopdc.com/indica-vs-sativa/",
+ "kind": "post",
+ "head": {
+  "title": "Indica vs. Sativa | LIFTED SHOP, DC",
+  "description": "In-depth Guide: Indica vs. Sativa. Click to learn more.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://www.liftedshopdc.com/indica-vs-sativa/",
+  "og": {
+   "og:locale": "en_US",
+   "og:type": "article",
+   "og:title": "Indica vs. Sativa | LIFTED SHOP, DC",
+   "og:description": "In-depth Guide: Indica vs. Sativa. Click to learn more.",
+   "og:url": "https://www.liftedshopdc.com/indica-vs-sativa/",
+   "og:site_name": "LIFTED SHOP, DC",
+   "article:published_time": "2024-07-16T15:48:12+00:00",
+   "article:modified_time": "2026-08-13T15:55:58+00:00",
+   "og:image": "http://www.liftedshopdc.com/wp-content/uploads/2024/07/9fa5cf_f8915b85742943919a22cba1c42d8487_mv2-e1664467664781.jpg.webp",
+   "og:image:width": "720",
+   "og:image:height": "480",
+   "og:image:type": "image/webp",
+   "twitter:card": "summary_large_image",
+   "twitter:label1": "Written by",
+   "twitter:data1": "kevin",
+   "twitter:label2": "Est. reading time",
+   "twitter:data2": "13 minutes"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "Article",
+      "@id": "https://www.liftedshopdc.com/indica-vs-sativa/#article",
+      "isPartOf": {
+       "@id": "https://www.liftedshopdc.com/indica-vs-sativa/"
+      },
+      "author": {
+       "name": "kevin",
+       "@id": "https://www.liftedshopdc.com/#/schema/person/36b5a51fea0cb8b7f7fb9d9fb2426a49"
+      },
+      "headline": "Indica vs. Sativa",
+      "datePublished": "2024-07-16T15:48:12+00:00",
+      "dateModified": "2026-08-13T15:55:58+00:00",
+      "mainEntityOfPage": {
+       "@id": "https://www.liftedshopdc.com/indica-vs-sativa/"
+      },
+      "wordCount": 1674,
+      "image": {
+       "@id": "https://www.liftedshopdc.com/indica-vs-sativa/#primaryimage"
+      },
+      "thumbnailUrl": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/9fa5cf_f8915b85742943919a22cba1c42d8487_mv2-e1664467664781.jpg.webp",
+      "articleSection": [
+       "Cannabis Guides"
+      ],
+      "inLanguage": "en-US"
+     },
+     {
+      "@type": "WebPage",
+      "@id": "https://www.liftedshopdc.com/indica-vs-sativa/",
+      "url": "https://www.liftedshopdc.com/indica-vs-sativa/",
+      "name": "Indica vs. Sativa | LIFTED SHOP, DC",
+      "isPartOf": {
+       "@id": "https://www.liftedshopdc.com/#website"
+      },
+      "primaryImageOfPage": {
+       "@id": "https://www.liftedshopdc.com/indica-vs-sativa/#primaryimage"
+      },
+      "image": {
+       "@id": "https://www.liftedshopdc.com/indica-vs-sativa/#primaryimage"
+      },
+      "thumbnailUrl": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/9fa5cf_f8915b85742943919a22cba1c42d8487_mv2-e1664467664781.jpg.webp",
+      "datePublished": "2024-07-16T15:48:12+00:00",
+      "dateModified": "2026-08-13T15:55:58+00:00",
+      "author": {
+       "@id": "https://www.liftedshopdc.com/#/schema/person/36b5a51fea0cb8b7f7fb9d9fb2426a49"
+      },
+      "description": "In-depth Guide: Indica vs. Sativa. Click to learn more.",
+      "breadcrumb": {
+       "@id": "https://www.liftedshopdc.com/indica-vs-sativa/#breadcrumb"
+      },
+      "inLanguage": "en-US",
+      "potentialAction": [
+       {
+        "@type": "ReadAction",
+        "target": [
+         "https://www.liftedshopdc.com/indica-vs-sativa/"
+        ]
+       }
+      ]
+     },
+     {
+      "@type": "ImageObject",
+      "inLanguage": "en-US",
+      "@id": "https://www.liftedshopdc.com/indica-vs-sativa/#primaryimage",
+      "url": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/9fa5cf_f8915b85742943919a22cba1c42d8487_mv2-e1664467664781.jpg.webp",
+      "contentUrl": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/9fa5cf_f8915b85742943919a22cba1c42d8487_mv2-e1664467664781.jpg.webp",
+      "width": 720,
+      "height": 480,
+      "caption": "Indica vs. Sativa"
+     },
+     {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.liftedshopdc.com/indica-vs-sativa/#breadcrumb",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.liftedshopdc.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Indica vs. Sativa"
+       }
+      ]
+     },
+     {
+      "@type": "WebSite",
+      "@id": "https://www.liftedshopdc.com/#website",
+      "url": "https://www.liftedshopdc.com/",
+      "name": "LIFTED SHOP, DC",
+      "description": "",
+      "potentialAction": [
+       {
+        "@type": "SearchAction",
+        "target": {
+         "@type": "EntryPoint",
+         "urlTemplate": "https://www.liftedshopdc.com/?s={search_term_string}"
+        },
+        "query-input": {
+         "@type": "PropertyValueSpecification",
+         "valueRequired": true,
+         "valueName": "search_term_string"
+        }
+       }
+      ],
+      "inLanguage": "en-US"
+     },
+     {
+      "@type": "Person",
+      "@id": "https://www.liftedshopdc.com/#/schema/person/36b5a51fea0cb8b7f7fb9d9fb2426a49",
+      "name": "kevin",
+      "image": {
+       "@type": "ImageObject",
+       "inLanguage": "en-US",
+       "@id": "https://secure.gravatar.com/avatar/0ded4728176259dd514cd3df95d945774d6163b0a8a049f1d842c93c4a11560a?s=96&d=mm&r=g",
+       "url": "https://secure.gravatar.com/avatar/0ded4728176259dd514cd3df95d945774d6163b0a8a049f1d842c93c4a11560a?s=96&d=mm&r=g",
+       "contentUrl": "https://secure.gravatar.com/avatar/0ded4728176259dd514cd3df95d945774d6163b0a8a049f1d842c93c4a11560a?s=96&d=mm&r=g",
+       "caption": "kevin"
+      },
+      "url": "https://www.liftedshopdc.com/author/kevin/"
+     }
+    ]
+   }
+  ]
+ },
+ "h1": "Indica vs. Sativa",
+ "docId": "1603",
+ "sections": [
+  {
+   "t": "group",
+   "id": "3040fde1",
+   "children": [
+    {
+     "t": "group",
+     "id": "2ce6600c",
+     "children": [
+      {
+       "t": "image",
+       "img": {
+        "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Lifted-Rocket-Logo-1.png",
+        "alt": "",
+        "w": 768,
+        "h": 768
+       },
+       "href": null,
+       "caption": null,
+       "anim": "zoomIn"
+      },
+      {
+       "t": "heading",
+       "level": "p",
+       "html": "Get ready for liftoff!",
+       "text": "Get ready for liftoff!"
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "29ab7263",
+     "children": [
+      {
+       "t": "carousel",
+       "items": [
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Higher-Frequency-Bag-2.png",
+          "alt": "Higher-Frequency-Bag-2",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Casanova-Fly-Bag.png",
+          "alt": "Casanova-Fly-Bag",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/bag-2.png",
+          "alt": "bag-2",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Dust-Mac-Bag-2.png",
+          "alt": "Dust-Mac-Bag-2",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Sugarland-Delight-Bag.png",
+          "alt": "Sugarland-Delight-Bag",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Onyx-Slam-Bag.png",
+          "alt": "Onyx-Slam-Bag",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        }
+       ]
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": null
+      }
+     ]
+    }
+   ],
+   "bg": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/feature-bg-3-1.jpg"
+  },
+  {
+   "t": "group",
+   "id": "4212828c",
+   "children": [
+    {
+     "t": "group",
+     "id": "52ebbea9",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h1",
+       "html": "Indica vs. Sativa",
+       "text": "Indica vs. Sativa"
+      },
+      {
+       "t": "image",
+       "img": {
+        "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/9fa5cf_f8915b85742943919a22cba1c42d8487_mv2-e1664467664781.jpg.webp",
+        "alt": "Indica vs. Sativa",
+        "w": 720,
+        "h": 480
+       },
+       "href": null,
+       "caption": null
+      },
+      {
+       "t": "text",
+       "html": "<p>by Lifted Shop</p><p>There are more than 1,000 strains of cannabis on the market today, and it can be challenging to know which is right for you. There are two main types of cannabis – Indica and Sativa. Indica strains are often recommended for night-time use because they promote relaxation, euphoria, relief from insomnia, and reduced pain. Sativas are also known to boost energy and creativity, inspiration, and focus.</p><p>But while they are a good choice for comfort, they might not always be best for the health.</p><p>Sativa strains, known as “hemp,” produce more of a cerebral high, which can be uplifting and productive. In addition, the Sativa often produces a more stimulant effect, giving you more energy. However, many positive findings have been attributed to Indica strains in recent years. Indicas, or “marijuana,” are more commonly associated with the “high” most recreational users are looking for.</p><p>However, Indica also has painkilling properties and a sedative effect. Because of these unique effects, Indica is often used by medical marijuana patients to help medicate anxiety, insomnia, depression, and muscle spasms. This makes it an excellent treatment option for those who suffer from chronic health conditions.</p>"
+      },
+      {
+       "t": "group",
+       "id": "1cf8011e",
+       "children": [
+        {
+         "t": "heading",
+         "level": "h2",
+         "html": "THE DIFFERENCE BETWEEN INDICA AND SATIVA",
+         "text": "THE DIFFERENCE BETWEEN INDICA AND SATIVA"
+        },
+        {
+         "t": "text",
+         "html": "<p>So, which type of cannabis is more proven to be more effective? This much is clear: strains are affected by the environment they are grown in. The plants develop differently and grow differently based on the conditions.</p><p>If a plant grows in high humidity and low light, it will grow short and bushier. But if grown in harsher conditions, it will develop with a taller stature. Likewise, strains originating from specific countries can also change based on their geographic location.</p><p>So it’s not just Indica vs. Sativa; there are many other factors to consider. However, the effects of strains aren’t necessarily what determines which is better for you. A plant can yield different results with the proper growing and cultivation practices. It may be better for someone with chronic pain or a specific medical condition to grow the plant using particular nutrients and growing conditions that co-opt those specific properties.</p><p>This means that treatments can vary based strictly on marijuana strain. If you’re struggling with conditions such as depression or look to the drug to help you get through a busy day, different strains will likely offer different results.</p>"
+        }
+       ]
+      },
+      {
+       "t": "group",
+       "id": "7a52da3f",
+       "children": [
+        {
+         "t": "heading",
+         "level": "h2",
+         "html": "UNDERSTANDING HYBRIDS",
+         "text": "UNDERSTANDING HYBRIDS"
+        },
+        {
+         "t": "text",
+         "html": "<p><img data-ref=\"https://www.liftedshopdc.com/wp-content/uploads/2024/07/9fa5cf_db7e435bd00047f790d8a724ba59b1ad_mv2.jpg.webp\" alt=\"Indica vs. Sativa\">Hybrid strains are a popular method to create the best of both worlds. Essentially, hybrid strains are combinations of two or more varieties of cannabis grown from different sources. These hybrids may even be combinations of within-variety hybrids, or in other words, “a strain that is 55% Indica and 45% Sativa.”</p><p>The result is very similar to most varieties because there aren’t too many genetic differences between strains. However, the variations within the strain can cause more variation in the resulting mix. This can make a strain unpredictable because it depends on how two similar strains grow in the same conditions.</p>"
+        },
+        {
+         "t": "heading",
+         "level": "h2",
+         "html": "HOW DO YOU KNOW WHICH IS RIGHT FOR YOU?",
+         "text": "HOW DO YOU KNOW WHICH IS RIGHT FOR YOU?"
+        },
+        {
+         "t": "text",
+         "html": "<p>While it might seem easier to buy marijuana and enjoy it for fun, you should take the time to consider your needs. For example, if you are looking for a great nightcap, you might want an Indica high. Indica strains are very popular in the cannabis community as they promote a relaxing euphoria and can help people fall asleep more easily.</p><p>And if you are looking to experience that energizing feeling that you might get from a Sativa, then an Indica might be the type of strain you are looking for. But there is no guarantee of any marijuana use. So if you have been researching strains, it is vital to find out as much information as possible. No one can convince you that a particular strain is right for your body or treat medical conditions better than the next person.</p><p>It is important to buy marijuana only from reputable sources, as with any drug. This means researching the strain, setting your conditions, and ensuring that you understand the effects before putting it in your body.</p>"
+        },
+        {
+         "t": "heading",
+         "level": "h2",
+         "html": "LANDRACE STRAINS &amp; HEIRLOOMS",
+         "text": "LANDRACE STRAINS & HEIRLOOMS"
+        },
+        {
+         "t": "text",
+         "html": "<p>It may be difficult to tell the difference between a strain and its origins in our ever-changing world. This is especially true in the world of cannabis. Some strains’ lineage can be traced back thousands of years, while others are new and only existed for a few decades. No matter what means of consumption you use, it’s essential to know where your product is.</p><p>For example, some strains are landrace strains because they were initially grown in specific areas by their native populations. The original landrace strains were bred to utilize particular properties from the climate and geography of their environment. Landrace strains can be as old as 10,000 years, some even stemming from China, Africa, and India.</p><p>While all marijuana strains are technical “heirlooms,” heirloom means that a particular strain has been maintained naturally for many generations. Anyone knowledgeable about the growing process can keep the strain pure for future use.</p><p>Now, the concept of landrace strains and heirlooms is not only important for cannabis growers and consumers but also for anyone interested in exploring the world of marijuana. Landrace strains offer a holistic understanding of the plant and its growth.</p><p>Furthermore, these strains preserve a specific memory from the past that is sometimes lost with modern breeding techniques. Finally, many people appreciate these old-school strains because they offer an unchanging sense of peace compared to new strains.</p><p>And for the consumer, knowing the origins of a strain can help them understand the effect that it will have on their body. This can help them better determine whether or not they intend to consume marijuana recreationally. It is important to remember that marijuana is illegal in many states and countries across the globe. Sometimes, even where it is legal, there are still government restrictions on how much cannabis you can buy at one time or how often you can use it.</p><p>With all of these rules, regulations, and stipulations concerning marijuana, it is more important than ever to know the origins of your products. That way, you can better ensure that you meet your needs in the safest way possible.</p>"
+        },
+        {
+         "t": "heading",
+         "level": "h2",
+         "html": "WHAT DETERMINES SATIVA OR INDICA?",
+         "text": "WHAT DETERMINES SATIVA OR INDICA?"
+        },
+        {
+         "t": "text",
+         "html": "<p>The difference between Sativa and Indica is how the plant grows. Sativas are taller and thinner, with more extended flowering periods than Indicas. Indicas are much shorter, with a bushier growth that makes them better for indoor cultivation. Because of their short stature, Indicas don’t have as much light exposure as Sativas, which often have more THC content in their leaves and buds. Indica strains can grow from 10 to 25 feet tall, whereas Sativa strains are about an inch shorter.</p><p>Most marijuana strains come in one or the other, or a mixture of both. Some people prefer to stay with one strain, while others will mix different strains and have varied experiences. For example, some people report that as they get older, they prefer Indicas more than Sativas because they have better effects on their bodies; it’s just a matter of preference.</p>"
+        },
+        {
+         "t": "heading",
+         "level": "h2",
+         "html": "NEW STRAINS CONSTANTLY BEING CREATED",
+         "text": "NEW STRAINS CONSTANTLY BEING CREATED"
+        },
+        {
+         "t": "text",
+         "html": "<p>New strains are created all the time and have been for centuries. Cultivators crossbreed different plants to get a better tasting, pungent-smelling, more potent strain. However, these strains can never truly be considered “new” because they have always been around – it’s just that no one knew about them before.</p><p>Now, you’ll find new strains being developed every day, and each one of them offers something different to the consumer. So you have to know where to look and how to choose the right strain. Many people will buy a strain and review it before they try it because they want to understand what it will do to their bodies.</p><p>Many strains are popular today, but there is always a new one around the corner waiting for its time in the spotlight.</p>"
+        },
+        {
+         "t": "heading",
+         "level": "h2",
+         "html": "CONCLUSION",
+         "text": "CONCLUSION"
+        },
+        {
+         "t": "text",
+         "html": "<p>When we talk about the differences between marijuana strains and how they affect our body and mind, it is important to remember that no one can predict what a strain will do when they take it. What you will experience, on the other hand, is entirely dependent on your personality and preferences.</p><p>It is essential to know that when you are looking for marijuana, it doesn’t necessarily have to come from just one source at a time. There are many different locations where you can find suitable strains, and you need to understand what is available to you.</p><p>Whether you are a first-timer, a seasoned consumer, or just curious about marijuana, you need to know the strain’s origins to be effective for you. Then, through research and experience, you will be able to find out what is best for you.</p><p>Finally, remember that all this information can help improve your knowledge about marijuana. If you decide to buy it or if someone offers it to you, they have the right intentions.</p><p>If you are looking for a great place to start, I recommend heading to the Lifted cannabis website. They have a full menu of products so you can research what strains work best for your needs. Best wishes and happy shopping!</p>"
+        },
+        {
+         "t": "group",
+         "id": "7805cc0",
+         "children": [
+          {
+           "t": "text",
+           "html": "<h3>Share:</h3>"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "e6bd3ab",
+     "children": [
+      {
+       "t": "testimonials",
+       "items": [
+        {
+         "text": "The “Sour Punched” single rolled is the BOMB!!!! The products here are the best I have had in NW. Pricey but worth every penny and I love the staff.",
+         "name": "G.D.",
+         "title": ""
+        },
+        {
+         "text": "I’ve finally found a place where the staff shows its customers love and respect. Thanks Lifted for being my new spot for the ⛽💨💯💪",
+         "name": "B.C.",
+         "title": ""
+        },
+        {
+         "text": "Great shop. Rick helped us out and was so nice and knowledgeable letting us know his recommendations. Much better quality and selection compared to other shops in DC.",
+         "name": "K.M",
+         "title": ""
+        }
+       ]
+      },
+      {
+       "t": "heading",
+       "level": "p",
+       "html": "Exclusives",
+       "text": "Exclusives"
+      },
+      {
+       "t": "carousel",
+       "items": [
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-1-768x1024.jpg",
+          "alt": "Grandmaster Caz’s Casanova Fly",
+          "w": null,
+          "h": null
+         },
+         "caption": "<strong>Grandmaster Caz’s</strong> Casanova Fly",
+         "href": "/shop/"
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-6.jpg",
+          "alt": "Laughing Gas Inspired by Def Comedy Jam",
+          "w": null,
+          "h": null
+         },
+         "caption": "<strong>Laughing Gas</strong> Inspired by Def Comedy Jam",
+         "href": "/shop/"
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-4-768x1034.jpg",
+          "alt": "Rakim Higher Frequency Soul Flower",
+          "w": null,
+          "h": null
+         },
+         "caption": "<strong>Rakim</strong> Higher Frequency Soul Flower",
+         "href": "/shop/"
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-5-768x1035.jpg",
+          "alt": "The Sugarhill Gang’s Sugarhill Delight",
+          "w": null,
+          "h": null
+         },
+         "caption": "<strong>The Sugarhill Gang’s</strong> Sugarhill Delight",
+         "href": "/shop/"
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-3-768x1035.jpg",
+          "alt": "DAS EFX Googley Goo",
+          "w": null,
+          "h": null
+         },
+         "caption": "<strong>DAS EFX</strong> Googley Goo",
+         "href": "/shop/"
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-2-768x1035.jpg",
+          "alt": "Onyx’s SLAM",
+          "w": null,
+          "h": null
+         },
+         "caption": "<strong>Onyx’s</strong> SLAM",
+         "href": "/shop/"
+        }
+       ]
+      },
+      {
+       "t": "group",
+       "id": "7604c27",
+       "children": [
+        {
+         "t": "button",
+         "text": "(771) 216-1684",
+         "href": "tel:7712161684"
+        },
+        {
+         "t": "text",
+         "html": "<p>OR</p><p>VIEW OUR MENU OF CANNABIS PRODUCTS</p>"
+        },
+        {
+         "t": "button",
+         "text": "Shop Now",
+         "href": "/shop/"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "archive": null,
+ "unknownWidgets": []
+}

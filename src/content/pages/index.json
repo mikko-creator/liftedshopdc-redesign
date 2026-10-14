@@ -1,0 +1,1051 @@
+{
+ "path": "/",
+ "url": "https://www.liftedshopdc.com/",
+ "kind": "home",
+ "head": {
+  "title": "Best DC Weed Delivery | Lifted Shop",
+  "description": "Lifted Shop is the #1 weed delivery service in Washington, DC, offering the highest-quality cannabis products at the best prices.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://www.liftedshopdc.com/",
+  "og": {
+   "og:locale": "en_US",
+   "og:type": "website",
+   "og:title": "Best DC Weed Delivery | Lifted Shop",
+   "og:description": "Lifted Shop is the #1 weed delivery service in Washington, DC, offering the highest-quality cannabis products at the best prices.",
+   "og:url": "https://www.liftedshopdc.com/",
+   "og:site_name": "LIFTED SHOP, DC",
+   "article:modified_time": "2026-05-05T13:58:24+00:00",
+   "og:image": "http://www.liftedshopdc.com/wp-content/uploads/2024/11/image-removebg-preview-2024-11-25T224541.357-300x300.png",
+   "twitter:card": "summary_large_image"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "WebPage",
+      "@id": "https://www.liftedshopdc.com/",
+      "url": "https://www.liftedshopdc.com/",
+      "name": "Best DC Weed Delivery | Lifted Shop",
+      "isPartOf": {
+       "@id": "https://www.liftedshopdc.com/#website"
+      },
+      "primaryImageOfPage": {
+       "@id": "https://www.liftedshopdc.com/#primaryimage"
+      },
+      "image": {
+       "@id": "https://www.liftedshopdc.com/#primaryimage"
+      },
+      "thumbnailUrl": "http://www.liftedshopdc.com/wp-content/uploads/2024/11/image-removebg-preview-2024-11-25T224541.357-300x300.png",
+      "datePublished": "2015-09-16T17:54:10+00:00",
+      "dateModified": "2026-05-05T13:58:24+00:00",
+      "description": "Lifted Shop is the #1 weed delivery service in Washington, DC, offering the highest-quality cannabis products at the best prices.",
+      "breadcrumb": {
+       "@id": "https://www.liftedshopdc.com/#breadcrumb"
+      },
+      "inLanguage": "en-US",
+      "potentialAction": [
+       {
+        "@type": "ReadAction",
+        "target": [
+         "https://www.liftedshopdc.com/"
+        ]
+       }
+      ]
+     },
+     {
+      "@type": "ImageObject",
+      "inLanguage": "en-US",
+      "@id": "https://www.liftedshopdc.com/#primaryimage",
+      "url": "https://www.liftedshopdc.com/wp-content/uploads/2024/11/image-removebg-preview-2024-11-25T224541.357.png",
+      "contentUrl": "https://www.liftedshopdc.com/wp-content/uploads/2024/11/image-removebg-preview-2024-11-25T224541.357.png",
+      "width": 499,
+      "height": 500
+     },
+     {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.liftedshopdc.com/#breadcrumb",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home"
+       }
+      ]
+     },
+     {
+      "@type": "WebSite",
+      "@id": "https://www.liftedshopdc.com/#website",
+      "url": "https://www.liftedshopdc.com/",
+      "name": "LIFTED SHOP, DC",
+      "description": "",
+      "potentialAction": [
+       {
+        "@type": "SearchAction",
+        "target": {
+         "@type": "EntryPoint",
+         "urlTemplate": "https://www.liftedshopdc.com/?s={search_term_string}"
+        },
+        "query-input": {
+         "@type": "PropertyValueSpecification",
+         "valueRequired": true,
+         "valueName": "search_term_string"
+        }
+       }
+      ],
+      "inLanguage": "en-US"
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Dispensary & Weed Delivery DC - Lifted Shop",
+    "image": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Lifted-Rocket-Logo-1.png",
+    "@id": "",
+    "url": "https://www.liftedshopdc.com/",
+    "telephone": "(202) 481-1292",
+    "address": {
+     "@type": "PostalAddress",
+     "streetAddress": "2622 Georgia Ave NW",
+     "addressLocality": "Washington DC",
+     "addressRegion": "DC",
+     "postalCode": "20001",
+     "addressCountry": "US"
+    },
+    "geo": {
+     "@type": "GeoCoordinates",
+     "latitude": 38.9248509,
+     "longitude": -77.0228795
+    },
+    "openingHoursSpecification": {
+     "@type": "OpeningHoursSpecification",
+     "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday",
+      "Sunday"
+     ],
+     "opens": "10:00",
+     "closes": "21:00"
+    },
+    "sameAs": "https://www.facebook.com/liftedshopdc/"
+   }
+  ]
+ },
+ "h1": "Weed Delivery in DC",
+ "docId": "13",
+ "sections": [
+  {
+   "t": "group",
+   "id": "2b9b726",
+   "children": [
+    {
+     "t": "group",
+     "id": "fa8a112",
+     "children": [
+      {
+       "t": "image",
+       "img": {
+        "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/11/image-removebg-preview-2024-11-25T224541.357.png",
+        "alt": "",
+        "w": 300,
+        "h": 300
+       },
+       "href": null,
+       "caption": null,
+       "anim": "zoomIn"
+      },
+      {
+       "t": "group",
+       "id": "1025cb6",
+       "children": [
+        {
+         "t": "text",
+         "html": "<p>Lifted Shop is the oldest and best recreational cannabis weed delivery in Washington DC. We pride ourselves on being the safest and most compliant i71 delivery service and aim to serve our customers with the highest quality products and service. 21+ ID, No medical card required.</p>"
+        }
+       ]
+      },
+      {
+       "t": "group",
+       "id": "c67af50",
+       "children": [
+        {
+         "t": "text",
+         "html": "<p>Lifted Shop is the oldest and best recreational cannabis weed delivery in Washington DC. We pride ourselves on being the safest and most compliant i71 delivery service and aim to serve our customers with the highest quality products and service. 21+ ID, No medical card required.</p>"
+        }
+       ]
+      },
+      {
+       "t": "group",
+       "id": "895f01e",
+       "children": [
+        {
+         "t": "button",
+         "text": "ORDER DELIVERY",
+         "href": "/shop/"
+        }
+       ],
+       "anim": "fadeInUp"
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "014836b",
+     "children": [
+      {
+       "t": "image",
+       "img": {
+        "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/smoke-4.png.webp",
+        "alt": "",
+        "w": 95,
+        "h": 200
+       },
+       "href": null,
+       "caption": null
+      }
+     ]
+    }
+   ],
+   "bg": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/feature-bg-3-1.jpg"
+  },
+  {
+   "t": "group",
+   "id": "c36d447",
+   "children": [
+    {
+     "t": "store",
+     "provider": "ecwid",
+     "storeId": "125946269"
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "938f180",
+   "children": [
+    {
+     "t": "image",
+     "img": {
+      "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Cloud-right-medium-e1718649122242.png",
+      "alt": "",
+      "w": 800,
+      "h": 716
+     },
+     "href": null,
+     "caption": null,
+     "anim": "fadeInRight"
+    },
+    {
+     "t": "image",
+     "img": {
+      "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Cloud-left-small.png",
+      "alt": "",
+      "w": 500,
+      "h": 357
+     },
+     "href": null,
+     "caption": null,
+     "anim": "fadeInLeft"
+    },
+    {
+     "t": "image",
+     "img": {
+      "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Cloud-left-small.png",
+      "alt": "",
+      "w": 500,
+      "h": 357
+     },
+     "href": null,
+     "caption": null
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "acba7d1",
+   "children": [
+    {
+     "t": "text",
+     "html": "<p>FAST • DISCREET • SAME-DAY CANNABIS</p>"
+    },
+    {
+     "t": "heading",
+     "level": "h1",
+     "html": "Weed Delivery in DC",
+     "text": "Weed Delivery in DC"
+    },
+    {
+     "t": "text",
+     "html": "<p>Looking for weed delivery in DC right now? Lifted Shop brings premium flower, edibles, carts, concentrates, pre-rolls, and more straight to your door, fast and discreet across all of Washington, DC.</p><p>We are the top-rated weed delivery service DC locals trust for fire products and lightning-fast delivery. Whether you are in Capitol Hill, Georgetown, Adams Morgan, Navy Yard, Anacostia, Dupont Circle, U Street, Shaw, or anywhere else, we have got you.</p>"
+    },
+    {
+     "t": "button",
+     "text": "ORDER DELIVERY",
+     "href": "/shop/"
+    },
+    {
+     "t": "image",
+     "img": {
+      "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/center-weed.png",
+      "alt": "",
+      "w": 768,
+      "h": 858
+     },
+     "href": null,
+     "caption": null,
+     "anim": "zoomIn"
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "b712fdd",
+   "children": [
+    {
+     "t": "image",
+     "img": {
+      "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/icon-1.png",
+      "alt": "icon-1",
+      "w": null,
+      "h": null
+     },
+     "href": "/reviews/",
+     "caption": null
+    },
+    {
+     "t": "image",
+     "img": {
+      "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/icon-2.png",
+      "alt": "icon-2",
+      "w": null,
+      "h": null
+     },
+     "href": "/reviews/",
+     "caption": null
+    },
+    {
+     "t": "image",
+     "img": {
+      "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/icon-3.png",
+      "alt": "icon-3",
+      "w": null,
+      "h": null
+     },
+     "href": "/reviews/",
+     "caption": null
+    },
+    {
+     "t": "image",
+     "img": {
+      "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/icon-4.png",
+      "alt": "icon-4",
+      "w": null,
+      "h": null
+     },
+     "href": "/reviews/",
+     "caption": null
+    },
+    {
+     "t": "image",
+     "img": {
+      "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/icon-5.png",
+      "alt": "icon-5",
+      "w": null,
+      "h": null
+     },
+     "href": "/reviews/",
+     "caption": null
+    }
+   ],
+   "anim": "fadeInUp"
+  },
+  {
+   "t": "group",
+   "id": "e9f0e16",
+   "children": [
+    {
+     "t": "carousel",
+     "items": [
+      {
+       "img": {
+        "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/icon-3.png",
+        "alt": "icon-3",
+        "w": null,
+        "h": null
+       },
+       "caption": null,
+       "href": null
+      },
+      {
+       "img": {
+        "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/icon-2.png",
+        "alt": "icon-2",
+        "w": null,
+        "h": null
+       },
+       "caption": null,
+       "href": null
+      },
+      {
+       "img": {
+        "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/icon-4.png",
+        "alt": "icon-4",
+        "w": null,
+        "h": null
+       },
+       "caption": null,
+       "href": null
+      },
+      {
+       "img": {
+        "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/icon-5.png",
+        "alt": "icon-5",
+        "w": null,
+        "h": null
+       },
+       "caption": null,
+       "href": null
+      },
+      {
+       "img": {
+        "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/icon-1.png",
+        "alt": "icon-1",
+        "w": null,
+        "h": null
+       },
+       "caption": null,
+       "href": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "b128aa5",
+   "children": [
+    {
+     "t": "group",
+     "id": "bc81b67",
+     "children": [
+      {
+       "t": "heading",
+       "level": "p",
+       "html": "EXCLUSIVES",
+       "text": "EXCLUSIVES"
+      },
+      {
+       "t": "text",
+       "html": "<p>WORLD WIDE EXCLUSIVE PREMIUM DANK</p>"
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "925ee73",
+     "children": [
+      {
+       "t": "button",
+       "text": "VIEW ALL PRODUCTS",
+       "href": "/shop/"
+      },
+      {
+       "t": "button",
+       "text": "PLACE ORDER",
+       "href": "/shop/"
+      }
+     ]
+    }
+   ],
+   "anim": "fadeInDown"
+  },
+  {
+   "t": "group",
+   "id": "a5da29a",
+   "children": [
+    {
+     "t": "carousel",
+     "items": [
+      {
+       "img": {
+        "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-2-768x1035.jpg",
+        "alt": "Onyx’s SLAM",
+        "w": null,
+        "h": null
+       },
+       "caption": "<strong>Onyx’s</strong> SLAM",
+       "href": "/shop/"
+      },
+      {
+       "img": {
+        "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-3-768x1035.jpg",
+        "alt": "DAS EFX Googley Goo",
+        "w": null,
+        "h": null
+       },
+       "caption": "<strong>DAS EFX</strong> Googley Goo",
+       "href": "/shop/"
+      },
+      {
+       "img": {
+        "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-4-768x1034.jpg",
+        "alt": "Rakim Higher Frequency Soul Flower",
+        "w": null,
+        "h": null
+       },
+       "caption": "<strong>Rakim</strong> Higher Frequency Soul Flower",
+       "href": "/shop/"
+      },
+      {
+       "img": {
+        "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-5-768x1035.jpg",
+        "alt": "The Sugarhill Gang’s Sugarhill Delight",
+        "w": null,
+        "h": null
+       },
+       "caption": "<strong>The Sugarhill Gang’s</strong> Sugarhill Delight",
+       "href": "/shop/"
+      },
+      {
+       "img": {
+        "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-6.jpg",
+        "alt": "Laughing Gas Inspired by Def Comedy Jam",
+        "w": null,
+        "h": null
+       },
+       "caption": "<strong>Laughing Gas</strong> Inspired by Def Comedy Jam",
+       "href": "/shop/"
+      },
+      {
+       "img": {
+        "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-1-768x1024.jpg",
+        "alt": "Grandmaster Caz’s Casanova Fly",
+        "w": null,
+        "h": null
+       },
+       "caption": "<strong>Grandmaster Caz’s</strong> Casanova Fly",
+       "href": "/shop/"
+      }
+     ]
+    }
+   ],
+   "anim": "fadeInUp"
+  },
+  {
+   "t": "group",
+   "id": "f128666",
+   "children": [
+    {
+     "t": "image",
+     "img": {
+      "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/logo-icon-1.png",
+      "alt": "logo-icon-1",
+      "w": null,
+      "h": null
+     },
+     "href": null,
+     "caption": null
+    },
+    {
+     "t": "image",
+     "img": {
+      "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/logo-icon-2.png",
+      "alt": "logo-icon-2",
+      "w": null,
+      "h": null
+     },
+     "href": null,
+     "caption": null
+    },
+    {
+     "t": "image",
+     "img": {
+      "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/logo-icon-3.png",
+      "alt": "logo-icon-3",
+      "w": null,
+      "h": null
+     },
+     "href": null,
+     "caption": null
+    },
+    {
+     "t": "image",
+     "img": {
+      "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/logo-icon-4.png",
+      "alt": "logo-icon-4",
+      "w": null,
+      "h": null
+     },
+     "href": null,
+     "caption": null
+    },
+    {
+     "t": "image",
+     "img": {
+      "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/logo-icon-5.png",
+      "alt": "logo-icon-5",
+      "w": null,
+      "h": null
+     },
+     "href": null,
+     "caption": null
+    },
+    {
+     "t": "image",
+     "img": {
+      "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/logo-icon-6.png",
+      "alt": "logo-icon-6",
+      "w": null,
+      "h": null
+     },
+     "href": null,
+     "caption": null
+    },
+    {
+     "t": "image",
+     "img": {
+      "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/logo-icon-7.png",
+      "alt": "logo-icon-7",
+      "w": null,
+      "h": null
+     },
+     "href": null,
+     "caption": null
+    }
+   ],
+   "anim": "fadeInDown"
+  },
+  {
+   "t": "group",
+   "id": "3ca9b67",
+   "children": [
+    {
+     "t": "heading",
+     "level": "h2",
+     "html": "Why DC Chooses Lifted Shop for Weed Delivery",
+     "text": "Why DC Chooses Lifted Shop for Weed Delivery"
+    },
+    {
+     "t": "text",
+     "html": "<ul><li><strong>Same-Day Weed Delivery in DC</strong></li><li><strong>Premium Cannabis</strong></li><li><strong>Best Deals in Town</strong></li><li><strong>100% Discreet &amp; Professional</strong></li></ul>"
+    },
+    {
+     "t": "carousel",
+     "items": [
+      {
+       "img": {
+        "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/concentrates-18-1-225x300.jpg",
+        "alt": "Concentrates",
+        "w": null,
+        "h": null
+       },
+       "caption": "Concentrates",
+       "href": "/shop/"
+      },
+      {
+       "img": {
+        "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/9fa5cf_d16cfc6e4244483695588ae57b3c502a_mv2-1-225x300.jpg",
+        "alt": "Premium Flowers",
+        "w": null,
+        "h": null
+       },
+       "caption": "Premium Flowers",
+       "href": "/shop/"
+      },
+      {
+       "img": {
+        "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/exotic-3-1-225x300.jpg",
+        "alt": "Designer Flowers",
+        "w": null,
+        "h": null
+       },
+       "caption": "Designer Flowers",
+       "href": "/shop/"
+      },
+      {
+       "img": {
+        "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/pre-rolls-24-1-225x300.jpg",
+        "alt": "Premium Pre-rolls",
+        "w": null,
+        "h": null
+       },
+       "caption": "Premium Pre-rolls",
+       "href": "/shop/"
+      },
+      {
+       "img": {
+        "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/exotic-15-1-225x300.jpg",
+        "alt": "Exotic Flowers & Shrooms",
+        "w": null,
+        "h": null
+       },
+       "caption": "Exotic Flowers &amp; Shrooms",
+       "href": "/shop/"
+      },
+      {
+       "img": {
+        "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/concentrates-19-1-225x300.jpg",
+        "alt": "Premium Carts",
+        "w": null,
+        "h": null
+       },
+       "caption": "Premium Carts",
+       "href": "/shop/"
+      },
+      {
+       "img": {
+        "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/high-pot-edibles-19-1-225x300.jpg",
+        "alt": "High Potency Edibles",
+        "w": null,
+        "h": null
+       },
+       "caption": "High Potency Edibles",
+       "href": "/shop/"
+      }
+     ]
+    }
+   ],
+   "bg": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/footer-bg-1-scaled.jpg"
+  },
+  {
+   "t": "group",
+   "id": "bf1f340",
+   "children": [
+    {
+     "t": "image",
+     "img": {
+      "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/bud.png",
+      "alt": "",
+      "w": 644,
+      "h": 511
+     },
+     "href": null,
+     "caption": null,
+     "anim": "fadeInUp"
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "f6315a8",
+   "children": [
+    {
+     "t": "heading",
+     "level": "h3",
+     "html": "Shop Categories",
+     "text": "Shop Categories",
+     "anim": "zoomInLeft"
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "a148943",
+   "children": [
+    {
+     "t": "group",
+     "id": "24d6ded",
+     "children": [
+      {
+       "t": "group",
+       "id": "2fe8107",
+       "children": [
+        {
+         "t": "heading",
+         "level": "h3",
+         "html": "CANNABIS FLOWER",
+         "text": "CANNABIS FLOWER"
+        },
+        {
+         "t": "group",
+         "id": "c993cf5",
+         "children": [
+          {
+           "t": "image",
+           "img": {
+            "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/flower-square.webp",
+            "alt": "",
+            "w": 800,
+            "h": 528
+           },
+           "href": null,
+           "caption": null
+          }
+         ],
+         "anim": "zoomIn"
+        },
+        {
+         "t": "button",
+         "text": "VIEW ALL FLOWER",
+         "href": "/shop/"
+        }
+       ]
+      },
+      {
+       "t": "group",
+       "id": "23f86be",
+       "children": [
+        {
+         "t": "heading",
+         "level": "h3",
+         "html": "CANNABIS EDIBLES",
+         "text": "CANNABIS EDIBLES"
+        },
+        {
+         "t": "group",
+         "id": "1c8721d",
+         "children": [
+          {
+           "t": "image",
+           "img": {
+            "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/edibles-square.webp",
+            "alt": "",
+            "w": 800,
+            "h": 715
+           },
+           "href": null,
+           "caption": null
+          }
+         ],
+         "anim": "zoomIn"
+        },
+        {
+         "t": "button",
+         "text": "VIEW ALL EDIBLES",
+         "href": "/shop/"
+        }
+       ]
+      },
+      {
+       "t": "group",
+       "id": "04a2b5e",
+       "children": [
+        {
+         "t": "heading",
+         "level": "h3",
+         "html": "CANNABIS CONCENTRATES",
+         "text": "CANNABIS CONCENTRATES"
+        },
+        {
+         "t": "group",
+         "id": "f12d16a",
+         "children": [
+          {
+           "t": "image",
+           "img": {
+            "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/concentrates-square.webp",
+            "alt": "",
+            "w": 800,
+            "h": 581
+           },
+           "href": null,
+           "caption": null
+          }
+         ],
+         "anim": "zoomIn"
+        },
+        {
+         "t": "button",
+         "text": "VIEW ALL CONCENTRATES",
+         "href": "/shop/"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "3f0eb77",
+     "children": [
+      {
+       "t": "group",
+       "id": "1728910",
+       "children": [
+        {
+         "t": "heading",
+         "level": "h3",
+         "html": "SHROOMS PSILOCYBIN",
+         "text": "SHROOMS PSILOCYBIN"
+        },
+        {
+         "t": "group",
+         "id": "d368189",
+         "children": [
+          {
+           "t": "image",
+           "img": {
+            "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/shrooms-square.webp",
+            "alt": "",
+            "w": 800,
+            "h": 670
+           },
+           "href": null,
+           "caption": null
+          }
+         ],
+         "anim": "zoomIn"
+        },
+        {
+         "t": "button",
+         "text": "VIEW ALL SHROOMS",
+         "href": "/shop/"
+        }
+       ]
+      },
+      {
+       "t": "group",
+       "id": "6d1f915",
+       "children": [
+        {
+         "t": "heading",
+         "level": "h3",
+         "html": "CANNABIS CARTS",
+         "text": "CANNABIS CARTS"
+        },
+        {
+         "t": "group",
+         "id": "fc3015c",
+         "children": [
+          {
+           "t": "image",
+           "img": {
+            "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/carts-square.webp",
+            "alt": "",
+            "w": 800,
+            "h": 569
+           },
+           "href": null,
+           "caption": null
+          }
+         ],
+         "anim": "zoomIn"
+        },
+        {
+         "t": "button",
+         "text": "VIEW ALL CARTS",
+         "href": "/shop/"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "248ab4a",
+   "children": [
+    {
+     "t": "slides",
+     "items": [
+      {
+       "heading": "CANNABIS FLOWER",
+       "html": "",
+       "button": {
+        "text": "VIEW ALL FLOWER",
+        "href": "/shop/"
+       },
+       "id": "eff0d76"
+      },
+      {
+       "heading": "SHROOMS PSILOCYBIN",
+       "html": "",
+       "button": {
+        "text": "VIEW ALL SHROOMS",
+        "href": "/shop/"
+       },
+       "id": "45e6347"
+      },
+      {
+       "heading": "CANNABIS EDIBLES",
+       "html": "",
+       "button": {
+        "text": "VIEW ALL EDIBLES",
+        "href": "/shop/"
+       },
+       "id": "3bed856"
+      },
+      {
+       "heading": "CANNABIS CARTS",
+       "html": "",
+       "button": {
+        "text": "VIEW ALL CARTS",
+        "href": "/shop/"
+       },
+       "id": "27753cc"
+      },
+      {
+       "heading": "CANNABIS CONCENTRATES",
+       "html": "",
+       "button": {
+        "text": "VIEW ALL CONCENTRATES",
+        "href": "/shop/"
+       },
+       "id": "07a50fd"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "3b3c6ac",
+   "children": [
+    {
+     "t": "text",
+     "html": "<h2><strong>Ready for the Best Weed Delivery in DC?</strong></h2><p>Don’t wait hours for weed. Get the fastest, most reliable weed delivery DC has to offer right now. Lifted Shop delivers premium flower, edibles, vapes, concentrates, and exotic drops straight to your door in under 90 minutes, anywhere in Washington, DC, including Capitol Hill, Georgetown, Adams Morgan, Navy Yard, Anacostia, Dupont Circle, U Street, Shaw, Logan Circle, Petworth, hotels, Airbnbs… you name it, we are there.</p><p>Stop searching and start smoking the good stuff tonight!</p>"
+    },
+    {
+     "t": "button",
+     "text": "ORDER DELIVERY",
+     "href": "/shop/"
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "b80309f",
+   "children": [
+    {
+     "t": "heading",
+     "level": "p",
+     "html": "FREQUENT FLYER CLUB",
+     "text": "FREQUENT FLYER CLUB"
+    },
+    {
+     "t": "text",
+     "html": "<p>SUBSCRIBE to our Special PROMOtions NEWSletter</p>"
+    },
+    {
+     "t": "group",
+     "id": "e11d9f2",
+     "children": [
+      {
+       "t": "form",
+       "kind": "newsletter",
+       "fields": [
+        {
+         "type": "text",
+         "name": "form_fields[name]",
+         "label": "Name",
+         "placeholder": "Your Email Here",
+         "required": true
+        }
+       ],
+       "submit": "SUBSCRIBE",
+       "notes": []
+      }
+     ]
+    }
+   ],
+   "bg": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/flyer-bg.jpg"
+  }
+ ],
+ "archive": null,
+ "unknownWidgets": []
+}

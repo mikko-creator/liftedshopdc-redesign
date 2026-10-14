@@ -1,0 +1,154 @@
+{
+ "path": "/author/chris/",
+ "url": "https://www.liftedshopdc.com/author/chris/",
+ "kind": "author",
+ "head": {
+  "title": "chris, Author at LIFTED SHOP, DC",
+  "description": null,
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://www.liftedshopdc.com/author/chris/",
+  "og": {
+   "og:locale": "en_US",
+   "og:type": "profile",
+   "og:title": "chris, Author at LIFTED SHOP, DC",
+   "og:url": "https://www.liftedshopdc.com/author/chris/",
+   "og:site_name": "LIFTED SHOP, DC",
+   "og:image": "https://secure.gravatar.com/avatar/38bd97135be3bf1d7deca4be52cba72683f76dcb9b11946dff53b64d6f88e836?s=500&d=mm&r=g",
+   "twitter:card": "summary_large_image"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "ProfilePage",
+      "@id": "https://www.liftedshopdc.com/author/chris/",
+      "url": "https://www.liftedshopdc.com/author/chris/",
+      "name": "chris, Author at LIFTED SHOP, DC",
+      "isPartOf": {
+       "@id": "https://www.liftedshopdc.com/#website"
+      },
+      "primaryImageOfPage": {
+       "@id": "https://www.liftedshopdc.com/author/chris/#primaryimage"
+      },
+      "image": {
+       "@id": "https://www.liftedshopdc.com/author/chris/#primaryimage"
+      },
+      "thumbnailUrl": "https://www.liftedshopdc.com/wp-content/uploads/2026/10/types-of-cannabis-products.webp",
+      "breadcrumb": {
+       "@id": "https://www.liftedshopdc.com/author/chris/#breadcrumb"
+      },
+      "inLanguage": "en-US",
+      "potentialAction": [
+       {
+        "@type": "ReadAction",
+        "target": [
+         "https://www.liftedshopdc.com/author/chris/"
+        ]
+       }
+      ]
+     },
+     {
+      "@type": "ImageObject",
+      "inLanguage": "en-US",
+      "@id": "https://www.liftedshopdc.com/author/chris/#primaryimage",
+      "url": "https://www.liftedshopdc.com/wp-content/uploads/2026/10/types-of-cannabis-products.webp",
+      "contentUrl": "https://www.liftedshopdc.com/wp-content/uploads/2026/10/types-of-cannabis-products.webp",
+      "width": 540,
+      "height": 356,
+      "caption": "types of cannabis products"
+     },
+     {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.liftedshopdc.com/author/chris/#breadcrumb",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.liftedshopdc.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Archives for chris"
+       }
+      ]
+     },
+     {
+      "@type": "WebSite",
+      "@id": "https://www.liftedshopdc.com/#website",
+      "url": "https://www.liftedshopdc.com/",
+      "name": "LIFTED SHOP, DC",
+      "description": "",
+      "potentialAction": [
+       {
+        "@type": "SearchAction",
+        "target": {
+         "@type": "EntryPoint",
+         "urlTemplate": "https://www.liftedshopdc.com/?s={search_term_string}"
+        },
+        "query-input": {
+         "@type": "PropertyValueSpecification",
+         "valueRequired": true,
+         "valueName": "search_term_string"
+        }
+       }
+      ],
+      "inLanguage": "en-US"
+     },
+     {
+      "@type": "Person",
+      "@id": "https://www.liftedshopdc.com/#/schema/person/c864496d696467b0c0b13e776b077474",
+      "name": "chris",
+      "image": {
+       "@type": "ImageObject",
+       "inLanguage": "en-US",
+       "@id": "https://secure.gravatar.com/avatar/38bd97135be3bf1d7deca4be52cba72683f76dcb9b11946dff53b64d6f88e836?s=96&d=mm&r=g",
+       "url": "https://secure.gravatar.com/avatar/38bd97135be3bf1d7deca4be52cba72683f76dcb9b11946dff53b64d6f88e836?s=96&d=mm&r=g",
+       "contentUrl": "https://secure.gravatar.com/avatar/38bd97135be3bf1d7deca4be52cba72683f76dcb9b11946dff53b64d6f88e836?s=96&d=mm&r=g",
+       "caption": "chris"
+      },
+      "mainEntityOfPage": {
+       "@id": "https://www.liftedshopdc.com/author/chris/"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ "h1": "Author: chris",
+ "docId": null,
+ "sections": [],
+ "archive": {
+  "h1": "Author: chris",
+  "h1Html": "Author: chris",
+  "posts": [
+   {
+    "title": "Which Cannabis Product Is Right for You",
+    "href": "/types-of-cannabis-products/",
+    "img": {
+     "src": "https://www.liftedshopdc.com/wp-content/uploads/2026/10/types-of-cannabis-products.webp",
+     "alt": "types of cannabis products",
+     "w": 540,
+     "h": 356
+    },
+    "excerpt": "Get ready for liftoff! ORDER DELIVERY How to Tell If Weed Is Good Quality Good cannabis announces itself. Before you’ve smoked any of it, the look, the smell, and the way it feels between your fingers will tell you most of what you need to know. The trick is knowing which signals actually matter. Plenty […]"
+   },
+   {
+    "title": "How to Tell If Weed Is Good Quality",
+    "href": "/how-to-tell-if-weed-is-good-quality/",
+    "img": {
+     "src": "https://www.liftedshopdc.com/wp-content/uploads/2026/10/how-to-tell-if-weed-is-good-quality.webp",
+     "alt": "how to tell if weed is good quality",
+     "w": 540,
+     "h": 356
+    },
+    "excerpt": "Get ready for liftoff! ORDER DELIVERY How to Tell If Weed Is Good Quality Good cannabis announces itself. Before you’ve smoked any of it, the look, the smell, and the way it feels between your fingers will tell you most of what you need to know. The trick is knowing which signals actually matter. Plenty […]"
+   }
+  ],
+  "pagination": [],
+  "html": ""
+ },
+ "unknownWidgets": []
+}

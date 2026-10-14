@@ -1,0 +1,237 @@
+{
+ "path": "/author/kevin/page/3/",
+ "url": "https://www.liftedshopdc.com/author/kevin/page/3/",
+ "kind": "author",
+ "head": {
+  "title": "kevin, Author at LIFTED SHOP, DC | Page 3 of 3",
+  "description": null,
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://www.liftedshopdc.com/author/kevin/page/3/",
+  "og": {
+   "og:locale": "en_US",
+   "og:type": "profile",
+   "og:title": "kevin, Author at LIFTED SHOP, DC | Page 3 of 3",
+   "og:url": "https://www.liftedshopdc.com/author/kevin/",
+   "og:site_name": "LIFTED SHOP, DC",
+   "og:image": "https://secure.gravatar.com/avatar/0ded4728176259dd514cd3df95d945774d6163b0a8a049f1d842c93c4a11560a?s=500&d=mm&r=g",
+   "twitter:card": "summary_large_image"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "ProfilePage",
+      "@id": "https://www.liftedshopdc.com/author/kevin/",
+      "url": "https://www.liftedshopdc.com/author/kevin/page/3/",
+      "name": "kevin, Author at LIFTED SHOP, DC | Page 3 of 3",
+      "isPartOf": {
+       "@id": "https://www.liftedshopdc.com/#website"
+      },
+      "primaryImageOfPage": {
+       "@id": "https://www.liftedshopdc.com/author/kevin/page/3/#primaryimage"
+      },
+      "image": {
+       "@id": "https://www.liftedshopdc.com/author/kevin/page/3/#primaryimage"
+      },
+      "thumbnailUrl": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/cc0ea4_a8f998b1f95c4702b261daadc342c661_mv2.jpg.webp",
+      "breadcrumb": {
+       "@id": "https://www.liftedshopdc.com/author/kevin/page/3/#breadcrumb"
+      },
+      "inLanguage": "en-US",
+      "potentialAction": [
+       {
+        "@type": "ReadAction",
+        "target": [
+         "https://www.liftedshopdc.com/author/kevin/page/3/"
+        ]
+       }
+      ]
+     },
+     {
+      "@type": "ImageObject",
+      "inLanguage": "en-US",
+      "@id": "https://www.liftedshopdc.com/author/kevin/page/3/#primaryimage",
+      "url": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/cc0ea4_a8f998b1f95c4702b261daadc342c661_mv2.jpg.webp",
+      "contentUrl": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/cc0ea4_a8f998b1f95c4702b261daadc342c661_mv2.jpg.webp",
+      "width": 600,
+      "height": 499,
+      "caption": "How Long Does A Weed High Last?"
+     },
+     {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.liftedshopdc.com/author/kevin/page/3/#breadcrumb",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.liftedshopdc.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Archives for kevin"
+       }
+      ]
+     },
+     {
+      "@type": "WebSite",
+      "@id": "https://www.liftedshopdc.com/#website",
+      "url": "https://www.liftedshopdc.com/",
+      "name": "LIFTED SHOP, DC",
+      "description": "",
+      "potentialAction": [
+       {
+        "@type": "SearchAction",
+        "target": {
+         "@type": "EntryPoint",
+         "urlTemplate": "https://www.liftedshopdc.com/?s={search_term_string}"
+        },
+        "query-input": {
+         "@type": "PropertyValueSpecification",
+         "valueRequired": true,
+         "valueName": "search_term_string"
+        }
+       }
+      ],
+      "inLanguage": "en-US"
+     },
+     {
+      "@type": "Person",
+      "@id": "https://www.liftedshopdc.com/#/schema/person/36b5a51fea0cb8b7f7fb9d9fb2426a49",
+      "name": "kevin",
+      "image": {
+       "@type": "ImageObject",
+       "inLanguage": "en-US",
+       "@id": "https://secure.gravatar.com/avatar/0ded4728176259dd514cd3df95d945774d6163b0a8a049f1d842c93c4a11560a?s=96&d=mm&r=g",
+       "url": "https://secure.gravatar.com/avatar/0ded4728176259dd514cd3df95d945774d6163b0a8a049f1d842c93c4a11560a?s=96&d=mm&r=g",
+       "contentUrl": "https://secure.gravatar.com/avatar/0ded4728176259dd514cd3df95d945774d6163b0a8a049f1d842c93c4a11560a?s=96&d=mm&r=g",
+       "caption": "kevin"
+      },
+      "mainEntityOfPage": {
+       "@id": "https://www.liftedshopdc.com/author/kevin/"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ "h1": "Author: kevin",
+ "docId": null,
+ "sections": [],
+ "archive": {
+  "h1": "Author: kevin",
+  "h1Html": "Author: kevin",
+  "posts": [
+   {
+    "title": "How Long Does A Weed High Last?",
+    "href": "/how-long-does-a-weed-high-last/",
+    "img": {
+     "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/cc0ea4_a8f998b1f95c4702b261daadc342c661_mv2.jpg.webp",
+     "alt": "How Long Does A Weed High Last?",
+     "w": 600,
+     "h": 499
+    },
+    "excerpt": "Get ready for liftoff! ORDER DELIVERY How Long Does A Weed High Last? by Lifted Shop Both new and seasoned weed users want to know how long a weed high lasts. The reason for this might be because your high doesn’t last the same as that of other users you know or, maybe it doesn’t […]"
+   },
+   {
+    "title": "Is Weed Good for You? Top Benefits of Smoking Weed That You Never Knew",
+    "href": "/is-weed-good-for-you-top-benefits-of-smoking-weed-that-you-never-knew/",
+    "img": {
+     "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/cc0ea4_793922fe7c1a4abca6ec7c83b5415c0c_mv2.jpg.webp",
+     "alt": "Is Weed Good for You? Top Benefits of Smoking Weed That You Never Knew",
+     "w": 720,
+     "h": 540
+    },
+    "excerpt": "Get ready for liftoff! ORDER DELIVERY Is Weed Good for You? Top Benefits of Smoking Weed That You Never Knew by Lifted Shop A debate has been raging over the years about weed or marijuana. But, unfortunately, many people don’t know that weed smoking has benefits. While it’s true that some think nothing beneficial can […]"
+   },
+   {
+    "title": "Does Smoking Weed Cause Acne?",
+    "href": "/does-smoking-weed-cause-acne/",
+    "img": {
+     "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/cc0ea4_ed824ec58fe842a483ed5ae1d292e34e_mv2.jpg.webp",
+     "alt": "Does Smoking Weed Cause Acne?",
+     "w": 800,
+     "h": 600
+    },
+    "excerpt": "Get ready for liftoff! ORDER DELIVERY Does Smoking Weed Cause Acne? by Lifted Shop There is a lot of debate surrounding whether or not smoking weed causes acne. Some people swear by it, while others say it worsens their acne. So, what’s the truth? Does smoking weed cause acne? ACNE IS A HORMONAL IMBALANCE Many […]"
+   },
+   {
+    "title": "Does Weed Lose Potency Over Time?",
+    "href": "/how-long-does-weed-potency-last/",
+    "img": {
+     "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/cc0ea4_bb5cc95c8e754078bae7332389043380_mv2-e1664469313661-1024x611.jpg.webp",
+     "alt": "How Long Does Weed Potency Last?",
+     "w": 800,
+     "h": 477
+    },
+    "excerpt": "Get ready for liftoff! ORDER DELIVERY Does Weed Lose Potency Over Time? Yes. Weed doesn’t spoil the way food does, but THC degrades steadily once the flower is harvested, converting into a compound called CBN that produces a duller, more sedating effect. Research commonly cited in cannabis literature puts the loss at roughly 16% of […]"
+   },
+   {
+    "title": "How Long Does THC Stay in Your System?",
+    "href": "/tips-for-how-to-pass-a-thc-drug-test/",
+    "img": {
+     "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/9fa5cf_4fba3ad52a354e07a20be359eaeff5bc_mv2-e1664319953409.jpg.webp",
+     "alt": "Tips for How to Pass a THC Drug Test",
+     "w": 720,
+     "h": 400
+    },
+    "excerpt": "Get ready for liftoff! ORDER DELIVERY How Long Does THC Stay in Your System? For a urine test, the usual range is 3 to 7 days after occasional use and 30 days or more with daily use. Saliva and blood clear much faster. Hair holds a record for roughly 90 days. That spread is wide […]"
+   },
+   {
+    "title": "CBD vs. THC: What’s the Difference?",
+    "href": "/cbd-vs-thc-whats-the-difference/",
+    "img": {
+     "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/9fa5cf_5d6d130378f94039b37ce9e4acb70686_mv2-1-e1664318949560.jpg.webp",
+     "alt": "CBD vs. THC: What’s the Difference?",
+     "w": 735,
+     "h": 480
+    },
+    "excerpt": "Get ready for liftoff! ORDER DELIVERY CBD vs. THC: What’s the Difference? by Lifted ShopPeople globally are wondering what this CBD thing is. Cannabidiol, often referred to as CBD, is another compound found in cannabis, along with THC (the part that gets you high). These are just two of over 100 different cannabinoids extracted from the […]"
+   },
+   {
+    "title": "Does Kief Get You Higher Than Weed?",
+    "href": "/does-kief-get-you-higher-than-weed/",
+    "img": {
+     "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/cc0ea4_db7b682e748145e7b763792b88f19e59_mv2.jpg-1.webp",
+     "alt": "Does Kief Get You Higher Than Weed?",
+     "w": 768,
+     "h": 600
+    },
+    "excerpt": "Get ready for liftoff! ORDER DELIVERY Does Kief Get You Higher Than Weed? by Lifted Shop If you’re wondering, “what is kief?” It is a powdery resin made from trichomes of weed. It is a term for cannabis crystals. It is common for cannabis users to use the substance with their weed. It also goes […]"
+   },
+   {
+    "title": "Benefits of THC to the Body",
+    "href": "/benefits-of-thc-to-the-body/",
+    "img": {
+     "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/9fa5cf_5493e80ccfd34883bac668e80a804095_mv2-e1664312318345-1024x647.jpg-1.webp",
+     "alt": "Benefits of THC to the Body",
+     "w": 800,
+     "h": 505
+    },
+    "excerpt": "Get ready for liftoff! ORDER DELIVERY Benefits of THC to the Body by Lifted Shop THC is a vital component of cannabis. Some people argue that it has no medicinal value, but science has a different view. So far, THC has proven a crucial source of relief for physical and mental ailments. In addition, THC […]"
+   },
+   {
+    "title": "Weed for Beginners: A Brief Guide",
+    "href": "/weed-for-beginners-a-brief-guide/",
+    "img": {
+     "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/cc0ea4_05718642385e47fcb6321889f78361ed_mv2.jpg.webp",
+     "alt": "Weed for Beginners: A Brief Guide",
+     "w": 800,
+     "h": 601
+    },
+    "excerpt": "Get ready for liftoff! ORDER DELIVERY Weed for Beginners: A Brief Guide by Lifted Shop Weed is a plant that has been used for centuries for medical and recreational purposes. When you’re beginning your cannabis journey, it can be a little daunting at first with the amount of information floating around on the internet and […]"
+   }
+  ],
+  "pagination": [
+   {
+    "text": "Previous",
+    "href": "/author/kevin/page/2/",
+    "rel": "prev"
+   }
+  ],
+  "html": ""
+ },
+ "unknownWidgets": []
+}

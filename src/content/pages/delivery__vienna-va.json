@@ -1,0 +1,276 @@
+{
+ "path": "/delivery/vienna-va/",
+ "url": "https://www.liftedshopdc.com/delivery/vienna-va/",
+ "kind": "page",
+ "head": {
+  "title": "Best Weed Delivery Vienna VA | Lifted Shop Cannabis",
+  "description": "Fast weed delivery in Vienna, VA, with premium cannabis, easy ordering, same-day service, and trusted delivery.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://www.liftedshopdc.com/delivery/vienna-va/",
+  "og": {
+   "og:locale": "en_US",
+   "og:type": "article",
+   "og:title": "Best Weed Delivery Vienna VA | Lifted Shop Cannabis",
+   "og:description": "Fast weed delivery in Vienna, VA, with premium cannabis, easy ordering, same-day service, and trusted delivery.",
+   "og:url": "https://www.liftedshopdc.com/delivery/vienna-va/",
+   "og:site_name": "LIFTED SHOP, DC",
+   "article:modified_time": "2026-05-25T16:20:26+00:00",
+   "twitter:card": "summary_large_image",
+   "twitter:label1": "Est. reading time",
+   "twitter:data1": "2 minutes"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "WebPage",
+      "@id": "https://www.liftedshopdc.com/delivery/vienna-va/",
+      "url": "https://www.liftedshopdc.com/delivery/vienna-va/",
+      "name": "Best Weed Delivery Vienna VA | Lifted Shop Cannabis",
+      "isPartOf": {
+       "@id": "https://www.liftedshopdc.com/#website"
+      },
+      "datePublished": "2025-12-12T21:49:08+00:00",
+      "dateModified": "2026-05-25T16:20:26+00:00",
+      "description": "Fast weed delivery in Vienna, VA, with premium cannabis, easy ordering, same-day service, and trusted delivery.",
+      "breadcrumb": {
+       "@id": "https://www.liftedshopdc.com/delivery/vienna-va/#breadcrumb"
+      },
+      "inLanguage": "en-US",
+      "potentialAction": [
+       {
+        "@type": "ReadAction",
+        "target": [
+         "https://www.liftedshopdc.com/delivery/vienna-va/"
+        ]
+       }
+      ]
+     },
+     {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.liftedshopdc.com/delivery/vienna-va/#breadcrumb",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.liftedshopdc.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Delivery",
+        "item": "https://www.liftedshopdc.com/delivery/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Vienna, VA"
+       }
+      ]
+     },
+     {
+      "@type": "WebSite",
+      "@id": "https://www.liftedshopdc.com/#website",
+      "url": "https://www.liftedshopdc.com/",
+      "name": "LIFTED SHOP, DC",
+      "description": "",
+      "potentialAction": [
+       {
+        "@type": "SearchAction",
+        "target": {
+         "@type": "EntryPoint",
+         "urlTemplate": "https://www.liftedshopdc.com/?s={search_term_string}"
+        },
+        "query-input": {
+         "@type": "PropertyValueSpecification",
+         "valueRequired": true,
+         "valueName": "search_term_string"
+        }
+       }
+      ],
+      "inLanguage": "en-US"
+     }
+    ]
+   }
+  ]
+ },
+ "h1": "Weed Delivery in Vienna, VA",
+ "docId": "5254",
+ "sections": [
+  {
+   "t": "group",
+   "id": "d3314ba",
+   "children": [
+    {
+     "t": "group",
+     "id": "d8d70ea",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h1",
+       "html": "Weed Delivery in Vienna, VA",
+       "text": "Weed Delivery in Vienna, VA"
+      },
+      {
+       "t": "text",
+       "html": "<p><a href=\"/\">Lifted Shop</a> provides fast and convenient weed delivery in Vienna VA, bringing top-quality cannabis products directly to your door. Our service is designed for customers who want premium flower, carts, edibles, prerolls, and concentrates without the hassle of visiting a storefront. If you want a smooth ordering process, same-day delivery, and reliable service in Vienna, you are in the right place.</p>"
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "#orderdelivery"
+      }
+     ]
+    }
+   ],
+   "bg": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/feature-bg-3-1.jpg"
+  },
+  {
+   "t": "group",
+   "id": "57c1f0b",
+   "children": [
+    {
+     "t": "reviews",
+     "provider": "Trustindex (Google reviews)",
+     "summary": {
+      "label": "EXCELLENT",
+      "text": "EXCELLENT Based on 2410 reviews"
+     },
+     "items": [
+      {
+       "name": "Sherrene Donovan",
+       "date": "",
+       "stars": 5,
+       "text": "Great and quick service. Big fan of Burst and Devour gummies. Thank you Nancy for all your help!!!",
+       "source": "Google"
+      },
+      {
+       "name": "Muhammad ihram Pangestu",
+       "date": "",
+       "stars": 5,
+       "text": "Weed shop delivery to Irvine apartments near UCI was quick!",
+       "source": "Google"
+      },
+      {
+       "name": "Zachariah Bailey",
+       "date": "",
+       "stars": 5,
+       "text": "Smooth cannabis delivery to our Anaheim hotel, perfect for the Disney trip 😭",
+       "source": "Google"
+      },
+      {
+       "name": "Saidi Tumwa",
+       "date": "",
+       "stars": 5,
+       "text": "Mari and Mark are great! i appreciate the help they gave me",
+       "source": "Google"
+      },
+      {
+       "name": "Jennifer Turner",
+       "date": "",
+       "stars": 5,
+       "text": "Hiyab was very helpful a great bud tender",
+       "source": "Google"
+      },
+      {
+       "name": "Jamie Coleman",
+       "date": "",
+       "stars": 5,
+       "text": "I travel to DC every month for work and a buddy of mine told me about this shop; I called the shop and found out they only do delivery now (DC only has medical shops now) so I ordered from them a few times and on my most recent order, the delivery driver, JJ, was super friendly and helpful. Got my delivery within an hr of ordering and enjoyed some incredible \"high\" energy products before my flight home. Thanks!!",
+       "source": "Google"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "afbfd5d",
+   "children": [
+    {
+     "t": "store",
+     "provider": "ecwid",
+     "storeId": "125946269"
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "ebbfbc2",
+   "children": [
+    {
+     "t": "group",
+     "id": "ef676b9",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "What We Deliver in Vienna",
+       "text": "What We Deliver in Vienna"
+      },
+      {
+       "t": "text",
+       "html": "<p>We carry a wide variety of cannabis products so you can find what fits your preference.</p><p><strong>Flower: </strong>Top shelf indoor strains, exotics, sativas, indicas, and hybrids.</p><p><strong>Vape Carts: </strong>Smooth and potent cartridges with consistent effects.</p><p><strong>Edibles: </strong>Gummies, chocolates, drinks, and baked items in multiple strengths.</p><p><strong>Concentrates: </strong>Live resin, rosin, wax, crumble, diamonds, and other high-potency options.</p><p><strong>Prerolls: </strong>Single prerolls, infused versions, and multi-pack selections.</p>"
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "/shop/"
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "f673334",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "How Weed Delivery Works in Vienna",
+       "text": "How Weed Delivery Works in Vienna"
+      },
+      {
+       "t": "text",
+       "html": "<ol><li><strong> Browse the Menu: </strong>Review available cannabis options online.</li></ol><ol><li><strong> Place Your Order: </strong>Checkout is simple and quick with online ordering.</li></ol><ol><li><strong> Verify Your ID: </strong>A valid state ID or passport is required. A medical card is not needed.</li></ol><ol><li><strong> Receive Same Day Delivery: </strong>A trained driver delivers to your home or preferred Vienna meeting spot.</li></ol>"
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "/shop/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "c5a8017",
+   "children": [
+    {
+     "t": "text",
+     "html": "<h2>Delivery Area in Vienna</h2><p>Lifted Shop delivers throughout Vienna and nearby surrounding communities. If you want to confirm whether your address is included, our team can check quickly.</p><h2>Order Weed Delivery in Vienna</h2><p>Lifted Shop makes cannabis delivery simple, fast, and reliable. You can submit an order online or by calling <a href=\"tel:7712161684\">(771) 216 1684</a>.</p>"
+    },
+    {
+     "t": "button",
+     "text": "ORDER DELIVERY",
+     "href": "/shop/"
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "c9501d3",
+   "children": [
+    {
+     "t": "map",
+     "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d49680.627394808245!2d-77.30407735515989!3d38.900218609658914!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b649671c566aef%3A0x2fc10cb0571036ba!2sVienna%2C%20VA%2022180!5e0!3m2!1sen!2sus!4v1765575985893!5m2!1sen!2sus",
+     "title": ""
+    }
+   ]
+  }
+ ],
+ "archive": null,
+ "unknownWidgets": []
+}

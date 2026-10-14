@@ -1,0 +1,29 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "G-HERO-SKY",
+  "file": "assets/generated/g-hero-sky.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Lifted Shop (liftedshopdc.com), its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "Breathtaking photograph from airplane altitude above a vast sea of soft cumulus clouds at night during blue hour, the cloud tops lit from below by warm amber glow through scattered gaps, deep indigo and violet sky fading to near black at the top with faint stars and a thin crescent moon, ethereal haze, calm and dreamy, cinematic wide composition with open sky in the upper half, ultra detailed, photographic; no people, no text, no logos, no aircraft, no wing, no buildings, no landmarks",
+  "input": {
+    "aspect_ratio": "21:9",
+    "output_format": "jpeg",
+    "num_images": 1,
+    "enable_safety_checker": true,
+    "safety_tolerance": "5"
+  },
+  "seed": 3510521057,
+  "requestId": "01a137f5-6ca8-7670-a15b-f5449b91de1f",
+  "cutout": null,
+  "width": 3136,
+  "height": 1344,
+  "sha256": "6e9e924ddedc212dd24cdda70701d30b3d927deb87986ca2032353ba6c3405fe",
+  "raw": "tmp/img/raw/G-HERO-SKY.1791940201105.jpg",
+  "attempt": 1,
+  "generatedAt": "2026-10-14T01:10:03.328Z",
+  "review": {
+    "verdict": "PENDING",
+    "reason": null
+  }
+}

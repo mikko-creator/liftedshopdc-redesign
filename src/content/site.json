@@ -1,0 +1,522 @@
+{
+ "header": [
+  {
+   "t": "group",
+   "id": "065acea",
+   "children": [
+    {
+     "t": "heading",
+     "level": "p",
+     "html": "Now offering Delivery and DC pickup ONLY",
+     "text": "Now offering Delivery and DC pickup ONLY"
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "900cffa",
+   "children": [
+    {
+     "t": "group",
+     "id": "e6fbb9f",
+     "children": [
+      {
+       "t": "image",
+       "img": {
+        "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Lifted-Shop-1-1.png",
+        "alt": "",
+        "w": 300,
+        "h": 48
+       },
+       "href": "/",
+       "caption": null
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "0872a78",
+     "children": [
+      {
+       "t": "nav",
+       "items": [
+        {
+         "text": "Home",
+         "href": "/",
+         "children": []
+        },
+        {
+         "text": "About",
+         "href": "/about/",
+         "children": [
+          {
+           "text": "Locations",
+           "href": "#",
+           "children": [
+            {
+             "text": "Lifted Shop",
+             "href": "/about/lifted-dispensary-dc/",
+             "children": []
+            },
+            {
+             "text": "Orbit Shop",
+             "href": "/orbit-shop/",
+             "children": []
+            },
+            {
+             "text": "Lifted Lounge",
+             "href": "/lifted-lounge/",
+             "children": []
+            }
+           ]
+          },
+          {
+           "text": "Reviews",
+           "href": "/reviews/",
+           "children": []
+          }
+         ]
+        },
+        {
+         "text": "Shop",
+         "href": "/shop/",
+         "children": []
+        },
+        {
+         "text": "Delivery",
+         "href": "/delivery/",
+         "children": []
+        },
+        {
+         "text": "Contact",
+         "href": "/contact/",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "dac7e1d",
+     "children": [
+      {
+       "t": "button",
+       "text": "(771) 216-1684",
+       "href": "tel:7712161684"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footer": [
+  {
+   "t": "group",
+   "id": "1148597",
+   "children": [
+    {
+     "t": "group",
+     "id": "f8dcc54",
+     "children": [
+      {
+       "t": "group",
+       "id": "604f2b4",
+       "children": [
+        {
+         "t": "image",
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/11/image-removebg-preview-2024-11-25T224541.357.png",
+          "alt": "",
+          "w": 499,
+          "h": 500
+         },
+         "href": null,
+         "caption": null
+        },
+        {
+         "t": "text",
+         "html": "THE MOST TRUSTED NAME IN WASHINGTON, DC"
+        },
+        {
+         "t": "social",
+         "items": [
+          {
+           "href": "https://twitter.com/liftedshopdc",
+           "label": "Twitter"
+          },
+          {
+           "href": "https://www.facebook.com/people/LiftedShop-DC/100072248696245/",
+           "label": "Facebook"
+          },
+          {
+           "href": "https://www.instagram.com/lifteddmv/",
+           "label": "Instagram"
+          },
+          {
+           "href": "https://www.tiktok.com/@liftedshopcafe",
+           "label": "Tiktok"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "t": "group",
+       "id": "9ddfa32",
+       "children": [
+        {
+         "t": "heading",
+         "level": "p",
+         "html": "Navigate",
+         "text": "Navigate"
+        },
+        {
+         "t": "list",
+         "items": [
+          {
+           "html": "Home",
+           "text": "Home",
+           "href": "/"
+          },
+          {
+           "html": "Menu",
+           "text": "Menu",
+           "href": "/shop/"
+          },
+          {
+           "html": "Delivery",
+           "text": "Delivery",
+           "href": "/delivery/"
+          }
+         ]
+        },
+        {
+         "t": "heading",
+         "level": "p",
+         "html": "HELP &amp; INFO",
+         "text": "HELP & INFO"
+        },
+        {
+         "t": "list",
+         "items": [
+          {
+           "html": "Contact Us",
+           "text": "Contact Us",
+           "href": "/contact/"
+          },
+          {
+           "html": "About Us",
+           "text": "About Us",
+           "href": "/about/"
+          },
+          {
+           "html": "Privacy Policy",
+           "text": "Privacy Policy",
+           "href": "/privacy-policy/"
+          },
+          {
+           "html": "Blog",
+           "text": "Blog",
+           "href": "/blog/"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "t": "group",
+       "id": "bc46375",
+       "children": [
+        {
+         "t": "text",
+         "html": "<p>No Medical Card Needed<br>DC Weed Delivery Available Up to 100 Miles</p>"
+        },
+        {
+         "t": "heading",
+         "level": "p",
+         "html": "DELIVERY ONLY",
+         "text": "DELIVERY ONLY"
+        },
+        {
+         "t": "list",
+         "items": [
+          {
+           "html": "(771) 216-1684",
+           "text": "(771) 216-1684",
+           "href": "tel:7712161684"
+          },
+          {
+           "html": "Our DC location is not open to the public.",
+           "text": "Our DC location is not open to the public.",
+           "href": null
+          },
+          {
+           "html": "2622 Georgia Ave NW, Washington, DC 20001",
+           "text": "2622 Georgia Ave NW, Washington, DC 20001",
+           "href": null
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "b19f8f6",
+     "children": [
+      {
+       "t": "text",
+       "html": "<p>Copyright © 2025 <a href=\"/\">LIFTED SHOP, DC, Washington, DC</a> | Website by <a href=\"https://localseova.com/\" target=\"_blank\" rel=\"noopener\">Local SEO</a></p>"
+      }
+     ]
+    }
+   ],
+   "bg": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/footer-bg-1-scaled.jpg"
+  },
+  {
+   "t": "group",
+   "id": "24d6db3",
+   "children": [
+    {
+     "t": "iconbox",
+     "title": "Menu",
+     "html": "",
+     "href": "/shop/"
+    },
+    {
+     "t": "iconbox",
+     "title": "CALL",
+     "html": "",
+     "href": "tel:7712161684"
+    },
+    {
+     "t": "iconbox",
+     "title": "Email",
+     "html": "",
+     "href": "mailto:arkanegroupdc@gmail.com"
+    }
+   ]
+  }
+ ],
+ "menuPopup": [
+  {
+   "t": "group",
+   "id": "42398fc",
+   "children": [
+    {
+     "t": "social",
+     "items": [
+      {
+       "href": "https://www.facebook.com/people/LiftedShop-DC/100072248696245/",
+       "label": "Facebook"
+      },
+      {
+       "href": "https://twitter.com/liftedshopdc",
+       "label": "Twitter"
+      },
+      {
+       "href": "https://www.instagram.com/liftedindc/",
+       "label": "Instagram"
+      }
+     ]
+    },
+    {
+     "t": "button",
+     "text": "(771) 216-1684",
+     "href": "tel:7712161684"
+    },
+    {
+     "t": "nav",
+     "items": [
+      {
+       "text": "Home",
+       "href": "/",
+       "children": []
+      },
+      {
+       "text": "About",
+       "href": "/about/",
+       "children": [
+        {
+         "text": "Locations",
+         "href": "#",
+         "children": [
+          {
+           "text": "Lifted Shop",
+           "href": "/about/lifted-dispensary-dc/",
+           "children": []
+          },
+          {
+           "text": "Orbit Shop",
+           "href": "/orbit-shop/",
+           "children": []
+          },
+          {
+           "text": "Lifted Lounge",
+           "href": "/lifted-lounge/",
+           "children": []
+          }
+         ]
+        },
+        {
+         "text": "Reviews",
+         "href": "/reviews/",
+         "children": []
+        }
+       ]
+      },
+      {
+       "text": "Shop",
+       "href": "/shop/",
+       "children": []
+      },
+      {
+       "text": "Delivery",
+       "href": "/delivery/",
+       "children": []
+      },
+      {
+       "text": "Contact",
+       "href": "/contact/",
+       "children": []
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "ageNo": [
+  {
+   "t": "group",
+   "id": "d95a852",
+   "children": [
+    {
+     "t": "image",
+     "img": {
+      "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/logo-4.png.webp",
+      "alt": "",
+      "w": 800,
+      "h": 176
+     },
+     "href": null,
+     "caption": null
+    },
+    {
+     "t": "heading",
+     "level": "h2",
+     "html": "Come Back again",
+     "text": "Come Back again"
+    },
+    {
+     "t": "text",
+     "html": "<p>You must be over 21 to preview our website</p>"
+    },
+    {
+     "t": "button",
+     "text": "Return to Home",
+     "href": "/"
+    }
+   ]
+  }
+ ],
+ "ageGate": [
+  {
+   "t": "group",
+   "id": "1c12e134",
+   "children": [
+    {
+     "t": "group",
+     "id": "23efb4f0",
+     "children": [
+      {
+       "t": "group",
+       "id": "1a6d74d",
+       "children": [
+        {
+         "t": "image",
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/lifted-logo-black.png",
+          "alt": "",
+          "w": 800,
+          "h": 800
+         },
+         "href": null,
+         "caption": null
+        }
+       ]
+      },
+      {
+       "t": "group",
+       "id": "a622d81",
+       "children": [
+        {
+         "t": "text",
+         "html": "<p>Welcome to Lifted Shop. Thanks for stopping by.</p>"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "91b76a5",
+     "children": [
+      {
+       "t": "text",
+       "html": "<p>Are you at least 21?</p>"
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "a186d8d",
+     "children": [
+      {
+       "t": "group",
+       "id": "b6ed135",
+       "children": [
+        {
+         "t": "button",
+         "text": "No",
+         "href": null,
+         "anim": "fadeIn"
+        }
+       ]
+      },
+      {
+       "t": "group",
+       "id": "64c9f5c",
+       "children": [
+        {
+         "t": "button",
+         "text": "Yes",
+         "href": null,
+         "anim": "fadeIn"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "redirects": [
+  {
+   "from": "/delivery/laurel-md/",
+   "to": "/delivery/south-laurel-md/",
+   "status": 301
+  },
+  {
+   "from": "/orbit/",
+   "to": "/delivery/orbit-dc/",
+   "status": 301
+  },
+  {
+   "from": "/home/",
+   "to": "/",
+   "status": 301
+  }
+ ]
+}

@@ -1,0 +1,499 @@
+{
+ "path": "/premium-weed-in-dc/",
+ "url": "https://www.liftedshopdc.com/premium-weed-in-dc/",
+ "kind": "post",
+ "head": {
+  "title": "Premium Weed in DC | LIFTED SHOP, DC",
+  "description": "In-depth Guide: Premium Weed in DC. Click to learn more.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://www.liftedshopdc.com/premium-weed-in-dc/",
+  "og": {
+   "og:locale": "en_US",
+   "og:type": "article",
+   "og:title": "Premium Weed in DC | LIFTED SHOP, DC",
+   "og:description": "In-depth Guide: Premium Weed in DC. Click to learn more.",
+   "og:url": "https://www.liftedshopdc.com/premium-weed-in-dc/",
+   "og:site_name": "LIFTED SHOP, DC",
+   "article:published_time": "2024-07-16T15:56:15+00:00",
+   "article:modified_time": "2026-08-13T15:55:58+00:00",
+   "og:image": "http://www.liftedshopdc.com/wp-content/uploads/2024/07/Premium-Bud-c-1024x716.jpg.webp",
+   "og:image:width": "1024",
+   "og:image:height": "716",
+   "og:image:type": "image/webp",
+   "twitter:card": "summary_large_image",
+   "twitter:label1": "Written by",
+   "twitter:data1": "kevin",
+   "twitter:label2": "Est. reading time",
+   "twitter:data2": "13 minutes"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "Article",
+      "@id": "https://www.liftedshopdc.com/premium-weed-in-dc/#article",
+      "isPartOf": {
+       "@id": "https://www.liftedshopdc.com/premium-weed-in-dc/"
+      },
+      "author": {
+       "name": "kevin",
+       "@id": "https://www.liftedshopdc.com/#/schema/person/36b5a51fea0cb8b7f7fb9d9fb2426a49"
+      },
+      "headline": "Premium Weed in DC",
+      "datePublished": "2024-07-16T15:56:15+00:00",
+      "dateModified": "2026-08-13T15:55:58+00:00",
+      "mainEntityOfPage": {
+       "@id": "https://www.liftedshopdc.com/premium-weed-in-dc/"
+      },
+      "wordCount": 1636,
+      "image": {
+       "@id": "https://www.liftedshopdc.com/premium-weed-in-dc/#primaryimage"
+      },
+      "thumbnailUrl": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/Premium-Bud-c-1024x716.jpg.webp",
+      "articleSection": [
+       "Cannabis Guides"
+      ],
+      "inLanguage": "en-US"
+     },
+     {
+      "@type": "WebPage",
+      "@id": "https://www.liftedshopdc.com/premium-weed-in-dc/",
+      "url": "https://www.liftedshopdc.com/premium-weed-in-dc/",
+      "name": "Premium Weed in DC | LIFTED SHOP, DC",
+      "isPartOf": {
+       "@id": "https://www.liftedshopdc.com/#website"
+      },
+      "primaryImageOfPage": {
+       "@id": "https://www.liftedshopdc.com/premium-weed-in-dc/#primaryimage"
+      },
+      "image": {
+       "@id": "https://www.liftedshopdc.com/premium-weed-in-dc/#primaryimage"
+      },
+      "thumbnailUrl": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/Premium-Bud-c-1024x716.jpg.webp",
+      "datePublished": "2024-07-16T15:56:15+00:00",
+      "dateModified": "2026-08-13T15:55:58+00:00",
+      "author": {
+       "@id": "https://www.liftedshopdc.com/#/schema/person/36b5a51fea0cb8b7f7fb9d9fb2426a49"
+      },
+      "description": "In-depth Guide: Premium Weed in DC. Click to learn more.",
+      "breadcrumb": {
+       "@id": "https://www.liftedshopdc.com/premium-weed-in-dc/#breadcrumb"
+      },
+      "inLanguage": "en-US",
+      "potentialAction": [
+       {
+        "@type": "ReadAction",
+        "target": [
+         "https://www.liftedshopdc.com/premium-weed-in-dc/"
+        ]
+       }
+      ]
+     },
+     {
+      "@type": "ImageObject",
+      "inLanguage": "en-US",
+      "@id": "https://www.liftedshopdc.com/premium-weed-in-dc/#primaryimage",
+      "url": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/Premium-Bud-c-1024x716.jpg.webp",
+      "contentUrl": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/Premium-Bud-c-1024x716.jpg.webp",
+      "width": 1024,
+      "height": 716,
+      "caption": "PREMIUM WEED IN DC"
+     },
+     {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.liftedshopdc.com/premium-weed-in-dc/#breadcrumb",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.liftedshopdc.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Premium Weed in DC"
+       }
+      ]
+     },
+     {
+      "@type": "WebSite",
+      "@id": "https://www.liftedshopdc.com/#website",
+      "url": "https://www.liftedshopdc.com/",
+      "name": "LIFTED SHOP, DC",
+      "description": "",
+      "potentialAction": [
+       {
+        "@type": "SearchAction",
+        "target": {
+         "@type": "EntryPoint",
+         "urlTemplate": "https://www.liftedshopdc.com/?s={search_term_string}"
+        },
+        "query-input": {
+         "@type": "PropertyValueSpecification",
+         "valueRequired": true,
+         "valueName": "search_term_string"
+        }
+       }
+      ],
+      "inLanguage": "en-US"
+     },
+     {
+      "@type": "Person",
+      "@id": "https://www.liftedshopdc.com/#/schema/person/36b5a51fea0cb8b7f7fb9d9fb2426a49",
+      "name": "kevin",
+      "image": {
+       "@type": "ImageObject",
+       "inLanguage": "en-US",
+       "@id": "https://secure.gravatar.com/avatar/0ded4728176259dd514cd3df95d945774d6163b0a8a049f1d842c93c4a11560a?s=96&d=mm&r=g",
+       "url": "https://secure.gravatar.com/avatar/0ded4728176259dd514cd3df95d945774d6163b0a8a049f1d842c93c4a11560a?s=96&d=mm&r=g",
+       "contentUrl": "https://secure.gravatar.com/avatar/0ded4728176259dd514cd3df95d945774d6163b0a8a049f1d842c93c4a11560a?s=96&d=mm&r=g",
+       "caption": "kevin"
+      },
+      "url": "https://www.liftedshopdc.com/author/kevin/"
+     }
+    ]
+   }
+  ]
+ },
+ "h1": "Premium Weed in DC",
+ "docId": "1611",
+ "sections": [
+  {
+   "t": "group",
+   "id": "3040fde1",
+   "children": [
+    {
+     "t": "group",
+     "id": "2ce6600c",
+     "children": [
+      {
+       "t": "image",
+       "img": {
+        "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Lifted-Rocket-Logo-1.png",
+        "alt": "",
+        "w": 768,
+        "h": 768
+       },
+       "href": null,
+       "caption": null,
+       "anim": "zoomIn"
+      },
+      {
+       "t": "heading",
+       "level": "p",
+       "html": "Get ready for liftoff!",
+       "text": "Get ready for liftoff!"
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "29ab7263",
+     "children": [
+      {
+       "t": "carousel",
+       "items": [
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Higher-Frequency-Bag-2.png",
+          "alt": "Higher-Frequency-Bag-2",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Casanova-Fly-Bag.png",
+          "alt": "Casanova-Fly-Bag",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/bag-2.png",
+          "alt": "bag-2",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Dust-Mac-Bag-2.png",
+          "alt": "Dust-Mac-Bag-2",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Sugarland-Delight-Bag.png",
+          "alt": "Sugarland-Delight-Bag",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Onyx-Slam-Bag.png",
+          "alt": "Onyx-Slam-Bag",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        }
+       ]
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": null
+      }
+     ]
+    }
+   ],
+   "bg": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/feature-bg-3-1.jpg"
+  },
+  {
+   "t": "group",
+   "id": "4212828c",
+   "children": [
+    {
+     "t": "group",
+     "id": "52ebbea9",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h1",
+       "html": "Premium Weed in DC",
+       "text": "Premium Weed in DC"
+      },
+      {
+       "t": "image",
+       "img": {
+        "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/Premium-Bud-c-1024x716.jpg.webp",
+        "alt": "PREMIUM WEED IN DC",
+        "w": 800,
+        "h": 559
+       },
+       "href": null,
+       "caption": null
+      },
+      {
+       "t": "text",
+       "html": "<p>by Lifted Shop</p><p>As the legalization of marijuana continues to sweep across the United States, more and more people are turning to high-quality cannabis products for recreational. In Washington, DC, where weed is legal for adult use, there’s a growing demand for premium strains that offer an exceptional experience. From unique flavors to powerful effects, something special about smoking or consuming top-shelf weed sets it apart from lower-quality options. Whether you’re a seasoned smoker or a curious newcomer, exploring the world of premium weed in DC can be a fun and rewarding experience.</p><p>If you’re in Washington, D.C., and looking for boutique bud and a craft experience, check out Lifted DC. We offer only the finest and most exceptional strains of cannabis, carefully curated to meet the needs and preferences of our customers. Our products are sourced from the industry’s most reputable growers and cultivators, ensuring that you get the best of the best. We pride ourselves on our commitment to quality, consistency, and customer satisfaction. Our team of experts is always on hand to help you find the perfect strain for your needs. Whether you’re looking for a relaxing indica, a stimulating sativa, or a potent hybrid, we’ve got you covered. Plus, with our convenient online ordering system and discreet delivery service (up to 100 miles!), you can enjoy the best premium weed in DC from the comfort of your home. So why settle for less? Try Lifted DC today and elevate your cannabis experience to new heights.</p>"
+      },
+      {
+       "t": "group",
+       "id": "1cf8011e",
+       "children": [
+        {
+         "t": "heading",
+         "level": "h2",
+         "html": "WHAT IS PREMIUM WEED?",
+         "text": "WHAT IS PREMIUM WEED?"
+        },
+        {
+         "t": "text",
+         "html": "<p>Premium weed, or top-shelf cannabis, is the highest quality available. This designation is typically given to well-grown, potent, and carefully cultivated strains to produce exceptional flavor and aroma profiles. This connoisseur’s cannabis is for the educated consumer, the true cannabis enthusiast who understands and appreciates the subtle nuances of the plant.</p><p>The demand for premium weed has increased in recent years as more consumers are willing to pay a premium price for high-quality products.</p><p>Finding premium weed can be challenging, as not all dispensaries carry top-shelf strains. However, reputable dispensaries like Lifted DC offer a wide selection of premium strains carefully curated by knowledgeable staff. These strains are often sourced from reputable growers specializing in producing exclusive greens.</p><p>For those who value quality over quantity, premium weed is the way to go. With its</p><ul><li>Potent effects</li><li>Unique flavor profiles</li><li>Sustainable cultivation practices</li></ul><p>craft cannabis is the perfect choice for educated consumers who want nothing but the best.</p>"
+        }
+       ]
+      },
+      {
+       "t": "group",
+       "id": "7a52da3f",
+       "children": [
+        {
+         "t": "text",
+         "html": "<h3>WILL LUXURY FLOWER ELEVATE YOUR HIGH?</h3><p>In the past 20 years, cannabis has become legal in many places, and the potency of cannabis has been on the rise. [1] Premium weed is known for its high THC content. For example, in Colorado in 2017, the average strength for flower was 19.6% THC; for concentrates, it was 68.6%, and some concentrates were over 90% THC. [2]</p><p>Before 1990, the THC content in marijuana was less than 2%. By the 1990s, it had increased to 4%. Between 1995 and 2015, the THC content in the marijuana flower increased by 212%.</p><p>Flower and smoked or vaped leaves represent just one type of cannabis product. More recently, highly concentrated THC products have emerged, including oils, shatter, dabs, and edibles containing as much as 95% THC.</p><h3>THC: SUPREME JOY</h3><p>Scientists did not fully understand the active ingredient in marijuana until the 1960s when researchers observed that injecting THC into aggressive monkeys calmed and relaxed them. [3] This led the team to discover receptors in the brain that THC fits into perfectly, called cannabinoid receptors. In the 1990s, the same team found that our bodies produce compounds that fit into these receptors, which they named anandamides. These receptors, also known as endocannabinoid receptors, are found throughout the brain and were named not for THC consumption but for the Sanskrit word ananda – “supreme joy.”</p>"
+        },
+        {
+         "t": "heading",
+         "level": "h2",
+         "html": "GET THE MOST FROM YOUR HIGH",
+         "text": "GET THE MOST FROM YOUR HIGH"
+        },
+        {
+         "t": "text",
+         "html": "<p>Medical marijuana and recreational marijuana are derived from the same plant, Cannabis sativa or Cannabis indica. Medical marijuana is used to alleviate symptoms and treat medical conditions. It typically contains higher levels of cannabidiol (CBD), which has therapeutic effects, and lower levels of tetrahydrocannabinol, the psychoactive compound that produces a “high.” Medical marijuana is typically prescribed by a physician and can only be obtained from licensed dispensaries or specific state programs regulating its distribution.</p><p>Recreational marijuana, on the other hand, is used for non-medical purposes and is consumed for its psychoactive effects. It typically contains higher levels of THC and lower levels of CBD than medical marijuana. Recreational marijuana is subject to legal regulations and can only be purchased in states where it is legal for adult use.</p><p>The legal regulations for medical and recreational marijuana differ significantly. Medical marijuana is legal in many states in the US, but it requires a prescription from a licensed physician and is subject to specific regulations regarding possession, use, and distribution. Recreational marijuana, on the other hand, is legal in fewer states and is subject to specific regulations regarding possession, use, and distribution for non-medical purposes.</p>"
+        },
+        {
+         "t": "heading",
+         "level": "h2",
+         "html": "PREMIUM WEED IN ADAMS MORGAN",
+         "text": "PREMIUM WEED IN ADAMS MORGAN"
+        },
+        {
+         "t": "text",
+         "html": "<p>There are many benefits to using premium weed, including its potent effects and high quality. When you consume premium weed, you can expect a more intense high that lasts longer than lower-quality strains.</p><p>Another benefit of premium weed is its unique flavor and aroma profiles. These strains often have complex terpene profiles that produce distinct tastes and smells, making for a more enjoyable experience. Furthermore, when grown and harvested properly, premium weed should have a more consistent cannabinoid and terpene profile; users can expect more reliable and predictable effects when consuming it.</p><p>Premium weed is often grown using more natural and sustainable cultivation methods, which can reduce the risk of harmful pesticides and chemicals contaminating the plant. Additionally, higher-quality weed is often cured and stored in more optimal conditions, which can help prevent mold and other contaminants from developing.</p><h3>WHAT ARE TERPENES?</h3><p>Terpenes are organic compounds commonly found in plants, including cannabis. They are responsible for the distinct aromas and flavors of different strains of cannabis, as well as many other plants, such as lavender, pine, and citrus fruits.</p><p>In cannabis, terpenes are produced in the same glands as cannabinoids, such as THC and CBD. They can work synergistically with cannabinoids to produce specific effects, and some terpenes have been found to have therapeutic properties of their own. Many different types of terpenes are found in cannabis, and each strain can have a unique terpene profile. Some common terpenes found in cannabis include:</p><ul><li>Myrcene</li><li>Limonene</li><li>Pinene</li><li>Caryophyllene</li></ul><p>Myrcene, for example, is known for its sedative effects and is often found in strains used for relaxation and pain relief. In contrast, limonene is known for its uplifting effects and is often found in strains used for mood elevation.</p><p>Terpenes are becoming increasingly important in the cannabis industry, as more people are interested in different strains’ specific effects and flavors. Some companies are even beginning to isolate and extract specific terpenes for use in products such as oils, edibles, and topicals.</p>"
+        },
+        {
+         "t": "heading",
+         "level": "h2",
+         "html": "WHERE TO FIND PREMIUM WEED NEAR DUPONT CIRCLE",
+         "text": "WHERE TO FIND PREMIUM WEED NEAR DUPONT CIRCLE"
+        },
+        {
+         "t": "text",
+         "html": "<p>You have a few options if you’re looking for premium weed in Washington, D.C., but the best weed and experience can be found at Lifted DC on 18th Street NW. We are not only a cannabis dispensary but also a community hub for the arts. Our dispensary is co-located with The House of Hip-Hop Art Gallery and Recording Studio, which showcases local artists and musicians; this unique combination of cannabis and art creates a welcoming and creative atmosphere for customers and visitors alike.</p><p>The Lifted DC dispensary offers a wide range of premium cannabis products, including flower, edibles, and concentrates, while The House of Hip-Hop Art Gallery and Recording Studio provides a platform for local artists and musicians to showcase their talents. Together, they provide a dynamic and engaging experience for those interested in cannabis and the arts.</p><h3>OUR TOP SELLERS</h3><p>The select strain at Lifted DC is like no other. Choose from:</p><ul><li>Premium Smoke</li><li>High-Quality Cartridges</li><li>Exotic Buds n’ Shrooms</li><li>Superior Edibles</li><li>Top Shelf Pre-Rolls</li></ul><p>Check out our menu, then let us know what we can bring you.</p>"
+        },
+        {
+         "t": "heading",
+         "level": "h2",
+         "html": "FREE WEED DELIVERY IN DC",
+         "text": "FREE WEED DELIVERY IN DC"
+        },
+        {
+         "t": "text",
+         "html": "<p>If you’re in the DC or Baltimore area and looking for a hassle-free way to get your hands on some weed, Lifted has got you covered. Our online ordering system lets you easily shop for cannabis products from anywhere.</p><p>Once you’ve placed your order, we’ll send one of our friendly and discreet drivers from our dispensary in Washington, DC, to deliver your purchase right to your doorstep. Our delivery area covers up to 100 miles from our location on Georgia Avenue, just a stone’s throw away from Howard University. If you’re outside our delivery range, don’t worry – just call <a href=\"tel:7712161684\">(771) 216-1684</a>, and we’ll work with you to find a solution. At Lifted, we’re committed to providing you with the best top-shelf weed possible and are always happy to help you out.</p>"
+        },
+        {
+         "t": "group",
+         "id": "7805cc0",
+         "children": [
+          {
+           "t": "text",
+           "html": "<h3>Share:</h3>"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "e6bd3ab",
+     "children": [
+      {
+       "t": "testimonials",
+       "items": [
+        {
+         "text": "The “Sour Punched” single rolled is the BOMB!!!! The products here are the best I have had in NW. Pricey but worth every penny and I love the staff.",
+         "name": "G.D.",
+         "title": ""
+        },
+        {
+         "text": "I’ve finally found a place where the staff shows its customers love and respect. Thanks Lifted for being my new spot for the ⛽💨💯💪",
+         "name": "B.C.",
+         "title": ""
+        },
+        {
+         "text": "Great shop. Rick helped us out and was so nice and knowledgeable letting us know his recommendations. Much better quality and selection compared to other shops in DC.",
+         "name": "K.M",
+         "title": ""
+        }
+       ]
+      },
+      {
+       "t": "heading",
+       "level": "p",
+       "html": "Exclusives",
+       "text": "Exclusives"
+      },
+      {
+       "t": "carousel",
+       "items": [
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-1-768x1024.jpg",
+          "alt": "Grandmaster Caz’s Casanova Fly",
+          "w": null,
+          "h": null
+         },
+         "caption": "<strong>Grandmaster Caz’s</strong> Casanova Fly",
+         "href": "/shop/"
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-6.jpg",
+          "alt": "Laughing Gas Inspired by Def Comedy Jam",
+          "w": null,
+          "h": null
+         },
+         "caption": "<strong>Laughing Gas</strong> Inspired by Def Comedy Jam",
+         "href": "/shop/"
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-4-768x1034.jpg",
+          "alt": "Rakim Higher Frequency Soul Flower",
+          "w": null,
+          "h": null
+         },
+         "caption": "<strong>Rakim</strong> Higher Frequency Soul Flower",
+         "href": "/shop/"
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-5-768x1035.jpg",
+          "alt": "The Sugarhill Gang’s Sugarhill Delight",
+          "w": null,
+          "h": null
+         },
+         "caption": "<strong>The Sugarhill Gang’s</strong> Sugarhill Delight",
+         "href": "/shop/"
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-3-768x1035.jpg",
+          "alt": "DAS EFX Googley Goo",
+          "w": null,
+          "h": null
+         },
+         "caption": "<strong>DAS EFX</strong> Googley Goo",
+         "href": "/shop/"
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-2-768x1035.jpg",
+          "alt": "Onyx’s SLAM",
+          "w": null,
+          "h": null
+         },
+         "caption": "<strong>Onyx’s</strong> SLAM",
+         "href": "/shop/"
+        }
+       ]
+      },
+      {
+       "t": "group",
+       "id": "7604c27",
+       "children": [
+        {
+         "t": "button",
+         "text": "(771) 216-1684",
+         "href": "tel:7712161684"
+        },
+        {
+         "t": "text",
+         "html": "<p>OR</p><p>VIEW OUR MENU OF CANNABIS PRODUCTS</p>"
+        },
+        {
+         "t": "button",
+         "text": "Shop Now",
+         "href": "/shop/"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "archive": null,
+ "unknownWidgets": []
+}

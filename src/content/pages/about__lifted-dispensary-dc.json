@@ -1,0 +1,518 @@
+{
+ "path": "/about/lifted-dispensary-dc/",
+ "url": "https://www.liftedshopdc.com/about/lifted-dispensary-dc/",
+ "kind": "page",
+ "head": {
+  "title": "Best Dispensary, Lifted Shop DC",
+  "description": "Lifted Shop is the #1 Cannabis Dispensary in Washington DC offering the highest quality and best prices on cannabis products. Click to learn more.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://www.liftedshopdc.com/about/lifted-dispensary-dc/",
+  "og": {
+   "og:locale": "en_US",
+   "og:type": "article",
+   "og:title": "Best Dispensary, Lifted Shop DC",
+   "og:description": "Lifted Shop is the #1 Cannabis Dispensary in Washington DC offering the highest quality and best prices on cannabis products. Click to learn more.",
+   "og:url": "https://www.liftedshopdc.com/about/lifted-dispensary-dc/",
+   "og:site_name": "LIFTED SHOP, DC",
+   "article:modified_time": "2026-08-04T15:01:34+00:00",
+   "og:image": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Lifted-Rocket-Logo-1.png",
+   "og:image:width": "1000",
+   "og:image:height": "1000",
+   "og:image:type": "image/png",
+   "twitter:card": "summary_large_image",
+   "twitter:label1": "Est. reading time",
+   "twitter:data1": "11 minutes"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "WebPage",
+      "@id": "https://www.liftedshopdc.com/about/lifted-dispensary-dc/",
+      "url": "https://www.liftedshopdc.com/about/lifted-dispensary-dc/",
+      "name": "Best Dispensary, Lifted Shop DC",
+      "isPartOf": {
+       "@id": "https://www.liftedshopdc.com/#website"
+      },
+      "primaryImageOfPage": {
+       "@id": "https://www.liftedshopdc.com/about/lifted-dispensary-dc/#primaryimage"
+      },
+      "image": {
+       "@id": "https://www.liftedshopdc.com/about/lifted-dispensary-dc/#primaryimage"
+      },
+      "thumbnailUrl": "http://www.liftedshopdc.com/wp-content/uploads/2024/06/Lifted-Rocket-Logo-1-768x768.png",
+      "datePublished": "2022-10-07T16:24:43+00:00",
+      "dateModified": "2026-08-04T15:01:34+00:00",
+      "description": "Lifted Shop is the #1 Cannabis Dispensary in Washington DC offering the highest quality and best prices on cannabis products. Click to learn more.",
+      "breadcrumb": {
+       "@id": "https://www.liftedshopdc.com/about/lifted-dispensary-dc/#breadcrumb"
+      },
+      "inLanguage": "en-US",
+      "potentialAction": [
+       {
+        "@type": "ReadAction",
+        "target": [
+         "https://www.liftedshopdc.com/about/lifted-dispensary-dc/"
+        ]
+       }
+      ]
+     },
+     {
+      "@type": "ImageObject",
+      "inLanguage": "en-US",
+      "@id": "https://www.liftedshopdc.com/about/lifted-dispensary-dc/#primaryimage",
+      "url": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Lifted-Rocket-Logo-1.png",
+      "contentUrl": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Lifted-Rocket-Logo-1.png",
+      "width": 1000,
+      "height": 1000
+     },
+     {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.liftedshopdc.com/about/lifted-dispensary-dc/#breadcrumb",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.liftedshopdc.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "About",
+        "item": "https://www.liftedshopdc.com/about/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Weed Dispensary DC Lifted"
+       }
+      ]
+     },
+     {
+      "@type": "WebSite",
+      "@id": "https://www.liftedshopdc.com/#website",
+      "url": "https://www.liftedshopdc.com/",
+      "name": "LIFTED SHOP, DC",
+      "description": "",
+      "potentialAction": [
+       {
+        "@type": "SearchAction",
+        "target": {
+         "@type": "EntryPoint",
+         "urlTemplate": "https://www.liftedshopdc.com/?s={search_term_string}"
+        },
+        "query-input": {
+         "@type": "PropertyValueSpecification",
+         "valueRequired": true,
+         "valueName": "search_term_string"
+        }
+       }
+      ],
+      "inLanguage": "en-US"
+     }
+    ]
+   }
+  ]
+ },
+ "h1": "LIFTED SHOP DC",
+ "docId": "272",
+ "sections": [
+  {
+   "t": "group",
+   "id": "faeef97",
+   "children": [
+    {
+     "t": "group",
+     "id": "1d52c3f",
+     "children": [
+      {
+       "t": "image",
+       "img": {
+        "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Lifted-Rocket-Logo-1.png",
+        "alt": "",
+        "w": 768,
+        "h": 768
+       },
+       "href": null,
+       "caption": null,
+       "anim": "zoomIn"
+      },
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "Get ready for liftoff!",
+       "text": "Get ready for liftoff!"
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "fd78c50",
+     "children": [
+      {
+       "t": "carousel",
+       "items": [
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Higher-Frequency-Bag-2.png",
+          "alt": "Higher-Frequency-Bag-2",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Casanova-Fly-Bag.png",
+          "alt": "Casanova-Fly-Bag",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/bag-2.png",
+          "alt": "bag-2",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Dust-Mac-Bag-2.png",
+          "alt": "Dust-Mac-Bag-2",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Sugarland-Delight-Bag.png",
+          "alt": "Sugarland-Delight-Bag",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Onyx-Slam-Bag.png",
+          "alt": "Onyx-Slam-Bag",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        }
+       ]
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "/shop/"
+      }
+     ]
+    }
+   ],
+   "bg": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/feature-bg-3-1.jpg"
+  },
+  {
+   "t": "group",
+   "id": "cc260d2",
+   "children": [
+    {
+     "t": "heading",
+     "level": "h1",
+     "html": "LIFTED SHOP DC",
+     "text": "LIFTED SHOP DC"
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "20433e44",
+   "children": [
+    {
+     "t": "text",
+     "html": "<p><a href=\"/\">Lifted DC</a> is the place for high-quality cannabis products in the heart of the capital. You can rely on Lifted DC to provide a welcoming atmosphere, product knowledge, and a wide selection of premium cannabis products. Find exotic flower, premium flower, edibles, carts and more at Lifted DC, your local D.C. and DMV dispensary.</p><p>We cater to customers from all walks of life, experienced and non-experienced cannabis users, and provide our vibrant area of DC with a little more color, a little fun, and a little weed magic! So if you’re a student, a tourist, here on business, or a D.C. native, we have something for you that will help you relax and enjoy your day. And, if getting to us in person is a tall order, you can select what you want online and get your weed delivered to your door!</p><p><a href=\"/shop/\">View our Menu</a></p><p>If you have any questions about us or our products, call us on the number below or shoot us a message via our online <a href=\"/contact/\">inquiry form</a>. Get Ready for Liftoff with Lifted DC!</p>"
+    },
+    {
+     "t": "heading",
+     "level": "h2",
+     "html": "Lifted DC Hours &amp; Contact",
+     "text": "Lifted DC Hours & Contact"
+    },
+    {
+     "t": "text",
+     "html": "At Lifted DC, we like to give our customers <strong>ample time to browse and buy</strong>. Order any time of day for delivery or pickup during our opening hours."
+    },
+    {
+     "t": "group",
+     "id": "1e1acac",
+     "children": [
+      {
+       "t": "list",
+       "items": [
+        {
+         "html": "Open 7 days a week, 10am-9pm",
+         "text": "Open 7 days a week, 10am-9pm",
+         "href": null
+        },
+        {
+         "html": "No medical card required!",
+         "text": "No medical card required!",
+         "href": null
+        },
+        {
+         "html": "Weed delivery up to 100 miles in DMV",
+         "text": "Weed delivery up to 100 miles in DMV",
+         "href": null
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "text",
+     "html": "<p>Phone: <a href=\"tel:7712161684\">(771) 216-1684</a></p><h3>Order for Delivery to the DMV!</h3><h4>Maryland</h4><ul><li><strong>Montgomery County:</strong><a href=\"/delivery/bethesda-md/\"> Bethesda</a>, <a href=\"/delivery/potomac-md/\">Potomac</a>, <a href=\"/delivery/rockville-md/\">Rockville</a>, <a href=\"/delivery/silver-spring-md/\">Silver Spring</a>, and <a href=\"/delivery/germantown-md/\">Germantown</a>.</li><li><strong>Prince George’s County:</strong><a href=\"/delivery/bowie-md/\"> Bowie</a>, <a href=\"/delivery/hyattsville-md/\">Hyattsville</a>, <a href=\"/delivery/south-laurel-md/\">Laurel</a>, and <a href=\"/delivery/forest-heights-md/\">Forest Heights</a>.</li><li><strong>Howard &amp; Anne Arundel Counties:</strong><a href=\"/delivery/columbia-md/\"> Columbia</a> and <a href=\"/delivery/hanover-md/\">Hanover</a>.</li><li><strong>Southern Maryland:</strong><a href=\"/delivery/waldorf-md/\"> Waldorf</a> and <a href=\"/delivery/lusby-md/\">Lusby</a>.</li><li><strong>Northern &amp; Central Maryland:</strong> <a href=\"/delivery/baltimore-md/\">Baltimore</a> and <a href=\"/delivery/frederick-md/\">Frederick</a>.</li></ul><h3>Virginia</h3><ul><li><strong>Northern Virginia:</strong><a href=\"/delivery/arlington-va/\"> Arlington</a>, <a href=\"/delivery/alexandria-va/\">Alexandria</a>, <a href=\"/delivery/fairfax-va/\">Fairfax</a>, <a href=\"/delivery/annandale-va/\">Annandale</a>, <a href=\"/delivery/tysons-va/\">Tysons</a>, <a href=\"/delivery/mclean-va/\">McLean</a>, <a href=\"/delivery/springfield-va/\">Springfield,</a> <a href=\"/delivery/burke-va/\">Burke</a>, <a href=\"/delivery/vienna-va/\">Vienna</a>, <a href=\"/delivery/oakton-va/\">Oakton</a>, and <a href=\"/delivery/seven-corners-va/\">Seven Corners</a>. </li><li><strong>Loudoun &amp; Dulles Corridor: </strong><a href=\"/delivery/ashburn-va/\">Ashburn</a>, <a href=\"/delivery/sterling-va/\">Sterling</a>, <a href=\"/delivery/reston-va/\">Reston</a>, <a href=\"/delivery/herndon-va/\">Herndon</a>, <a href=\"/delivery/leesburg-va/\">Leesburg</a>, and <a href=\"/delivery/aldie-va/\">Aldie</a>.</li><li><strong>Prince William &amp; Southern VA:</strong><a href=\"/delivery/manassas-va/\"> Manassas</a>, Manassas Park, <a href=\"/delivery/gainesville-va/\">Gainesville</a> &amp; Haymarket, <a href=\"/delivery/woodbridge-va/\">Woodbridge</a>, and <a href=\"/delivery/fredericksburg-va/\">Fredericksburg</a>.</li><li><strong>Western &amp; Peripheral Coverage:</strong> <a href=\"/delivery/chantilly-va/\">Chantilly</a>, <a href=\"/delivery/centreville-va/\">Centreville</a>, and <a href=\"/delivery/winchester-va/\">Winchester</a>. </li></ul><p><br>Orders accepted 24 hrs/day. 10am-9pm.</p><h2>Goodbye Medical Marijuana Cards!</h2><p><strong>December 20, 2022</strong> signaled the beginning of a new legal framework for cannabis in D.C. The Washington, D.C. Council unanimously passed a bill that <strong>makes buying cannabis a lot easier!</strong> The <a href=\"https://www.marijuanamoment.net/d-c-lawmakers-approve-medical-marijuana-bill-with-license-cap-elimination-patient-self-certification-and-tax-relief/\" target=\"_blank\" rel=\"noopener\">Medical Cannabis Amendment Act of 2022</a> significantly expands and regulates the industry. Provisions in the act have some positive repercussions for us all! <sup><a href=\"/about/lifted-dispensary-dc/#references\">(1)</a></sup></p>"
+    },
+    {
+     "t": "group",
+     "id": "8ddaf2c",
+     "children": [
+      {
+       "t": "list",
+       "items": [
+        {
+         "html": "Persons 21 and older can self-certify as medical cannabis patients",
+         "text": "Persons 21 and older can self-certify as medical cannabis patients",
+         "href": null
+        },
+        {
+         "html": "No doctor’s recommendation needed!",
+         "text": "No doctor’s recommendation needed!",
+         "href": null
+        },
+        {
+         "html": "No medical card required!",
+         "text": "No medical card required!",
+         "href": null
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "text",
+     "html": "<p>Lifted Shop makes buying your favorite cannabis products as <strong>simple and stress-free</strong> as possible!</p><h2>Shop Premium Products</h2><p>Lifted DC is a <strong>family-owned</strong> <a href=\"/recreational-dispensary-dc/\">cannabis dispensary</a> with a big heart and a fine selection of the following products.</p><p><strong>Flower</strong></p><p>Flavorful hybrids, enticing indicas, and sensational sativas await you at Lifted DC. There’s <strong>something for every taste</strong> here, with 3.5g <a href=\"/shop/#Premium_Flowers\">Premium Flower</a> and <a href=\"/shop/#Designer_Flowers\">Designer Flower</a> starting at 3.5g and our <a href=\"/shop/#Exotic_Flowers\">Exotic Flower</a> <strong>up to 28g per item</strong>.</p><p><strong>Pre-Rolls</strong></p><p>Taking a break from rolling your own? No Problem! Find <strong>perfectly-crafted </strong><a href=\"/pre-rolls-dc/\">pre-rolls</a> to pick up hassle-free at Lifted DC. Choose from our top-shelf selection of pre-rolled joints and cannabis cigars.</p><p><strong>Vape Cartridges</strong></p><p>If you prefer to puff on a vaporizer, great! We have a wide range of sativa, indica, and hybrid <a href=\"/cartridges-in-dc/\">carts </a>to choose from. We also sell batteries if you’re in a pinch.</p><p><strong>Edibles</strong></p><p>Delicious THC gummies, tangy bites, and even <strong>shroom-infused chocolate</strong> await you at Lifted DC. And if you’re not in the mood to smoke, <strong>why not indulge</strong> in our sweet treats? Choose from our delicious range of <a href=\"/edibles-in-dc/\">high-potency edibles </a>for pickup or delivery.</p><p><strong>Concentrates</strong></p><p>Looking for some <a href=\"/concentrates/\">outstanding concentrates</a>? <strong>You’re in the right place!</strong> Get <a href=\"/live-resin-dc/\">live resin</a>, shatter, budder, crumble, wax and <strong>more for your rig </strong>at lifted DC.</p><p><strong>Drinks</strong></p><p>Come to the Lifted DC Cafe to quench your thirst and <strong>satisfy your munchies</strong> with our selection of sodas, brownies, and other baked goods. For the experienced connoisseur, why not try our 1000mg THC Lean Peach (use with caution, <strong>extremely high potency!</strong>).</p><p>See the <a href=\"/shop/\">Full Lifted DC Menu</a></p><h2>The Magic of Mushrooms</h2><p>Weed is wonderful, but if you like trying something a little different, give our powerful <strong>psilocybin products</strong> a try! We carry a selection of high-potency mushrooms, dried and ready for you to take home. And having a <strong>hallucinogenic experience</strong> isn’t the only thing you can do with magic mushrooms. In fact, some might say macrodosing is passe!</p><p>Microdosing is now leading the way for recreational users who want to feel the <strong>more subtle effects</strong> of shrooms. Studies on magic mushrooms are ongoing, but research says they could help people <strong>self-medicate</strong> in the following ways.<a href=\"https://docs.google.com/document/d/1_6AyEueeUZbyvITEx3D7wCdYhN7Tx7H-abxAvOIZn6Q/edit#heading=h.o2fsnk968fgp\" target=\"_blank\" rel=\"noopener\"><sup> (</sup></a><sup><a href=\"/about/lifted-dispensary-dc/#references\">2)</a></sup></p>"
+    },
+    {
+     "t": "text",
+     "html": "<p>Lost in D.C.? Give us a call at <a href=\"tel:7712161684\">(771) 216-1684</a><strong>. </strong>Lifted DC is also on <a href=\"https://g.co/kgs/fM8Y5ut\" target=\"_blank\" rel=\"noopener\">Google Maps</a>!</p><h2>Cash-Friendly Shopping</h2><p>To keep things simple, Lifted DC operates on a <strong>cash only</strong> basis. But don’t worry, we have an ATM on site for customer use. If you’re ordering for delivery, please make sure you have the right change and factor in that <strong>little something extra</strong> to tip your delivery driver. Your help and generosity are greatly appreciated!</p><h2>Cannabis Dispensary &amp; Weed Delivery, Washington D.C.</h2><p>Order weed for <strong>pickup or delivery</strong> at Lifted DC, open 7 days a week from 10am-9pm. If you have specific questions about our location, our products, or <strong>anything else weed-related</strong>, contact us via telephone or complete a simple <a href=\"/contact/\">online form</a>.</p>"
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "d0dfab2",
+   "children": [
+    {
+     "t": "group",
+     "id": "1a6d352",
+     "children": [
+      {
+       "t": "group",
+       "id": "2d9b69c",
+       "children": [
+        {
+         "t": "heading",
+         "level": "h2",
+         "html": "Frequently Asked Questions",
+         "text": "Frequently Asked Questions"
+        },
+        {
+         "t": "faq",
+         "items": [
+          {
+           "q": "HOW MUCH WEED IS LEGAL TO POSSESS IN WASHINGTON D.C.?",
+           "blocks": [
+            {
+             "t": "text",
+             "html": "<p>Adults 21 and older must carry no more than two ounces (56 grams) or less of cannabis on their person. You may face a fine or worse if you are found to have more in your possession during a search by law enforcement.</p>"
+            }
+           ]
+          },
+          {
+           "q": "CAN YOU SMOKE WEED IN THE STREET IN WASHINGTON D.C.?",
+           "blocks": [
+            {
+             "t": "text",
+             "html": "<p>Be careful. If you’re from out-of-town, or if you haven’t taken a look at the laws recently, know before you buy. It’s always advisable to see what the local rules are for cannabis consumption, whichever city, state, or district you’re in. Although it is legal to smoke weed in D.C., you cannot smoke in public places or on federal property. Doing so may result in you getting a hefty fine, or worse, up to 60 days in jail!</p>"
+            }
+           ]
+          },
+          {
+           "q": "HOW MANY EDIBLES SHOULD I TAKE IF IT’S MY FIRST TIME?",
+           "blocks": [
+            {
+             "t": "text",
+             "html": "<p>If this is your first time trying edibles, be aware that people who use them on a regular basis have built a tolerance to the THC. Some edibles have specific instructions on the packaging for first-timers. But, in the case of most 10mg gummies, starting with half or a fourth and waiting to experience the effects will let you know where you stand!</p>"
+            }
+           ]
+          },
+          {
+           "q": "IS TAKING MAGIC MUSHROOMS SAFE?",
+           "blocks": [
+            {
+             "t": "text",
+             "html": "<p>Many people find using magic mushrooms beneficial to help them overcome anxiety, to become more creative, and to reduce discomfort from headaches. However, everyone is different, and what one person enjoys, another may not, especially when it comes to mushrooms. Speak to somebody you know or a reputable vendor for more information and advice.</p><p>As is the case with most recreational items, everything is usually fine in moderation.</p>"
+            }
+           ]
+          },
+          {
+           "q": "WHAT DO I DO ON MY FIRST MUSHROOM TRIP?",
+           "blocks": [
+            {
+             "t": "text",
+             "html": "<p>If you have never used magic mushrooms before, speak to someone who has, and listen to their advice carefully. There are also some good online resources available. Your first experience with psilocybin should be in a quiet, familiar, comfortable place. It is also advisable you don’t try to leave that place during your experience. Your living room or bedroom is almost always a safe choice. You may also want a sober “trip chaperone” friend to guide you.</p>"
+            }
+           ]
+          },
+          {
+           "q": "CAN I BUY FROM LIFTED DC IF I’M IN DELAWARE, MARYLAND, OR VIRGINIA?",
+           "blocks": [
+            {
+             "t": "text",
+             "html": "<p>Yes! In fact, a good dispensary will deliver your cannabis items to you.</p>"
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "t": "button",
+       "text": "Contact Us",
+       "href": "#locationcontact"
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "d089a96",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "Our Services",
+       "text": "Our Services"
+      },
+      {
+       "t": "text",
+       "html": "<p>Lifted Shop, DC is the best place in Washington, DC, to buy weed. We have a large selection of high-quality cannabis, and we have knowledgeable staff who can help you find what’s suitable for your needs. We provide safe delivery throughout Maryland, Virginia, and Northern Virginia! Delivery Available up to 50 Miles!</p><ul><li><a href=\"/shop/\">Place An Order</a></li><li><a href=\"/contact/\">Contact Us</a></li></ul>"
+      },
+      {
+       "t": "button",
+       "text": "Order Now!",
+       "href": "/shop/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "2a25c92",
+   "children": [
+    {
+     "t": "group",
+     "id": "60160f4",
+     "children": [
+      {
+       "t": "map",
+       "src": "https://maps.google.com/maps?q=Dispensary%20%26%20Weed%20Delivery%20DC%20-%20Lifted%20Shop&t=m&z=13&output=embed&iwloc=near",
+       "title": "Dispensary & Weed Delivery DC - Lifted Shop"
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "1661995",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "Testimonials",
+       "text": "Testimonials"
+      },
+      {
+       "t": "reviews",
+       "provider": "Trustindex (Google reviews)",
+       "summary": {
+        "label": "EXCELLENT",
+        "text": "EXCELLENT Based on 2410 reviews"
+       },
+       "items": [
+        {
+         "name": "Sherrene Donovan",
+         "date": "",
+         "stars": 5,
+         "text": "Great and quick service. Big fan of Burst and Devour gummies. Thank you Nancy for all your help!!!",
+         "source": "Google"
+        },
+        {
+         "name": "Muhammad ihram Pangestu",
+         "date": "",
+         "stars": 5,
+         "text": "Weed shop delivery to Irvine apartments near UCI was quick!",
+         "source": "Google"
+        },
+        {
+         "name": "Zachariah Bailey",
+         "date": "",
+         "stars": 5,
+         "text": "Smooth cannabis delivery to our Anaheim hotel, perfect for the Disney trip 😭",
+         "source": "Google"
+        },
+        {
+         "name": "Saidi Tumwa",
+         "date": "",
+         "stars": 5,
+         "text": "Mari and Mark are great! i appreciate the help they gave me",
+         "source": "Google"
+        },
+        {
+         "name": "Jennifer Turner",
+         "date": "",
+         "stars": 5,
+         "text": "Hiyab was very helpful a great bud tender",
+         "source": "Google"
+        },
+        {
+         "name": "Jamie Coleman",
+         "date": "",
+         "stars": 5,
+         "text": "I travel to DC every month for work and a buddy of mine told me about this shop; I called the shop and found out they only do delivery now (DC only has medical shops now) so I ordered from them a few times and on my most recent order, the delivery driver, JJ, was super friendly and helpful. Got my delivery within an hr of ordering and enjoyed some incredible \"high\" energy products before my flight home. Thanks!!",
+         "source": "Google"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "archive": null,
+ "unknownWidgets": []
+}

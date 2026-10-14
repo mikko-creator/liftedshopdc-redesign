@@ -1,0 +1,423 @@
+{
+ "path": "/heres-what-happens-to-your-body-when-you-eat-edibles/",
+ "url": "https://www.liftedshopdc.com/heres-what-happens-to-your-body-when-you-eat-edibles/",
+ "kind": "post",
+ "head": {
+  "title": "Here’s What Happens to Your Body When You Eat Edibles | LIFTED SHOP, DC",
+  "description": "In-depth Guide: Here's What Happens to Your Body When You Eat Edibles. Click to learn more.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://www.liftedshopdc.com/heres-what-happens-to-your-body-when-you-eat-edibles/",
+  "og": {
+   "og:locale": "en_US",
+   "og:type": "article",
+   "og:title": "Here’s What Happens to Your Body When You Eat Edibles | LIFTED SHOP, DC",
+   "og:description": "In-depth Guide: Here's What Happens to Your Body When You Eat Edibles. Click to learn more.",
+   "og:url": "https://www.liftedshopdc.com/heres-what-happens-to-your-body-when-you-eat-edibles/",
+   "og:site_name": "LIFTED SHOP, DC",
+   "article:published_time": "2024-07-16T14:56:13+00:00",
+   "article:modified_time": "2026-09-08T15:33:23+00:00",
+   "og:image": "http://www.liftedshopdc.com/wp-content/uploads/2024/07/9fa5cf_1e82ad16b3864514b8818a6cf9d357a4_mv2.jpg.webp",
+   "og:image:width": "720",
+   "og:image:height": "480",
+   "og:image:type": "image/webp",
+   "twitter:card": "summary_large_image",
+   "twitter:label1": "Written by",
+   "twitter:data1": "kevin",
+   "twitter:label2": "Est. reading time",
+   "twitter:data2": "13 minutes"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "Article",
+      "@id": "https://www.liftedshopdc.com/heres-what-happens-to-your-body-when-you-eat-edibles/#article",
+      "isPartOf": {
+       "@id": "https://www.liftedshopdc.com/heres-what-happens-to-your-body-when-you-eat-edibles/"
+      },
+      "author": {
+       "name": "kevin",
+       "@id": "https://www.liftedshopdc.com/#/schema/person/36b5a51fea0cb8b7f7fb9d9fb2426a49"
+      },
+      "headline": "Here’s What Happens to Your Body When You Eat Edibles",
+      "datePublished": "2024-07-16T14:56:13+00:00",
+      "dateModified": "2026-09-08T15:33:23+00:00",
+      "mainEntityOfPage": {
+       "@id": "https://www.liftedshopdc.com/heres-what-happens-to-your-body-when-you-eat-edibles/"
+      },
+      "wordCount": 1658,
+      "image": {
+       "@id": "https://www.liftedshopdc.com/heres-what-happens-to-your-body-when-you-eat-edibles/#primaryimage"
+      },
+      "thumbnailUrl": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/9fa5cf_1e82ad16b3864514b8818a6cf9d357a4_mv2.jpg.webp",
+      "articleSection": [
+       "Cannabis Guides"
+      ],
+      "inLanguage": "en-US"
+     },
+     {
+      "@type": "WebPage",
+      "@id": "https://www.liftedshopdc.com/heres-what-happens-to-your-body-when-you-eat-edibles/",
+      "url": "https://www.liftedshopdc.com/heres-what-happens-to-your-body-when-you-eat-edibles/",
+      "name": "Here’s What Happens to Your Body When You Eat Edibles | LIFTED SHOP, DC",
+      "isPartOf": {
+       "@id": "https://www.liftedshopdc.com/#website"
+      },
+      "primaryImageOfPage": {
+       "@id": "https://www.liftedshopdc.com/heres-what-happens-to-your-body-when-you-eat-edibles/#primaryimage"
+      },
+      "image": {
+       "@id": "https://www.liftedshopdc.com/heres-what-happens-to-your-body-when-you-eat-edibles/#primaryimage"
+      },
+      "thumbnailUrl": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/9fa5cf_1e82ad16b3864514b8818a6cf9d357a4_mv2.jpg.webp",
+      "datePublished": "2024-07-16T14:56:13+00:00",
+      "dateModified": "2026-09-08T15:33:23+00:00",
+      "author": {
+       "@id": "https://www.liftedshopdc.com/#/schema/person/36b5a51fea0cb8b7f7fb9d9fb2426a49"
+      },
+      "description": "In-depth Guide: Here's What Happens to Your Body When You Eat Edibles. Click to learn more.",
+      "breadcrumb": {
+       "@id": "https://www.liftedshopdc.com/heres-what-happens-to-your-body-when-you-eat-edibles/#breadcrumb"
+      },
+      "inLanguage": "en-US",
+      "potentialAction": [
+       {
+        "@type": "ReadAction",
+        "target": [
+         "https://www.liftedshopdc.com/heres-what-happens-to-your-body-when-you-eat-edibles/"
+        ]
+       }
+      ]
+     },
+     {
+      "@type": "ImageObject",
+      "inLanguage": "en-US",
+      "@id": "https://www.liftedshopdc.com/heres-what-happens-to-your-body-when-you-eat-edibles/#primaryimage",
+      "url": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/9fa5cf_1e82ad16b3864514b8818a6cf9d357a4_mv2.jpg.webp",
+      "contentUrl": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/9fa5cf_1e82ad16b3864514b8818a6cf9d357a4_mv2.jpg.webp",
+      "width": 720,
+      "height": 480,
+      "caption": "Indica vs. Sativa"
+     },
+     {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.liftedshopdc.com/heres-what-happens-to-your-body-when-you-eat-edibles/#breadcrumb",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.liftedshopdc.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Here’s What Happens to Your Body When You Eat Edibles"
+       }
+      ]
+     },
+     {
+      "@type": "WebSite",
+      "@id": "https://www.liftedshopdc.com/#website",
+      "url": "https://www.liftedshopdc.com/",
+      "name": "LIFTED SHOP, DC",
+      "description": "",
+      "potentialAction": [
+       {
+        "@type": "SearchAction",
+        "target": {
+         "@type": "EntryPoint",
+         "urlTemplate": "https://www.liftedshopdc.com/?s={search_term_string}"
+        },
+        "query-input": {
+         "@type": "PropertyValueSpecification",
+         "valueRequired": true,
+         "valueName": "search_term_string"
+        }
+       }
+      ],
+      "inLanguage": "en-US"
+     },
+     {
+      "@type": "Person",
+      "@id": "https://www.liftedshopdc.com/#/schema/person/36b5a51fea0cb8b7f7fb9d9fb2426a49",
+      "name": "kevin",
+      "image": {
+       "@type": "ImageObject",
+       "inLanguage": "en-US",
+       "@id": "https://secure.gravatar.com/avatar/0ded4728176259dd514cd3df95d945774d6163b0a8a049f1d842c93c4a11560a?s=96&d=mm&r=g",
+       "url": "https://secure.gravatar.com/avatar/0ded4728176259dd514cd3df95d945774d6163b0a8a049f1d842c93c4a11560a?s=96&d=mm&r=g",
+       "contentUrl": "https://secure.gravatar.com/avatar/0ded4728176259dd514cd3df95d945774d6163b0a8a049f1d842c93c4a11560a?s=96&d=mm&r=g",
+       "caption": "kevin"
+      },
+      "url": "https://www.liftedshopdc.com/author/kevin/"
+     }
+    ]
+   }
+  ]
+ },
+ "h1": "How Do Edibles Work?",
+ "docId": "1595",
+ "sections": [
+  {
+   "t": "group",
+   "id": "3040fde1",
+   "children": [
+    {
+     "t": "group",
+     "id": "2ce6600c",
+     "children": [
+      {
+       "t": "image",
+       "img": {
+        "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Lifted-Rocket-Logo-1.png",
+        "alt": "",
+        "w": 768,
+        "h": 768
+       },
+       "href": null,
+       "caption": null,
+       "anim": "zoomIn"
+      },
+      {
+       "t": "heading",
+       "level": "p",
+       "html": "Get ready for liftoff!",
+       "text": "Get ready for liftoff!"
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "29ab7263",
+     "children": [
+      {
+       "t": "carousel",
+       "items": [
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Higher-Frequency-Bag-2.png",
+          "alt": "Higher-Frequency-Bag-2",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Casanova-Fly-Bag.png",
+          "alt": "Casanova-Fly-Bag",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/bag-2.png",
+          "alt": "bag-2",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Dust-Mac-Bag-2.png",
+          "alt": "Dust-Mac-Bag-2",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Sugarland-Delight-Bag.png",
+          "alt": "Sugarland-Delight-Bag",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Onyx-Slam-Bag.png",
+          "alt": "Onyx-Slam-Bag",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        }
+       ]
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": null
+      }
+     ]
+    }
+   ],
+   "bg": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/feature-bg-3-1.jpg"
+  },
+  {
+   "t": "group",
+   "id": "4212828c",
+   "children": [
+    {
+     "t": "group",
+     "id": "52ebbea9",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h1",
+       "html": "How Do Edibles Work?",
+       "text": "How Do Edibles Work?"
+      },
+      {
+       "t": "image",
+       "img": {
+        "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/9fa5cf_1e82ad16b3864514b8818a6cf9d357a4_mv2.jpg.webp",
+        "alt": "Indica vs. Sativa",
+        "w": 720,
+        "h": 480
+       },
+       "href": null,
+       "caption": null
+      },
+      {
+       "t": "text",
+       "html": "<p>When you smoke cannabis, THC goes from your lungs into your bloodstream in seconds, almost unchanged.</p><p>When you eat it, it takes a longer route. It passes through your stomach and intestines, then through your liver, which changes it. A significant portion of the delta-9-THC gets converted into a different compound, <strong>11-hydroxy-THC</strong>, which reaches the brain more readily and is generally considered more potent.</p><p>That single chemical difference explains nearly everything people notice about edibles: why they feel stronger, why they feel more physical, why they last longer, and why a heavy smoker can still be caught out by a gummy.</p><h2>What Edibles Are</h2><p>Any food or drink infused with THC. Gummies and chocolates are the most common, but the category covers baked goods, mints, lozenges, savory snacks, and drinks, including <strong>THC syrup</strong>.</p><p><strong>Store-bought and homemade edibles are not equivalent</strong>, and the difference matters more than most people expect.</p><p>Commercially produced edibles are made with cannabis extract, usually produced using CO2 or ethanol, then dosed into the product in measured amounts and lab-tested. That’s why the label can tell you it contains 10mg per piece.</p><p>Homemade edibles are typically made by infusing butter or oil with flower. The potency depends on the starting material, the infusion technique, the evenness of the mixture’s distribution, and the baking temperature. Even a careful cook ends up with a batch where one brownie is noticeably stronger than another. That unpredictability is the main reason homemade edibles account for a disproportionate share of accidental overconsumption.</p><h2>How Edibles Work in Your Body</h2><p><strong>Digestion.</strong> The edible passes through your stomach into your small intestine, where the THC is absorbed into the bloodstream along with the fats it’s carried in.</p><p><strong>First pass through the liver.</strong> This is the step that makes edibles distinctive. Before the THC reaches general circulation, blood from your intestines goes to your liver, where enzymes convert a large share of the delta-9-THC into 11-hydroxy-THC. This is called first-pass metabolism, and it’s why the same milligram count behaves so differently by mouth than by lung.</p><p><strong>Into circulation and crosses into the brain.</strong> From the liver, the metabolite enters your bloodstream and travels to the brain, where it binds to CB1 receptors. These are densest in the brain, which is why the psychoactive effects are so pronounced there compared to elsewhere in the body.</p><p><strong>Slow release.</strong> THC is fat-soluble, so some is stored in fatty tissue and released gradually rather than all at once. This contributes to the long tail edibles are known for.</p><h2>Why Edibles Feel Stronger Than Smoking</h2><p>Three reasons, stacked.</p><p><strong>11-hydroxy-THC is more potent</strong> than the delta-9-THC you inhale, and it crosses the blood-brain barrier more efficiently.</p><p><strong>The delay leads people to take more.</strong> Because nothing happens for a while, a second dose often goes in before the first arrives, and then both land together.</p><p><strong>You can’t titrate.</strong> Smoking gives feedback within seconds, so you stop when you’ve had enough. Once an edible is eaten, the dose is fixed.</p><p>This is also why <strong>smoking tolerance does not reliably transfer to edibles.</strong> Someone who smokes daily has built tolerance to delta-9-THC, not to the metabolite doing most of the work here. Daily smokers are caught out by edibles routinely.</p><h2>What Do Edibles Feel Like?</h2><p>The experience varies with dose, tolerance, body chemistry, and setting, but there are consistent patterns.</p><p><strong>Most people report:</strong> a relaxed, mellow, heavy-bodied feeling, often more physical than a smoked high. Many describe it as sinking into the couch rather than a head rush. Mood lift, giggliness, and heightened enjoyment of food, music, or texture are all common.</p><p><strong>Physical effects commonly include</strong> increased appetite, dry mouth, red eyes, and a mild sense of warmth or heaviness in the limbs.</p><p><strong>Less pleasant effects are possible</strong>, particularly at higher doses or for people new to THC. Anxiety, paranoia, a racing heart, dizziness, and time feeling distorted or slowed all come up. These are unpleasant but not dangerous, and they subside as the dose wears off.</p><p><strong>Afterward</strong>, many people feel tired or ready for sleep. After a large dose, some report grogginess or mental fog the following morning.</p><p>If you’ve taken more than you intended, the practical advice is to get somewhere calm and familiar, drink water, eat something, and remember the effects will taper. Sleeping through it is often the most comfortable option.</p><h2>What Affects How Strongly You Feel It</h2><ul><li><strong>Dose in milligrams:</strong> The largest factor by a wide margin. 5mg and 50mg are not the same experience; they have different durations.</li><li><strong>Your tolerance</strong>: specifically your tolerance to edibles rather than to smoking.</li><li><strong>Body composition: </strong>THC is stored in fat tissue, so body fat percentage affects both intensity and how long effects linger.</li><li><strong>Whether you’ve eaten:</strong> Taking an edible with fatty food generally increases absorption, which can make it feel stronger overall.</li><li><strong>Individual metabolism</strong>: Metabolism accounts for much of the variation among people at identical doses.</li><li><strong>Setting and state of mind:</strong> Genuinely relevant, particularly for whether a high dose reads as pleasant or anxious.</li></ul><h2>Using Edibles Sensibly</h2><p><strong>Start at 2.5 to 5mg</strong> if you’re new, and treat 10mg as a full standard dose rather than a starting point.</p><p><strong>Wait a full two hours before taking more.</strong> This one rule prevents most bad edible experiences.</p><p><strong>Read the label</strong> for THC per serving, not per package. A 1000mg bottle or a 100mg chocolate bar is many servings, not one.</p><p><strong>Don’t mix with alcohol</strong>, which tends to amplify both and makes the delayed onset much harder to judge.</p><p><strong>Store them securely, out of reach of children and pets.</strong> Edibles look like ordinary sweets and food, which makes them the highest-risk cannabis format to have in a household. Keep them in a locked or high place, in their original labeled packaging, and never in a shared snack cupboard.</p><p><strong>Don’t drive.</strong> Impairment continues after you stop feeling obviously high.</p><p>If you take prescription medication, particularly blood thinners or sedatives, check with a doctor first.</p><h2>Frequently Asked Questions</h2><h3>How do edibles work?</h3><p>An edible is digested and absorbed through your intestines, then passes through your liver before reaching general circulation. Your liver converts much of the delta-9-THC into 11-hydroxy-THC, a more potent compound that readily crosses into the brain. That conversion is what makes edibles distinct from smoking.</p><h3>Why do edibles feel stronger than smoking?</h3><p>Mainly because of 11-hydroxy-THC, the compound your liver produces from THC during digestion. It’s considered more potent than the delta-9-THC you inhale and enters the brain more efficiently. The delayed onset also leads people to take a second dose before the first has arrived.</p><h3>What is 11-hydroxy-THC?</h3><p>A metabolite your liver creates when it processes THC from an edible. It’s more potent than delta-9-THC and crosses the blood-brain barrier more easily, which is why eating cannabis produces a different and often more intense experience than smoking the same amount.</p><h3>What do edibles feel like?</h3><p>Most people describe a relaxed, heavy-bodied, physical feeling rather than the head-focused high of smoking, along with mood lift and increased appetite. Higher doses can produce anxiety, a racing heart, or distorted time perception. Effects are typically followed by tiredness.</p><h3>Does smoking tolerance carry over to edibles?</h3><p>Not reliably. Smoking builds tolerance to delta-9-THC, while the dominant compound in an edible experience is 11-hydroxy-THC. Regular smokers are frequently surprised by edibles, which is why starting low is worth doing regardless of smoking habits.</p><h3>Why did my edible make me anxious?</h3><p>Usually, the dose was higher than your tolerance. Anxiety and paranoia are among the most common effects of overconsumption, and they’re more likely if you’re new to THC, took more than intended, or were already anxious. It’s uncomfortable rather than dangerous and passes as the dose wears off.</p><h3>Are homemade edibles less predictable?</h3><p>Considerably. Commercial edibles are made with measured extract and lab-tested, so the label reflects the contents. Homemade edibles depend on the flower used, the infusion method, and how evenly the mixture is distributed, which often results in uneven potency within a single batch.</p><h3>What are the common side effects of edibles?</h3><p>Dry mouth, red eyes, increased appetite, and drowsiness are the usual ones. At higher doses, anxiety, paranoia, dizziness, an elevated heart rate, and altered time perception can occur. Grogginess the next morning is common after a large dose.</p><h2>Respect the Milligrams</h2><p>Edibles aren’t a slower joint. The trip through your liver produces a different compound, and that’s why the experience is stronger, more physical, and longer.</p><p>Respect the milligrams, wait the two hours, and edibles are one of the most comfortable ways to consume cannabis. Rush the dose, and they’re one of the least.</p><p>For the timing side, from onset through to the last of the effects, see <a href=\"/how-long-do-edibles-last/\"><strong>how long edibles last</strong></a>. Or browse our <a href=\"/shop/\"><strong>edibles selection</strong></a>, all labeled with THC content per serving.</p><p><em>For adults 21 and over. General information, not medical advice. Speak with a healthcare provider if you take prescription medication or have an underlying health condition.</em></p>"
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "e6bd3ab",
+     "children": [
+      {
+       "t": "testimonials",
+       "items": [
+        {
+         "text": "The “Sour Punched” single rolled is the BOMB!!!! The products here are the best I have had in NW. Pricey but worth every penny and I love the staff.",
+         "name": "G.D.",
+         "title": ""
+        },
+        {
+         "text": "I’ve finally found a place where the staff shows its customers love and respect. Thanks Lifted for being my new spot for the ⛽💨💯💪",
+         "name": "B.C.",
+         "title": ""
+        },
+        {
+         "text": "Great shop. Rick helped us out and was so nice and knowledgeable letting us know his recommendations. Much better quality and selection compared to other shops in DC.",
+         "name": "K.M",
+         "title": ""
+        }
+       ]
+      },
+      {
+       "t": "heading",
+       "level": "p",
+       "html": "Exclusives",
+       "text": "Exclusives"
+      },
+      {
+       "t": "carousel",
+       "items": [
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-1-768x1024.jpg",
+          "alt": "Grandmaster Caz’s Casanova Fly",
+          "w": null,
+          "h": null
+         },
+         "caption": "<strong>Grandmaster Caz’s</strong> Casanova Fly",
+         "href": "/shop/"
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-6.jpg",
+          "alt": "Laughing Gas Inspired by Def Comedy Jam",
+          "w": null,
+          "h": null
+         },
+         "caption": "<strong>Laughing Gas</strong> Inspired by Def Comedy Jam",
+         "href": "/shop/"
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-4-768x1034.jpg",
+          "alt": "Rakim Higher Frequency Soul Flower",
+          "w": null,
+          "h": null
+         },
+         "caption": "<strong>Rakim</strong> Higher Frequency Soul Flower",
+         "href": "/shop/"
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-5-768x1035.jpg",
+          "alt": "The Sugarhill Gang’s Sugarhill Delight",
+          "w": null,
+          "h": null
+         },
+         "caption": "<strong>The Sugarhill Gang’s</strong> Sugarhill Delight",
+         "href": "/shop/"
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-3-768x1035.jpg",
+          "alt": "DAS EFX Googley Goo",
+          "w": null,
+          "h": null
+         },
+         "caption": "<strong>DAS EFX</strong> Googley Goo",
+         "href": "/shop/"
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-2-768x1035.jpg",
+          "alt": "Onyx’s SLAM",
+          "w": null,
+          "h": null
+         },
+         "caption": "<strong>Onyx’s</strong> SLAM",
+         "href": "/shop/"
+        }
+       ]
+      },
+      {
+       "t": "group",
+       "id": "7604c27",
+       "children": [
+        {
+         "t": "button",
+         "text": "(771) 216-1684",
+         "href": "tel:7712161684"
+        },
+        {
+         "t": "text",
+         "html": "<p>OR</p><p>VIEW OUR MENU OF CANNABIS PRODUCTS</p>"
+        },
+        {
+         "t": "button",
+         "text": "Shop Now",
+         "href": "/shop/"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "archive": null,
+ "unknownWidgets": []
+}

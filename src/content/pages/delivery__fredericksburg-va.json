@@ -1,0 +1,347 @@
+{
+ "path": "/delivery/fredericksburg-va/",
+ "url": "https://www.liftedshopdc.com/delivery/fredericksburg-va/",
+ "kind": "page",
+ "head": {
+  "title": "Best Weed Delivery Fredericksburg, VA | Same-Day Service",
+  "description": "Fast, discreet cannabis delivery in Fredericksburg, VA. Premium flower & edibles delivered to your door. Call (771) 216-1684.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://www.liftedshopdc.com/delivery/fredericksburg-va/",
+  "og": {
+   "og:locale": "en_US",
+   "og:type": "article",
+   "og:title": "Best Weed Delivery Fredericksburg, VA | Same-Day Service",
+   "og:description": "Fast, discreet cannabis delivery in Fredericksburg, VA. Premium flower & edibles delivered to your door. Call (771) 216-1684.",
+   "og:url": "https://www.liftedshopdc.com/delivery/fredericksburg-va/",
+   "og:site_name": "LIFTED SHOP, DC",
+   "article:modified_time": "2026-05-25T16:26:41+00:00",
+   "twitter:card": "summary_large_image",
+   "twitter:label1": "Est. reading time",
+   "twitter:data1": "2 minutes"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "WebPage",
+      "@id": "https://www.liftedshopdc.com/delivery/fredericksburg-va/",
+      "url": "https://www.liftedshopdc.com/delivery/fredericksburg-va/",
+      "name": "Best Weed Delivery Fredericksburg, VA | Same-Day Service",
+      "isPartOf": {
+       "@id": "https://www.liftedshopdc.com/#website"
+      },
+      "datePublished": "2026-02-12T16:30:10+00:00",
+      "dateModified": "2026-05-25T16:26:41+00:00",
+      "description": "Fast, discreet cannabis delivery in Fredericksburg, VA. Premium flower & edibles delivered to your door. Call (771) 216-1684.",
+      "breadcrumb": {
+       "@id": "https://www.liftedshopdc.com/delivery/fredericksburg-va/#breadcrumb"
+      },
+      "inLanguage": "en-US",
+      "potentialAction": [
+       {
+        "@type": "ReadAction",
+        "target": [
+         "https://www.liftedshopdc.com/delivery/fredericksburg-va/"
+        ]
+       }
+      ]
+     },
+     {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.liftedshopdc.com/delivery/fredericksburg-va/#breadcrumb",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.liftedshopdc.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Delivery",
+        "item": "https://www.liftedshopdc.com/delivery/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Fredericksburg VA"
+       }
+      ]
+     },
+     {
+      "@type": "WebSite",
+      "@id": "https://www.liftedshopdc.com/#website",
+      "url": "https://www.liftedshopdc.com/",
+      "name": "LIFTED SHOP, DC",
+      "description": "",
+      "potentialAction": [
+       {
+        "@type": "SearchAction",
+        "target": {
+         "@type": "EntryPoint",
+         "urlTemplate": "https://www.liftedshopdc.com/?s={search_term_string}"
+        },
+        "query-input": {
+         "@type": "PropertyValueSpecification",
+         "valueRequired": true,
+         "valueName": "search_term_string"
+        }
+       }
+      ],
+      "inLanguage": "en-US"
+     }
+    ]
+   }
+  ]
+ },
+ "h1": "Fast Cannabis Delivery in Fredericksburg",
+ "docId": "5409",
+ "sections": [
+  {
+   "t": "group",
+   "id": "1e6ef21",
+   "children": [
+    {
+     "t": "group",
+     "id": "2ca5c73",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h1",
+       "html": "Fast Cannabis Delivery in Fredericksburg",
+       "text": "Fast Cannabis Delivery in Fredericksburg"
+      },
+      {
+       "t": "text",
+       "html": "<p>Don’t feel like fighting traffic on Plank Road or Route 1? <a href=\"/\">Lifted Shop</a> brings the dispensary experience directly to your residence in Fredericksburg. We provide a premium, curated selection of cannabis products for those who value quality, privacy, and speed. Whether you’re relaxing in Downtown Fredericksburg or live out toward Celebrate Virginia, we make getting your favorites easier than ever.</p>"
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "#orderdelivery"
+      }
+     ]
+    }
+   ],
+   "bg": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/feature-bg-3-1.jpg"
+  },
+  {
+   "t": "group",
+   "id": "41b8376",
+   "children": [
+    {
+     "t": "reviews",
+     "provider": "Trustindex (Google reviews)",
+     "summary": {
+      "label": "EXCELLENT",
+      "text": "EXCELLENT Based on 2410 reviews"
+     },
+     "items": [
+      {
+       "name": "Sherrene Donovan",
+       "date": "",
+       "stars": 5,
+       "text": "Great and quick service. Big fan of Burst and Devour gummies. Thank you Nancy for all your help!!!",
+       "source": "Google"
+      },
+      {
+       "name": "Muhammad ihram Pangestu",
+       "date": "",
+       "stars": 5,
+       "text": "Weed shop delivery to Irvine apartments near UCI was quick!",
+       "source": "Google"
+      },
+      {
+       "name": "Zachariah Bailey",
+       "date": "",
+       "stars": 5,
+       "text": "Smooth cannabis delivery to our Anaheim hotel, perfect for the Disney trip 😭",
+       "source": "Google"
+      },
+      {
+       "name": "Saidi Tumwa",
+       "date": "",
+       "stars": 5,
+       "text": "Mari and Mark are great! i appreciate the help they gave me",
+       "source": "Google"
+      },
+      {
+       "name": "Jennifer Turner",
+       "date": "",
+       "stars": 5,
+       "text": "Hiyab was very helpful a great bud tender",
+       "source": "Google"
+      },
+      {
+       "name": "Jamie Coleman",
+       "date": "",
+       "stars": 5,
+       "text": "I travel to DC every month for work and a buddy of mine told me about this shop; I called the shop and found out they only do delivery now (DC only has medical shops now) so I ordered from them a few times and on my most recent order, the delivery driver, JJ, was super friendly and helpful. Got my delivery within an hr of ordering and enjoyed some incredible \"high\" energy products before my flight home. Thanks!!",
+       "source": "Google"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "9be063e",
+   "children": [
+    {
+     "t": "store",
+     "provider": "ecwid",
+     "storeId": "125946269"
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "ebbfbc2",
+   "children": [
+    {
+     "t": "group",
+     "id": "609a3e9",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "Serving All Fredericksburg Neighborhoods",
+       "text": "Serving All Fredericksburg Neighborhoods"
+      },
+      {
+       "t": "text",
+       "html": "<p>We provide rapid delivery coverage across <strong>22401, 22405, 22407, and 22408</strong>, including:</p><ul><li><strong>Downtown &amp; College Heights:</strong> Discreet service for residential areas near the University of Mary Washington.</li><li><strong>Central Park &amp; Route 3 Corridor:</strong> Fast delivery to the neighborhoods surrounding Fredericksburg’s main hub.</li><li><strong>Spotsylvania &amp; Stafford Borders:</strong> We cover the residential outskirts where other services won’t go.</li><li><strong>Idylewild &amp; Little Falls:</strong> Reliable delivery to Fredericksburg’s growing suburban communities.</li></ul>"
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "/shop/"
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "ef03211",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "How to Order Weed Delivery in Sterling",
+       "text": "How to Order Weed Delivery in Sterling"
+      },
+      {
+       "t": "text",
+       "html": "<ol><li><strong>View Our Menu:</strong> Check out our latest strains and products online.</li><li><strong>Place Your Order:</strong> Order through our secure site or call <a href=\"tel:(771)216-1684\"><strong>(771) 216-1684</strong></a>.</li><li><strong>Fast &amp; Secure Delivery:</strong> Show your 21+ ID to your driver and enjoy your premium products!</li></ol>"
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "/shop/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "9064584",
+   "children": [
+    {
+     "t": "group",
+     "id": "f8412b6",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "The Lifted Shop Menu",
+       "text": "The Lifted Shop Menu"
+      },
+      {
+       "t": "text",
+       "html": "<ul><li><strong>Top-Shelf Flower:</strong> Fresh, aromatic buds ranging from heavy Indicas for sleep to energizing Sativas for a hike along the Rappahannock River.</li><li><strong>Infused Edibles:</strong> High-quality gummies, chocolates, and beverages that offer consistent dosing and great taste.</li><li><strong>Premium Extracts:</strong> Clean, potent vapes and concentrates for those who want a refined, smoke-free experience.</li></ul>"
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "/shop/"
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "029487c",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "Frequently Asked Questions",
+       "text": "Frequently Asked Questions"
+      },
+      {
+       "t": "faq",
+       "items": [
+        {
+         "q": "Is delivery available to Stafford or Spotsylvania?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>Yes! We serve the greater Fredericksburg area, including parts of Stafford and Spotsylvania. If you are in a residential area near the city, we can likely get to you!</p>"
+          }
+         ]
+        },
+        {
+         "q": "How long does delivery take?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>We strive for same-day delivery. Depending on traffic near I-95 and the Route 3 junction, most orders arrive within 1–3 hours.</p>"
+          }
+         ]
+        },
+        {
+         "q": "Do you deliver to hotels in Fredericksburg?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>Per our safety and compliance policy, we primarily deliver to private residential /addresses. Please call us at <a href=\"tel:(771)216-1684\">(771) 216-1684</a> if you have questions about your specific location.</p>"
+          },
+          {
+           "t": "heading",
+           "level": "h2",
+           "html": "Contact Lifted Shop Today",
+           "text": "Contact Lifted Shop Today"
+          },
+          {
+           "t": "text",
+           "html": "<p>Experience the most reliable, high-quality weed delivery in Fredericksburg.</p><ul><li><strong>Phone:</strong><strong><a href=\"tel:(771)216-1684\"> (771) 216-1684</a></strong></li><li><strong>Service Areas:</strong> Fredericksburg, Stafford, Spotsylvania, and Falmouth.</li></ul>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "/shop/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "32157bf",
+   "children": [
+    {
+     "t": "map",
+     "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d50098.98877470419!2d-77.56784700594358!3d38.29833963091078!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b6c1ebbaeae025%3A0x7fa6450a21a691a1!2sFredericksburg%2C%20VA%2022401%2C%20USA!5e0!3m2!1sen!2sin!4v1771345263160!5m2!1sen!2sin",
+     "title": ""
+    }
+   ]
+  }
+ ],
+ "archive": null,
+ "unknownWidgets": []
+}

@@ -1,0 +1,350 @@
+{
+ "path": "/delivery/bowie-md/",
+ "url": "https://www.liftedshopdc.com/delivery/bowie-md/",
+ "kind": "page",
+ "head": {
+  "title": "Top-Rated Weed Delivery in Bowie, MD | Lifted Shop",
+  "description": "Lifted Shop provides premium weed delivery in Bowie, MD. Enjoy fast service, high-quality cannabis, and convenient delivery.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://www.liftedshopdc.com/delivery/bowie-md/",
+  "og": {
+   "og:locale": "en_US",
+   "og:type": "article",
+   "og:title": "Top-Rated Weed Delivery in Bowie, MD | Lifted Shop",
+   "og:description": "Lifted Shop provides premium weed delivery in Bowie, MD. Enjoy fast service, high-quality cannabis, and convenient delivery.",
+   "og:url": "https://www.liftedshopdc.com/delivery/bowie-md/",
+   "og:site_name": "LIFTED SHOP, DC",
+   "article:modified_time": "2026-05-25T16:20:30+00:00",
+   "twitter:card": "summary_large_image",
+   "twitter:label1": "Est. reading time",
+   "twitter:data1": "3 minutes"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "WebPage",
+      "@id": "https://www.liftedshopdc.com/delivery/bowie-md/",
+      "url": "https://www.liftedshopdc.com/delivery/bowie-md/",
+      "name": "Top-Rated Weed Delivery in Bowie, MD | Lifted Shop",
+      "isPartOf": {
+       "@id": "https://www.liftedshopdc.com/#website"
+      },
+      "datePublished": "2026-01-09T15:12:34+00:00",
+      "dateModified": "2026-05-25T16:20:30+00:00",
+      "description": "Lifted Shop provides premium weed delivery in Bowie, MD. Enjoy fast service, high-quality cannabis, and convenient delivery.",
+      "breadcrumb": {
+       "@id": "https://www.liftedshopdc.com/delivery/bowie-md/#breadcrumb"
+      },
+      "inLanguage": "en-US",
+      "potentialAction": [
+       {
+        "@type": "ReadAction",
+        "target": [
+         "https://www.liftedshopdc.com/delivery/bowie-md/"
+        ]
+       }
+      ]
+     },
+     {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.liftedshopdc.com/delivery/bowie-md/#breadcrumb",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.liftedshopdc.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Delivery",
+        "item": "https://www.liftedshopdc.com/delivery/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Bowie, MD"
+       }
+      ]
+     },
+     {
+      "@type": "WebSite",
+      "@id": "https://www.liftedshopdc.com/#website",
+      "url": "https://www.liftedshopdc.com/",
+      "name": "LIFTED SHOP, DC",
+      "description": "",
+      "potentialAction": [
+       {
+        "@type": "SearchAction",
+        "target": {
+         "@type": "EntryPoint",
+         "urlTemplate": "https://www.liftedshopdc.com/?s={search_term_string}"
+        },
+        "query-input": {
+         "@type": "PropertyValueSpecification",
+         "valueRequired": true,
+         "valueName": "search_term_string"
+        }
+       }
+      ],
+      "inLanguage": "en-US"
+     }
+    ]
+   }
+  ]
+ },
+ "h1": "Top-Tier Weed Delivery in Bowie, MD",
+ "docId": "5273",
+ "sections": [
+  {
+   "t": "group",
+   "id": "d3314ba",
+   "children": [
+    {
+     "t": "group",
+     "id": "d8d70ea",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h1",
+       "html": "Top-Tier Weed Delivery in Bowie, MD",
+       "text": "Top-Tier Weed Delivery in Bowie, MD"
+      },
+      {
+       "t": "text",
+       "html": "<p>Whether you are spending a quiet afternoon at Allen Pond Park or heading home after a long day in the city, the convenience of premium cannabis is now just a few clicks away. <a href=\"/\"><strong>Lifted Shop</strong></a> provides the residents of Bowie with a reliable, discreet, and high-quality weed delivery service that brings the dispensary experience directly to your doorstep. No more navigating traffic on Route 50 or rushing before closing time. We specialize in fast delivery and top-shelf products for every type of cannabis consumer.</p>"
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "#orderdelivery"
+      }
+     ]
+    }
+   ],
+   "bg": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/feature-bg-3-1.jpg"
+  },
+  {
+   "t": "group",
+   "id": "57c1f0b",
+   "children": [
+    {
+     "t": "reviews",
+     "provider": "Trustindex (Google reviews)",
+     "summary": {
+      "label": "EXCELLENT",
+      "text": "EXCELLENT Based on 2410 reviews"
+     },
+     "items": [
+      {
+       "name": "Sherrene Donovan",
+       "date": "",
+       "stars": 5,
+       "text": "Great and quick service. Big fan of Burst and Devour gummies. Thank you Nancy for all your help!!!",
+       "source": "Google"
+      },
+      {
+       "name": "Muhammad ihram Pangestu",
+       "date": "",
+       "stars": 5,
+       "text": "Weed shop delivery to Irvine apartments near UCI was quick!",
+       "source": "Google"
+      },
+      {
+       "name": "Zachariah Bailey",
+       "date": "",
+       "stars": 5,
+       "text": "Smooth cannabis delivery to our Anaheim hotel, perfect for the Disney trip 😭",
+       "source": "Google"
+      },
+      {
+       "name": "Saidi Tumwa",
+       "date": "",
+       "stars": 5,
+       "text": "Mari and Mark are great! i appreciate the help they gave me",
+       "source": "Google"
+      },
+      {
+       "name": "Jennifer Turner",
+       "date": "",
+       "stars": 5,
+       "text": "Hiyab was very helpful a great bud tender",
+       "source": "Google"
+      },
+      {
+       "name": "Jamie Coleman",
+       "date": "",
+       "stars": 5,
+       "text": "I travel to DC every month for work and a buddy of mine told me about this shop; I called the shop and found out they only do delivery now (DC only has medical shops now) so I ordered from them a few times and on my most recent order, the delivery driver, JJ, was super friendly and helpful. Got my delivery within an hr of ordering and enjoyed some incredible \"high\" energy products before my flight home. Thanks!!",
+       "source": "Google"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "44880e4",
+   "children": [
+    {
+     "t": "store",
+     "provider": "ecwid",
+     "storeId": "125946269"
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "ebbfbc2",
+   "children": [
+    {
+     "t": "group",
+     "id": "ef676b9",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "A Diverse Menu of Premium Cannabis Products",
+       "text": "A Diverse Menu of Premium Cannabis Products"
+      },
+      {
+       "t": "text",
+       "html": "<p>We understand that every individual’s preference is different. Our menu is curated to ensure the highest-quality options are available across all categories.</p><ul><li><strong>Exotic Flower Strains</strong> </li><li><strong>Convenient Pre-Rolls</strong></li><li><strong>Delicious Edibles</strong></li><li><strong>Potent Concentrates</strong></li><li><strong>Vape Cartridges &amp; Disposables</strong></li></ul>"
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "/shop/"
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "f673334",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "Simple and Legal Delivery in Bowie",
+       "text": "Simple and Legal Delivery in Bowie"
+      },
+      {
+       "t": "text",
+       "html": "<p>Cannabis delivery in Maryland is regulated to ensure safety and quality. To enjoy delivery in Bowie, you must be at least 21 years old and possess a valid government-issued ID.</p><ol><li><strong>Browse Our Online Menu:</strong> Check out our current inventory, which features real-time stock and detailed product descriptions.</li><li><strong>Verify Your Identity:</strong> Federal and state laws require us to verify your age. You will be asked to provide a photo of your ID during the checkout process.</li><li><strong>Fast &amp; Secure Delivery:</strong> Our professional couriers handle your order with the utmost care. We use unmarked vehicles to ensure your privacy within the Bowie community.</li><li><strong>Handoff:</strong> Our driver will meet you at your residence. Please have your physical ID ready for a final check at the time of delivery.</li></ol>"
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "/shop/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "f0d1e8f",
+   "children": [
+    {
+     "t": "group",
+     "id": "37bc4a9",
+     "children": [
+      {
+       "t": "text",
+       "html": "<h2><strong>Why Bowie Chooses Lifted Shop</strong></h2><p>Bowie residents value quality and professionalism. We go beyond simply “dropping off” products; we provide a curated experience. Our team is deeply knowledgeable about our strains and can help you find exactly what you need, whether it’s for relaxation, creativity, or social enjoyment.</p><p>We serve all neighborhoods in Bowie, including:</p><ul><li>Bowie Town Center</li><li>Fairwood</li><li>Northview</li><li>Collington Station</li><li>Highbridge</li></ul>"
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "/shop/"
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "a0dfdfe",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "Frequently Asked Questions",
+       "text": "Frequently Asked Questions"
+      },
+      {
+       "t": "faq",
+       "items": [
+        {
+         "q": "Is weed delivery legal in Bowie, MD?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>Yes. Since the legalization of adult-use cannabis in Maryland, licensed delivery services can legally bring cannabis products to private residences in Bowie.</p>"
+          }
+         ]
+        },
+        {
+         "q": "What are the purchase limits?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>For recreational users, the daily limit is 1.5 ounces of flower, 12 grams of concentrated cannabis (including vapes), or edible products containing up to 750mg of THC.</p>"
+          }
+         ]
+        },
+        {
+         "q": "How long does delivery usually take?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>We strive for industry-leading delivery times. While traffic and order volume can affect the schedule, most Bowie deliveries are completed within 60 to 90 minutes.</p>"
+          }
+         ]
+        },
+        {
+         "q": "Do you deliver to public places?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>No. State regulations require that all cannabis deliveries be made to a private residential address. We cannot deliver to parks, government buildings, or public spaces.</p>"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "c5a8017",
+   "children": [
+    {
+     "t": "text",
+     "html": "<h2>Elevate Your Experience with Lifted Shop</h2><p>Ready to skip the line? Get premium cannabis delivered today with the most trusted name in Maryland. We are committed to providing the Bowie community with the best products and the most reliable service.</p><p><strong>Place your order with Lifted Shop now.</strong></p>"
+    },
+    {
+     "t": "button",
+     "text": "ORDER DELIVERY",
+     "href": "/shop/"
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "c9501d3",
+   "children": [
+    {
+     "t": "map",
+     "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d99291.29691282604!2d-76.90167655851369!3d38.95018585794746!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7ea8dc206f149%3A0xcab722494aae6e55!2sBowie%2C%20MD!5e0!3m2!1sen!2sus!4v1767971447063!5m2!1sen!2sus",
+     "title": ""
+    }
+   ]
+  }
+ ],
+ "archive": null,
+ "unknownWidgets": []
+}

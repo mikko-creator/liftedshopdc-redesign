@@ -1,0 +1,291 @@
+{
+ "path": "/contact/",
+ "url": "https://www.liftedshopdc.com/contact/",
+ "kind": "page",
+ "head": {
+  "title": "Contact | Washington, DC | Lifted Shop",
+  "description": "Lifted Shop is the #1 Cannabis Dispensary in Washington DC offering the highest quality and best prices on cannabis products. Click to learn more.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://www.liftedshopdc.com/contact/",
+  "og": {
+   "og:locale": "en_US",
+   "og:type": "article",
+   "og:title": "Contact | Washington, DC | Lifted Shop",
+   "og:description": "Lifted Shop is the #1 Cannabis Dispensary in Washington DC offering the highest quality and best prices on cannabis products. Click to learn more.",
+   "og:url": "https://www.liftedshopdc.com/contact/",
+   "og:site_name": "LIFTED SHOP, DC",
+   "article:modified_time": "2025-11-18T16:24:18+00:00",
+   "og:image": "http://www.liftedshopdc.com/wp-content/uploads/2024/06/Lifted-Rocket-Logo-1-768x768.png",
+   "twitter:card": "summary_large_image",
+   "twitter:label1": "Est. reading time",
+   "twitter:data1": "3 minutes"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "WebPage",
+      "@id": "https://www.liftedshopdc.com/contact/",
+      "url": "https://www.liftedshopdc.com/contact/",
+      "name": "Contact | Washington, DC | Lifted Shop",
+      "isPartOf": {
+       "@id": "https://www.liftedshopdc.com/#website"
+      },
+      "primaryImageOfPage": {
+       "@id": "https://www.liftedshopdc.com/contact/#primaryimage"
+      },
+      "image": {
+       "@id": "https://www.liftedshopdc.com/contact/#primaryimage"
+      },
+      "thumbnailUrl": "http://www.liftedshopdc.com/wp-content/uploads/2024/06/Lifted-Rocket-Logo-1-768x768.png",
+      "datePublished": "2015-10-19T16:12:37+00:00",
+      "dateModified": "2025-11-18T16:24:18+00:00",
+      "description": "Lifted Shop is the #1 Cannabis Dispensary in Washington DC offering the highest quality and best prices on cannabis products. Click to learn more.",
+      "breadcrumb": {
+       "@id": "https://www.liftedshopdc.com/contact/#breadcrumb"
+      },
+      "inLanguage": "en-US",
+      "potentialAction": [
+       {
+        "@type": "ReadAction",
+        "target": [
+         "https://www.liftedshopdc.com/contact/"
+        ]
+       }
+      ]
+     },
+     {
+      "@type": "ImageObject",
+      "inLanguage": "en-US",
+      "@id": "https://www.liftedshopdc.com/contact/#primaryimage",
+      "url": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Lifted-Rocket-Logo-1.png",
+      "contentUrl": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Lifted-Rocket-Logo-1.png",
+      "width": 1000,
+      "height": 1000
+     },
+     {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.liftedshopdc.com/contact/#breadcrumb",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.liftedshopdc.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Contact"
+       }
+      ]
+     },
+     {
+      "@type": "WebSite",
+      "@id": "https://www.liftedshopdc.com/#website",
+      "url": "https://www.liftedshopdc.com/",
+      "name": "LIFTED SHOP, DC",
+      "description": "",
+      "potentialAction": [
+       {
+        "@type": "SearchAction",
+        "target": {
+         "@type": "EntryPoint",
+         "urlTemplate": "https://www.liftedshopdc.com/?s={search_term_string}"
+        },
+        "query-input": {
+         "@type": "PropertyValueSpecification",
+         "valueRequired": true,
+         "valueName": "search_term_string"
+        }
+       }
+      ],
+      "inLanguage": "en-US"
+     }
+    ]
+   }
+  ]
+ },
+ "h1": "Contact",
+ "docId": "27",
+ "sections": [
+  {
+   "t": "group",
+   "id": "3b8f686",
+   "children": [
+    {
+     "t": "group",
+     "id": "d73f4b0",
+     "children": [
+      {
+       "t": "image",
+       "img": {
+        "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Lifted-Rocket-Logo-1.png",
+        "alt": "",
+        "w": 768,
+        "h": 768
+       },
+       "href": null,
+       "caption": null,
+       "anim": "zoomIn"
+      },
+      {
+       "t": "heading",
+       "level": "p",
+       "html": "Get ready for liftoff!",
+       "text": "Get ready for liftoff!"
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "f6db0fe",
+     "children": [
+      {
+       "t": "carousel",
+       "items": [
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Higher-Frequency-Bag-2.png",
+          "alt": "Higher-Frequency-Bag-2",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Casanova-Fly-Bag.png",
+          "alt": "Casanova-Fly-Bag",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/bag-2.png",
+          "alt": "bag-2",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Dust-Mac-Bag-2.png",
+          "alt": "Dust-Mac-Bag-2",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Sugarland-Delight-Bag.png",
+          "alt": "Sugarland-Delight-Bag",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Onyx-Slam-Bag.png",
+          "alt": "Onyx-Slam-Bag",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        }
+       ]
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": null
+      }
+     ]
+    }
+   ],
+   "bg": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/feature-bg-3-1.jpg"
+  },
+  {
+   "t": "group",
+   "id": "774c4c0",
+   "children": [
+    {
+     "t": "group",
+     "id": "2075ccb",
+     "children": [
+      {
+       "t": "breadcrumbs",
+       "items": [
+        {
+         "text": "Home",
+         "href": "/"
+        },
+        {
+         "text": "Contact",
+         "href": null
+        }
+       ]
+      },
+      {
+       "t": "heading",
+       "level": "h1",
+       "html": "Contact",
+       "text": "Contact"
+      },
+      {
+       "t": "text",
+       "html": "<p>Please call us at <a href=\"tel:7712161684tel:7712161684\">(771) 216-1684</a>, and we will get back to you as soon as possible. For more information about our other location <strong>Lifted Shop DC</strong>, <a href=\"/about/lifted-dispensary-dc/\">click here.</a></p>"
+      },
+      {
+       "t": "group",
+       "id": "d512681",
+       "children": [
+        {
+         "t": "map",
+         "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3103.961787052919!2d-77.0228795!3d38.924850899999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7b75d990e7959%3A0x9b12697245b5b984!2sDispensary%20%26%20Weed%20Delivery%20DC%20-%20Lifted%20Shop!5e0!3m2!1sen!2sus!4v1763483013522!5m2!1sen!2sus",
+         "title": ""
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "04607df",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h3",
+       "html": "LIFTED SHOP",
+       "text": "LIFTED SHOP"
+      },
+      {
+       "t": "heading",
+       "level": "h3",
+       "html": "WASHINGTON, DC",
+       "text": "WASHINGTON, DC"
+      },
+      {
+       "t": "text",
+       "html": "<p><strong>Phone</strong>: <a href=\"tel:7712161684\"><strong>(771) 216-1684</strong></a></p><p>Orders Accepted 24hrs / day<br>Welcome 10am-9pm Daily</p><p>Address: Washington, D.C.</p>"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "archive": null,
+ "unknownWidgets": []
+}

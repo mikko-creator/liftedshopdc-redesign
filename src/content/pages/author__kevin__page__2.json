@@ -1,0 +1,253 @@
+{
+ "path": "/author/kevin/page/2/",
+ "url": "https://www.liftedshopdc.com/author/kevin/page/2/",
+ "kind": "author",
+ "head": {
+  "title": "kevin, Author at LIFTED SHOP, DC | Page 2 of 3",
+  "description": null,
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://www.liftedshopdc.com/author/kevin/page/2/",
+  "og": {
+   "og:locale": "en_US",
+   "og:type": "profile",
+   "og:title": "kevin, Author at LIFTED SHOP, DC | Page 2 of 3",
+   "og:url": "https://www.liftedshopdc.com/author/kevin/",
+   "og:site_name": "LIFTED SHOP, DC",
+   "og:image": "https://secure.gravatar.com/avatar/0ded4728176259dd514cd3df95d945774d6163b0a8a049f1d842c93c4a11560a?s=500&d=mm&r=g",
+   "twitter:card": "summary_large_image"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "ProfilePage",
+      "@id": "https://www.liftedshopdc.com/author/kevin/",
+      "url": "https://www.liftedshopdc.com/author/kevin/page/2/",
+      "name": "kevin, Author at LIFTED SHOP, DC | Page 2 of 3",
+      "isPartOf": {
+       "@id": "https://www.liftedshopdc.com/#website"
+      },
+      "primaryImageOfPage": {
+       "@id": "https://www.liftedshopdc.com/author/kevin/page/2/#primaryimage"
+      },
+      "image": {
+       "@id": "https://www.liftedshopdc.com/author/kevin/page/2/#primaryimage"
+      },
+      "thumbnailUrl": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/Shrooms-in-DC.webp",
+      "breadcrumb": {
+       "@id": "https://www.liftedshopdc.com/author/kevin/page/2/#breadcrumb"
+      },
+      "inLanguage": "en-US",
+      "potentialAction": [
+       {
+        "@type": "ReadAction",
+        "target": [
+         "https://www.liftedshopdc.com/author/kevin/page/2/"
+        ]
+       }
+      ]
+     },
+     {
+      "@type": "ImageObject",
+      "inLanguage": "en-US",
+      "@id": "https://www.liftedshopdc.com/author/kevin/page/2/#primaryimage",
+      "url": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/Shrooms-in-DC.webp",
+      "contentUrl": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/Shrooms-in-DC.webp",
+      "width": 1468,
+      "height": 1230,
+      "caption": "Shrooms in DC"
+     },
+     {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.liftedshopdc.com/author/kevin/page/2/#breadcrumb",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.liftedshopdc.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Archives for kevin"
+       }
+      ]
+     },
+     {
+      "@type": "WebSite",
+      "@id": "https://www.liftedshopdc.com/#website",
+      "url": "https://www.liftedshopdc.com/",
+      "name": "LIFTED SHOP, DC",
+      "description": "",
+      "potentialAction": [
+       {
+        "@type": "SearchAction",
+        "target": {
+         "@type": "EntryPoint",
+         "urlTemplate": "https://www.liftedshopdc.com/?s={search_term_string}"
+        },
+        "query-input": {
+         "@type": "PropertyValueSpecification",
+         "valueRequired": true,
+         "valueName": "search_term_string"
+        }
+       }
+      ],
+      "inLanguage": "en-US"
+     },
+     {
+      "@type": "Person",
+      "@id": "https://www.liftedshopdc.com/#/schema/person/36b5a51fea0cb8b7f7fb9d9fb2426a49",
+      "name": "kevin",
+      "image": {
+       "@type": "ImageObject",
+       "inLanguage": "en-US",
+       "@id": "https://secure.gravatar.com/avatar/0ded4728176259dd514cd3df95d945774d6163b0a8a049f1d842c93c4a11560a?s=96&d=mm&r=g",
+       "url": "https://secure.gravatar.com/avatar/0ded4728176259dd514cd3df95d945774d6163b0a8a049f1d842c93c4a11560a?s=96&d=mm&r=g",
+       "contentUrl": "https://secure.gravatar.com/avatar/0ded4728176259dd514cd3df95d945774d6163b0a8a049f1d842c93c4a11560a?s=96&d=mm&r=g",
+       "caption": "kevin"
+      },
+      "mainEntityOfPage": {
+       "@id": "https://www.liftedshopdc.com/author/kevin/"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ "h1": "Author: kevin",
+ "docId": null,
+ "sections": [],
+ "archive": {
+  "h1": "Author: kevin",
+  "h1Html": "Author: kevin",
+  "posts": [
+   {
+    "title": "Shrooms in DC",
+    "href": "/shrooms-in-dc/",
+    "img": {
+     "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/Shrooms-in-DC.webp",
+     "alt": "Shrooms in DC",
+     "w": 800,
+     "h": 670
+    },
+    "excerpt": "Get ready for liftoff! ORDER DELIVERY Shrooms in DC by Lifted Shop Psilocybin is a well-known increasingly popular psychedelic that has been gaining more attention recently, especially in DC. Sometimes referred to as ‘shrooms’ or ‘magic mushrooms’, psilocybin products are now available throughout the capital with no legal ramifications! In fact, in 2020, the District […]"
+   },
+   {
+    "title": "Cartridges in DC",
+    "href": "/cartridges-in-dc/",
+    "img": {
+     "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/Cartridges-in-DC.jpg",
+     "alt": "Cartridges in DC",
+     "w": 504,
+     "h": 672
+    },
+    "excerpt": "Get ready for liftoff! ORDER DELIVERY Cartridges in DC by Lifted Shop A cannabis vape cartridge is the perfect solution for you if you’re looking for a discreet and convenient way to consume cannabis. Cartridges are small, portable devices that contain concentrated cannabis oil. They come in a variety of flavors and strengths, making it […]"
+   },
+   {
+    "title": "Concentrates",
+    "href": "/concentrates/",
+    "img": {
+     "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/shutterstock_490426627-compressed-1024x684.jpg.webp",
+     "alt": "Concentrates",
+     "w": 800,
+     "h": 534
+    },
+    "excerpt": "Get ready for liftoff! ORDER DELIVERY Concentrates by Lifted Shop A concentrate is a powerful and potent form of cannabis. Concentrates have become increasingly popular in recent years because they induce an intense high, with higher levels of THC than traditional flower. They are made by extracting the desirable compounds from the plant material, resulting […]"
+   },
+   {
+    "title": "Premium Weed in DC",
+    "href": "/premium-weed-in-dc/",
+    "img": {
+     "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/Premium-Bud-c-1024x716.jpg.webp",
+     "alt": "PREMIUM WEED IN DC",
+     "w": 800,
+     "h": 559
+    },
+    "excerpt": "Get ready for liftoff! ORDER DELIVERY Premium Weed in DC by Lifted Shop As the legalization of marijuana continues to sweep across the United States, more and more people are turning to high-quality cannabis products for recreational. In Washington, DC, where weed is legal for adult use, there’s a growing demand for premium strains that […]"
+   },
+   {
+    "title": "Indica vs. Sativa",
+    "href": "/indica-vs-sativa/",
+    "img": {
+     "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/9fa5cf_f8915b85742943919a22cba1c42d8487_mv2-e1664467664781.jpg.webp",
+     "alt": "Indica vs. Sativa",
+     "w": 720,
+     "h": 480
+    },
+    "excerpt": "Get ready for liftoff! ORDER DELIVERY Indica vs. Sativa by Lifted Shop There are more than 1,000 strains of cannabis on the market today, and it can be challenging to know which is right for you. There are two main types of cannabis – Indica and Sativa. Indica strains are often recommended for night-time use […]"
+   },
+   {
+    "title": "Here’s What Happens to Your Body When You Eat Edibles",
+    "href": "/heres-what-happens-to-your-body-when-you-eat-edibles/",
+    "img": {
+     "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/9fa5cf_1e82ad16b3864514b8818a6cf9d357a4_mv2.jpg.webp",
+     "alt": "Indica vs. Sativa",
+     "w": 720,
+     "h": 480
+    },
+    "excerpt": "Get ready for liftoff! ORDER DELIVERY How Do Edibles Work? When you smoke cannabis, THC goes from your lungs into your bloodstream in seconds, almost unchanged. When you eat it, it takes a longer route. It passes through your stomach and intestines, then through your liver, which changes it. A significant portion of the delta-9-THC […]"
+   },
+   {
+    "title": "Best Weed for Anxiety",
+    "href": "/best-weed-for-anxiety/",
+    "img": {
+     "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/cc0ea4_d6ab8d8edf7d4ea7a2b02fa25f646772_mv2-e1664293670788.jpg.webp",
+     "alt": "Best Weed for Anxiety",
+     "w": 720,
+     "h": 540
+    },
+    "excerpt": "Get ready for liftoff! ORDER DELIVERY Best Weed for Anxiety by Lifted Shop There are reasons why weed is a popular product to an increasing number of people. However, dealing with anxiety is one of the leading reasons medical marijuana users are interested in this herb. Cannabis is renowned for its calming and euphoric effects […]"
+   },
+   {
+    "title": "420 Meaning",
+    "href": "/420-meaning/",
+    "img": {
+     "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/cc0ea4_4ce26a818de143e5a4a5b189f84eee5b_mv2-rotated.jpg.webp",
+     "alt": "420 Meaning",
+     "w": 600,
+     "h": 450
+    },
+    "excerpt": "Get ready for liftoff! ORDER DELIVERY 420 Meaning by Lifted Shop Whether you are new to marijuana or you’re a seasoned user of this stuff, you might have heard about 420 concerning cannabis. Well, you might have wondered what 420 is, after all. As usual, we are always here to give you meaningful info about […]"
+   },
+   {
+    "title": "How Much Is a Gram of Weed",
+    "href": "/how-much-is-a-gram-of-weed/",
+    "img": {
+     "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/cc0ea4_ea5de0dc2569448aa75f19af51b9378d_mv2-e1664236167143.jpg.webp",
+     "alt": "",
+     "w": 800,
+     "h": 533
+    },
+    "excerpt": "Get ready for liftoff! ORDER DELIVERY How Much Is a Gram of Weed by Lifted Shop Whether you’re a cannabis enthusiast or applied for your first medical marijuana card, the concept of marijuana amounts, prices, and weights can confuse the differing slang used to determine where you are in the world. Terms like “five-gram eighths” […]"
+   },
+   {
+    "title": "Cannabis vs Marijuana vs Weed: What’s the Difference?",
+    "href": "/pot-weed-marijuana-what-should-we-call-it/",
+    "img": {
+     "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/cc0ea4_60eb72fadd564ebcb109577bab482f83_mv2.jpg.webp",
+     "alt": "Pot? Weed? Marijuana?",
+     "w": 720,
+     "h": 540
+    },
+    "excerpt": "Get ready for liftoff! ORDER DELIVERY Cannabis vs Marijuana vs Weed: What’s the Difference? Botanically, there isn’t one. Cannabis, marijuana, weed, pot, herb, and bud all refer to the same plant. What differs is history, tone, and legal usage. “Cannabis” is the scientific name and the one the legal industry has largely settled on. “Marijuana” […]"
+   }
+  ],
+  "pagination": [
+   {
+    "text": "Previous",
+    "href": "/author/kevin/",
+    "rel": "prev"
+   },
+   {
+    "text": "Next",
+    "href": "/author/kevin/page/3/",
+    "rel": "next"
+   }
+  ],
+  "html": ""
+ },
+ "unknownWidgets": []
+}

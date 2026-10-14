@@ -1,0 +1,702 @@
+{
+ "path": "/cartridges-in-dc/",
+ "url": "https://www.liftedshopdc.com/cartridges-in-dc/",
+ "kind": "post",
+ "head": {
+  "title": "Cartridges in DC | LIFTED SHOP, DC",
+  "description": "Lifted Shop is the #1 Cannabis Dispensary in Washington DC offering the highest quality and best prices on Cartridges in DC. Click to learn more.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://www.liftedshopdc.com/cartridges-in-dc/",
+  "og": {
+   "og:locale": "en_US",
+   "og:type": "article",
+   "og:title": "Cartridges in DC | LIFTED SHOP, DC",
+   "og:description": "Lifted Shop is the #1 Cannabis Dispensary in Washington DC offering the highest quality and best prices on Cartridges in DC. Click to learn more.",
+   "og:url": "https://www.liftedshopdc.com/cartridges-in-dc/",
+   "og:site_name": "LIFTED SHOP, DC",
+   "article:published_time": "2024-07-16T16:41:46+00:00",
+   "article:modified_time": "2026-08-13T15:55:58+00:00",
+   "og:image": "http://www.liftedshopdc.com/wp-content/uploads/2024/07/Cartridges-in-DC.jpg",
+   "og:image:width": "504",
+   "og:image:height": "672",
+   "og:image:type": "image/jpeg",
+   "twitter:card": "summary_large_image",
+   "twitter:label1": "Written by",
+   "twitter:data1": "kevin",
+   "twitter:label2": "Est. reading time",
+   "twitter:data2": "14 minutes"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "Article",
+      "@id": "https://www.liftedshopdc.com/cartridges-in-dc/#article",
+      "isPartOf": {
+       "@id": "https://www.liftedshopdc.com/cartridges-in-dc/"
+      },
+      "author": {
+       "name": "kevin",
+       "@id": "https://www.liftedshopdc.com/#/schema/person/36b5a51fea0cb8b7f7fb9d9fb2426a49"
+      },
+      "headline": "Cartridges in DC",
+      "datePublished": "2024-07-16T16:41:46+00:00",
+      "dateModified": "2026-08-13T15:55:58+00:00",
+      "mainEntityOfPage": {
+       "@id": "https://www.liftedshopdc.com/cartridges-in-dc/"
+      },
+      "wordCount": 1814,
+      "image": {
+       "@id": "https://www.liftedshopdc.com/cartridges-in-dc/#primaryimage"
+      },
+      "thumbnailUrl": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/Cartridges-in-DC.jpg",
+      "articleSection": [
+       "Cannabis Guides"
+      ],
+      "inLanguage": "en-US"
+     },
+     {
+      "@type": "WebPage",
+      "@id": "https://www.liftedshopdc.com/cartridges-in-dc/",
+      "url": "https://www.liftedshopdc.com/cartridges-in-dc/",
+      "name": "Cartridges in DC | LIFTED SHOP, DC",
+      "isPartOf": {
+       "@id": "https://www.liftedshopdc.com/#website"
+      },
+      "primaryImageOfPage": {
+       "@id": "https://www.liftedshopdc.com/cartridges-in-dc/#primaryimage"
+      },
+      "image": {
+       "@id": "https://www.liftedshopdc.com/cartridges-in-dc/#primaryimage"
+      },
+      "thumbnailUrl": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/Cartridges-in-DC.jpg",
+      "datePublished": "2024-07-16T16:41:46+00:00",
+      "dateModified": "2026-08-13T15:55:58+00:00",
+      "author": {
+       "@id": "https://www.liftedshopdc.com/#/schema/person/36b5a51fea0cb8b7f7fb9d9fb2426a49"
+      },
+      "description": "Lifted Shop is the #1 Cannabis Dispensary in Washington DC offering the highest quality and best prices on Cartridges in DC. Click to learn more.",
+      "breadcrumb": {
+       "@id": "https://www.liftedshopdc.com/cartridges-in-dc/#breadcrumb"
+      },
+      "inLanguage": "en-US",
+      "potentialAction": [
+       {
+        "@type": "ReadAction",
+        "target": [
+         "https://www.liftedshopdc.com/cartridges-in-dc/"
+        ]
+       }
+      ]
+     },
+     {
+      "@type": "ImageObject",
+      "inLanguage": "en-US",
+      "@id": "https://www.liftedshopdc.com/cartridges-in-dc/#primaryimage",
+      "url": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/Cartridges-in-DC.jpg",
+      "contentUrl": "https://www.liftedshopdc.com/wp-content/uploads/2024/07/Cartridges-in-DC.jpg",
+      "width": 504,
+      "height": 672,
+      "caption": "Cartridges in DC"
+     },
+     {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.liftedshopdc.com/cartridges-in-dc/#breadcrumb",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.liftedshopdc.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Cartridges in DC"
+       }
+      ]
+     },
+     {
+      "@type": "WebSite",
+      "@id": "https://www.liftedshopdc.com/#website",
+      "url": "https://www.liftedshopdc.com/",
+      "name": "LIFTED SHOP, DC",
+      "description": "",
+      "potentialAction": [
+       {
+        "@type": "SearchAction",
+        "target": {
+         "@type": "EntryPoint",
+         "urlTemplate": "https://www.liftedshopdc.com/?s={search_term_string}"
+        },
+        "query-input": {
+         "@type": "PropertyValueSpecification",
+         "valueRequired": true,
+         "valueName": "search_term_string"
+        }
+       }
+      ],
+      "inLanguage": "en-US"
+     },
+     {
+      "@type": "Person",
+      "@id": "https://www.liftedshopdc.com/#/schema/person/36b5a51fea0cb8b7f7fb9d9fb2426a49",
+      "name": "kevin",
+      "image": {
+       "@type": "ImageObject",
+       "inLanguage": "en-US",
+       "@id": "https://secure.gravatar.com/avatar/0ded4728176259dd514cd3df95d945774d6163b0a8a049f1d842c93c4a11560a?s=96&d=mm&r=g",
+       "url": "https://secure.gravatar.com/avatar/0ded4728176259dd514cd3df95d945774d6163b0a8a049f1d842c93c4a11560a?s=96&d=mm&r=g",
+       "contentUrl": "https://secure.gravatar.com/avatar/0ded4728176259dd514cd3df95d945774d6163b0a8a049f1d842c93c4a11560a?s=96&d=mm&r=g",
+       "caption": "kevin"
+      },
+      "url": "https://www.liftedshopdc.com/author/kevin/"
+     }
+    ]
+   }
+  ]
+ },
+ "h1": "Cartridges in DC",
+ "docId": "1624",
+ "sections": [
+  {
+   "t": "group",
+   "id": "3040fde1",
+   "children": [
+    {
+     "t": "group",
+     "id": "2ce6600c",
+     "children": [
+      {
+       "t": "image",
+       "img": {
+        "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Lifted-Rocket-Logo-1.png",
+        "alt": "",
+        "w": 768,
+        "h": 768
+       },
+       "href": null,
+       "caption": null,
+       "anim": "zoomIn"
+      },
+      {
+       "t": "heading",
+       "level": "p",
+       "html": "Get ready for liftoff!",
+       "text": "Get ready for liftoff!"
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "29ab7263",
+     "children": [
+      {
+       "t": "carousel",
+       "items": [
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Higher-Frequency-Bag-2.png",
+          "alt": "Higher-Frequency-Bag-2",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Casanova-Fly-Bag.png",
+          "alt": "Casanova-Fly-Bag",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/bag-2.png",
+          "alt": "bag-2",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Dust-Mac-Bag-2.png",
+          "alt": "Dust-Mac-Bag-2",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Sugarland-Delight-Bag.png",
+          "alt": "Sugarland-Delight-Bag",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Onyx-Slam-Bag.png",
+          "alt": "Onyx-Slam-Bag",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        }
+       ]
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": null
+      }
+     ]
+    }
+   ],
+   "bg": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/feature-bg-3-1.jpg"
+  },
+  {
+   "t": "group",
+   "id": "4212828c",
+   "children": [
+    {
+     "t": "group",
+     "id": "52ebbea9",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h1",
+       "html": "Cartridges in DC",
+       "text": "Cartridges in DC"
+      },
+      {
+       "t": "text",
+       "html": "<p>by Lifted Shop</p><p>A cannabis vape cartridge is the perfect solution for you if you’re looking for a discreet and convenient way to consume cannabis. Cartridges are small, portable devices that contain concentrated cannabis oil. They come in a variety of flavors and strengths, making it easy to find one that suits your preferences.</p><p>At Lifted DC, we offer a wide range of carts to choose from. Our products include THC oil cartridges, 510 thread vape pens, 1g carts, 2g carts, distillate cartridges, terpene-infused vape cartridges, sauce carts, disposable vape pens, rechargeable vape batteries, and variable voltage vape cartridges.</p>"
+      },
+      {
+       "t": "group",
+       "id": "1cf8011e",
+       "children": [
+        {
+         "t": "text",
+         "html": "<h3><strong>QUALITY CARTS, QUALITY INGREDIENTS</strong></h3><p>Our products are made from high-quality ingredients and are lab-tested to ensure purity and potency. We also offer a variety of strains to choose from, so you can find the perfect product to suit your needs. So whether you’re looking for a relaxing indica, an energizing sativa, or an uplifting hybrid somewhere in between, we’ve got you covered! Just shop our online menu for pickup or delivery to find the most suitable vape cartridges for your needs.</p>"
+        },
+        {
+         "t": "heading",
+         "level": "h2",
+         "html": "WEED FOR DELIVERY IN THE DMV",
+         "text": "WEED FOR DELIVERY IN THE DMV"
+        },
+        {
+         "t": "text",
+         "html": "<h3>Maryland</h3><ul><li><strong>Montgomery County:</strong><a href=\"/delivery/bethesda-md/\"> Bethesda</a>, <a href=\"/delivery/potomac-md/\">Potomac</a>, <a href=\"/delivery/rockville-md/\">Rockville</a>, <a href=\"/delivery/silver-spring-md/\">Silver Spring</a>, and <a href=\"/delivery/germantown-md/\">Germantown</a>.</li><li><strong>Prince George’s County:</strong><a href=\"/delivery/bowie-md/\"> Bowie</a>, <a href=\"/delivery/hyattsville-md/\">Hyattsville</a>, <a href=\"/delivery/south-laurel-md/\">Laurel</a>, and <a href=\"/delivery/forest-heights-md/\">Forest Heights</a>.</li><li><strong>Howard &amp; Anne Arundel Counties:</strong><a href=\"/delivery/columbia-md/\"> Columbia</a> and <a href=\"/delivery/hanover-md/\">Hanover</a>.</li><li><strong>Southern Maryland:</strong><a href=\"/delivery/waldorf-md/\"> Waldorf</a> and <a href=\"/delivery/lusby-md/\">Lusby</a>.</li><li><strong>Northern &amp; Central Maryland:</strong> <a href=\"/delivery/baltimore-md/\">Baltimore</a> and <a href=\"/delivery/frederick-md/\">Frederick</a>.</li></ul><h3>Virginia</h3><ul><li><strong>Northern Virginia:</strong><a href=\"/delivery/arlington-va/\"> Arlington</a>, <a href=\"/delivery/alexandria-va/\">Alexandria</a>, <a href=\"/delivery/fairfax-va/\">Fairfax</a>, <a href=\"/delivery/annandale-va/\">Annandale</a>, <a href=\"/delivery/tysons-va/\">Tysons</a>, <a href=\"/delivery/mclean-va/\">McLean</a>, <a href=\"/delivery/springfield-va/\">Springfield,</a> <a href=\"/delivery/burke-va/\">Burke</a>, <a href=\"/delivery/vienna-va/\">Vienna</a>, <a href=\"/delivery/oakton-va/\">Oakton</a>, and <a href=\"/delivery/seven-corners-va/\">Seven Corners</a>. </li><li><strong>Loudoun &amp; Dulles Corridor: </strong><a href=\"/delivery/ashburn-va/\">Ashburn</a>, <a href=\"/delivery/sterling-va/\">Sterling</a>, <a href=\"/delivery/reston-va/\">Reston</a>, <a href=\"/delivery/herndon-va/\">Herndon</a>, <a href=\"/delivery/leesburg-va/\">Leesburg</a>, and <a href=\"/delivery/aldie-va/\">Aldie</a>.</li><li><strong>Prince William &amp; Southern VA:</strong><a href=\"/delivery/manassas-va/\"> Manassas</a>, Manassas Park, <a href=\"/delivery/gainesville-va/\">Gainesville</a> &amp; Haymarket, <a href=\"/delivery/woodbridge-va/\">Woodbridge</a>, and <a href=\"/delivery/fredericksburg-va/\">Fredericksburg</a>.</li><li><strong>Western &amp; Peripheral Coverage:</strong> <a href=\"/delivery/chantilly-va/\">Chantilly</a>, <a href=\"/delivery/centreville-va/\">Centreville</a>, and <a href=\"/delivery/winchester-va/\">Winchester</a>. </li></ul>"
+        },
+        {
+         "t": "heading",
+         "level": "h2",
+         "html": "MORE ABOUT CARTS",
+         "text": "MORE ABOUT CARTS"
+        }
+       ]
+      },
+      {
+       "t": "group",
+       "id": "7a52da3f",
+       "children": [
+        {
+         "t": "text",
+         "html": "<p>Vaping technology has come a long way in recent years, and the design of the cartridge can greatly impact the overall experience. Modern cannabis vape cartridges are <strong>ultra-compact</strong>, custom-designed, and discreet. <a href=\"/cartridges-in-dc/#references\"><sup>(1)</sup></a> They have become increasingly popular among individuals who wish to enjoy the benefits of cannabis without inhaling smoke. Vaping offers a low-key, convenient way to consume cannabis, and with the introduction of new technologies and products, there are now <strong>more options than ever before</strong>.</p><p>At Lifted DC, we offer a wide range of products that are designed to meet the <strong>unique needs</strong> and preferences of our clients. Our products are made from high-quality cannabis strains, carefully selected and tested to ensure <strong>maximum potency and purity</strong>.</p>"
+        },
+        {
+         "t": "heading",
+         "level": "h2",
+         "html": "HOW DOES A VAPORIZER WORK?",
+         "text": "HOW DOES A VAPORIZER WORK?"
+        },
+        {
+         "t": "text",
+         "html": "<p>A cannabis vaporizer consists of three basic components: the heating element, temperature control, and the chamber where the cannabis concentrate is placed. The <strong>heating element</strong> is responsible for heating up the cannabis to the desired temperature range, which typically ranges from 170°C-230°C. The temperature control allows users to <strong>adjust the temperature</strong> based on their preferences, ensuring they get the most out of their cannabis experience.</p><p>When cannabis is heated within the chamber, the <strong>cannabinoids and terpenes evaporate</strong> and form a vapor that is then inhaled. As opposed to smoking, there is no combustion or burning involved in vaporization. Therefore, vaporization may <strong>produce fewer harmful byproducts than smoking</strong>. <a href=\"/cartridges-in-dc/#references\"><sup>(2)</sup></a></p><h3>ADVANTAGES OF A VAPORIZER</h3><p>The <strong>psychoactive effects</strong> of vaporized cannabis are different from those produced when smoking. Vaporizers release more flavor and aroma than smoking, and the effects are usually milder and more controlled. Additionally, because vaporization is more efficient than smoking, users tend to use less cannabis overall, making it a more <strong>cost-effective</strong> method.</p><p><a href=\"/shop/\">Shop the full Lifted DC menu here.</a></p><h3>WHAT TO CONSIDER WHEN USING CANNABIS CARTRIDGES</h3><p>Before you choose your premium carts at Lifted DC, it’s important to <strong>do your research</strong> and educate yourself on the different types of cannabis oil, terpenes, and distillate available. Our team can guide you through the different products and help you choose the one that <strong>best fits your needs</strong>.</p><h3>THC CONTENT</h3><p>One of the most <strong>important factors</strong> to consider when choosing a cannabis vaporizer is the THC content. THC is the psychoactive compound in cannabis that produces the “high” sensation. Cartridges come in a variety of strengths, usually between 70% and 95%, allowing you to find the <strong>perfect dosage</strong> for your needs.</p><h3>TERPENE PROFILES</h3><p>Terpenes are aromatic compounds found in cannabis that give each strain its unique flavor and aroma. Our cartridges contain a <strong>range of terpene profiles</strong>, allowing you to choose a product that suits your taste preferences.</p><h3>CARTRIDGE MATERIALS</h3><p>Our cartridges are made from high-quality, <strong>durable, and long-lasting</strong> materials. We use cartridges that are resistant to heat and breakage, ensuring that your product remains fresh and flavorful.</p><h3>VAPING EQUIPMENT</h3><p>We also offer a range of vaping equipment, including <strong>batteries and chargers</strong>, to ensure that you have everything you need to enjoy your cannabis vape cartridge.</p><h3>DOSAGE RECOMMENDATIONS</h3><p>Our knowledgeable staff can help you determine the <strong>ideal dosage</strong> for your needs, based on your individual tolerance and experience level. We always recommend starting with a low dose and <strong>gradually increasing</strong> as needed.</p><h3>FLAVOR OPTIONS</h3><p>Finally, we offer a <strong>variety of flavors</strong> to suit every taste preference. From fruity and sweet to earthy and spicy, our cartridges come in a range of delicious flavors that will delight your senses and enhance your vaping experience.</p><p>At Lifted DC, we are committed to providing our customers with <strong>high-quality cannabis vape cartridges</strong> that meet their unique needs and preferences. Whether you’re seeking relief from pain or anxiety, or simply looking for a <strong>convenient and discreet</strong> way to consume cannabis, we have a product that’s right for you!</p>"
+        },
+        {
+         "t": "heading",
+         "level": "h2",
+         "html": "WHY VAPE?",
+         "text": "WHY VAPE?"
+        },
+        {
+         "t": "text",
+         "html": "<p>Vape cartridges have gained immense popularity over the years as a straightforward, alternative way to use cannabis. Here are some of the key benefits you can enjoy from using our cannabis vape cartridges:</p>"
+        },
+        {
+         "t": "group",
+         "id": "a781f80",
+         "children": [
+          {
+           "t": "text",
+           "html": "<ul><li>Mood Enhancement: Our cannabis vape cartridges can help to enhance mood and promote feelings of happiness and well-being.</li><li>Increased Focus and Creativity: Finally, our cannabis vape cartridges can also help to improve focus and creativity, making them an excellent choice for those who need to stay alert and productive throughout the day.</li><li>Stress Reduction: Cannabis has been shown to have stress-reducing effects that can help to alleviate symptoms of depression and anxiety.</li><li>Appetite Stimulation: Our cannabis vape cartridges can also help to stimulate appetite, making them an effective treatment option for those undergoing chemotherapy or suffering from eating disorders.</li><li>Improved Sleep: For those who struggle with sleep disorders such as insomnia or sleep apnea, our cannabis vape cartridges can help to promote better sleep patterns and improve the overall quality of your sleep.</li><li>Pain Relief: Cannabis has been proven to provide effective pain relief for those suffering from chronic pain conditions such as arthritis, multiple sclerosis, and migraines.</li></ul>"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "html": "<p>Dabbing is a popular method of consuming cannabis concentrates. A dab rig is a device used for this purpose, consisting of a glass chamber with a nail, which is heated to vaporize the concentrate and create a highly potent smoke. For those new to dabbing, using a dab rig may seem intimidating, but it’s actually quite easy to use. Here are a few simple steps to follow:</p>"
+        },
+        {
+         "t": "heading",
+         "level": "h2",
+         "html": "CANNABIS CARTRIDGES AT LIFTED DC",
+         "text": "CANNABIS CARTRIDGES AT LIFTED DC"
+        },
+        {
+         "t": "text",
+         "html": "<h3><strong>GOLD COAST</strong></h3>"
+        },
+        {
+         "t": "group",
+         "id": "82e87c8",
+         "children": [
+          {
+           "t": "text",
+           "html": "<ul><li>Gold Coast Clear Super Glue (Hybrid) 1g</li><li>Gold Coast Clear Durban Poison (Sativa) 1g</li><li>Gold Coast Clear Northern Lights, (Indica) 1g</li></ul>"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "html": "<h3><strong>MAD LABS</strong></h3>"
+        },
+        {
+         "t": "group",
+         "id": "e206435",
+         "children": [
+          {
+           "t": "text",
+           "html": "<ul><li>Mad Labs Granddaddy Purple (Indica) 1g</li><li>Mad Labs Sour Razz (Indica) 1g</li></ul>"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "html": "<h3><strong>DABWOODS</strong></h3>"
+        },
+        {
+         "t": "group",
+         "id": "af18ebd",
+         "children": [
+          {
+           "t": "text",
+           "html": "<ul><li>Dabwoods, Pineapple (Hybrid) 510 thread w/ wood tip</li><li>Dabwoods, Banana (Hybrid) 510 thread w/ wood tip</li><li>Dabwoods, Russian Cream (Hybrid) 510 thread w/ wood tip</li><li>Dabwoods, Grape (Hybrid) 510 thread w/ wood tip</li></ul>"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "html": "<h3><strong>COOKIES</strong></h3>"
+        },
+        {
+         "t": "group",
+         "id": "9ca3603",
+         "children": [
+          {
+           "t": "text",
+           "html": "<ul><li>Cookies, Gary Parton (Hybrid) Sauce Cart 510 thread</li><li>Cookies, Sweet Tea (Hybrid) Sauce Cart 510 thread</li><li>Cookies, Cereal Milk (Hybrid) Sauce Cart 510 thread</li></ul>"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "html": "<h3><strong>LEMONADE</strong></h3>"
+        },
+        {
+         "t": "group",
+         "id": "6aa8b9a",
+         "children": [
+          {
+           "t": "text",
+           "html": "<p>LemonNade, Cactus Jack (Hybrid) Sauce Cart 510 thread</p>"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "html": "<h3><strong>PULSE</strong></h3>"
+        },
+        {
+         "t": "group",
+         "id": "16a548b",
+         "children": [
+          {
+           "t": "text",
+           "html": "<ul><li>PULSE Carts Sour Tangie, (Sativa) 1g</li></ul>"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "html": "<h3><strong>MOJAVE</strong></h3>"
+        },
+        {
+         "t": "group",
+         "id": "b7bb031",
+         "children": [
+          {
+           "t": "text",
+           "html": "<ul><li>Mojave Purple Banana Pie, (Indica) 1g – Disposable</li><li>Mojave Kitchen Sink, (Hybrid) 1g – Disposable</li></ul>"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "html": "<h3><strong>TEETER JUICE</strong></h3>"
+        },
+        {
+         "t": "group",
+         "id": "7a86160",
+         "children": [
+          {
+           "t": "text",
+           "html": "<ul><li>Teeter Juice Blue Banana, (Indica) Live Resin 1g – Rechargeable</li></ul>"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "html": "<h3><strong>RAW GARDEN</strong></h3>"
+        },
+        {
+         "t": "group",
+         "id": "2e8f7f8",
+         "children": [
+          {
+           "t": "text",
+           "html": "<ul><li>Raw Garden Live Resin Sleeroy, (Sativa Hybrid) 1g</li><li>Raw Garden Live Resin Lemon Walker, (Indica) 1g</li><li>Raw Garden Live Resin Summer Haze, (Indica Hybrid) 1g</li></ul>"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "html": "<h3><strong>TORCH</strong></h3>"
+        },
+        {
+         "t": "group",
+         "id": "8ed671a",
+         "children": [
+          {
+           "t": "text",
+           "html": "<ul><li>Torch Black Diamond Runtz (Indica) 2g Cart</li><li>Torch Truffle Cake (Hybrid) 2g Cart</li><li>Torch Flower City Diesel (Sativa) 2g Cart</li></ul>"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "html": "<h3><strong>TKO</strong></h3>"
+        },
+        {
+         "t": "group",
+         "id": "dc160b4",
+         "children": [
+          {
+           "t": "text",
+           "html": "<ul><li>TKO Carts Sour Tangie, (Sativa) 1g</li><li>TKO Lemon Cake, Sativa (Hybrid) 1g </li><li>TKO Carts Sour Oranges, (Sativa Hybrid) 1g</li></ul>"
+          }
+         ]
+        },
+        {
+         "t": "text",
+         "html": "<h3><strong>ACCESSORIES</strong></h3>"
+        },
+        {
+         "t": "group",
+         "id": "5764c5e",
+         "children": [
+          {
+           "t": "text",
+           "html": "<ul><li>Standard 510 Thread Vape Battery- $20</li></ul>"
+          }
+         ]
+        },
+        {
+         "t": "heading",
+         "level": "h2",
+         "html": "COST OF CANNABIS VAPE CARTS IN DC",
+         "text": "COST OF CANNABIS VAPE CARTS IN DC"
+        },
+        {
+         "t": "text",
+         "html": "<p>If you’re interested in exploring the benefits of cannabis vaporizers and cartridges further, please contact us here at Lifted DC.</p>"
+        },
+        {
+         "t": "heading",
+         "level": "h2",
+         "html": "FAQ",
+         "text": "FAQ"
+        },
+        {
+         "t": "text",
+         "html": "<h3><strong>WHAT VAPING DEVICES ARE COMPATIBLE WITH CANNABIS CARTRIDGES?</strong></h3><p>Feel free to contact us or visit us in-person at our location in Washington DC, or come and see us at our sister store Orbit, just a few minute’s drive away. Our stores are conveniently located in metro DC, just blocks away from Howard University and Du Pont Circle. We will be happy to assist you in any way we can and guide you through the process of selecting the right product for you.</p><p>Read the Lifted DC blog and join us on Facebook and Twitter for more information about weed in the DMV.</p>"
+        },
+        {
+         "t": "text",
+         "html": "<h3><strong>WHAT IS THE THC CONTENT IN CANNABIS CARTRIDGES?</strong></h3><p>THC content in cannabis cartridges varies depending on the product. It is essential to read the label before purchasing and consuming cannabis cartridges to ensure you get the desired THC concentration. When in doubt, ask a budtender!</p>"
+        },
+        {
+         "t": "text",
+         "html": "<h3><strong>HOW SHOULD I STORE CANNABIS VAPE CARTRIDGES?</strong></h3><p>It is recommended to store cannabis cartridges in a cool, dry place away from direct sunlight. Exposure to heat and sunlight can cause the oil to degrade and lose potency.</p>"
+        },
+        {
+         "t": "text",
+         "html": "<h3><strong>HOW CAN I ENSURE PRODUCT QUALITY ASSURANCE WHEN PURCHASING CANNABIS CARTRIDGES?</strong></h3><p>When purchasing cannabis cartridges, it is important to only buy from licensed dispensaries and reputable brands with a proven track record of quality assurance. Read reviews, ask questions, and do your research to make an informed decision.</p>"
+        },
+        {
+         "t": "text",
+         "html": "<h3><strong>CAN YOU GET CBD VAPE CARTRIDGES?</strong></h3><p>Cartridges with a mix of THC and CBD are available at select cannabis dispensaries. CBD is known for its calming and anti-inflammatory properties, making it an excellent choice for pain relief and anxiety management.</p>"
+        },
+        {
+         "t": "group",
+         "id": "7805cc0",
+         "children": [
+          {
+           "t": "text",
+           "html": "<h3>Share:</h3>"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "e6bd3ab",
+     "children": [
+      {
+       "t": "testimonials",
+       "items": [
+        {
+         "text": "The “Sour Punched” single rolled is the BOMB!!!! The products here are the best I have had in NW. Pricey but worth every penny and I love the staff.",
+         "name": "G.D.",
+         "title": ""
+        },
+        {
+         "text": "I’ve finally found a place where the staff shows its customers love and respect. Thanks Lifted for being my new spot for the ⛽💨💯💪",
+         "name": "B.C.",
+         "title": ""
+        },
+        {
+         "text": "Great shop. Rick helped us out and was so nice and knowledgeable letting us know his recommendations. Much better quality and selection compared to other shops in DC.",
+         "name": "K.M",
+         "title": ""
+        }
+       ]
+      },
+      {
+       "t": "heading",
+       "level": "p",
+       "html": "Exclusives",
+       "text": "Exclusives"
+      },
+      {
+       "t": "carousel",
+       "items": [
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-1-768x1024.jpg",
+          "alt": "Grandmaster Caz’s Casanova Fly",
+          "w": null,
+          "h": null
+         },
+         "caption": "<strong>Grandmaster Caz’s</strong> Casanova Fly",
+         "href": "/shop/"
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-6.jpg",
+          "alt": "Laughing Gas Inspired by Def Comedy Jam",
+          "w": null,
+          "h": null
+         },
+         "caption": "<strong>Laughing Gas</strong> Inspired by Def Comedy Jam",
+         "href": "/shop/"
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-4-768x1034.jpg",
+          "alt": "Rakim Higher Frequency Soul Flower",
+          "w": null,
+          "h": null
+         },
+         "caption": "<strong>Rakim</strong> Higher Frequency Soul Flower",
+         "href": "/shop/"
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-5-768x1035.jpg",
+          "alt": "The Sugarhill Gang’s Sugarhill Delight",
+          "w": null,
+          "h": null
+         },
+         "caption": "<strong>The Sugarhill Gang’s</strong> Sugarhill Delight",
+         "href": "/shop/"
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-3-768x1035.jpg",
+          "alt": "DAS EFX Googley Goo",
+          "w": null,
+          "h": null
+         },
+         "caption": "<strong>DAS EFX</strong> Googley Goo",
+         "href": "/shop/"
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-2-768x1035.jpg",
+          "alt": "Onyx’s SLAM",
+          "w": null,
+          "h": null
+         },
+         "caption": "<strong>Onyx’s</strong> SLAM",
+         "href": "/shop/"
+        }
+       ]
+      },
+      {
+       "t": "group",
+       "id": "7604c27",
+       "children": [
+        {
+         "t": "button",
+         "text": "(771) 216-1684",
+         "href": "tel:7712161684"
+        },
+        {
+         "t": "text",
+         "html": "<p>OR</p><p>VIEW OUR MENU OF CANNABIS PRODUCTS</p>"
+        },
+        {
+         "t": "button",
+         "text": "Shop Now",
+         "href": "/shop/"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "archive": null,
+ "unknownWidgets": []
+}

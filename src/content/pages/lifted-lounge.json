@@ -1,0 +1,509 @@
+{
+ "path": "/lifted-lounge/",
+ "url": "https://www.liftedshopdc.com/lifted-lounge/",
+ "kind": "page",
+ "head": {
+  "title": "Best Weed Lounge in DC | Lifted Lounge",
+  "description": "Lifted Lounge is the best weed lounge in DC. Enjoy live DJs, gaming, THC drinks, and exclusive access to a hip-hop art gallery. Contact us!",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://www.liftedshopdc.com/lifted-lounge/",
+  "og": {
+   "og:locale": "en_US",
+   "og:type": "article",
+   "og:title": "Best Weed Lounge in DC | Lifted Lounge",
+   "og:description": "Lifted Lounge is the best weed lounge in DC. Enjoy live DJs, gaming, THC drinks, and exclusive access to a hip-hop art gallery. Contact us!",
+   "og:url": "https://www.liftedshopdc.com/lifted-lounge/",
+   "og:site_name": "LIFTED SHOP, DC",
+   "article:modified_time": "2026-04-14T19:21:02+00:00",
+   "og:image": "https://www.liftedshopdc.com/wp-content/uploads/2024/10/LL-logo-updated.webp",
+   "og:image:width": "735",
+   "og:image:height": "735",
+   "og:image:type": "image/webp",
+   "twitter:card": "summary_large_image",
+   "twitter:label1": "Est. reading time",
+   "twitter:data1": "10 minutes"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "WebPage",
+      "@id": "https://www.liftedshopdc.com/lifted-lounge/",
+      "url": "https://www.liftedshopdc.com/lifted-lounge/",
+      "name": "Best Weed Lounge in DC | Lifted Lounge",
+      "isPartOf": {
+       "@id": "https://www.liftedshopdc.com/#website"
+      },
+      "primaryImageOfPage": {
+       "@id": "https://www.liftedshopdc.com/lifted-lounge/#primaryimage"
+      },
+      "image": {
+       "@id": "https://www.liftedshopdc.com/lifted-lounge/#primaryimage"
+      },
+      "thumbnailUrl": "http://www.liftedshopdc.com/wp-content/uploads/2024/10/LL-logo-updated.webp",
+      "datePublished": "2024-08-08T15:36:58+00:00",
+      "dateModified": "2026-04-14T19:21:02+00:00",
+      "description": "Lifted Lounge is the best weed lounge in DC. Enjoy live DJs, gaming, THC drinks, and exclusive access to a hip-hop art gallery. Contact us!",
+      "breadcrumb": {
+       "@id": "https://www.liftedshopdc.com/lifted-lounge/#breadcrumb"
+      },
+      "inLanguage": "en-US",
+      "potentialAction": [
+       {
+        "@type": "ReadAction",
+        "target": [
+         "https://www.liftedshopdc.com/lifted-lounge/"
+        ]
+       }
+      ]
+     },
+     {
+      "@type": "ImageObject",
+      "inLanguage": "en-US",
+      "@id": "https://www.liftedshopdc.com/lifted-lounge/#primaryimage",
+      "url": "https://www.liftedshopdc.com/wp-content/uploads/2024/10/LL-logo-updated.webp",
+      "contentUrl": "https://www.liftedshopdc.com/wp-content/uploads/2024/10/LL-logo-updated.webp",
+      "width": 735,
+      "height": 735
+     },
+     {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.liftedshopdc.com/lifted-lounge/#breadcrumb",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.liftedshopdc.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Lifted Lounge"
+       }
+      ]
+     },
+     {
+      "@type": "WebSite",
+      "@id": "https://www.liftedshopdc.com/#website",
+      "url": "https://www.liftedshopdc.com/",
+      "name": "LIFTED SHOP, DC",
+      "description": "",
+      "potentialAction": [
+       {
+        "@type": "SearchAction",
+        "target": {
+         "@type": "EntryPoint",
+         "urlTemplate": "https://www.liftedshopdc.com/?s={search_term_string}"
+        },
+        "query-input": {
+         "@type": "PropertyValueSpecification",
+         "valueRequired": true,
+         "valueName": "search_term_string"
+        }
+       }
+      ],
+      "inLanguage": "en-US"
+     }
+    ]
+   }
+  ]
+ },
+ "h1": "WEED LOUNGE IN DC",
+ "docId": "1793",
+ "sections": [
+  {
+   "t": "group",
+   "id": "98a2517",
+   "children": [
+    {
+     "t": "group",
+     "id": "8dc87c6",
+     "children": [
+      {
+       "t": "image",
+       "img": {
+        "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/10/LL-logo-updated.webp",
+        "alt": "",
+        "w": 735,
+        "h": 735
+       },
+       "href": null,
+       "caption": null,
+       "anim": "zoomIn"
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "e4d6a9c",
+     "children": [
+      {
+       "t": "carousel",
+       "items": [
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Higher-Frequency-Bag-2.png",
+          "alt": "Higher-Frequency-Bag-2",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Casanova-Fly-Bag.png",
+          "alt": "Casanova-Fly-Bag",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/bag-2.png",
+          "alt": "bag-2",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Dust-Mac-Bag-2.png",
+          "alt": "Dust-Mac-Bag-2",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Sugarland-Delight-Bag.png",
+          "alt": "Sugarland-Delight-Bag",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Onyx-Slam-Bag.png",
+          "alt": "Onyx-Slam-Bag",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        }
+       ]
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "/shop/"
+      }
+     ]
+    }
+   ],
+   "bg": "https://www.liftedshopdc.com/wp-content/uploads/2024/08/Lifted-Lounge-DC.webp"
+  },
+  {
+   "t": "group",
+   "id": "8b5738a",
+   "children": [
+    {
+     "t": "heading",
+     "level": "h3",
+     "html": "We Are Accepting Deliveries Only",
+     "text": "We Are Accepting Deliveries Only"
+    },
+    {
+     "t": "heading",
+     "level": "h1",
+     "html": "WEED LOUNGE IN DC",
+     "text": "WEED LOUNGE IN DC"
+    },
+    {
+     "t": "text",
+     "html": "<p>Welcome to Lifted Lounge, the premier weed lounge and smoke lounge near you in DC! Experience the best in cannabis culture at our unique weed bar, right in the heart of DC.</p>"
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "b1a954c",
+   "children": [
+    {
+     "t": "store",
+     "provider": "ecwid",
+     "storeId": "125946269"
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "39d43c1",
+   "children": [
+    {
+     "t": "group",
+     "id": "386bcac",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "The Best DC Weed Lounge Near You",
+       "text": "The Best DC Weed Lounge Near You"
+      },
+      {
+       "t": "group",
+       "id": "8186c67",
+       "children": [
+        {
+         "t": "text",
+         "html": "<p>Our weed lounge in DC offers everything from live DJs and THC drinks to gaming options like foosball, air hockey, and video games. Come to Lifted Lounge for an unforgettable cannabis experience, right in the heart of DC. Planning your own event? Rent out our Gaming Lounge, Art Gallery, or the entire building for your next party. To book, submit an inquiry or call us at <a href=\"tel:7712161684\">(771) 216-1684</a>.</p>"
+        },
+        {
+         "t": "button",
+         "text": "Book Now",
+         "href": "/lifted-lounge/#locationcontact"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "6242f7d",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "Why Lifted Lounge is the Top Weed Bar in DC",
+       "text": "Why Lifted Lounge is the Top Weed Bar in DC"
+      },
+      {
+       "t": "group",
+       "id": "2e39bea",
+       "children": [
+        {
+         "t": "text",
+         "html": "<p>At Lifted Lounge, the premier weed lounge in DC, we offer a unique cannabis experience with live DJs, gaming, and exclusive THC beverages.</p><p><strong>Quality Cannabis</strong>: We’re dedicated to delivering top-shelf products and a premium cannabis experience in a welcoming lounge setting.</p><p><strong>Variety of Options</strong>: Choose from a diverse range of flowers, edibles, concentrates, and more.</p><p><strong>Friendly, Knowledgeable Staff</strong>: Our budtenders are ready to assist you in finding the right products for your needs.</p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "93a8ea1",
+   "children": [
+    {
+     "t": "group",
+     "id": "1b52b5b",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h3",
+       "html": "Convenient Weed Dispensary at Lifted Lounge",
+       "text": "Convenient Weed Dispensary at Lifted Lounge"
+      },
+      {
+       "t": "group",
+       "id": "5321fc9",
+       "children": [
+        {
+         "t": "text",
+         "html": "<p>At Lifted Lounge, we’re not just a premier weed lounge; we also feature a fully stocked dispensary right within our venue. Our dispensary offers a wide selection of top-shelf cannabis products, including flowers, edibles, concentrates, and more. Enjoy the convenience of shopping for quality cannabis while immersing yourself in a lively atmosphere. Our knowledgeable budtenders are here to help you find exactly what you need for your cannabis journey. Whether you’re a seasoned enthusiast or new to cannabis, our dispensary at Lifted Lounge ensures you have a memorable experience.</p>"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "b316634",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h3",
+       "html": "Hip-Hop Exhibition at Our Weed Lounge",
+       "text": "Hip-Hop Exhibition at Our Weed Lounge"
+      },
+      {
+       "t": "group",
+       "id": "9474d4d",
+       "children": [
+        {
+         "t": "text",
+         "html": "<p>While visiting the best weed lounge DC has to offer, don’t miss our Hip-Hop art gallery curated by The National Hip-Hop Museum. Our first exhibit, “Rare Flyers and Posters 1978-2000,” opens July 1st, 2024. Admission is FREE for the first 30 days! Come see the earliest Hip-Hop posters and flyers featuring pioneers like MC Sha Rock, The Fantastic 5, Zulu Nation, and more. These are rare artifacts, and you won’t want to miss this exclusive opportunity!</p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "c96080c",
+   "children": [
+    {
+     "t": "group",
+     "id": "d84eedb",
+     "children": [
+      {
+       "t": "map",
+       "src": "https://maps.google.com/maps?q=Lifted%20Lounge%2C406%20Florida%20Ave%20NW%20Washington%2C%20DC%2020001&t=m&z=15&output=embed&iwloc=near",
+       "title": "Lifted Lounge,406 Florida Ave NW Washington, DC 20001"
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "7c6ce00",
+     "children": [
+      {
+       "t": "group",
+       "id": "121acb4",
+       "children": [
+        {
+         "t": "heading",
+         "level": "h3",
+         "html": "What Our Guests Say About DC’s Favorite Weed Lounge",
+         "text": "What Our Guests Say About DC’s Favorite Weed Lounge"
+        }
+       ]
+      },
+      {
+       "t": "testimonials",
+       "items": [
+        {
+         "text": "I wish I had of found this place before all the other time I wasted with other places. Professional, Friendly, Safe, Patient and On Point. All the way from Seattle and I can honestly say, I wish they had a location back at home.",
+         "name": "T.M.",
+         "title": ""
+        },
+        {
+         "text": "Friendliest shop around! Good selection and weekly specials!",
+         "name": "M.R.",
+         "title": ""
+        },
+        {
+         "text": "I’ve finally found a place where the staff shows its customers love and respect. Thanks Lifted for being my new spot for the ⛽💨💯💪",
+         "name": "B.C.",
+         "title": ""
+        }
+       ]
+      },
+      {
+       "t": "button",
+       "text": "Read More",
+       "href": "/reviews/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "69905b8",
+   "children": [
+    {
+     "t": "carousel",
+     "items": [
+      {
+       "img": {
+        "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/11/weed-lounge-dc-scaled.jpg",
+        "alt": "weed lounge dc",
+        "w": null,
+        "h": null
+       },
+       "caption": null,
+       "href": null
+      },
+      {
+       "img": {
+        "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/11/smoke-lounge-dc.jpg",
+        "alt": "smoke lounge dc",
+        "w": null,
+        "h": null
+       },
+       "caption": null,
+       "href": null
+      },
+      {
+       "img": {
+        "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/11/smoke-lounge-near-me.jpg",
+        "alt": "smoke lounge near me",
+        "w": null,
+        "h": null
+       },
+       "caption": null,
+       "href": null
+      },
+      {
+       "img": {
+        "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/11/weed-lounge-near-me.jpg",
+        "alt": "smoke lounge near me",
+        "w": null,
+        "h": null
+       },
+       "caption": null,
+       "href": null
+      },
+      {
+       "img": {
+        "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/11/weed-lounge-nearby.jpg",
+        "alt": "weed lounge nearby",
+        "w": null,
+        "h": null
+       },
+       "caption": null,
+       "href": null
+      },
+      {
+       "img": {
+        "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/11/weed-lounge.jpg",
+        "alt": "weed lounge",
+        "w": null,
+        "h": null
+       },
+       "caption": null,
+       "href": null
+      },
+      {
+       "img": {
+        "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/11/weed-bar-dc.jpg",
+        "alt": "weed bar dc",
+        "w": null,
+        "h": null
+       },
+       "caption": null,
+       "href": null
+      },
+      {
+       "img": {
+        "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/11/weed-smoke-lounge.jpg",
+        "alt": "weed smoke lounge",
+        "w": null,
+        "h": null
+       },
+       "caption": null,
+       "href": null
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "archive": null,
+ "unknownWidgets": []
+}

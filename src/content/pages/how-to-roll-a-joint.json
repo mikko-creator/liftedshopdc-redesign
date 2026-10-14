@@ -1,0 +1,546 @@
+{
+ "path": "/how-to-roll-a-joint/",
+ "url": "https://www.liftedshopdc.com/how-to-roll-a-joint/",
+ "kind": "post",
+ "head": {
+  "title": "How to Roll a Joint: Step by Step Guide for Beginners",
+  "description": "Learn how to roll a joint in nine simple steps, from grinding to sealing. Plus the difference between a joint, spliff, blunt, and zoot.",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://www.liftedshopdc.com/how-to-roll-a-joint/",
+  "og": {
+   "og:locale": "en_US",
+   "og:type": "article",
+   "og:title": "How to Roll a Joint: Step by Step Guide for Beginners",
+   "og:description": "Learn how to roll a joint in nine simple steps, from grinding to sealing. Plus the difference between a joint, spliff, blunt, and zoot.",
+   "og:url": "https://www.liftedshopdc.com/how-to-roll-a-joint/",
+   "og:site_name": "LIFTED SHOP, DC",
+   "article:published_time": "2026-08-10T14:08:10+00:00",
+   "article:modified_time": "2026-08-13T15:57:07+00:00",
+   "og:image": "http://www.liftedshopdc.com/wp-content/uploads/2026/08/how-to-roll-a-joint.webp",
+   "og:image:width": "540",
+   "og:image:height": "356",
+   "og:image:type": "image/webp",
+   "twitter:card": "summary_large_image",
+   "twitter:label1": "Written by",
+   "twitter:data1": "kevin",
+   "twitter:label2": "Est. reading time",
+   "twitter:data2": "13 minutes"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "Article",
+      "@id": "https://www.liftedshopdc.com/how-to-roll-a-joint/#article",
+      "isPartOf": {
+       "@id": "https://www.liftedshopdc.com/how-to-roll-a-joint/"
+      },
+      "author": {
+       "name": "kevin",
+       "@id": "https://www.liftedshopdc.com/#/schema/person/36b5a51fea0cb8b7f7fb9d9fb2426a49"
+      },
+      "headline": "How to Roll a Joint",
+      "datePublished": "2026-08-10T14:08:10+00:00",
+      "dateModified": "2026-08-13T15:57:07+00:00",
+      "mainEntityOfPage": {
+       "@id": "https://www.liftedshopdc.com/how-to-roll-a-joint/"
+      },
+      "wordCount": 2238,
+      "image": {
+       "@id": "https://www.liftedshopdc.com/how-to-roll-a-joint/#primaryimage"
+      },
+      "thumbnailUrl": "https://www.liftedshopdc.com/wp-content/uploads/2026/08/how-to-roll-a-joint.webp",
+      "articleSection": [
+       "Cannabis Guides"
+      ],
+      "inLanguage": "en-US"
+     },
+     {
+      "@type": "WebPage",
+      "@id": "https://www.liftedshopdc.com/how-to-roll-a-joint/",
+      "url": "https://www.liftedshopdc.com/how-to-roll-a-joint/",
+      "name": "How to Roll a Joint: Step by Step Guide for Beginners",
+      "isPartOf": {
+       "@id": "https://www.liftedshopdc.com/#website"
+      },
+      "primaryImageOfPage": {
+       "@id": "https://www.liftedshopdc.com/how-to-roll-a-joint/#primaryimage"
+      },
+      "image": {
+       "@id": "https://www.liftedshopdc.com/how-to-roll-a-joint/#primaryimage"
+      },
+      "thumbnailUrl": "https://www.liftedshopdc.com/wp-content/uploads/2026/08/how-to-roll-a-joint.webp",
+      "datePublished": "2026-08-10T14:08:10+00:00",
+      "dateModified": "2026-08-13T15:57:07+00:00",
+      "author": {
+       "@id": "https://www.liftedshopdc.com/#/schema/person/36b5a51fea0cb8b7f7fb9d9fb2426a49"
+      },
+      "description": "Learn how to roll a joint in nine simple steps, from grinding to sealing. Plus the difference between a joint, spliff, blunt, and zoot.",
+      "breadcrumb": {
+       "@id": "https://www.liftedshopdc.com/how-to-roll-a-joint/#breadcrumb"
+      },
+      "inLanguage": "en-US",
+      "potentialAction": [
+       {
+        "@type": "ReadAction",
+        "target": [
+         "https://www.liftedshopdc.com/how-to-roll-a-joint/"
+        ]
+       }
+      ]
+     },
+     {
+      "@type": "ImageObject",
+      "inLanguage": "en-US",
+      "@id": "https://www.liftedshopdc.com/how-to-roll-a-joint/#primaryimage",
+      "url": "https://www.liftedshopdc.com/wp-content/uploads/2026/08/how-to-roll-a-joint.webp",
+      "contentUrl": "https://www.liftedshopdc.com/wp-content/uploads/2026/08/how-to-roll-a-joint.webp",
+      "width": 540,
+      "height": 356,
+      "caption": "how to roll a joint"
+     },
+     {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.liftedshopdc.com/how-to-roll-a-joint/#breadcrumb",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.liftedshopdc.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "How to Roll a Joint"
+       }
+      ]
+     },
+     {
+      "@type": "WebSite",
+      "@id": "https://www.liftedshopdc.com/#website",
+      "url": "https://www.liftedshopdc.com/",
+      "name": "LIFTED SHOP, DC",
+      "description": "",
+      "potentialAction": [
+       {
+        "@type": "SearchAction",
+        "target": {
+         "@type": "EntryPoint",
+         "urlTemplate": "https://www.liftedshopdc.com/?s={search_term_string}"
+        },
+        "query-input": {
+         "@type": "PropertyValueSpecification",
+         "valueRequired": true,
+         "valueName": "search_term_string"
+        }
+       }
+      ],
+      "inLanguage": "en-US"
+     },
+     {
+      "@type": "Person",
+      "@id": "https://www.liftedshopdc.com/#/schema/person/36b5a51fea0cb8b7f7fb9d9fb2426a49",
+      "name": "kevin",
+      "image": {
+       "@type": "ImageObject",
+       "inLanguage": "en-US",
+       "@id": "https://secure.gravatar.com/avatar/0ded4728176259dd514cd3df95d945774d6163b0a8a049f1d842c93c4a11560a?s=96&d=mm&r=g",
+       "url": "https://secure.gravatar.com/avatar/0ded4728176259dd514cd3df95d945774d6163b0a8a049f1d842c93c4a11560a?s=96&d=mm&r=g",
+       "contentUrl": "https://secure.gravatar.com/avatar/0ded4728176259dd514cd3df95d945774d6163b0a8a049f1d842c93c4a11560a?s=96&d=mm&r=g",
+       "caption": "kevin"
+      },
+      "url": "https://www.liftedshopdc.com/author/kevin/"
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+     {
+      "@type": "Question",
+      "name": "How much weed do you need for a joint?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Roughly 0.3 to 0.5 grams fills a 1 1/4 paper comfortably. A king-size paper takes closer to 0.75 to 1 gram. For reference, an eighth of an ounce is about 3.5 grams, so you&#8217;d get seven to ten standard joints out of it."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Do I need a grinder to roll a joint?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "No, but it helps a great deal. Hand-broken flower comes out in uneven chunks, and uneven flower burns unevenly. If you don&#8217;t have a grinder, break the flower down as evenly as you can with your fingers and remove every stem you find."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "What can I use as a filter if I don't have tips?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Any thin, unbleached cardboard works. A business card, the flap from your rolling paper packet, or an index card are all fine. Avoid glossy printed card and anything with heavy ink, and never use standard printer paper, which burns too fast to hold its shape."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "What's the difference between a joint and a spliff?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "A joint contains cannabis only. A spliff mixes cannabis with tobacco. The rolling method is the same for both, but a spliff burns faster and delivers nicotine along with everything else."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Which rolling papers are best for beginners?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Hemp papers in 1 1/4 size. They&#8217;re thicker than rice papers so they tear less, they hold their shape better while you tuck, and they burn slowly and evenly. Move to rice or ultra-thin papers once the motion feels natural."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "How long does a joint take to burn?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "A 1 1/4 joint typically burns for five to eight minutes of active smoking. Packing density, paper type, and how often it&#8217;s passed all change that considerably."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Why won't my joint stay lit?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Usually it&#8217;s packed too tightly or too densely, so air can&#8217;t move through. It can also happen if the flower is slightly damp. Try rolling a little looser next time, and make sure you tamped rather than crush at the packing stage."
+      }
+     }
+    ]
+   }
+  ]
+ },
+ "h1": "How to Roll a Joint",
+ "docId": "6122",
+ "sections": [
+  {
+   "t": "group",
+   "id": "4074bab",
+   "children": [
+    {
+     "t": "group",
+     "id": "34d328f",
+     "children": [
+      {
+       "t": "image",
+       "img": {
+        "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Lifted-Rocket-Logo-1.png",
+        "alt": "",
+        "w": 768,
+        "h": 768
+       },
+       "href": null,
+       "caption": null,
+       "anim": "zoomIn"
+      },
+      {
+       "t": "heading",
+       "level": "p",
+       "html": "Get ready for liftoff!",
+       "text": "Get ready for liftoff!"
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "2ab37cb",
+     "children": [
+      {
+       "t": "carousel",
+       "items": [
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Higher-Frequency-Bag-2.png",
+          "alt": "Higher-Frequency-Bag-2",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Casanova-Fly-Bag.png",
+          "alt": "Casanova-Fly-Bag",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/bag-2.png",
+          "alt": "bag-2",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Dust-Mac-Bag-2.png",
+          "alt": "Dust-Mac-Bag-2",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Sugarland-Delight-Bag.png",
+          "alt": "Sugarland-Delight-Bag",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/Onyx-Slam-Bag.png",
+          "alt": "Onyx-Slam-Bag",
+          "w": null,
+          "h": null
+         },
+         "caption": null,
+         "href": null
+        }
+       ]
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": null
+      }
+     ]
+    }
+   ],
+   "bg": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/feature-bg-3-1.jpg"
+  },
+  {
+   "t": "group",
+   "id": "534238a",
+   "children": [
+    {
+     "t": "group",
+     "id": "86379c3",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h1",
+       "html": "How to Roll a Joint",
+       "text": "How to Roll a Joint"
+      },
+      {
+       "t": "text",
+       "html": "<p>Rolling your own is one of those skills that looks impossible until the moment it clicks. Then you wonder why it ever seemed hard.</p><p>The good news is that a decent joint takes about two minutes and nine steps, and none of them require special talent. What it does require is a little patience the first few times and a willingness to waste a paper or two while you learn. Everyone does.</p><p>This guide walks through the whole process, explains the difference between a joint, a spliff, a blunt, and a zoot, and covers the mistakes that make a joint burn badly so you can skip past them.</p><h2>What You Need</h2><ul><li><strong>Rolling papers:</strong> Start with 1 1/4 size. It’s the most forgiving width and holds roughly a third to half a gram. King size holds closer to a full gram but is harder to control while you’re learning. Hemp papers burn slower and more evenly than wood pulp. Rice papers are thinner and cleaner tasting but tear more easily, so save those for later.</li><li><strong>A grinder:</strong> Not strictly required, but it makes a noticeable difference. Hand-broken flower comes out uneven, and uneven flower burns unevenly.</li><li><strong>Filter tips:</strong> Also called crutches or roaches. You can buy them in packs or cut a strip from any thin, unbleached cardboard. A business card or the flap of a rolling paper packet both work.</li><li><strong>Something to poke with:</strong> A pen, a chopstick, a shoelace tip. Anything thin enough to tamp down the open end.</li><li><strong>A flat surface:</strong> A rolling tray keeps you from losing flower into the carpet, but a book or plate is fine.</li></ul><h2>How to Roll a Joint in 9 Steps</h2><h3>1. Grind your flower</h3><p>Aim for a texture like coarse tea leaves. You want the pieces broken down evenly but not turned to dust. Powder-fine flower packs too densely, chokes off airflow, and burns hot and harsh. If you’re grinding by hand, pick out any stems as you go, since a stem will poke through your paper every time.</p><p>Half a gram is a good starting amount for a 1 1/4 paper.</p><h3>2. Make your filter</h3><p>Take a strip of thin cardboard roughly half an inch tall and two inches long. Make two or three tight accordion folds at one end, then roll the rest of the strip around those folds into a cylinder.</p><p>The folds matter. They stop the flower from pulling through into your mouth while still letting air pass. A plain rolled tube without folds will clog.</p><p>Your filter should be about as thick as a pencil.</p><h3>3. Hold the paper correctly</h3><p>Hold the paper with the glue strip facing you along the top edge. Fold it gently lengthwise into a shallow V, like a trough. This gives the flower somewhere to sit while you work.</p><h3>4. Load the filter and the flower</h3><p>Slide the filter into one end of the paper. Whether that’s the left or right end is entirely down to which hand you write with.</p><p>Then distribute your ground flower along the trough. Keep it slightly thinner near the filter and slightly fuller toward the open end. That taper is what gives you a cone shape, which burns more evenly than a straight tube.</p><h3>5. Shape it</h3><p>Pinch the paper between your thumbs and index fingers on both sides, then rock it gently back and forth. You’re compacting the flower into an even cylinder and finding out where the thin spots are. Add a pinch more wherever it feels hollow.</p><p>Don’t crush it. Firm and even, not tight.</p><h3>6. Tuck the edge</h3><p>This is the step people find hardest, and it’s worth slowing down for.</p><p>Take the edge of the paper closest to you, the one without glue, and tuck it down and around the flower, so it wraps underneath and meets the base of the glued edge. Work along the whole length rather than trying to tuck the middle and hoping the ends follow.</p><p>If the tuck won’t hold, your joint is probably overfilled. Take a little out.</p><h3>7. Roll it up</h3><p>With the tuck held in place, roll the joint upward toward the glue strip using both thumbs. Move from the filter end outward. Keep the pressure even and light.</p><h3>8. Lick and seal</h3><p>Moisten the glue strip. Less saliva than you think, because a soaked strip tears and a soggy paper burns unevenly. A single light pass is enough.</p><p>Press the seam down starting at the filter end and working toward the open end, smoothing as you go to push out trapped air.</p><h3>9. Pack and twist</h3><p>Stand the joint filter-down and use your pen or chopstick to gently tamp the flower toward the filter through the open end. This closes any air gaps that would cause an uneven burn.</p><p>Then twist the excess paper at the open end into a small wick. That seals it for transport and gives you something easy to light.</p><p>That’s it. You rolled a joint.</p><h2>Joint, Spliff, Blunt, Zoot: What’s the Difference?</h2><p>The words get used interchangeably, and they shouldn’t be, because they describe genuinely different things.</p><ul><li><strong>Joint:</strong> Cannabis only, in a thin rolling paper. This is what the steps above produce.</li><li><strong>Spliff:</strong> Cannabis mixed with tobacco, in a rolling paper. Common across Europe and the Caribbean, less so in the US. The tobacco makes it burn faster and adds nicotine, which is worth knowing if you’d rather not introduce an addictive substance into the mix.</li><li><strong>Blunt:</strong> Cannabis rolled in a tobacco leaf wrap or hollowed cigar paper. Much larger than a joint, slower burning, and the wrap itself contains tobacco.</li><li><strong>Zoot:</strong> British slang, and the meaning shifts by region. In most of the UK it means a spliff, so cannabis with tobacco, though plenty of people use it to mean any rolled cannabis. If someone offers you a zoot, it’s reasonable to ask what’s in it.</li><li><strong>Jay:</strong> Just a joint. Short for the letter J.</li></ul><h2>How to Roll a Spliff</h2><p>If you want to roll a spliff instead, the method is identical with one change at step 4.</p><p>Mix your ground cannabis and loose tobacco in the ratio you want before loading the paper, rather than layering them. Layering gives you a stretch that’s all tobacco and a stretch that’s all cannabis, which burns unevenly and tastes off.</p><p>A common starting ratio is roughly two parts cannabis to one part tobacco. Spliffs burn faster than joints, so expect it to go quicker than you’re used to.</p><h2>Five Mistakes That Ruin a Joint</h2><ul><li><strong>Grinding to powder:</strong> The single most common error. Fine flower blocks airflow, and a joint you can’t draw through is unpleasant no matter how good the flower is.</li><li><strong>Overfilling:</strong> Tempting, but it makes the tuck nearly impossible and produces a lumpy joint that burns down one side.</li><li><strong>Rolling too tight:</strong> A joint packed hard will not draw. You’ll pull, get nothing, pull harder, and end up with a hot mouthful.</li><li><strong>Rolling too loose:</strong> The opposite problem. Loose joints burn fast, run down one edge, and drop lit flower.</li><li><strong>Skipping the filter:</strong> A filter gives the joint structure, stops flower from coming through, and lets you smoke it further down without burning your fingers. It takes fifteen seconds.</li></ul><h2>Why Is My Joint Burning Unevenly?</h2><p>Uneven burning, sometimes called canoeing or running, is almost always one of three things.</p><ul><li><strong>Uneven packing:</strong> A thin section burns faster than a dense one. Tamping properly at step 9 fixes most of this.</li><li><strong>A loose seam:</strong> Air getting in through a badly sealed edge will pull the burn to one side. Press the seam firmly from the filter outward.</li><li><strong>How you’re lighting it:</strong> Rotate the joint while you light the tip so the whole face catches at once, rather than holding the flame to one spot.</li></ul><p>If it’s already running, you can often save it by licking a fingertip and dabbing the fast-burning side. The moisture slows that edge and lets the other side catch up.</p><h2>Don’t Feel Like Rolling?</h2><p>Rolling is a good skill to have, and it’s also entirely optional.</p><p><a href=\"/pre-rolls-dc/\">Pre-rolls</a> are ready to go the moment they reach your hand, rolled evenly and sealed. If you’re after something even lower effort, <a href=\"/cartridges-in-dc/\">cartridges</a> need no preparation at all, and edibles skip smoking entirely.</p><p>If you do want to roll, start with good flower. Uneven, dry, or overly stemmy material makes every step harder. Browse our <a href=\"/premium-weed-in-dc/\">premium flower</a> selection and, if you’re not sure what to pick, our guide to<a href=\"/indica-vs-sativa/\"> indica vs sativa</a> is a reasonable starting point.</p><h2>Frequently Asked Questions</h2>"
+      },
+      {
+       "t": "faq",
+       "items": [
+        {
+         "q": "How much weed do you need for a joint?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>Roughly 0.3 to 0.5 grams fills a 1 1/4 paper comfortably. A king-size paper takes closer to 0.75 to 1 gram. For reference, an eighth of an ounce is about 3.5 grams, so you’d get seven to ten standard joints out of it.</p>"
+          }
+         ]
+        },
+        {
+         "q": "Do I need a grinder to roll a joint?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>No, but it helps a great deal. Hand-broken flower comes out in uneven chunks, and uneven flower burns unevenly. If you don’t have a grinder, break the flower down as evenly as you can with your fingers and remove every stem you find.</p>"
+          }
+         ]
+        },
+        {
+         "q": "What can I use as a filter if I don't have tips?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>Any thin, unbleached cardboard works. A business card, the flap from your rolling paper packet, or an index card are all fine. Avoid glossy printed card and anything with heavy ink, and never use standard printer paper, which burns too fast to hold its shape.</p>"
+          }
+         ]
+        },
+        {
+         "q": "What's the difference between a joint and a spliff?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>A joint contains cannabis only. A spliff mixes cannabis with tobacco. The rolling method is the same for both, but a spliff burns faster and delivers nicotine along with everything else.</p>"
+          }
+         ]
+        },
+        {
+         "q": "Which rolling papers are best for beginners?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>Hemp papers in 1 1/4 size. They’re thicker than rice papers so they tear less, they hold their shape better while you tuck, and they burn slowly and evenly. Move to rice or ultra-thin papers once the motion feels natural.</p>"
+          }
+         ]
+        },
+        {
+         "q": "How long does a joint take to burn?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>A 1 1/4 joint typically burns for five to eight minutes of active smoking. Packing density, paper type, and how often it’s passed all change that considerably.</p>"
+          }
+         ]
+        },
+        {
+         "q": "Why won't my joint stay lit?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>Usually it’s packed too tightly or too densely, so air can’t move through. It can also happen if the flower is slightly damp. Try rolling a little looser next time, and make sure you tamped rather than crush at the packing stage.</p>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "html": "<h2>Ready to Roll?</h2><p>Your first few joints will be lopsided. That’s genuinely fine, and it’s how everyone starts. The tuck is the step that takes practice, and once your hands know it, the rest becomes automatic.</p><p>If you want to skip the learning curve tonight, our pre-rolls are rolled and ready. <a href=\"/shop/\">Browse the menu</a>, and we’ll get them to you.</p><p><em>For adults 21 and over.</em></p>"
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "c643239",
+     "children": [
+      {
+       "t": "testimonials",
+       "items": [
+        {
+         "text": "The “Sour Punched” single rolled is the BOMB!!!! The products here are the best I have had in NW. Pricey but worth every penny and I love the staff.",
+         "name": "G.D.",
+         "title": ""
+        },
+        {
+         "text": "I’ve finally found a place where the staff shows its customers love and respect. Thanks Lifted for being my new spot for the ⛽💨💯💪",
+         "name": "B.C.",
+         "title": ""
+        },
+        {
+         "text": "Great shop. Rick helped us out and was so nice and knowledgeable letting us know his recommendations. Much better quality and selection compared to other shops in DC.",
+         "name": "K.M",
+         "title": ""
+        }
+       ]
+      },
+      {
+       "t": "heading",
+       "level": "p",
+       "html": "Exclusives",
+       "text": "Exclusives"
+      },
+      {
+       "t": "carousel",
+       "items": [
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-1-768x1024.jpg",
+          "alt": "Grandmaster Caz’s Casanova Fly",
+          "w": null,
+          "h": null
+         },
+         "caption": "<strong>Grandmaster Caz’s</strong> Casanova Fly",
+         "href": "/shop/"
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-6.jpg",
+          "alt": "Laughing Gas Inspired by Def Comedy Jam",
+          "w": null,
+          "h": null
+         },
+         "caption": "<strong>Laughing Gas</strong> Inspired by Def Comedy Jam",
+         "href": "/shop/"
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-4-768x1034.jpg",
+          "alt": "Rakim Higher Frequency Soul Flower",
+          "w": null,
+          "h": null
+         },
+         "caption": "<strong>Rakim</strong> Higher Frequency Soul Flower",
+         "href": "/shop/"
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-5-768x1035.jpg",
+          "alt": "The Sugarhill Gang’s Sugarhill Delight",
+          "w": null,
+          "h": null
+         },
+         "caption": "<strong>The Sugarhill Gang’s</strong> Sugarhill Delight",
+         "href": "/shop/"
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-3-768x1035.jpg",
+          "alt": "DAS EFX Googley Goo",
+          "w": null,
+          "h": null
+         },
+         "caption": "<strong>DAS EFX</strong> Googley Goo",
+         "href": "/shop/"
+        },
+        {
+         "img": {
+          "src": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/prodcard-2-768x1035.jpg",
+          "alt": "Onyx’s SLAM",
+          "w": null,
+          "h": null
+         },
+         "caption": "<strong>Onyx’s</strong> SLAM",
+         "href": "/shop/"
+        }
+       ]
+      },
+      {
+       "t": "group",
+       "id": "5bb4cee",
+       "children": [
+        {
+         "t": "button",
+         "text": "(771) 216-1684",
+         "href": "tel:7712161684"
+        },
+        {
+         "t": "text",
+         "html": "<p>OR</p><p>VIEW OUR MENU OF CANNABIS PRODUCTS</p>"
+        },
+        {
+         "t": "button",
+         "text": "Shop Now",
+         "href": "/shop/"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "archive": null,
+ "unknownWidgets": []
+}

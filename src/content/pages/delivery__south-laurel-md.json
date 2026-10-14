@@ -1,0 +1,435 @@
+{
+ "path": "/delivery/south-laurel-md/",
+ "url": "https://www.liftedshopdc.com/delivery/south-laurel-md/",
+ "kind": "page",
+ "head": {
+  "title": "Weed Delivery Laurel & South Laurel, MD | 60-90 Minutes",
+  "description": "Fast, discreet weed delivery across Laurel and South Laurel, MD. Flower, edibles, carts, and pre-rolls at your door in 60 to 90 minutes. 21+",
+  "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+  "canonical": "https://www.liftedshopdc.com/delivery/south-laurel-md/",
+  "og": {
+   "og:locale": "en_US",
+   "og:type": "article",
+   "og:title": "Weed Delivery Laurel & South Laurel, MD | 60-90 Minutes",
+   "og:description": "Fast, discreet weed delivery across Laurel and South Laurel, MD. Flower, edibles, carts, and pre-rolls at your door in 60 to 90 minutes. 21+",
+   "og:url": "https://www.liftedshopdc.com/delivery/south-laurel-md/",
+   "og:site_name": "LIFTED SHOP, DC",
+   "article:modified_time": "2026-10-08T13:44:56+00:00",
+   "twitter:card": "summary_large_image",
+   "twitter:label1": "Est. reading time",
+   "twitter:data1": "6 minutes"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "WebPage",
+      "@id": "https://www.liftedshopdc.com/delivery/south-laurel-md/",
+      "url": "https://www.liftedshopdc.com/delivery/south-laurel-md/",
+      "name": "Weed Delivery Laurel & South Laurel, MD | 60-90 Minutes",
+      "isPartOf": {
+       "@id": "https://www.liftedshopdc.com/#website"
+      },
+      "datePublished": "2022-12-01T18:16:49+00:00",
+      "dateModified": "2026-10-08T13:44:56+00:00",
+      "description": "Fast, discreet weed delivery across Laurel and South Laurel, MD. Flower, edibles, carts, and pre-rolls at your door in 60 to 90 minutes. 21+",
+      "breadcrumb": {
+       "@id": "https://www.liftedshopdc.com/delivery/south-laurel-md/#breadcrumb"
+      },
+      "inLanguage": "en-US",
+      "potentialAction": [
+       {
+        "@type": "ReadAction",
+        "target": [
+         "https://www.liftedshopdc.com/delivery/south-laurel-md/"
+        ]
+       }
+      ]
+     },
+     {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.liftedshopdc.com/delivery/south-laurel-md/#breadcrumb",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.liftedshopdc.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Delivery",
+        "item": "https://www.liftedshopdc.com/delivery/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "South Laurel, MD"
+       }
+      ]
+     },
+     {
+      "@type": "WebSite",
+      "@id": "https://www.liftedshopdc.com/#website",
+      "url": "https://www.liftedshopdc.com/",
+      "name": "LIFTED SHOP, DC",
+      "description": "",
+      "potentialAction": [
+       {
+        "@type": "SearchAction",
+        "target": {
+         "@type": "EntryPoint",
+         "urlTemplate": "https://www.liftedshopdc.com/?s={search_term_string}"
+        },
+        "query-input": {
+         "@type": "PropertyValueSpecification",
+         "valueRequired": true,
+         "valueName": "search_term_string"
+        }
+       }
+      ],
+      "inLanguage": "en-US"
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+     {
+      "@type": "Question",
+      "name": "Do you deliver to South Laurel, MD?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes. South Laurel is one of our most frequently served areas, along with the neighboring Montpelier and Maryland City communities. Delivery times to South Laurel are the same as the rest of the Laurel area, typically 60 to 90 minutes."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "How long does weed delivery to Laurel take?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Most Laurel deliveries arrive within 60 to 90 minutes of your order being confirmed. Timing depends on where you are in the area and what traffic looks like on I-95 and Route 1. You will receive an ETA when your driver is dispatched."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "What are your delivery hours?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Orders can be placed online 24 hours a day. Deliveries run from 10am to 9pm daily. Anything ordered outside that window goes out at the start of the next delivery day."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Do I need a medical marijuana card?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "No. You do not need a medical card to order from Lifted Shop. All you need is a valid government issued ID showing you are 21 or older, which your driver will check at handoff."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "How much cannabis can I legally possess in Maryland?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Adults 21 and over in Maryland may possess up to 1.5 ounces of flower, 12 grams of concentrate, or products containing up to 750mg of THC. Staying within those limits is your responsibility as the customer."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Is there a minimum order for delivery to Laurel?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes, there is a minimum order value for delivery outside of DC. The current minimum is displayed at checkout before you confirm, so you will always know before you commit."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "What payment methods do you accept?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Payment options are listed at checkout. If you have a question about payment before ordering, call us at (771) 216-1684."
+      }
+     }
+    ]
+   }
+  ]
+ },
+ "h1": "Weed Delivery in Laurel & South Laurel, MD",
+ "docId": "568",
+ "sections": [
+  {
+   "t": "group",
+   "id": "32066b1",
+   "children": [
+    {
+     "t": "group",
+     "id": "ec1caf4",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h1",
+       "html": "Weed Delivery in Laurel &amp; South Laurel, MD",
+       "text": "Weed Delivery in Laurel & South Laurel, MD"
+      },
+      {
+       "t": "text",
+       "html": "<p>Lifted Shop brings fast, discreet cannabis delivery to Laurel, Maryland and every neighborhood around it. Whether you are near Main Street, out by Laurel Park, or south of Route 198 in South Laurel and Montpelier, you can order online and have a driver at your door in about 60 to 90 minutes.</p><p>Laurel sits at the meeting point of Prince George’s, Howard, and Anne Arundel counties, split down the middle by Route 1 and framed by I-95. That makes it one of the easier runs in our delivery network and one of the busiest. Our drivers know the area, from the Laurel Lakes shopping corridor to the quieter residential streets off Cherry Lane and Contee Road.</p><p>No dispensary lines. No medical card. Just a menu you can browse from your phone and a handoff at your door.</p>"
+      },
+      {
+       "t": "button",
+       "text": "ORDER DELIVERY",
+       "href": "#orderdelivery"
+      }
+     ]
+    }
+   ],
+   "bg": "https://www.liftedshopdc.com/wp-content/uploads/2024/06/feature-bg-3-1.jpg"
+  },
+  {
+   "t": "group",
+   "id": "125d715",
+   "children": [
+    {
+     "t": "group",
+     "id": "504c98b",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "A Curated Menu of Top Tier Cannabis",
+       "text": "A Curated Menu of Top Tier Cannabis"
+      },
+      {
+       "t": "text",
+       "html": "<p>Every order that goes out to Laurel comes from the same curated inventory we stock for our DC customers. Nothing is second tier because you live over the line.</p><ul><li><strong>Exotic Flower: </strong>Small-batch strains selected for potency, terpene profile, and how they actually smoke. Browse our <a href=\"/premium-weed-in-dc/\">premium flower selection</a>.</li><li><strong>Edibles:</strong> Gummies, chocolates, and baked goods with clearly labeled dosing so you know exactly what you are taking. See the full <a href=\"/edibles-in-dc/\">edibles lineup</a>.</li><li><strong>Vape Cartridges:</strong> Ready to use carts in a range of strains, ideal if you want something low profile and portable. Shop <a href=\"/cartridges-in-dc/\">cartridges</a>.</li><li><strong>Concentrates:</strong> Wax, shatter, badder, and <a href=\"/live-resin-dc/\">live resin</a> for experienced users looking for a stronger, cleaner hit. View our <a href=\"/concentrates/\">concentrates</a>.</li><li><strong>Pre-Rolls:</strong> Already rolled, already sealed, ready to go the moment they hit your hand. Check the <a href=\"/pre-rolls-dc/\">pre-roll selection</a>.</li></ul>"
+      },
+      {
+       "t": "button",
+       "text": "Order Now!",
+       "href": "/shop/"
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "87575b9",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "How Weed Delivery Works in Laurel",
+       "text": "How Weed Delivery Works in Laurel"
+      },
+      {
+       "t": "text",
+       "html": "<p><strong>1. Browse and build your order:</strong> Look through the menu and add what you want. Prices are listed up front with no surprise fees at checkout.</p><p><strong>2. Place your order:</strong> Submit online, or call us at<a href=\"tel:7712161684\"> (771) 216-1684</a> if you would rather talk to someone. Orders are accepted online 24 hours a day.</p><p><strong>3. We dispatch a driver:</strong> You get a confirmation with an ETA. Most Laurel deliveries land inside 60 to 90 minutes during our delivery window, though I-95 traffic can stretch that at rush hour.</p><p><strong>4. Meet your driver at the door:</strong> Have a valid government issued ID ready. We verify that every customer is 21 or older, every time. Your driver hands off the order, and you are done.</p>"
+      },
+      {
+       "t": "button",
+       "text": "Order Now!",
+       "href": "/shop/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "52e4106",
+   "children": [
+    {
+     "t": "group",
+     "id": "437ae67",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h3",
+       "html": "Neighborhoods We Deliver To Around Laurel",
+       "text": "Neighborhoods We Deliver To Around Laurel"
+      },
+      {
+       "t": "text",
+       "html": "<p>We cover the full Laurel area on both sides of the county line:</p><ul><li>City of Laurel (20707, 20723)</li><li>South Laurel (20708)</li><li>North Laurel</li><li>West Laurel</li><li>Montpelier</li><li>Maryland City</li><li>Russett</li><li>Scaggsville</li><li>Beltsville</li></ul><p>If you are just outside this list, call us at <a href=\"tel:7712161684\">(771) 216-1684</a> and we will tell you straight away whether we can reach you.</p>"
+      },
+      {
+       "t": "button",
+       "text": "Order Now!",
+       "href": "/shop/"
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "0ffbc53",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "How Weed Delivery Works in Laurel",
+       "text": "How Weed Delivery Works in Laurel"
+      },
+      {
+       "t": "text",
+       "html": "<p><strong>1. Browse and build your order:</strong> Look through the menu and add what you want. Prices are listed up front with no surprise fees at checkout.</p><p><strong>2. Place your order:</strong> Submit online, or call us at<a href=\"tel:7712161684\"> (771) 216-1684</a> if you would rather talk to someone. Orders are accepted online 24 hours a day.</p><p><strong>3. We dispatch a driver:</strong> You get a confirmation with an ETA. Most Laurel deliveries land inside 60 to 90 minutes during our delivery window, though I-95 traffic can stretch that at rush hour.</p><p><strong>4. Meet your driver at the door:</strong> Have a valid government issued ID ready. We verify that every customer is 21 or older, every time. Your driver hands off the order, and you are done.</p>"
+      },
+      {
+       "t": "button",
+       "text": "Order Now!",
+       "href": "/shop/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "4b23b59",
+   "children": [
+    {
+     "t": "group",
+     "id": "d094919",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "Why Laurel Residents Choose Lifted Shop",
+       "text": "Why Laurel Residents Choose Lifted Shop"
+      },
+      {
+       "t": "text",
+       "html": "<ul><li><strong>You skip the trip.</strong> Laurel is surrounded by dispensaries that all involve parking, a line, and a drive home. We come to you instead.</li><li><strong>Discreet by default.</strong> Unmarked vehicles, plain packaging, no signage, no announcement. Your neighbors have no reason to notice.</li><li><strong>Consistent quality.</strong> The same inventory, the same sourcing, and the same standards we hold for every order that leaves our shop.</li><li><strong>Real people on the phone.</strong> If something is unclear or your order needs adjusting, you can reach an actual person at <a href=\"tel:7712161684\">(771) 216-1684</a>.</li></ul>"
+      },
+      {
+       "t": "button",
+       "text": "Order Now!",
+       "href": "/shop/"
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "4f0b744",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "Frequently Asked Questions",
+       "text": "Frequently Asked Questions"
+      },
+      {
+       "t": "faq",
+       "items": [
+        {
+         "q": "Do you deliver to South Laurel, MD?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>Yes. South Laurel is one of our most frequently served areas, along with the neighboring Montpelier and Maryland City communities. Delivery times to South Laurel are the same as the rest of the Laurel area, typically 60 to 90 minutes.</p>"
+          }
+         ]
+        },
+        {
+         "q": "How long does weed delivery to Laurel take?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>Most Laurel deliveries arrive within 60 to 90 minutes of your order being confirmed. Timing depends on where you are in the area and what traffic looks like on I-95 and Route 1. You will receive an ETA when your driver is dispatched.</p>"
+          }
+         ]
+        },
+        {
+         "q": "What are your delivery hours?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>Orders can be placed online 24 hours a day. Deliveries run from 10am to 9pm daily. Anything ordered outside that window goes out at the start of the next delivery day.</p>"
+          }
+         ]
+        },
+        {
+         "q": "Do I need a medical marijuana card?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>No. You do not need a medical card to order from Lifted Shop. All you need is a valid government issued ID showing you are 21 or older, which your driver will check at handoff.</p>"
+          }
+         ]
+        },
+        {
+         "q": "How much cannabis can I legally possess in Maryland?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>Adults 21 and over in Maryland may possess up to 1.5 ounces of flower, 12 grams of concentrate, or products containing up to 750mg of THC. Staying within those limits is your responsibility as the customer.</p>"
+          }
+         ]
+        },
+        {
+         "q": "Is there a minimum order for delivery to Laurel?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>Yes, there is a minimum order value for delivery outside of DC. The current minimum is displayed at checkout before you confirm, so you will always know before you commit.</p>"
+          }
+         ]
+        },
+        {
+         "q": "What payment methods do you accept?",
+         "blocks": [
+          {
+           "t": "text",
+           "html": "<p>Payment options are listed at checkout. If you have a question about payment before ordering, call us at (771) 216-1684.</p>"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "t": "button",
+       "text": "Order Now!",
+       "href": "/shop/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "036f86f",
+   "children": [
+    {
+     "t": "heading",
+     "level": "h2",
+     "html": "Ready to Order Cannabis Delivery in Laurel?",
+     "text": "Ready to Order Cannabis Delivery in Laurel?"
+    },
+    {
+     "t": "text",
+     "html": "<p>Build your order online and have it at your door tonight. Questions first? Call (771) 216-1684 and we will walk you through it.</p>"
+    },
+    {
+     "t": "button",
+     "text": "Order Now!",
+     "href": "/shop/"
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "c572e96",
+   "children": [
+    {
+     "t": "map",
+     "src": "https://maps.google.com/maps?q=laurel%20&t=m&z=13&output=embed&iwloc=near",
+     "title": "laurel"
+    }
+   ]
+  }
+ ],
+ "archive": null,
+ "unknownWidgets": []
+}

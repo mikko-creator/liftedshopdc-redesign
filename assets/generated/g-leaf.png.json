@@ -1,0 +1,32 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "G-LEAF",
+  "file": "assets/generated/g-leaf.png",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Lifted Shop (liftedshopdc.com), its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "Studio photograph of a single fresh cannabis fan leaf with seven serrated leaflets, vivid natural green, perfectly flat and symmetrical, centred on a seamless plain light grey background, soft diffused light, crisp detail, high resolution; no text, no logos, no people, no hands, no stem cut off",
+  "input": {
+    "aspect_ratio": "1:1",
+    "output_format": "jpeg",
+    "num_images": 1,
+    "enable_safety_checker": true,
+    "safety_tolerance": "5"
+  },
+  "seed": 2282109562,
+  "requestId": "01a137f5-9842-7cb3-b84d-b0806014c48f",
+  "cutout": {
+    "model": "fal-ai/birefnet/v2",
+    "requestId": "01a137f5-c8db-7101-bf36-e3c4e54c0e29"
+  },
+  "width": 2048,
+  "height": 2048,
+  "sha256": "f885f7b714a45ef942d76b8bd610e5af119abd7314160b8be0132f7ebfa1b2dd",
+  "raw": "tmp/img/raw/G-LEAF.1791940214355.jpg",
+  "attempt": 1,
+  "generatedAt": "2026-10-14T01:10:19.585Z",
+  "review": {
+    "verdict": "PENDING",
+    "reason": null
+  }
+}
