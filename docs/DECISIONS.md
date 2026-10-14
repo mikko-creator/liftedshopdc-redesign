@@ -78,14 +78,30 @@ run are listed in "Checks run" below.
 - **D11. The store's categories are a one-row carousel** (revision 1, 2026-10-14, on the operator's request).
   - The Ecwid storefront draws its 8 top-level categories as a 3-up grid of tall cards before any product: 1,617px
     at 1280px wide.
-  - `src/scripts/ecwid-cats.js` and `src/styles/ecwid-cats.css` turn that grid into a one-row infinite carousel on
-    every page with the store. It has autoplay (paused on hover, focus, off-screen and under reduced motion), arrows,
-    drag and swipe, and keyboard arrows. A drag never opens a category.
+  - `src/scripts/ecwid-rails.js` and `src/styles/ecwid-rails.css` (first named `ecwid-cats.*`) turn that grid into a
+    one-row infinite carousel on every page with the store. It has autoplay (paused on hover, focus, off-screen,
+    under reduced motion, and for 6 s after any tap, swipe or key), arrows, drag and swipe, and keyboard arrows. A
+    drag never opens a category.
   - The row is 394px at 1280 and 280px at 390.
   - Nothing is added to or moved inside Ecwid's own markup: the cards keep Ecwid's links and the client's category
     images. Subcategory and product grids are unchanged.
   - Check: `tools/ecwid-rail-check.mjs` (15 checks against the real store) passed on home at 1280 and at 390 with
     touch, and on `/shop/` at 1280.
+- **D12. Featured Products is a one-row carousel too** (revision 2, 2026-10-14, on the operator's request).
+  - On the store's root page Ecwid lists 15 featured products three to a row: 3,355px at 1280px wide.
+  - The same script runs a second rail on that grid, with its own arrows. Its autoplay starts half a beat after the
+    categories', so the two rows never slide together.
+  - The row is 584px at 1280. On the home page the whole store panel's content drops from 4,303px to 1,532px.
+  - A category's own product listing (after tapping a category) stays a grid, with Ecwid's sorting.
+  - Check: `tools/ecwid-rail-check.mjs <url> <w> <h> <shot> products`.
+- **D13. The home final call has no cut-outs** (revision 3, 2026-10-14, on the operator's request).
+  - The paper plane and the bud are removed from "Ready for the Best Weed Delivery in DC?".
+  - The Frequent Flyer Club section's own plane rose into that section on its parallax, by up to about 140px on a
+    phone. It stays, with its depth cut from 0.3 to 0.12 and placed lower (top 14%, 13% on phones). A scroll sweep at
+    390, 1280, 1440 and 1920 finds no cut-out inside the final call at any scroll position.
+  - Also fixed, found while checking this: on phones the Frequent Flyer card's single grid column grew to the email
+    form's min-content (421px on a 298px card), pushing the title and the form off the right edge. This was in the
+    first build too. The column is now `minmax(0, 1fr)`, and under 480px the button sits under the input.
 - **Lanes.** Three parallel template lanes ran, each owning its own files (`liftoff.*`, `landing.*` and `archive.*`).
   Each lane checked its built pages for copy against the models and reported 0 missing strings:
   - liftoff: 1,270 strings across 56 pages, with a control;

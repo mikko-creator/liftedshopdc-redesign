@@ -138,9 +138,6 @@
 .hcta__copy h2 { font-size: clamp(2.2rem, 5.6vw, 5rem); text-transform: uppercase; letter-spacing: -.035em; line-height: .95; color: var(--mist); margin-bottom: .45em; }
 .hcta__copy h2 strong { background: linear-gradient(100deg, #fff 0%, #fff 40%, var(--gold) 70%, var(--leaf) 100%); -webkit-background-clip: text; background-clip: text; color: transparent; }
 .hcta .btns { justify-content: center; margin-top: 1.2rem; }
-.pro--cta-plane { left: 6%; top: 12%; width: min(360px, 30vw); }
-.pro--cta-bud { right: 4%; bottom: 6%; width: min(300px, 26vw); }
-@media (max-width: 760px) { .pro--cta-plane { top: 2%; left: -4%; } .pro--cta-bud { bottom: -4%; right: -6%; } }
 
 /* ---------- 9. Frequent Flyer Club ---------- */
 .hff { position: relative; isolation: isolate; padding-block: clamp(110px, 13vw, 180px); overflow-x: clip; }
@@ -153,8 +150,16 @@
 .ffc .form__note { margin-top: 10px; }
 .ffc__chip { position: absolute; left: 28px; top: 28px; width: 46px; height: 34px; border-radius: 8px; background: linear-gradient(135deg, #f7e27a, #c79b2b); box-shadow: inset 0 0 0 1px rgba(0,0,0,.2); opacity: .85; }
 .ffc__holo { position: absolute; inset: -40%; z-index: -1; background: conic-gradient(from 90deg, transparent, rgba(254,215,5,.18), transparent 30%, rgba(47,194,91,.14), transparent 60%, rgba(254,25,21,.14), transparent); animation: spin 22s linear infinite; }
-.pro--ff-plane { right: 8%; top: 10%; width: min(320px, 28vw); }
-@media (max-width: 760px) { .ffc__chip { display: none; } .pro--ff-plane { top: 2%; right: -2%; } }
+.pro--ff-plane { right: 8%; top: 14%; width: min(320px, 28vw); }
+@media (max-width: 760px) { .ffc__chip { display: none; } .pro--ff-plane { top: 13%; right: -2%; } }
+/* the card's one column must not grow to the form's min-content: the email input's intrinsic width plus the button
+   made it 421px on a 298px card at 390px, pushing the title and the form off the right edge */
+.ffc { grid-template-columns: minmax(0, 1fr); }
+@media (max-width: 480px) {
+  .ffc .inline-form { flex-wrap: wrap; border-radius: 26px; }
+  .ffc .inline-form input { flex: 1 1 100%; }
+  .ffc .inline-form .btn { flex: 1 1 100%; justify-content: center; }
+}
 
 /* ---------- fixes round 1 ---------- */
 .hhero__sticker { position: absolute; right: 2%; top: 40%; width: clamp(110px, 11vw, 160px); z-index: 7; }

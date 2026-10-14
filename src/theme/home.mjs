@@ -114,8 +114,7 @@ export function homePage(page, ctx) {
   const cta = '<section class="hcta">' + backdrop(ctx, { loop: 'V-SMOKE', still: 'G-SMOKE', pos: '50% 50%', cls: 'hcta__bg' })
     + '<div class="wrap hcta__in"><div class="hcta__copy prose" data-reveal>' + (ctaText ? richText(ctaText.html, ctx) : '') + '</div>'
     + (ctaBtn ? '<div class="btns" data-reveal>' + btn(ctaBtn.text, ctaBtn.href, { kind: 'primary' }) + btn('(771) 216-1684', 'tel:7712161684', { kind: 'ghost' }) + '</div>' : '') + '</div>'
-    + protrude(ctx, 'G-PLANE', 'pro--cta-plane', { depth: 0.4, sizes: '(max-width: 760px) 40vw, 360px', rot: 12 })
-    + protrude(ctx, 'G-BUD', 'pro--cta-bud', { depth: 0.2, sizes: '(max-width: 760px) 34vw, 300px', rot: -14 }) + '</section>';
+    + '</section>';   // revision 3: the paper plane and bud cut-outs removed on the operator's request
 
   /* 9. Frequent Flyer Club */
   const ffField = ffForm && ffForm.fields[0];
@@ -126,7 +125,8 @@ export function homePage(page, ctx) {
     + '<p class="kicker">' + (ffText ? strip(ffText.html) : '') + '</p><h2 class="ffc__title display split">' + (ffH ? ffH.html : '') + '</h2>'
     + (ffField ? '<form class="inline-form" method="post" action="/__form-endpoint-not-configured__"><label class="sr-only" for="ff-name">' + esc(ffField.label || 'Name') + '</label><input id="ff-name" type="text" name="name" placeholder="' + attr(ffField.placeholder || '') + '" required><button class="btn btn--primary" type="submit" disabled>' + esc(ffForm.submit) + '<span class="ico">' + ICON.arrow + '</span></button></form><p class="form__note">This preview form is not connected yet.</p>' : '')
     + '<span class="ffc__chip" aria-hidden="true"></span><span class="ffc__holo" aria-hidden="true"></span></div></div>'
-    + protrude(ctx, 'G-PLANE', 'pro--ff-plane', { depth: 0.3, sizes: '(max-width: 760px) 36vw, 320px', rot: -6 }) + '</section>';
+    // depth 0.12 (was 0.3): the parallax lift stays inside this section, never rising into the final call above it
+    + protrude(ctx, 'G-PLANE', 'pro--ff-plane', { depth: 0.12, sizes: '(max-width: 760px) 36vw, 320px', rot: -6 }) + '</section>';
 
   return hero + intro + menu + exclusives + partnerBand + why + categories + cta + ff;
 }

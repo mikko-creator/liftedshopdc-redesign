@@ -1,0 +1,61 @@
+/* ecwid-rails.css - the store root's categories and Featured Products as one-row infinite carousels
+   (src/scripts/ecwid-rails.js). Ecwid's own sheet uses id-prefixed selectors, so the layout properties carry !important. */
+.store [data-ecwid] { position: relative; }
+[data-ecwid] [data-lc-rail] {
+  display: flex !important; flex-wrap: nowrap !important; align-items: flex-start !important; justify-content: flex-start !important;
+  overflow-x: clip !important; overflow-y: visible !important; padding-block: 10px 16px !important;
+  touch-action: pan-y; cursor: grab;
+  -webkit-mask-image: linear-gradient(90deg, transparent 0, #000 2%, #000 89%, transparent 100%);
+  mask-image: linear-gradient(90deg, transparent 0, #000 2%, #000 89%, transparent 100%);
+}
+[data-ecwid] [data-lc-rail] > :not(.grid-category, .grid-product) { display: none !important; }
+[data-ecwid] [data-lc-rail] > :is(.grid-category, .grid-product) {
+  flex: 0 0 calc(100% / var(--lc-vis, 4.3)) !important; width: calc(100% / var(--lc-vis, 4.3)) !important;
+  max-width: none !important; min-width: 0 !important; float: none !important; margin-top: 0 !important;
+  transform: translate3d(calc(var(--lc-off, -1) * 100% + var(--lc-drag, 0px)), 0, 0) !important;
+  transition: transform .65s var(--ease-out) !important;
+}
+[data-ecwid] [data-lc-rail][data-lc-jump] > :is(.grid-category, .grid-product),
+[data-ecwid] [data-lc-rail][data-lc-dragging] > :is(.grid-category, .grid-product) { transition: none !important; }
+[data-ecwid] [data-lc-rail][data-lc-dragging] { cursor: grabbing; -webkit-user-select: none; user-select: none; }
+[data-ecwid] [data-lc-rail] img { -webkit-user-drag: none; -webkit-user-select: none; user-select: none; }
+
+/* the card: rounded, and on hover it lifts with a gold ring while the picture drifts in (category: the whole card;
+   product: its picture, so the title and price stay put) */
+[data-ecwid] [data-lc-rail="cats"] .grid-category__card,
+[data-ecwid] [data-lc-rail="products"] .grid-product__image { border-radius: 18px; overflow: hidden; transition: transform .5s var(--ease-out), box-shadow .5s var(--ease-out); }
+[data-ecwid] [data-lc-rail="cats"] .grid-category__picture-img,
+[data-ecwid] [data-lc-rail="products"] .grid-product__picture { transition: transform 1.2s var(--ease-out); }
+@media (hover: hover) and (pointer: fine) {
+  [data-ecwid] [data-lc-rail="cats"]:not([data-lc-dragging]) .grid-category:hover .grid-category__card,
+  [data-ecwid] [data-lc-rail="products"]:not([data-lc-dragging]) .grid-product:hover .grid-product__image { transform: translateY(-6px); box-shadow: 0 0 0 2px var(--gold), 0 14px 24px -18px rgba(254, 215, 5, .7); }
+  [data-ecwid] [data-lc-rail="cats"]:not([data-lc-dragging]) .grid-category:hover .grid-category__picture-img,
+  [data-ecwid] [data-lc-rail="products"]:not([data-lc-dragging]) .grid-product:hover .grid-product__picture { transform: scale(1.05); }
+}
+
+/* arrows: glass discs on the card images. They sit in the mount, outside Ecwid's tree but inside its `.ecwid` box,
+   whose id-prefixed reset (position, size, box, colour) applies to every div, button and svg in it: so every
+   declaration here is !important, and the position comes in through custom properties set by the script. */
+.lc-rail-nav { position: absolute !important; z-index: 6 !important; display: block !important; top: var(--lc-top, 0) !important; left: var(--lc-left, 0) !important; width: var(--lc-width, 100%) !important; height: 0 !important; margin: 0 !important; padding: 0 !important; pointer-events: none !important; }
+.lc-rail-nav .lc-rail-nav__btn {
+  position: absolute !important; top: 0 !important; translate: 0 -50% !important; box-sizing: border-box !important;
+  width: 48px !important; height: 48px !important; min-width: 0 !important; min-height: 0 !important; margin: 0 !important; padding: 0 !important;
+  display: grid !important; place-items: center !important; border: 0 !important; border-radius: 50% !important; cursor: pointer !important; pointer-events: auto !important; line-height: 0 !important;
+  color: var(--mist) !important; background: rgba(12, 10, 24, .62) !important; -webkit-backdrop-filter: blur(12px) !important; backdrop-filter: blur(12px) !important;
+  box-shadow: inset 0 0 0 1px var(--line-2), 0 12px 30px -12px rgba(0, 0, 0, .7) !important; transition: background .25s, color .25s, transform .25s !important;
+}
+.lc-rail-nav .lc-rail-nav__btn[data-dir="-1"] { left: 12px !important; right: auto !important; }
+.lc-rail-nav .lc-rail-nav__btn[data-dir="1"] { right: 12px !important; left: auto !important; }
+.lc-rail-nav .lc-rail-nav__btn:hover { background: var(--gold) !important; color: #0d0a18 !important; transform: scale(1.06) !important; }
+.lc-rail-nav .lc-rail-nav__btn:focus-visible { outline: 2px solid var(--gold) !important; outline-offset: 3px !important; }
+.lc-rail-nav .lc-rail-nav__btn svg { display: block !important; width: 18px !important; height: 18px !important; margin: 0 !important; fill: none !important; }
+.lc-rail-nav .lc-rail-nav__btn svg path { fill: none !important; stroke: currentColor !important; }
+@media (max-width: 560px) {
+  .lc-rail-nav .lc-rail-nav__btn { width: 40px !important; height: 40px !important; }
+  .lc-rail-nav .lc-rail-nav__btn[data-dir="-1"] { left: 6px !important; }
+  .lc-rail-nav .lc-rail-nav__btn[data-dir="1"] { right: 6px !important; }
+}
+@media (prefers-reduced-motion: reduce) {
+  [data-ecwid] [data-lc-rail] > :is(.grid-category, .grid-product), [data-ecwid] [data-lc-rail] .grid-category__card, [data-ecwid] [data-lc-rail] .grid-category__picture-img,
+  [data-ecwid] [data-lc-rail] .grid-product__image, [data-ecwid] [data-lc-rail] .grid-product__picture { transition: none !important; }
+}
