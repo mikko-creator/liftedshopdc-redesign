@@ -62,13 +62,16 @@ let s1 = await probe();
 check('autoplay advanced', [1, 2].map((k) => (s0.seen[k] || '').split('@')[0]).includes(s1.first), s0.first + ' -> ' + s1.first);
 if (!touch) { await mouse('mouseMoved', s1.next.x, s1.next.y); await sleep(900); s1 = await probe(); }
 
-// arrows (hovering them pauses autoplay)
+// arrows: any tap holds autoplay off for 6s (a phone has no hover), so measure from the second tap; the first may
+// have been queued behind an autoplay step already in flight
 await tap(s1.next); await sleep(1000);
+const sA = await probe();
+await tap(sA.next); await sleep(1000);
 const s2 = await probe();
-check('next arrow steps one card', s2.first === s1.seen[1].split('@')[0], s1.first + ' -> ' + s2.first);
+check('next arrow steps one card', s2.first === sA.seen[1].split('@')[0], sA.first + ' -> ' + s2.first);
 await tap(s2.prev); await sleep(1000);
 const s3 = await probe();
-check('prev arrow steps back', s3.first === s1.first, s2.first + ' -> ' + s3.first);
+check('prev arrow steps back', s3.first === sA.first, s2.first + ' -> ' + s3.first);
 // loop: 9 nexts on 8 cards wraps past the end and keeps going
 for (let i = 0; i < s3.n + 1; i++) { await tap(s3.next); await sleep(760); }
 const s3b = await probe();
