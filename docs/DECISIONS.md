@@ -75,6 +75,17 @@ run are listed in "Checks run" below.
   skipped, so the ids stay unique.
 - **D10. One rating label.** The rating bar shows the Trustindex label once ("EXCELLENT"). The summary text follows it
   ("Based on 2410 reviews").
+- **D11. The store's categories are a one-row carousel** (revision 1, 2026-10-14, on the operator's request).
+  - The Ecwid storefront draws its 8 top-level categories as a 3-up grid of tall cards before any product: 1,617px
+    at 1280px wide.
+  - `src/scripts/ecwid-cats.js` and `src/styles/ecwid-cats.css` turn that grid into a one-row infinite carousel on
+    every page with the store. It has autoplay (paused on hover, focus, off-screen and under reduced motion), arrows,
+    drag and swipe, and keyboard arrows. A drag never opens a category.
+  - The row is 394px at 1280 and 280px at 390.
+  - Nothing is added to or moved inside Ecwid's own markup: the cards keep Ecwid's links and the client's category
+    images. Subcategory and product grids are unchanged.
+  - Check: `tools/ecwid-rail-check.mjs` (15 checks against the real store) passed on home at 1280 and at 390 with
+    touch, and on `/shop/` at 1280.
 - **Lanes.** Three parallel template lanes ran, each owning its own files (`liftoff.*`, `landing.*` and `archive.*`).
   Each lane checked its built pages for copy against the models and reported 0 missing strings:
   - liftoff: 1,270 strings across 56 pages, with a control;
