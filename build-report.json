@@ -1,0 +1,41 @@
+{
+ "built": "2026-10-14T02:24:27.860Z",
+ "pages": 97,
+ "redirects": 3,
+ "css": [
+  "tokens.css",
+  "base.css",
+  "components.css",
+  "chrome.css",
+  "motion.css",
+  "blocks.css",
+  "home.css",
+  "liftoff.css",
+  "landing.css",
+  "archive.css"
+ ],
+ "js": [
+  "site.js"
+ ],
+ "images": {
+  "planned": 823,
+  "made": 0,
+  "cached": 823,
+  "failed": [],
+  "copied": 831,
+  "missing": [],
+  "refused": [],
+  "videos": [
+   "assets/video/3016625b293d-ai.webm",
+   "assets/video/310f2eeb9089-ai.webm",
+   "assets/video/56e8c80a4c68-ai.mp4",
+   "assets/video/875082ac4dce-ai.mp4",
+   "assets/video/b098c16f6db3-ai.mp4",
+   "assets/video/d5cfb92246d2-ai.mp4",
+   "assets/video/ddc6b9b5f359-ai.mp4",
+   "assets/video/e0526693180c-ai.webm"
+  ]
+ },
+ "warnings": [],
+ "ms": 2149
+}
